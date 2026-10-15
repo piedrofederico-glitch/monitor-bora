@@ -1,311 +1,328 @@
-# Título XVI — Capítulo I: DEFINICIONES. NOTIFICACIONES. OTRAS DISPOSICIONES.
-Última modificación: RG 1097/2025 (BO 24/12/2025)
-Fuente: PDF base, págs. 893–900.
-
-[Sección I (DEFINICIÓN Y ALCANCE DE TÉRMINOS.) derogada por art. 2° de la RG 1097/2025, BO 24/12/2025]
+# Título XVI — Capítulo I: NOTIFICACIONES. OTRAS DISPOSICIONES.
+Última modificación: RG 1112/2026 (BO 26/02/2026)
+Fuente: RG 1112/2026, art. 2°.
 
 ### SECCIÓN I — NOTIFICACIONES.
 
-[Sección renumerada (antes Secc. II) por art. 3° de la RG 1097/2025, BO 24/12/2025]
-
 PRINCIPIO GENERAL.
-ARTÍCULO 2º.- Las notificaciones de los actos administrativos emitidos por la Comisión se rigen por lo dispuesto en la Reglamentación de la Ley de Procedimientos Administrativos (Decreto Nº 1759/72- Texto Ordenado 2017).
+ARTÍCULO 1º.- Las notificaciones de los actos administrativos emitidos por la CNV se rigen por lo dispuesto en el RLPA.
 
 NOTIFICACIONES POR CORREO ELECTRÓNICO.
-ARTÍCULO 3º.- Sin perjuicio de lo dispuesto en el artículo anterior, las notificaciones efectuadas por la Comisión que se realicen por correo electrónico, se ajustarán a las siguientes reglas:
+ARTÍCULO 2º.- Sin perjuicio de lo dispuesto en el artículo anterior, las notificaciones efectuadas por la CNV que se realicen por correo electrónico se ajustarán a las siguientes reglas:
 
-a) El administrado deberá presentar una declaración jurada mediante la cual constituirá una dirección de correo electrónico que deberá tener dominio propio. La declaración jurada será ingresada en la AUTOPISTA DE LA INFORMACIÓN FINANCIERA mediante el uso de las credenciales de operador/es y firmante/s habilitadas.
+1. El administrado deberá presentar una DDJJ mediante la cual constituirá una dirección de correo electrónico que deberá tener dominio propio. La DDJJ será ingresada en la AIF mediante el uso de las credenciales de operador/es y firmante/s habilitadas.
 
-b) La dirección de correo electrónico declarada será ingresada como “información restringida a la CNV” en la AUTOPISTA DE LA INFORMACIÓN FINANCIERA y podrá ser utilizada para toda notificación a efectuarse por la Comisión, salvo en los casos particulares contemplados en el ordenamiento jurídico vigente.
+2. La dirección de correo electrónico declarada será ingresada como “información restringida a la CNV” en la AIF y podrá ser utilizada para toda notificación a efectuarse por la CNV, salvo en los casos particulares contemplados en el ordenamiento jurídico vigente.
 
-c) Las notificaciones por correo electrónico serán enviadas por funcionario de la Comisión autorizado mediante el empleo de la firma digital, debiendo dejar constancia en el expediente de la notificación y su contenido.
+3. Las notificaciones por correo electrónico serán enviadas por funcionario de la CNV autorizado mediante el empleo de la firma digital, debiendo dejar constancia en el expediente de la notificación y su contenido.
 
-d) El cumplimiento del procedimiento descripto constituirá prueba del acto notificado. La notificación se tendrá por cumplida el día y hora en que la comunicación ingrese al domicilio electrónico de la persona notificada.
+4. El cumplimiento del procedimiento descripto constituirá prueba del acto notificado. La notificación se tendrá por cumplida el día y hora en que la comunicación ingrese al domicilio electrónico de la persona notificada.
 
-Tendrá efectos vinculantes toda notificación que en el ejercicio de sus atribuciones la Comisión realice al correo electrónico declarado.
+Tendrá efectos vinculantes toda notificación que en el ejercicio de sus atribuciones la CNV realice al correo electrónico declarado.
 
-Será responsabilidad del administrado informar inmediatamente cualquier modificación del correo electrónico constituido mediante la presentación de la declaración jurada mencionada en el artículo anterior, siendo válidas hasta entonces las notificaciones efectuadas al correo declarado.
+Será responsabilidad del administrado informar inmediatamente cualquier modificación del correo electrónico constituido mediante la presentación de la DDJJ mencionada en el artículo anterior, siendo válidas hasta entonces las notificaciones efectuadas al correo declarado.
 
-COMUNICACIONES DE LOS ADMINISTRADOS VÍA FAX.
-ARTÍCULO 4º.- Se tendrán por válidas las comunicaciones efectuadas por los administrados por fax. A esos efectos esta Comisión constituye como domicilio especial telefónico de fax el correspondiente a la mesa de entradas de la Comisión publicado en www.cnv.gov.ar.
+5. Las notificaciones por correo electrónico de mero trámite o de seguimiento que no impliquen notificación con aptitud para producir efectos jurídicos sustantivos en el procedimiento, podrán cursarse sin los recaudos formales establecidos en el punto 3.
 
-HORARIOS DE LAS COMUNICACIONES.
-ARTÍCULO 5º.- Las comunicaciones a través de este medio, deberán efectuarse dentro del horario de atención al público de la mesa de entradas de la Comisión. Aquellas que se realicen fuera de dicho horario se tendrán por efectuadas el día siguiente al de recepción, en el horario de inicio de atención al público.
+PRESENTACIONES DE LOS ADMINISTRADOS. HORARIO.
+ARTÍCULO 3º.- Las presentaciones de los administrados a través de la mesa de entradas de la CNV deberán efectuarse entre la DIEZ (10) y las QUINCE (15) horas.
 
 ### SECCIÓN II — OTRAS DISPOSICIONES.
 
-[Sección renumerada (antes Secc. III) por art. 3° de la RG 1097/2025, BO 24/12/2025]
-
-RESOLUCIONES MODIFICATORIAS DEL TEXTO DE LAS NORMAS.
-ARTÍCULO 6°. - Las futuras reglamentaciones dictadas por la Comisión deberán redactarse en todos los casos como modificaciones al presente cuerpo normativo, adecuándose a la metodología adoptada y manteniendo la uniformidad de los términos utilizados en el texto.
-
 REALIZACIÓN DE TRÁMITES – REQUISITOS.
-ARTÍCULO 7°. - Sin perjuicio de otras exigencias específicas, cada vez que una persona realice un trámite ante la Comisión –sin importar su naturaleza– deberá en la primera presentación denunciar su número de CUIT/CUIL/CDI y, en su caso, el del sujeto o entidad representada que realice actividad comercial en la República Argentina, lo que quedará registrado en las respectivas actuaciones. En el caso de entidades o sujetos cuyo ámbito de actuación se desarrolle exclusivamente en el exterior, el representante deberá denunciar sus datos de filiación y los de su representada del país de origen, bajo su responsabilidad, incluyéndose, como mínimo: nombre completo, tipo societario, organismo donde se halla inscripto y número de inscripción o del documento de identidad según el caso, domicilio legal y representante legal en el país de origen.
+ARTÍCULO 4°.- Sin perjuicio de otras exigencias específicas, cada vez que una persona realice un trámite ante la CNV –sin importar su naturaleza– deberá en la primera presentación denunciar su número de CUIT/CUIL/CDI y, en su caso, el del sujeto o entidad representada que realice actividad comercial en la República Argentina, lo que quedará registrado en las respectivas actuaciones. En el caso de entidades o sujetos cuyo ámbito de actuación se desarrolle exclusivamente en el exterior, el representante deberá denunciar sus datos de filiación y los de su representada del país de origen, bajo su responsabilidad, incluyéndose, como mínimo: nombre completo, tipo societario, organismo donde se halla inscripto y número de inscripción o del documento de identidad según el caso, domicilio legal y representante legal en el país de origen.
 
 ADMINISTRACIÓN Y FISCALIZACIÓN PRIVADA. AGENTES.
-ARTÍCULO 8°.- En cuanto a la administración y a la fiscalización privada de las personas jurídicas enumeradas en el artículo 148 del Código Civil y Comercial de la Nación, inscriptas únicamente como Agente en alguna de las categorías establecidas en el CAPÍTULO II del TÍTULO V y en el TÍTULO VII, VIII y IX de estas NORMAS, en ausencia de requisitos particulares en la Ley N° 26.831 y sus normas reglamentarias, deberá estarse a lo dispuesto por el artículo 150 del Código Civil y Comercial de la Nación.
+ARTÍCULO 5°.- En cuanto a la administración y a la fiscalización privada de las personas jurídicas enumeradas en el artículo 148 del CCCN, inscriptas únicamente como Agente en alguna de las categorías establecidas en el Capítulo II del Título V y en los Títulos VII, VIII y IX de estas Normas, en ausencia de requisitos particulares en la Ley de Mercado de Capitales y sus normas reglamentarias, deberá estarse a lo dispuesto por el artículo 150 del CCCN.
 
-REFERENCIAS A LA AUTOPISTA DE LA INFORMACION FINANCIERA.
-ARTÍCULO 9°. - En todos los casos en que en estas Normas se haga referencia a “acceso” o exista alguna referencia general o específica al deber de publicar información y/o presentar documentación a través de la AUTOPISTA DE LA INFORMACIÓN FINANCIERA (AIF), deberá interpretarse que estas referencias aluden y/o se encuentran comprendidas en los distintos formularios enumerados en el Título XV “AUTOPISTA DE LA INFORMACIÓN FINANCIERA” de estas Normas, según corresponda.
+REFERENCIAS A LA AIF.
+ARTÍCULO 6°.- En todos los casos en que en estas Normas se haga referencia a “acceso” o exista alguna referencia general o específica al deber de publicar información o presentar documentación a través de la AIF, deberá interpretarse que estas referencias aluden o se encuentran comprendidas en los distintos formularios enumerados en el Título XV de estas Normas, según corresponda.
 
-TRÁMITES A DISTANCIA (TAD) DEL SISTEMA DE GESTIÓN DOCUMENTAL ELECTRÓNICA (GDE).
-ARTÍCULO 10.- Los siguientes trámites que se presenten a la Comisión deberán iniciarse y diligenciarse a través de la plataforma de Trámites a Distancia (TAD) del sistema de Gestión Documental Electrónica (GDE), establecida por el Decreto N° 1.063/16, observando las reglas y procedimientos establecidos por la Resolución RESOL-2019-43-APN-SECMA#JGM de la Secretaría de Modernización Administrativa:
+TAD DEL SISTEMA DE GDE.
+ARTÍCULO 7°.- Los siguientes trámites que se presenten a la CNV deberán iniciarse y diligenciarse a través de la plataforma TAD del sistema de GDE, establecida por el Decreto N° 1063/2016, observando las reglas y procedimientos establecidos por la Resolución N° 43/2019 de la entonces Secretaría de Modernización Administrativa:
 
-1) Instituciones educativas: programas para eximir examen idóneo CNV;
+1. AIF:
 
-2) Examen de idóneos: reimputación de pago;
+a) Habilitación de credencial de firmante – AIF.
 
-3) Habilitación de credencial de firmante Autopista de la Información Financiera (AIF);
+2. AGENTES Y MERCADOS:
 
-4) Autorización de medios ópticos para Libros Societarios de Emisoras de Acciones, ON y VCP;
+a) Registro de Agentes y Mercados - Solicitud de inscripción:
 
-5) Temas jurídicos específicos de control societario;
+1) Inscripción.
 
-6) Consultas sobre temas contables específicos;
+2) Cambio de Categoría.
 
-7) Solicitud de prórroga de presentación de estados contables;
+3) Incorporación de nueva categoría.
 
-8) Autorización de medios ópticos para libros contables de emisoras de acciones, obligaciones negociables, y valores a corto plazo;
+b) Registro de Agentes y Mercados - Solicitud de cancelación.
 
-9) Consultas en materia de control de calidad de las auditorías externas;
+c) Registro de Agentes y Mercados - Solicitud de cambio de denominación.
 
-10) Solicitud de Inscripción en el Registro de Auditores Externos;
+d) Registro de Agentes y Mercados - Solicitud de desistimiento.
 
-11) Actualización en el Registro de Auditores Externos;
+3. EMISORAS:
 
-12) Reempadronamiento de Inscripción en el Registro de Auditores Externos;
+a) Autorización de medio de registro escritural o cartular o representación digital (Tokenización):
 
-13) Inscripción en el Registro de Asociaciones de Profesionales Auditores;
+1) Impresión de láminas.
 
-14) Actualización del Registro de Asociaciones de Profesionales Auditores;
+2) Registro escritural.
 
-15) Reempadronamiento Registro de Asociaciones de Profesionales Auditores;
+3) Representación Digital (Tokenización).
 
-16) (Derogado conf. Art. 2° R.G. N° 1064/25);
+b) Solicitud de Ofertas de Adquisición:
 
-17) Distribución de Utilidades de Fondos Comunes de Inversión Abiertos;
+1) Oferta Pública de Adquisición por Participación de Control (OPA).
 
-18) Fondos Comunes de Inversión – Autorización:
+2) Declaración Unilateral de Voluntad de Adquisición (DUVA).
 
-a) Cancelación del Fondo Común de Inversión,
+3) Oferta Pública de Adquisición por Retiro (OPA retiro).
 
-b) Constitución de Fondo Común de Inversión Abierto,
+4) Otras OPAs.
 
-c) Constitución de Fondo Común de Inversión Cerrado,
+c) Autorización de Certificados de Depósito Argentino (CEDEAR) o CEVA.
 
-d) Inicio de liquidación de Fondo Común de Inversión,
+1) Creación programas de CEDEAR o CEVA.
 
-e) Medios Ópticos,
+2) Modificación términos y condiciones CEDEAR o CEVA.
 
-f) Modificación de Reglamento de Gestión de Fondo Común de Inversión Abierto,
+3) Otras ofertas públicas CEDEAR o CEVA.
 
-g) Modificación de Reglamento de Gestión y/o Prospecto de Fondo Común de Inversión Cerrado,
+4) Cancelación de CEDEAR o CEVA.
 
-h) Pago de Rescate en Especies,
+d) Cambio de Régimen.
 
-i) Procedimiento para Distribución de Utilidades de Fondo Común de Inversión.
+e) Emisoras – Autorización:
 
-j) Fusión de Fondos Comunes de Inversión Abiertos.
+1) Actualización de Prospecto.
 
-19) Fideicomisos Financieros – Autorización:
+2) Adenda.
 
-a) Oferta Pública de Creación de Programas Globales
+3) Ajuste del capital social.
 
-b) Oferta Pública de Ampliación de Monto de Programas Globales
+4) Ajuste del capital y dividendos.
 
-c) Oferta Pública de Prórroga de Programas Globales
+5) Alta nueva categoría de Emisora.
 
-d) Oferta Pública de Modificación de Términos Y Condiciones de Programas Globales
+6) Aumento de monto de Emisor Frecuente.
 
-e) Oferta Pública de Series Dentro de Programas Globales
+7) Aumento de monto, reducción y modificación Programa Global.
 
-f) Oferta Pública De Fideicomisos Financieros Individuales
+8) Aumento monto Programa Global.
 
-g) Oferta pública del Suplemento de Términos Generales
+9) Aumento y prórroga plazo Programa Global.
 
-h) Oferta Pública del Suplemento de Términos Particulares
+10) Cancelación de oferta pública o retiro.
 
-i) Adenda
+11) Canje de obligaciones negociables (emisión autónoma).
 
-j) Cancelación de Oferta Pública de Fideicomiso Financiero
+12) Canje de serie Programa.
 
-20) Solicitud de incorporación al régimen como Entidad de Garantía.
+13) Canje por fusión.
 
-21) Autorización de Medio de Registro Escritural o Cartular:
+14) Capitalización de aportes en especie.
 
-a) Impresión de láminas.
+15) Capitalización de aportes irrevocables.
 
-b) Registro escritural.
+16) Capitalización de deudas.
 
-22) Solicitud de Ofertas de Adquisición:
+17) Capitalización de reservas.
 
-a) Oferta pública de adquisición por participación de control (OPA).
+18) Coemisión.
 
-b) Declaración unilateral de voluntad de adquisición (DUVA).
+19) Creación de Programa Global ON o VCP.
 
-c) Oferta pública de adquisición por retiro (OPA retiro).
+20) Dividendos en acciones.
 
-d) Otras OPAs
+21) Ingreso al Régimen de Financiamiento Colectivo
 
-23) Autorización de Certificados de Depósito Argentino (CEDEAR) y/o CEVA
+22) Ingreso a otros regímenes de oferta pública.
 
-a) Creación programas de CEDEAR y/o CEVA
+23) Ingreso al Régimen de Doble Listado.
 
-b) Modificación términos y condiciones CEDEAR y/o CEVA
+24) Ingreso al Régimen de Empresas Extranjeras.
 
-c) Otras ofertas públicas CEDEAR y/o CEVA
+25) Ingreso al Régimen de oferta pública ON o VCP.
 
-d) Cancelación de CEDEAR y/o CEVA
+26) Ingreso al Régimen de oferta pública por acciones.
 
-24) Ratificación de Condición de Entidad Emisora Frecuente
+27) Ingreso al Régimen de oferta pública PyME CNV por ON o VCP.
 
-25) Actualización de Prospecto sobre Obligaciones Negociables
+28) Ingreso al Régimen PyME CNV por acciones.
 
-26) Emisoras – Autorización:
+29) Ingreso al Régimen PyME Garantizada, bajo el Régimen de Autorización Automática por su Bajo Impacto.
 
-a) Actualización de prospecto
+30) Ingreso al Régimen Simplificado y garantizado de emisiones con impacto social.
 
-b) Adenda
+31) Modificación de términos y condiciones de emisión de series o clases de ON o VCP.
 
-c) Ajuste del capital social
+32) Modificación de términos y condiciones de Emisor Frecuente.
 
-d) Ajuste del capital y dividendos
+33) Modificación de términos y condiciones de ON autónomas.
 
-e) Alta nueva categoría de emisora
+34) Modificación de términos y condiciones de Programa Global.
 
-f) Aumento de monto de emisor frecuente
+35) Obligaciones negociables convertibles.
 
-g) Aumento de monto, reducción y modificación programa global
+36) Obligaciones negociables autónomas.
 
-h) Aumento monto programa global
+37) Oferta de compra.
 
-i) Aumento y prórroga plazo programa global
+38) Oferta privada.
 
-j) Autorización de aumento de monto de emisor frecuente
+39) Oferta pública de opciones.
 
-k) Cancelación de oferta pública o retiro
+40) Oferta pública de venta de acciones.
 
-l) Canje de obligaciones negociables (emisión individual)
+41) Oferta secundaria de acciones.
 
-m) Canje de serie programa
+42) Otras acciones liberadas.
 
-n) Canje por fusión
+43) Otras solicitudes de O.P. de acciones.
 
-o) Capitalización de aportes en especie
+44) Otras solicitudes de O.P. de obligaciones negociables.
 
-p) Capitalización de aportes irrevocables
+45) Prórroga plazo duración Programa Global.
 
-q) Capitalización de deudas
+46) Reducción de capital.
 
-r) Capitalización de reservas
+47) Reestructuración de deudas.
 
-s) Coemisión
+48) Registro de Emisor Frecuente.
 
-t) Creación de programa global ON o VCP
+49) Registro PyME CNV.
 
-u) Dividendos en acciones
+50) Registro PyME Garantizada por trámite de Autorización Automático Bajo o Mediano Impacto.
 
-v) Ingreso a otros regímenes de oferta pública
+51) Suscripción de acciones por trámite de Autorización Automático Bajo o Mediano Impacto.
 
-w) Ingreso al régimen de doble listado
+52) Serie de Emisor Frecuente.
 
-x) Ingreso al régimen de empresas extranjeras
+53) Serie o Clase con representación digital
 
-y) Ingreso al régimen de empresas tecnológicas o economía del conocimiento
+54) Serie o Clase Inversor Super Calificado
 
-z) Ingreso al régimen de oferta pública ON o VCP
+55) Serie o clase de Programa Global.
 
-aa) Ingreso al régimen de oferta pública por acciones
+56) Serie o clase PyME CNV.
 
-bb) Ingreso al régimen de oferta pública pyme CNV por ON o VCP
+57) Serie o clase PyME Garantizada.
 
-cc) Derogado por la Resolución General N° 1047 (B.O. 9/1/2025).
+58) Suscripción de acciones.
 
-dd) Derogado por la Resolución General N° 1047 (B.O. 9/1/2025).
+f) Solicitud de incorporación al Régimen de Entidades Privatizadas
 
-ee) Ingreso al régimen pyme CNV por acciones
+g) Solicitud de OP con autorización automática de Remates de VN
 
-ff) Ingreso al régimen pyme garantizada
+h) Transferencia de oferta pública:
 
-gg) Ingreso al régimen simplificado y garantizado de emisiones con impacto social
+1) Cambio de características de los valores negociables o valor nominal.
 
-hh) Modificación de términos y condiciones de emisión de series o clases de ON o VCP
+2) Conversión de acciones.
 
-ii) Modificación de términos y condiciones de emisor frecuente
+3) Conversión de obligaciones negociables.
 
-jj) Modificación de términos y condiciones de ON individuales
+4. FIDEICOMISOS FINANCIEROS:
 
-kk) Modificación de términos y condiciones de programa global
+a) Fideicomisos Financieros – Autorización:
 
-ll) Obligaciones negociables convertibles
+1) Oferta pública de creación de Programas Globales
 
-mm) Obligaciones negociables individuales
+2) Oferta pública de ampliación de monto de Programas Globales.
 
-nn) Oferta de compra
+3) Oferta pública de Prórroga de Programas Globales.
 
-oo) Oferta pública de opciones
+4) Oferta pública de modificación de términos y condiciones de Programas Globales.
 
-pp) Oferta pública de venta de acciones
+5) Oferta pública de series dentro de Programas Globales.
 
-qq) Oferta secundaria de acciones
+6) Oferta pública de fideicomisos financieros individuales.
 
-rr) Otras acciones liberadas
+7) Oferta pública de Suplemento Anual de Emisiones Frecuentes.
 
-ss) Otras ofertas públicas
+8) Oferta pública automática de Suplemento de Emisiones Frecuentes.
 
-tt) Otras solicitudes de O.P.
+9) Adenda.
 
-uu) Prórroga plazo duración programa global
+10) Cancelación de oferta pública de fideicomiso financiero.
 
-vv) Ratificación condición de emisor frecuente
+5. FONDOS COMUNES DE INVERSIÓN:
 
-ww) Reducción de capital
+a) Distribución de utilidades de fondos comunes de inversión abiertos.
 
-xx) Reestructuración de deudas
+b) Fondos Comunes de Inversión – Autorización:
 
-yy) Registro de emisor frecuente
+1) Cancelación del fondo común de inversión.
 
-zz) Registro pyme CNV aaa) Registro pyme garantizada bbb) Registro VCP ccc) Serie de emisor frecuente ddd) Serie o clase de programa global eee) Serie o clase pyme CNV fff) Serie o clase pyme garantizada ggg) Suscripción de acciones
+2) Constitución de fondo común de inversión abierto.
 
-27) Transferencia de Oferta Pública:
+3) Constitución de fondo común de inversión cerrado.
 
-a) Cambio de denominación social
+4) Inicio de liquidación de fondo común de inversión.
 
-b) Cambio de características de los valores negociables o valor nominal
+5) Medios ópticos.
 
-c) Cambio de denominación
+6) Modificación de reglamento de gestión de fondo común de inversión abierto.
 
-d) Conversión de acciones
+7) Modificación de reglamento de gestión y/o Prospecto de fondo común de inversión cerrado.
 
-e) Conversión de obligaciones negociables.
+8) Pago de rescates en especies.
 
-28) Registro de Agentes y Mercados - Solicitud de inscripción:
+9) Procedimiento para distribución de utilidades de fondo común de inversión.
 
-a) Inscripción
+10) Fusión de fondos comunes de inversión abiertos.
 
-b) Cambio de Categoría
+6. REGISTRO Y CONTROL:
 
-c) Incorporación de nueva categoría
+a) Autorización de medios ópticos para libros societarios de Emisoras de acciones, ON y VCP.
 
-29) Registro de Agentes y Mercados - Solicitud de cancelación
+b) Temas jurídicos específicos de control societario.
 
-30) Registro de Agentes y Mercados - Solicitud de cambio de denominación
+c) Consultas sobre temas contables específicos;
 
-31) Registro de Agentes y Mercados - Solicitud de desistimiento
+d) Solicitud de prórroga de presentación de Estados Contables.
+
+e) Autorización de medios ópticos para libros contables de Emisoras de acciones, ON, y VCP.
+
+f) Consultas en materia de control de calidad de las auditorías externas.
+
+g) CNV- Registro de Auditores Externos-Solicitud de inscripción.
+
+h) CNV- Registro de Asociaciones de Profesionales Auditores-Solicitud de inscripción.
+
+i) Proveedores de Servicios de Activos Virtuales – Solicitud de inscripción.
+
+j) Proveedores de Servicios de Activos Virtuales – Solicitud de cancelación.
+
+9. REGISTRO DE IDÓNEOS:
+
+a) Instituciones educativas - Programas para eximir examen idóneo CNV.
+
+b) Examen de idóneos - Reimputación de pago.
 
 NOTIFICACIÓN AL DEUDOR CEDIDO.
-ARTÍCULO 11.- En los términos de lo dispuesto por los artículos 70 a 72 de la Ley N° 24.441, la publicación en el Sitio Web de esta Comisión, a través de la AUTOPISTA DE LA INFORMACIÓN FINANCIERA, deberá contener la identificación del deudor cedido, documento de identidad o CUIT, e individualización de la operación y deberá realizarse conforme el modelo establecido en el Anexo I del presente Capítulo. La publicación indicada constituirá medio de notificación fehaciente al deudor cedido siempre que la cesión tenga la finalidad prevista en el artículo 70 de la Ley N° 24.441 y se encuentren autorizados a la oferta pública los valores negociables de que se trate.
+ARTÍCULO 8°.- En los términos de lo dispuesto por los artículos 70 a 72 de la Ley para el Financiamiento de la Vivienda y la Construcción”, la publicación en el sitio web de la CNV a través de la AIF, deberá contener la individualización del deudor cedido, documento de identidad o CUIT u otro medio de identificación fehaciente que permita indubitablemente al deudor su identificación, y la especificación de la operación. Todo ello deberá realizarse conforme el modelo establecido en el Anexo I del presente Capítulo. La publicación indicada constituirá medio de notificación fehaciente al deudor cedido siempre que la cesión tenga la finalidad prevista en el artículo 70 de la Ley para el Financiamiento de la Vivienda y la Construcción” y los valores negociables se encuentren autorizados a la oferta pública por la CNV.
 
-### ANEXO I FORMULARIO PARA LA NOTIFICACIÓN AL DEUDOR CEDIDO. ARTÍCULO 72 LEY 24.441.
+### ANEXO I
 
-Ciudad Autónoma de Buenos Aires, de de 20 .
+FORMULARIO PARA LA NOTIFICACIÓN AL DEUDOR CEDIDO. ARTÍCULO 72 DE LA LEY PARA EL FINANCIAMIENTO DE LA VIVIENDA Y LA CONSTRUCCIÓN.
 
-Conforme lo dispuesto en los artículos 70 a 72 de la Ley Nº 24.441 y normas reglamentarias contenidas en las Normas de la Comisión Nacional de Valores (N.T. 2013 y mod.), se notifica a todos interesados que en los términos del Contrato ………. suscripto con fecha……, ……………………. (el Cedente) con domicilio en calle……………… de .......................................... , ha cedido en favor de …………………………… en su carácter de Cesionario, con domicilio en la calle ……………… de …………………………….., una cartera de créditos, conforme el siguiente detalle:
+[Lugar], ….de…..de 20….
+
+Conforme lo dispuesto en los artículos 70 a 72 de la Ley para el Financiamiento de la Vivienda y la Construcción Nº 24.441 y normas reglamentarias contenidas en las Normas de la CNV se notifica a todos los interesados que en los términos del Contrato ………. suscripto con fecha……,…………. (el Cedente) con domicilio en calle……………… de…....., ha cedido en favor de …………(Cesionario), con domicilio en la calle …………..de ……., una cartera de créditos, conforme el siguiente detalle:
 
 ```
-APELLIDO Y NOMBRE o                                                   Nº U OTRO DATO DE
-                                TIPO Y Nº DE DOCUMENTO
-DENOMINACIÓN SOCIAL                                                 IDENTIFICACIÓN DE LA
-                                   DE IDENTIDAD/CUIT
- DEL DEUDOR CEDIDO                                                        OPERACIÓN.
+                 TIPO     Y   Nº    DE
+APELLIDO       Y
+                 DOCUMENTO          DE
+NOMBRE         o                       Nº U OTRO DATO DE
+                 IDENTIDAD/CUIT/U OTRO
+DENOMINACIÓN                           IDENTIFICACIÓN DE
+                 MEDIO              DE
+SOCIAL       DEL                       LA OPERACIÓN.
 ```
+
+IDENTIFICACIÓN DEUDOR CEDIDO FEHACIENTE
+
+[Título sustituido por art. 2° de la RG 1112/2026, BO 26/02/2026]

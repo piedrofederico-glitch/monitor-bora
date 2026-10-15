@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1110/2026 (BO 23/02/2026)
+Última modificación: RG 1112/2026 (BO 26/02/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -68,6 +68,8 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 
 “Book Building” o “formación de libro” significa el mecanismo de colocación de valores negociables realizado en los términos previstos en el Capítulo IV del Título VI de estas Normas.
 
+CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
+
 “Capitalización de Deuda” significa el mecanismo financiero y legal mediante el cual una Emisora cancela una obligación preexistente a su cargo (deuda) con su acreedor, emitiendo en contraprestación nuevas acciones u otros valores negociables que son suscriptos por dicho acreedor.
 
 “CCCN” significa Código Civil y Comercial de la Nación.
@@ -130,6 +132,10 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 
 “FCI” significa fondo común de inversión.
 
+“FCIA” significa “Fondo/s Común/es de Inversión Abierto/s”.
+
+“FCIC” significa “Fondo/s Común/es de Inversión Cerrado/s”.
+
 “FF” significa fideicomiso financiero.
 
 “FGS” significa Fondo de Garantía de Sustentabilidad.
@@ -139,6 +145,8 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 “FP” significa Financiamiento de la Proliferación de Armas de Destrucción Masiva.
 
 “GAFI” (“FATF”) significa Grupo de Acción Financiera Internacional (Financial Action Task Force).
+
+“GDE” significa el Sistema de Gestión Documental Electrónica.
 
 “Hecho Relevante” o “HR” significa todo hecho o situación que, por su importancia, sea apto para afectar en forma sustancial la colocación de los valores negociables, el curso de su negociación, o el desenvolvimiento de la actividad propia de cada sujeto alcanzado, que debe ser informado en los términos previstos en el artículo 99 de la Ley de Mercado de Capitales y Título XII de estas Normas.
 
@@ -266,6 +274,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Representación Digital” significa la forma de representación adicional de ciertos valores negociables prevista en el Capítulo I del Título XXII de estas Normas.
 
+“RLPA” significa Reglamento de la Ley de Procedimientos Administrativos (Decreto 1759/72- T.O. 2017).
+
 “RUCA” significa Registro Único de la Cadena Agroalimentaria.
 
 “SISA” significa Sistema de Información Simplificado Agrícola.
@@ -309,6 +319,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos “Ley de Régimen Penal Tributario” y “Ley de Prevención de la Evasión Fiscal” incorporados por art. 1° de la RG 1108/2026, BO 20/02/2026]
 
 [Término “Régimen General” o “Régimen ordinario” incorporado por art. 1° de la RG 1110/2026, BO 23/02/2026]
+
+[Términos “CAFCI”, “FCIA”, “FCIC”, “GDE” y “RLPA” incorporados por art. 1° de la RG 1112/2026, BO 26/02/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

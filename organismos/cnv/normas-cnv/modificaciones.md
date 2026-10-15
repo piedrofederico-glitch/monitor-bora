@@ -20,6 +20,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), términos “Ley de Régimen Penal Tributario” y “Ley de Prevención de la Evasión Fiscal” | modifica parcialmente | RG 1108/2026 | 1° | 20/02/2026 |
 | art. 3° (Secc. III), expresión “Agentes inscriptos en el registro a cargo de la CNV” | modifica parcialmente | RG 1109/2026 | 1° | 20/02/2026 |
 | art. 2° (Secc. II), término “Régimen General” o “Régimen ordinario” | modifica parcialmente | RG 1110/2026 | 1° | 23/02/2026 |
+| art. 2° (Secc. II), términos “CAFCI”, “FCIA”, “FCIC”, “GDE” y “RLPA” | modifica parcialmente | RG 1112/2026 | 1° | 26/02/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -205,6 +206,14 @@ Archivo: `vigente/titulo-XVI/capitulo-I.md`
 | Secc. I (completa) | deroga | RG 1097/2025 | 2° | 24/12/2025 |
 | Secc. II → I | renumera | RG 1097/2025 | 3° | 24/12/2025 |
 | Secc. III → II | renumera | RG 1097/2025 | 3° | 24/12/2025 |
+| capítulo completo | sustituye | RG 1112/2026 | 2° | 26/02/2026 |
+
+## Título XVI, Capítulo II
+Archivo: `vigente/titulo-XVI/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1112/2026 | 2° | 26/02/2026 |
 
 ## Título XVII, Capítulo I
 Archivo: `vigente/titulo-XVII/capitulo-I.md`
