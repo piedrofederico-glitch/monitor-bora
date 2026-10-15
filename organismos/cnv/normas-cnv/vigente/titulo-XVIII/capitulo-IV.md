@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1090/2025 (BO 14/11/2025)
 Fuente: PDF base, págs. 926–928.
 
 RÉGIMEN PYME CNV GARANTIZADA.
@@ -39,3 +39,8 @@ ARTÍCULO 12.- En lo que respecta al mecanismo de difusión de información para
 
 CRONOGRAMA DE ADECUACIÓN ACTIVOS ELEGIBLES MERCADOS Y CÁMARAS COMPENSADORAS.
 ARTÍCULO 13.- En lo que respecta a los activos elegibles susceptibles de conformar el Fondo de Garantía III, exigible conforme las presentes Normas a los Mercados con funciones de Cámara Compensadora y a las Cámaras Compensadoras, aquellos sujetos inscriptos en las mencionadas categorías a la fecha de entrada en vigencia de la Resolución General N° 1080, deberán proceder a su adecuación mediante el formulario habilitado al efecto en la AIF, a partir del 30 de septiembre de 2025.
+
+ADECUACIÓN REGLAMENTACIONES DE LOS MERCADOS – VALORES DE EMISIÓN INDIVIDUAL.
+ARTÍCULO 14.- Los Mercados deberán adecuar sus reglamentaciones conforme lo previsto por la Resolución General N° 1090 y presentar las mismas a la previa aprobación de esta Comisión con antelación suficiente y de forma tal que las mismas se encuentren operativas a la fecha de entrada en vigencia de la mencionada resolución general.
+
+[Artículo incorporado por art. 7° de la RG 1090/2025, BO 14/11/2025, vigente desde 02/02/2026]

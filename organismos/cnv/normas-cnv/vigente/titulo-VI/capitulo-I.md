@@ -1,5 +1,5 @@
 # Título VI — Capítulo I: MERCADOS
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1090/2025 (BO 14/11/2025)
 Fuente: PDF base, págs. 449–500.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -232,12 +232,30 @@ ARTÍCULO 27.- En el marco de lo dispuesto por el artículo 32 de la Ley N° 26.
 LISTADO DE VALORES NEGOCIABLES CON AUTORIZACIÓN DE OFERTA PÚBLICA POR PARTE DE ESTA COMISIÓN.
 ARTÍCULO 28.- Los valores negociables que cuenten con autorización de oferta pública por parte de esta Comisión deberán, para su negociación, ser listados en UNO (1) o más Mercados autorizados a funcionar por parte de este Organismo.
 
-REGLAMENTACIONES, ANÁLISIS Y PROCEDIMIENTOS PARA LA AUTORIZACIÓN, SUSPENSIÓN Y CANCELACIÓN DEL LISTADO Y NEGOCIACIÓN DE VALORES NEGOCIABLES. INFORMACIÓN PÚBLICA.
-ARTÍCULO 29.- Los Mercados deberán dictar las reglamentaciones y procedimientos para la autorización, suspensión y cancelación del listado y negociación de valores negociables, conforme la definición y alcance referido en el artículo 2° de la Ley N° 26.831, y presentar las mismas para su previa aprobación por parte de la Comisión.
+REGLAMENTACIONES, ANÁLISIS Y PROCEDIMIENTOS PARA LA AUTORIZACIÓN, SUSPENSIÓN Y CANCELACIÓN DEL LISTADO Y/O NEGOCIACIÓN DE VALORES NEGOCIABLES. INFORMACIÓN PÚBLICA.
+ARTÍCULO 29.- Los Mercados deberán dictar las reglamentaciones y procedimientos para la autorización, suspensión y cancelación del listado y/o negociación de valores negociables, conforme la definición y alcance referido en el artículo 2° de la Ley de Mercado de Capitales, y presentar las mismas para su previa aprobación por la Comisión.
 
-Asimismo, en lo que respecta a la negociación secundaria de valores negociables que sean susceptibles de negociación en Mercados autorizados por esta Comisión, conforme lo previsto en el artículo 2° in fine de la Ley N° 26.831, los mencionados Mercados y/o las entidades calificadas, con funciones delegadas por ellos en el marco de lo dispuesto en el artículo 32 de la Ley N° 26.831, deberán habilitar un mecanismo de difusión de información gratuito para conocimiento y consulta permanente por parte de los Agentes miembros y del público inversor en general, a través de los pertinentes accesos a ser implementados en el o los respectivos sitios web institucionales. Dicho mecanismo deberá contemplar, como mínimo, la siguiente información: a) detalle de los instrumentos listados y negociados que se encuentren vigentes y/o en circulación, con indicación de sus respectivos: (i) datos identificatorios; (ii) fechas de emisión y vencimiento; (iii) montos; (iv) fecha de ingreso a la negociación; y (v) cualquier otro dato o circunstancia de interés relativo a los mismos; y b) datos identificatorios de los libradores de cada uno de los referidos instrumentos, incluida su correspondiente clave de identificación fiscal.
+Asimismo, en lo que respecta a la negociación secundaria de valores negociables de emisión individual en Mercados autorizados por la Comisión, conforme lo previsto en el artículo 2° in fine de la Ley de Mercado de Capitales, los Mercados y/o las entidades calificadas, con funciones delegadas por ellos en el marco de lo dispuesto en el artículo 32 de la mencionada ley, deberán habilitar un mecanismo de difusión de información gratuito para conocimiento y consulta permanente por parte de los Agentes miembros y del público inversor en general, a través de los pertinentes accesos a ser implementados en el o los respectivos sitios web institucionales. Dicho mecanismo deberá contemplar, como mínimo, la siguiente información:
 
-La aludida información deberá mantenerse actualizada en todo momento.
+1. Detalle de los instrumentos listados y/o negociados que se encuentren vigentes y/o en circulación, con indicación de sus respectivos:
+
+a) datos identificatorios, incluido su respectivo su código;
+
+b) fechas de emisión y vencimiento;
+
+c) montos;
+
+d) fecha de ingreso a la negociación;
+
+e) si se encuentra vencido o impago y los días de atraso, según corresponda; y
+
+f) cualquier otro dato o circunstancia de interés relativo a los mismos; y
+
+2. Datos identificatorios de los libradores de cada uno de los referidos instrumentos, incluida su clave de identificación fiscal.
+
+La información mencionada deberá mantenerse actualizada en todo momento.
+
+[Artículo sustituido por art. 1° de la RG 1090/2025, BO 14/11/2025, vigente desde 02/02/2026]
 
 REGLAMENTACIONES Y PROCEDIMIENTOS PARA AUTORIZACIÓN, SUSPENSIÓN Y CANCELACIÓN DEL LISTADO DE VALORES NEGOCIABLES AVALADOS. INFORMACIÓN PÚBLICA.
 ARTÍCULO 29 BIS . - Los Mercados no podrán aceptar ningún aval de una entidad que no se encuentre incorporada en la “Nómina de Entidades Habilitadas para Garantizar Instrumentos del Mercado de Capitales” reglada en el Capítulo VII del Título II de estas Normas.

@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo XI: AGENTE DE CUSTODIA, REGISTRO Y PAGO
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1090/2025 (BO 14/11/2025)
 Fuente: PDF base, págs. 941–942.
 
 ADECUACIÓN PATRIMONIO NETO MÍNIMO ACRYP.
@@ -18,3 +18,8 @@ CRONOGRAMA DE ADECUACIÓN ACTIVOS ELEGIBLES ACRYP.
 ARTÍCULO 5°.- En lo que respecta a los activos elegibles susceptibles de conformar la contrapartida líquida, exigible conforme las presentes Normas a los ACRYP, aquellos Agentes inscriptos en la mencionada categoría a la fecha de entrada en vigencia de la Resolución General N° 1080, deberán proceder a su adecuación mediante el formulario habilitado al efecto en la AIF, a partir del 30 de septiembre de 2025.
 
 Para la conformación de la contrapartida líquida, en forma excepcional y hasta el 31 de diciembre de 2025, los ACRYP podrán continuar computando como activos elegibles a las “Acciones de los Mercados autorizados por CNV”, previstas con anterioridad a la entrada en vigencia Resolución General N° 1080.
+
+ADECUACIÓN REGLAMENTACIONES DE LOS ACRYP - VALORES NEGOCIABLES EMISIÓN INDIVIDUAL.
+ARTÍCULO 6°.- Los ACRyP deberán adecuar sus reglamentaciones conforme lo previsto por la Resolución General N° 1090 y presentar las mismas a la previa aprobación de esta Comisión con antelación suficiente y de forma tal que las mismas se encuentren operativas a la fecha de entrada en vigencia de la mencionada resolución general.
+
+[Artículo incorporado por art. 8° de la RG 1090/2025, BO 14/11/2025, vigente desde 02/02/2026]
