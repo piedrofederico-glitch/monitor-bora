@@ -5,7 +5,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1097/2025 (BO 24/12/2025) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1105/2026 (BO 22/01/2026) |
 | [`titulo-II/capitulo-I.md`](titulo-II/capitulo-I.md) | Título II — Capítulo I: ACCIONES Y OTROS VALORES NEGOCIABLES | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y REUNIONES DE OTROS ÓRGANOS SOCIALES. MODIFICACIONES ESTATUTARIAS O DE CONDICIONES DE EMISIÓN. ASAMBLEAS A DISTANCIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-III.md`](titulo-II/capitulo-III.md) | Título II — Capítulo III: ÓRGANOS DE ADMINISTRACIÓN Y FISCALIZACIÓN. AUDITORÍA EXTERNA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -29,7 +29,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-V/capitulo-V.md`](titulo-V/capitulo-V.md) | Título V — Capítulo V: DISPOSICIONES COMUNES APLICABLES A LOS REGIMENES ESPECIALES DE PRODUCTOS DE INVERSIÓN COLECTIVA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-V/capitulo-VI.md`](titulo-V/capitulo-VI.md) | Título V — Capítulo VI: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN CERRADOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-V/capitulo-VII.md`](titulo-V/capitulo-VII.md) | Título V — Capítulo VII: REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN ABIERTOS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-V/capitulo-VIII.md`](titulo-V/capitulo-VIII.md) | Título V — Capítulo VIII: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FIDEICOMISOS FINANCIEROS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-V/capitulo-VIII.md`](titulo-V/capitulo-VIII.md) | Título V — Capítulo VIII: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FIDEICOMISOS FINANCIEROS. | RG 1105/2026 (BO 22/01/2026) |
 | [`titulo-V/capitulo-IX.md`](titulo-V/capitulo-IX.md) | Título V — Capítulo IX: PRODUCTOS DE INVERSIÓN COLECTIVA. TRATAMIENTO IMPOSITIVO DE REGÍMENES ESPECIALES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VI/capitulo-I.md`](titulo-VI/capitulo-I.md) | Título VI — Capítulo I: MERCADOS | RG 1090/2025 (BO 14/11/2025) |
 | [`titulo-VI/capitulo-II.md`](titulo-VI/capitulo-II.md) | Título VI — Capítulo II: CÁMARAS COMPENSADORAS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |

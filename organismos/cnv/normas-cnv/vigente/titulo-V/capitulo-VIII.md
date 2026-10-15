@@ -1,5 +1,5 @@
 # Título V — Capítulo VIII: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FIDEICOMISOS FINANCIEROS.
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1105/2026 (BO 22/01/2026)
 Fuente: PDF base, págs. 436–445.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -66,6 +66,13 @@ FUNCIONES DEL FIDUCIARIO.
 ARTÍCULO 7°.- Las funciones propias del desarrollador y del administrador inmobiliario podrán ser ejercidas por el Fiduciario. En caso de que estas sean delegadas en el contrato de fideicomiso se deberá especificar el alcance de las responsabilidades. El contrato no podrá eximir la responsabilidad del Fiduciario ante terceros por el incumplimiento de sus obligaciones legales, sin perjuicio de los derechos que pudiere tener.
 
 ARTÍCULO 8°.- Se podrá prescindir de la designación de Agente de Control y Revisión en el caso de Fideicomisos Financieros Inmobiliarios en los que se haya contratado a un auditor técnico.
+
+PROGRAMAS GLOBALES.
+ARTÍCULO 8° BIS.- Se admitirá la dispensa del requisito de identificación de los fiduciantes en aquellos Programas Globales en los cuales se prevea exclusivamente la constitución de FF en los términos del artículo 5° de la Sección II del Capítulo V del presente Título y/o cuyo activo subyacente se encuentre conformado por hipotecas, hipotecas divisibles, letras hipotecarias, créditos hipotecarios y/o instrumentos asimilables.
+
+En tales casos, en el Prospecto deberá encontrarse expresamente delimitado el objeto de los fideicomisos y/o la naturaleza del activo subyacente en los términos indicados
+
+[Artículo incorporado por art. 2° de la RG 1105/2026, BO 22/01/2026]
 
 ### SECCIÓN III — FIDEICOMISOS FINANCIEROS DE CAPITAL EMPRENDEDOR.
 

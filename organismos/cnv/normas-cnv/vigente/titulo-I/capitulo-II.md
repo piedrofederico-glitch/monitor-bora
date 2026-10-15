@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1097/2025 (BO 24/12/2025)
+Última modificación: RG 1105/2026 (BO 22/01/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -238,7 +238,7 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 
 “PyME CNV Garantizada” significa la Emisora que califica como PyME y que emite Obligaciones Negociables conforme al régimen previsto en el Capítulo V del Título II de estas Normas, bajo el régimen de Oferta Pública de ON con Autorización Automática por su Bajo Impacto o que emitieron con anterioridad bajo el Régimen previsto en el Capítulo VI del Título II de estas Normas.
 
-“PyME CNV” significa la Emisora que califica como PyME y que emite acciones u obligaciones negociables conforme al régimen establecido en el Capítulo VI del Título II o bajo el régimen de Oferta Pública de ON con Autorización Automática por su Bajo Impacto establecido en el Capítulo V de estas Normas.
+“PyME CNV” significa (i) la Emisora que califica como PyME y que emite acciones u obligaciones negociables conforme al régimen establecido en el Capítulo VI del Título II o bajo el régimen de Oferta Pública de ON con Autorización Automática por su Bajo Impacto establecido en el Capítulo V del Título II de estas Normas, y (ii) en lo que respecta a los PIC, y en los términos de lo dispuesto para los FCI y para los FF respectivamente, aquellas entidades que cuenten con Certificado MiPymes vigente, en tanto no se encuentren alcanzadas por las restricciones previstas en el artículo 2° del Capítulo VI del Título II
 
 “PyME” significa Pequeña y Mediana Empresa.
 
@@ -291,6 +291,8 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 “Valor Negociable Temático” o “Valor Negociable SVS+” significan los valores negociables sociales, verdes y sustentables (SVS), incorporándose los valores negociables vinculados a la sostenibilidad, de transición, azules, o que posean cualquier otra etiqueta temática específica que pueda ser acreditada por un tercero independiente.
 
 “Valor Residual” es la porción de un valor negociable que aún no se ha amortizado. Significa el saldo de capital pendiente de pagar o amortizar de una emisión de valores negociables, luego de deducidas las amortizaciones de capital o rescates parciales, efectuados hasta la fecha de cálculo”.
+
+[Término “PyME CNV” sustituido por art. 1° de la RG 1105/2026, BO 22/01/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

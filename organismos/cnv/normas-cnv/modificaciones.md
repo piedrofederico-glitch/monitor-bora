@@ -15,6 +15,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1097/2025 | 1° | 24/12/2025 |
+| art. 2° (Secc. II), término “PyME CNV” | modifica parcialmente | RG 1105/2026 | 1° | 22/01/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -110,6 +111,13 @@ Archivo: `vigente/titulo-V/capitulo-II.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 15 (Secc. II), inc. b.1) | modifica parcialmente | RG 1096/2025 | 1° | 24/12/2025 |
+
+## Título V, Capítulo VIII
+Archivo: `vigente/titulo-V/capitulo-VIII.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 8° BIS (Secc. II) | incorpora | RG 1105/2026 | 2° | 22/01/2026 |
 
 ## Título VI, Capítulo I
 Archivo: `vigente/titulo-VI/capitulo-I.md`
