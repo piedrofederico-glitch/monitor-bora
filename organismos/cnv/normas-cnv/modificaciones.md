@@ -18,6 +18,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), término “PyME CNV” | modifica parcialmente | RG 1105/2026 | 1° | 22/01/2026 |
 | art. 2° (Secc. II), términos “FCE MiPyMEs” y “VNEI” | modifica parcialmente | RG 1107/2026 | 1° | 13/02/2026 |
 | art. 2° (Secc. II), términos “Ley de Régimen Penal Tributario” y “Ley de Prevención de la Evasión Fiscal” | modifica parcialmente | RG 1108/2026 | 1° | 20/02/2026 |
+| art. 3° (Secc. III), expresión “Agentes inscriptos en el registro a cargo de la CNV” | modifica parcialmente | RG 1109/2026 | 1° | 20/02/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -259,3 +260,17 @@ Archivo: `vigente/titulo-XVIII/capitulo-XVII.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo (antes Cap. XVIII) | renumera | RG 1099/2025 | 5° | 26/12/2025 |
+
+## Título XIX (capítulo derogado)
+Texto derogado: `historial/titulo-XIX/titulo-XIX-derogado-RG-1109-2026.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | deroga | RG 1109/2026 | 2° | 20/02/2026 |
+
+## Título XXI, Capítulo I
+Archivo: `vigente/titulo-XXI/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| Secc. I (completa) | sustituye | RG 1109/2026 | 3° | 20/02/2026 |

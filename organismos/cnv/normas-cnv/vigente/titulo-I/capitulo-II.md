@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1108/2026 (BO 20/02/2026)
+Última modificación: RG 1109/2026 (BO 20/02/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -310,6 +310,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 ARTÍCULO 3º.- Las siguientes expresiones, aun cuando no aparecieran en mayúscula, tendrán los siguientes significados a los fines de su interpretación (dichos significados serán igualmente aplicables tanto en la forma singular como plural de los términos definidos):
 
+“Agentes inscriptos en el registro a cargo de la CNV”: Las definiciones y menciones en estas Normas de las distintas categorías de Agentes, se refieren a Agentes inscriptos en el registro a cargo de la CNV.
+
 “Aportes irrevocables”, “Aportes irrevocables a cuenta de futuras suscripciones de acciones”, “Adelantos irrevocables a cuenta de futuras suscripciones de acciones”, “Aportes irrevocables a cuenta de futuras emisiones de acciones”, y cualquier otra denominación que sea utilizada y esté referida a idéntico concepto, a los efectos de estas Normas serán entendidos como sinónimos.
 
 “Aportes irrevocables a cuenta de futuras suscripciones de acciones” significa las sumas de dinero recibidas por una Emisora de parte de accionistas o terceros, con el compromiso irrevocable de ser destinadas a la futura integración de un aumento de capital social mediante la suscripción de nuevas acciones. Su carácter es transitorio y, si bien incrementan temporalmente el patrimonio neto, están sujetos a la aprobación posterior de la Asamblea de Accionistas para su efectiva capitalización dentro del plazo y condiciones establecidos en estas Normas y en la Ley General de Sociedades.
@@ -325,5 +327,7 @@ ARTÍCULO 3º.- Las siguientes expresiones, aun cuando no aparecieran en mayúsc
 “Sede” y “Sede Social” se refieren a la sede social inscripta de la persona jurídica.
 
 “Subyacente”, en el caso de los CEDEAR, significa el valor negociable emitido por una sociedad del exterior; y, en el caso de los CEVA, significa el valor negociable que subyace.
+
+[Expresión “Agentes inscriptos en el registro a cargo de la CNV” incorporada por art. 1° de la RG 1109/2026, BO 20/02/2026]
 
 [Título sustituido por art. 1° de la RG 1097/2025, BO 24/12/2025]

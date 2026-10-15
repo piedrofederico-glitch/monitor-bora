@@ -5,7 +5,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1108/2026 (BO 20/02/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1109/2026 (BO 20/02/2026) |
 | [`titulo-II/capitulo-I.md`](titulo-II/capitulo-I.md) | Título II — Capítulo I: ACCIONES Y OTROS VALORES NEGOCIABLES | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y REUNIONES DE OTROS ÓRGANOS SOCIALES. MODIFICACIONES ESTATUTARIAS O DE CONDICIONES DE EMISIÓN. ASAMBLEAS A DISTANCIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-III.md`](titulo-II/capitulo-III.md) | Título II — Capítulo III: ÓRGANOS DE ADMINISTRACIÓN Y FISCALIZACIÓN. AUDITORÍA EXTERNA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -86,8 +86,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVIII/capitulo-XV.md`](titulo-XVIII/capitulo-XV.md) | Título XVIII — Capítulo XV: DISPOSICIÓN TRANSITORIA. SUSPENSIÓN PERCEPCIÓN Y PAGO TASAS DE FISCALIZACIÓN Y CONTROL | RG 1103/2026 (BO 09/01/2026) |
 | [`titulo-XVIII/capitulo-XVI.md`](titulo-XVIII/capitulo-XVI.md) | Título XVIII — Capítulo XVI: RÉGIMEN DE INCENTIVO A LA CONSTRUCCIÓN FEDERAL ARGENTINA Y ACCESO A LA VIVIENDA. LEY Nº 27.613 | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-XVII.md`](titulo-XVIII/capitulo-XVII.md) | Título XVIII — Capítulo XVII: RÉGIMEN DE REGULARIZACIÓN DE ACTIVOS. LEY N° 27.743 – MEDIDAS FISCALES PALIATIVAS Y RELEVANTES. | RG 1099/2025 (BO 26/12/2025) |
-| [`titulo-XIX/titulo-XIX.md`](titulo-XIX/titulo-XIX.md) | Título XIX — ENTIDADES REPRESENTATIVAS REGIONALES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XX/capitulo-I.md`](titulo-XX/capitulo-I.md) | Título XX — Capítulo I: PUERTOS SEGUROS PARA OFERTAS PRIVADAS DE VALORES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XX/capitulo-II.md`](titulo-XX/capitulo-II.md) | Título XX — Capítulo II: DISPOSICIONES COMUNES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XXI/capitulo-I.md`](titulo-XXI/capitulo-I.md) | Título XXI — Capítulo I: REGLAMENTACIÓN DECRETO N° 1017/24 | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XXI/capitulo-I.md`](titulo-XXI/capitulo-I.md) | Título XXI — Capítulo I: REGLAMENTACIÓN DECRETO N° 1017/24 | RG 1109/2026 (BO 20/02/2026) |
 | [`titulo-XXII/capitulo-I.md`](titulo-XXII/capitulo-I.md) | Título XXII — Capítulo I: REPRESENTACION DIGITAL DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
