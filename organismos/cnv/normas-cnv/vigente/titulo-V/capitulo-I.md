@@ -1,5 +1,5 @@
 # Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN.
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1102/2025 (BO 31/12/2025)
 Fuente: PDF base, págs. 314–331.
 
 ### SECCIÓN I — DISPOSICIONES COMUNES.
@@ -62,9 +62,11 @@ ARTÍCULO 2°. - Deberán presentar exclusivamente la documentación requerida e
 
 1. ALyC Propio o Integral - Agroindustrial que soliciten la inscripción en el Registro ACyD de FCI y/o ACyDI de FCI;
 
-2. AN respecto de la inscripción ACyD de FCI; y
+2. AN respecto de la inscripción como Sociedad Gerente y/o ACyD de FCI; y
 
 3. Sociedades Gerentes de FCI en relación con la inscripción como ACyDI de FCI.
+
+[Inciso 2 sustituido por art. 1° de la RG 1102/2025, BO 31/12/2025]
 
 RÉGIMEN APLICABLE A AUTORIDADES DE SOCIEDAD GERENTE Y SOCIEDAD DEPOSITARIA.
 ARTÍCULO 3°. - De acuerdo con lo dispuesto en el artículo 4º de la Ley de Fondos Comunes de Inversión, los directores, síndicos, miembros del consejo de vigilancia y gerentes de ambas sociedades, deberán someterse al régimen informativo y a las restricciones establecidas en las presentes Normas para quienes desempeñan dichas funciones en las Emisoras que se encuentran en el Régimen de la Oferta Pública.
@@ -101,7 +103,13 @@ ARTÍCULO 7°. - La Sociedad Gerente podrá desempeñar funciones adicionales a 
 
 2. gestión de órdenes de operaciones; y/o
 
-3. administración de carteras de inversión, contando para ello con mandato expreso, a nombre y en interés de sus clientes, así como la colocación y distribución de cuotapartes de los fondos comunes de inversión bajo su administración y/o bajo la administración de otras Sociedades Gerentes, en los términos dispuestos en la presente Sección. La Sociedad Gerente podrá asimismo inscribirse como AN y/o ALyC Propio o Integral o Integral – Agroindustrial y/o como ACyDI de fondos comunes de inversión.
+3. administración de carteras de inversión, contando para ello con mandato expreso, a nombre y en interés de sus clientes, así como la colocación y distribución de cuotapartes de los FCI bajo su administración y/o bajo la administración de otras Sociedades Gerentes, en los términos dispuestos en la presente Sección.
+
+La Sociedad Gerente podrá asimismo inscribirse como AN (excluyendo la subcategoría AN RUCA) y/o ALyC Propio o Integral o Integral – Agroindustrial y/o como ACyDI de fondos comunes de inversión.
+
+No obstante, la inscripción tanto bajo las categorías de ACyDI como AN resultarán incompatibles. De igual manera, aquellas Sociedades Gerentes que revistan la calidad de Entidad Financiera no podrán solicitar su inscripción bajo la categoría de AN.
+
+[Inciso 3 sustituido por art. 2° de la RG 1102/2025, BO 31/12/2025]
 
 COLOCACIÓN Y DISTRIBUCIÓN DE FONDOS COMUNES DE INVERSIÓN.
 ARTÍCULO 8°. - Adicionalmente a la colocación de cuotapartes de los fondos comunes de inversión bajo su administración, las Sociedades Gerentes podrán celebrar convenios particulares a los fines de la colocación y distribución de cuotapartes de fondos comunes de inversión bajo la administración de otras sociedades gerentes registradas ante la CNV.
@@ -115,8 +123,10 @@ En el marco de la referida función, las Sociedades Gerentes podrán:
 ADMINISTRACIÓN DE INVERSIONES.
 ARTÍCULO 9°. - A los fines del desarrollo de la actividad de administración de inversiones, las Sociedades Gerentes deberán dar cumplimiento a las formalidades y requisitos establecidos en los Capítulos IV y VII del Título VII de las presentes Normas, con excepción de los requisitos de autorización e inscripción establecidos en los artículos 18 y 19 del citado Capítulo IV.
 
-INSCRIPCIÓN COMO AGENTE DE LIQUIDACIÓN Y COMPENSACIÓN.
-ARTÍCULO 10°. - Las Sociedades Gerentes que se encuentren inscriptas simultáneamente bajo la categoría de ALyC deberán dar cumplimiento a los lineamientos establecidos en los Capítulos II y VII del Título VII de las presentes Normas.
+INSCRIPCIÓN BAJO OTRAS CATEGORÍAS DE AGENTES.
+ARTÍCULO 10.- Las Sociedades Gerentes que se encuentren inscriptas tanto bajo la categoría de ALyC como AN deberán dar cumplimiento a la normativa pertinente dispuesta en el Título VII de las presentes Normas.
+
+[Artículo sustituido por art. 3° de la RG 1102/2025, BO 31/12/2025]
 
 AUTOPISTA DE LA INFORMACIÓN FINANCIERA.
 ARTÍCULO 11°. - En el ejercicio de las funciones descriptas, la Sociedad Gerente deberá dar cumplimiento al régimen informativo aplicable a cada actividad, mediante la remisión a través de la AIF, de los formularios dispuestos al efecto en el artículo 11 del Capítulo I del Título XV de las presentes Normas.
@@ -211,7 +221,7 @@ ARTÍCULO 19°. - Los ACyD de FCI deberán suscribir el respectivo convenio de c
 
 AGENTES DE COLOCACIÓN Y DISTRIBUCIÓN INTEGRAL DE FONDOS COMUNES DE INVERSIÓN (ACyDI DE FCI).
 
-ARTÍCULO 20°. - Podrán actuar como ACyDI de FCI en los términos del artículo 2º de la Ley de Mercado de Capitales, las Sociedades Gerentes de fondos comunes de inversión, las entidades financieras autorizadas a actuar como tales en los términos de la Ley de Entidades Financieras y los ALyC Propio o Integral o Integral-Agroindustrial.
+ARTÍCULO 20.- Podrán actuar como ACyDI de FCI en los términos del artículo 2º de la Ley de Mercado de Capitales, las Sociedades Gerentes de FCI (siempre y cuando no se encuentren registradas bajo la categoría de AN), las entidades financieras autorizadas a actuar como tales, en los términos de la Ley de Entidades Financieras y los ALyC Propio o Integral o Integral-Agroindustrial.
 
 Sin perjuicio de la colocación de cuotapartes que puedan realizar la Sociedad Gerente y/o la Sociedad Depositaria podrán celebrar convenios particulares con ACyDI de FCI, sin que ello signifique desplazamiento de la responsabilidad que pudiera corresponderles.
 
@@ -226,6 +236,8 @@ Como contrapartida, un mínimo del CINCUENTA POR CIENTO (50%) del importe del pa
 Aquellos ACyDI de FCI que se encuentren inscriptos en otras categorías de Agentes compatibles, conforme las disposiciones normativas vigentes, deberán computar en concepto de patrimonio neto mínimo requerido, la suma resultante del importe del patrimonio neto mínimo exigido para la categoría de mayor monto, y el CINCUENTA POR CIENTO (50%) de cada uno de los patrimonios netos mínimos exigidos para las categorías restantes.
 
 Dicho monto deberá ser cumplido de manera permanente y acreditado en los Estados Contables anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al cumplimiento del régimen informativo que resulte aplicable en cada caso.
+
+[Primer párrafo sustituido por art. 4° de la RG 1102/2025, BO 31/12/2025]
 
 ARTÍCULO 21°. - El ACyDI de FCI, deberá tener a disposición de la CNV la siguiente documentación:
 

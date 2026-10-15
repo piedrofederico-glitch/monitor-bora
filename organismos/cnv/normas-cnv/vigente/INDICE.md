@@ -22,7 +22,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-IV/capitulo-I.md`](titulo-IV/capitulo-I.md) | Título IV — Capítulo I: RÉGIMEN INFORMATIVO | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-IV/capitulo-II.md`](titulo-IV/capitulo-II.md) | Título IV — Capítulo II: OTRA INFORMACIÓN PERIÓDICA QUE DEBEN PRESENTAR LAS EMISORAS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-IV/capitulo-III.md`](titulo-IV/capitulo-III.md) | Título IV — Capítulo III: NORMAS RELATIVAS A LA FORMA DE PRESENTACIÓN Y CRITERIOS DE VALUACIÓN DE LOS ESTADOS FINANCIEROS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-V/capitulo-I.md`](titulo-V/capitulo-I.md) | Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-V/capitulo-I.md`](titulo-V/capitulo-I.md) | Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN. | RG 1102/2025 (BO 31/12/2025) |
 | [`titulo-V/capitulo-II.md`](titulo-V/capitulo-II.md) | Título V — Capítulo II: FONDOS COMUNES DE INVERSIÓN ABIERTOS. | RG 1096/2025 (BO 24/12/2025) |
 | [`titulo-V/capitulo-III.md`](titulo-V/capitulo-III.md) | Título V — Capítulo III: FONDOS COMUNES DE INVERSIÓN CERRADOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-V/capitulo-IV.md`](titulo-V/capitulo-IV.md) | Título V — Capítulo IV: FIDEICOMISOS FINANCIEROS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -37,7 +37,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-VI/capitulo-IV.md`](titulo-VI/capitulo-IV.md) | Título VI — Capítulo IV: COLOCACIÓN PRIMARIA. | RG 1100/2025 (BO 31/12/2025) |
 | [`titulo-VI/capitulo-V.md`](titulo-VI/capitulo-V.md) | Título VI — Capítulo V: NEGOCIACIÓN SECUNDARIA. OPERACIONES | RG 1090/2025 (BO 14/11/2025) |
 | [`titulo-VI/capitulo-VI.md`](titulo-VI/capitulo-VI.md) | Título VI — Capítulo VI: NEGOCIACIÓN SECUNDARIA DE VALORES NEGOCIABLES DE EMISION INDIVIDUAL QUE GOZAN DE OFERTA PÚBLICA. | RG 1090/2025 (BO 14/11/2025) |
-| [`titulo-VII/capitulo-I.md`](titulo-VII/capitulo-I.md) | Título VII — Capítulo I: AGENTE DE NEGOCIACIÓN | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-VII/capitulo-I.md`](titulo-VII/capitulo-I.md) | Título VII — Capítulo I: AGENTE DE NEGOCIACIÓN | RG 1102/2025 (BO 31/12/2025) |
 | [`titulo-VII/capitulo-II.md`](titulo-VII/capitulo-II.md) | Título VII — Capítulo II: AGENTE DE LIQUIDACIÓN Y COMPENSACIÓN | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VII/capitulo-III.md`](titulo-VII/capitulo-III.md) | Título VII — Capítulo III: FONDO DE GARANTÍA PARA RECLAMOS DE CLIENTES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VII/capitulo-IV.md`](titulo-VII/capitulo-IV.md) | Título VII — Capítulo IV: AGENTE ASESOR GLOBAL DE INVERSIÓN. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -45,7 +45,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-VII/capitulo-VI.md`](titulo-VII/capitulo-VI.md) | Título VII — Capítulo VI: AGENTE DE CORRETAJE DE VALORES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VII/capitulo-VII.md`](titulo-VII/capitulo-VII.md) | Título VII — Capítulo VII: DISPOSICIONES COMUNES AN, ALYC, AAGI, AP Y ACVN | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VIII/capitulo-preliminar.md`](titulo-VIII/capitulo-preliminar.md) | Título VIII — Capítulo Preliminar | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-VIII/capitulo-I.md`](titulo-VIII/capitulo-I.md) | Título VIII — Capítulo I: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-VIII/capitulo-I.md`](titulo-VIII/capitulo-I.md) | Título VIII — Capítulo I: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | RG 1102/2025 (BO 31/12/2025) |
 | [`titulo-VIII/capitulo-II.md`](titulo-VIII/capitulo-II.md) | Título VIII — Capítulo II: AGENTES DE CUSTODIA, REGISTRO Y PAGO (ACRYP). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-IX/capitulo-I.md`](titulo-IX/capitulo-I.md) | Título IX — Capítulo I: AGENTES DE CALIFICACIÓN DE RIESGOS SOCIEDADES ANÓNIMAS Y OTRAS ORGANIZACIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-IX/capitulo-II.md`](titulo-IX/capitulo-II.md) | Título IX — Capítulo II: AGENTES DE CALIFICACIÓN DE RIESGOS UNIVERSIDADES PÚBLICAS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |

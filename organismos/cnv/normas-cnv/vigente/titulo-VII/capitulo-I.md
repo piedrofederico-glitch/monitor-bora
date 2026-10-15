@@ -1,5 +1,5 @@
 # Título VII — Capítulo I: AGENTE DE NEGOCIACIÓN
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1102/2025 (BO 31/12/2025)
 Fuente: PDF base, págs. 586–598.
 
 ÁMBITO DE APLICACIÓN.
@@ -261,6 +261,58 @@ iv)Dentro de los DIEZ (10) días de finalizado cada trimestre, cantidad de clien
 v) Detalle de los medios o modalidades de captación de órdenes a ser utilizados y ofrecidos a sus clientes. Adicionalmente, el AN remitirá a la Comisión, por medio de la AUTOPISTA DE LA INFORMACIÓN FINANCIERA, la información requerida en el artículo 11 inciso K) del Capítulo I del Título XV de estas Normas.
 
 vi) Con periodicidad mensual, dentro de los DIEZ (10) días hábiles de finalizado cada mes calendario, la información de inversiones de clientes con C.D.I. o C.I.E., en los términos exigidos por el artículo 6° de la Sección V del Capítulo I del Título XII de estas Normas. (Ver CRI67)
+
+FUNCIONES ADICIONALES. INSCRIPCIÓN COMO SOCIEDAD GERENTE. REQUISITOS GENERALES DE ORGANIZACIÓN INTERNA.
+ARTÍCULO 21.- La persona jurídica que se encuentre inscripta en la categoría de AN como en la categoría de Sociedad Gerente, conforme las formalidades y requisitos establecidos en el Capítulo I del Título V de estas Normas, deberá:
+
+1. Asegurar una segregación funcional y administrativa que permita el funcionamiento como unidades operativas o de negocio autónomas e independientes considerando las referidas categorías en las que se encuentra inscripta ante la CNV y que posibilite la registración y apertura de los ingresos y egresos propios de cada una de las unidades operativas o de negocios.
+
+2. Poseer una estructura organizativa, operativa y de control acorde al tipo, complejidad y volumen de negocios que desarrolla, de conformidad con lo dispuesto en el artículo 15 del Capítulo VII del presente Título.
+
+Los manuales de procedimientos relativos al cumplimiento de los requisitos de organización interna deberán estar a disposición de la CNV.
+
+[Artículo incorporado por art. 5° de la RG 1102/2025, BO 31/12/2025]
+
+INSCRIPCIÓN COMO SOCIEDAD GERENTE. PAUTAS DE ACTUACIÓN.
+ARTÍCULO 22.- El AN que revista asimismo la calidad de Sociedad Gerente deberá:
+
+1. Adoptar las medidas y procedimientos necesarios que le permitan priorizar en forma simultánea el interés de sus clientes, en su calidad de AN, así como los intereses colectivos de los cuotapartistas y de los FCI que administra como Sociedad Gerente.
+
+2. En el asesoramiento respecto de inversiones en el mercado de capitales y en la administración de carteras de inversión a nombre y en interés de sus clientes, evitar todo posible conflicto de intereses con sus clientes que derive de priorizar, sin contar con fundamentos o análisis técnicos en tal sentido o no ajustándose al perfil de riesgo del cliente, la colocación y distribución de cuotapartes de los FCI que administre.
+
+[Artículo incorporado por art. 5° de la RG 1102/2025, BO 31/12/2025]
+
+INSCRIPCIÓN COMO SOCIEDAD GERENTE – IDONEIDAD.
+ARTÍCULO 23.- El AN que se encuentre inscripto simultáneamente como Sociedad Gerente, deberá contar con personal idóneo inscripto en el Registro de Idóneos que lleva la CNV, e individualizar respecto de cada unidad operativa o de negocio en la que se desempeña en virtud de las mencionadas categorías.
+
+[Artículo incorporado por art. 5° de la RG 1102/2025, BO 31/12/2025]
+
+INSCRIPCIÓN COMO SOCIEDAD GERENTE. RESPONSABLE DE CUMPLIMIENTO REGULATORIO Y CONTROL INTERNO.
+ARTÍCULO 24.- El AN que se encuentre inscripto como Sociedad Gerente, adicionalmente a lo establecido en el artículo 16 del Capítulo VII de este Título, la persona que se desempeñe como Responsable de Cumplimiento Regulatorio y Control Interno deberá controlar y evaluar el cumplimiento, por parte del Agente y de los empleados afectados a las distintas unidades operativas o de negocios, de las obligaciones que les incumben en el desarrollo de cada una de las actividades en virtud de la Ley de Mercado de Capitales y de las presentes Normas.
+
+El responsable designado tendrá además las siguientes funciones:
+
+1. Controlar y evaluar la adecuación y eficacia de las medidas y los procedimientos establecidos en la actuación del Agente, como AN y como Sociedad Gerente.
+
+2. Monitorear la eficacia de los mecanismos de control interno, procedimientos, políticas y métodos que el Agente utiliza en sus actividades como AN y como Sociedad Gerente, proponiendo asimismo las medidas a adoptar a los fines de corregir toda posible deficiencia detectada.
+
+3. Controlar el cumplimiento de lo dispuesto en los artículos de este Capítulo y de lo establecido en el Código de Conducta.
+
+4. Remitir a la CNV por medio de la AIF, dentro de los SETENTA (70) días corridos de cerrado el ejercicio, un informe con los resultados de los exámenes llevados a cabo durante el mismo, como consecuencia de las funciones a su cargo, que incluya información independiente relativa a cada unidad operativa o de negocio, de manera tal que puedan identificarse e individualizarse las actividades desarrolladas por el Agente en cada una de las categorías en que se encuentra inscripto ante la CNV.
+
+[Artículo incorporado por art. 5° de la RG 1102/2025, BO 31/12/2025]
+
+INSCRIPCIÓN COMO SOCIEDAD GERENTE. EECC. EXPOSICIÓN.
+ARTÍCULO 25.- Las personas jurídicas que se encuentren inscriptas bajo las categorías de AN y de Sociedad Gerente, deberán informar por nota a los EECC la apertura de los ingresos netos del ejercicio por cada una de las unidades operativas vinculadas a las actividades desarrolladas en virtud de las categorías en las que se encuentren inscriptas ante la CNV.
+
+[Artículo incorporado por art. 5° de la RG 1102/2025, BO 31/12/2025]
+
+INSCRIPCIÓN COMO SOCIEDAD GERENTE. LIMITACIONES.
+ARTÍCULO 26.- La persona jurídica que se encuentre inscripta en las categorías de AN y de Sociedad Gerente no podrá, ya sea a través de su unidad operativa o de negocios de actuación como AN, ni a través de sus sociedades controladas, controlantes, bajo control común, afiliadas y/o vinculadas, intervenir en la concertación, registro, liquidación y compensación de operaciones relativas a la administración de carteras colectivas de los FCI que administre como Sociedad Gerente.
+
+Asimismo, los sujetos inscriptos en la subcategoría de AN RUCA, conforme las disposiciones del artículo 5° del Capítulo I del presente Título, no podrán revestir adicionalmente la calidad de Sociedad Gerente.
+
+[Artículo incorporado por art. 5° de la RG 1102/2025, BO 31/12/2025]
 
 ### ANEXO I
 

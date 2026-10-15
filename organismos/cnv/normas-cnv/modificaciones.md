@@ -94,6 +94,16 @@ Archivo: `vigente/titulo-III/capitulo-III.md`
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1101/2025 | 1° | 31/12/2025 |
 
+## Título V, Capítulo I
+Archivo: `vigente/titulo-V/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 2° (Secc. I), inc. 2 | modifica parcialmente | RG 1102/2025 | 1° | 31/12/2025 |
+| art. 7° (Secc. II), inc. 3 | modifica parcialmente | RG 1102/2025 | 2° | 31/12/2025 |
+| art. 10 (Secc. II) | sustituye | RG 1102/2025 | 3° | 31/12/2025 |
+| art. 20 (Secc. VI), primer párrafo | modifica parcialmente | RG 1102/2025 | 4° | 31/12/2025 |
+
 ## Título V, Capítulo II
 Archivo: `vigente/titulo-V/capitulo-II.md`
 
@@ -146,6 +156,25 @@ Archivo: `vigente/titulo-VI/capitulo-VI.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | incorpora | RG 1090/2025 | 6° | 14/11/2025 |
+
+## Título VII, Capítulo I
+Archivo: `vigente/titulo-VII/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 21 | incorpora | RG 1102/2025 | 5° | 31/12/2025 |
+| art. 22 | incorpora | RG 1102/2025 | 5° | 31/12/2025 |
+| art. 23 | incorpora | RG 1102/2025 | 5° | 31/12/2025 |
+| art. 24 | incorpora | RG 1102/2025 | 5° | 31/12/2025 |
+| art. 25 | incorpora | RG 1102/2025 | 5° | 31/12/2025 |
+| art. 26 | incorpora | RG 1102/2025 | 5° | 31/12/2025 |
+
+## Título VIII, Capítulo I
+Archivo: `vigente/titulo-VIII/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 37 (Secc. XII) | sustituye | RG 1102/2025 | 6° | 31/12/2025 |
 
 ## Título XVI, Capítulo I
 Archivo: `vigente/titulo-XVI/capitulo-I.md`
