@@ -16,9 +16,9 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-II/capitulo-VIII.md`](titulo-II/capitulo-VIII.md) | Título II — Capítulo VIII: EMISORAS EXTRANJERAS. CERTIFICADOS DE DEPÓSITO Y DE VALORES (CEDEARS Y CEVA). CERTIFICADOS DE DEPÓSITO EN CUSTODIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-IX.md`](titulo-II/capitulo-IX.md) | Título II — Capítulo IX: PROSPECTO | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-X.md`](titulo-II/capitulo-X.md) | Título II — Capítulo X: REORGANIZACIÓN SOCIETARIA | RG 1095/2025 (BO 18/12/2025) |
-| [`titulo-III/capitulo-I.md`](titulo-III/capitulo-I.md) | Título III — Capítulo I: RETIRO Y CANCELACIÓN DEL RÉGIMEN DE OFERTA PÚBLICA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-III/capitulo-II.md`](titulo-III/capitulo-II.md) | Título III — Capítulo II: OFERTAS PÚBLICAS DE ADQUISICIÓN Y/O CANJE | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-III/capitulo-III.md`](titulo-III/capitulo-III.md) | Título III — Capítulo III: APORTES IRREVOCABLES A CUENTA DE FUTURAS EMISIONES Y CAPITALIZACIÓN DE DEUDAS DE LA EMISORA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-III/capitulo-I.md`](titulo-III/capitulo-I.md) | Título III — Capítulo I: RETIRO Y CANCELACIÓN DEL RÉGIMEN DE OFERTA PÚBLICA. | RG 1101/2025 (BO 31/12/2025) |
+| [`titulo-III/capitulo-II.md`](titulo-III/capitulo-II.md) | Título III — Capítulo II: OFERTAS PÚBLICAS DE ADQUISICIÓN O CANJE | RG 1101/2025 (BO 31/12/2025) |
+| [`titulo-III/capitulo-III.md`](titulo-III/capitulo-III.md) | Título III — Capítulo III: APORTES IRREVOCABLES A CUENTA DE FUTURAS EMISIONES Y CAPITALIZACIÓN DE DEUDAS DE LA EMISORA | RG 1101/2025 (BO 31/12/2025) |
 | [`titulo-IV/capitulo-I.md`](titulo-IV/capitulo-I.md) | Título IV — Capítulo I: RÉGIMEN INFORMATIVO | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-IV/capitulo-II.md`](titulo-IV/capitulo-II.md) | Título IV — Capítulo II: OTRA INFORMACIÓN PERIÓDICA QUE DEBEN PRESENTAR LAS EMISORAS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-IV/capitulo-III.md`](titulo-IV/capitulo-III.md) | Título IV — Capítulo III: NORMAS RELATIVAS A LA FORMA DE PRESENTACIÓN Y CRITERIOS DE VALUACIÓN DE LOS ESTADOS FINANCIEROS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |

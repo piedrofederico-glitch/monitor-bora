@@ -73,6 +73,27 @@ Archivo: `vigente/titulo-II/capitulo-X.md`
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
 
+## Título III, Capítulo I
+Archivo: `vigente/titulo-III/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1101/2025 | 1° | 31/12/2025 |
+
+## Título III, Capítulo II
+Archivo: `vigente/titulo-III/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1101/2025 | 1° | 31/12/2025 |
+
+## Título III, Capítulo III
+Archivo: `vigente/titulo-III/capitulo-III.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1101/2025 | 1° | 31/12/2025 |
+
 ## Título V, Capítulo II
 Archivo: `vigente/titulo-V/capitulo-II.md`
 
