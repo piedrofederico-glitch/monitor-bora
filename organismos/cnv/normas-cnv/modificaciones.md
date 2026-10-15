@@ -153,6 +153,7 @@ Archivo: `vigente/titulo-V/capitulo-II.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 15 (Secc. II), inc. b.1) | modifica parcialmente | RG 1096/2025 | 1° | 24/12/2025 |
+| art. 15 (Secc. II), inc. b) | modifica parcialmente | RG 1126/2026 | 1° | 09/04/2026 |
 
 ## Título V, Capítulo III
 Archivo: `vigente/titulo-V/capitulo-III.md`

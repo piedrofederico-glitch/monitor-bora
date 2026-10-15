@@ -1,5 +1,5 @@
 # Título V — Capítulo II: FONDOS COMUNES DE INVERSIÓN ABIERTOS.
-Última modificación: RG 1096/2025 (BO 24/12/2025)
+Última modificación: RG 1126/2026 (BO 09/04/2026)
 Fuente: PDF base, págs. 331–358.
 
 ### SECCIÓN I — AUTORIZACIÓN DE FONDOS COMUNES DE INVERSIÓN ABIERTOS.
@@ -95,21 +95,19 @@ En el caso que la moneda del FCI sea una moneda distinta a la moneda de curso le
 
 b) Que se constituyan como Fondos Comunes de Dinero: deberán encuadrarse bajo las disposiciones establecidas en los incisos b.1) o b.2) del presente artículo, así como cumplir con las siguientes pautas generales:
 
-Deberá conservarse en todo momento, en calidad de margen de liquidez, un monto equivalente a no menos del OCHENTA POR CIENTO (80%) del porcentaje total que el FCI conserve en cartera, en activos valuados a devengamiento, en cuentas abiertas en el BCRA, y/o en cuentas a la vista en entidades financieras autorizadas por dicha entidad, bajo la titularidad de la sociedad depositaria con indicación del carácter que reviste como órgano del FCI, con identificación del FCI al cual corresponden, con el aditamento “margen de liquidez”, separadas del resto de las cuentas que la depositaria tenga abiertas en interés propio o de terceros como depositante.
+Con excepción de lo indicado en el segundo párrafo del inciso b.1.1) del presente artículo, deberá conservarse en todo momento, en calidad de margen de liquidez, un monto equivalente a no menos del OCHENTA POR CIENTO (80%) del porcentaje total que el FCI conserve en cartera, en activos valuados a devengamiento, en cuentas abiertas en el BCRA, y/o en cuentas a la vista en entidades financieras autorizadas por dicha entidad, bajo la titularidad de la Sociedad Depositaria con indicación del carácter que reviste como órgano del FCI, con identificación del FCI al cual corresponden, con el aditamento “margen de liquidez”, separadas del resto de las cuentas que la Depositaria tenga abiertas en interés propio o de terceros como depositante.
 
-El margen de liquidez deberá mantenerse en todo momento y ser reconstituido, en caso de su utilización total o parcial para atender rescates, en el menor plazo razonablemente posible. Hasta tanto no se haya reconstituido el margen de liquidez mínimo, no podrán efectuarse nuevas inversiones para las carteras.
+El margen de liquidez deberá mantenerse en todo momento y ser reconstituido, en caso de su utilización total o parcial, para atender rescates en el menor plazo razonablemente posible. Hasta tanto no se haya reconstituido el margen de liquidez mínimo, no podrán efectuarse nuevas inversiones para las carteras.
 
 Podrán ser consideradas dentro del margen de liquidez las operaciones a plazo cuyo vencimiento o inicio del período de precancelación operen a partir del día hábil inmediato siguiente, por hasta un DIEZ POR CIENTO (10%) del patrimonio neto del FCI, siempre que se encuentren en condiciones de ser canceladas en dicha fecha y que la disponibilidad de los FCI sea inmediata.
 
 Los activos valuados a devengamiento que integren las carteras deberán tener un vencimiento final fijado para una fecha que no exceda de los NOVENTA Y CINCO (95) días corridos a partir de la fecha de adquisición.
 
-La vida promedio ponderada de la cartera compuesta por activos valuados a devengamiento no podrá exceder de TREINTA Y CINCO (35) días corridos. Esta circunstancia deberá ser anoticiada al público mediante la exhibición de la respectiva información en los locales de atención al público y/o en todos los canales a través de los cuales se comercialicen las cuotapartes, junto con el extracto semanal de composición de las carteras.
+Sin perjuicio del supuesto previsto en el segundo párrafo del inciso b.1.1) del presente artículo, la vida promedio ponderada de la cartera compuesta por activos valuados a devengamiento no podrá exceder de TREINTA Y CINCO (35) días corridos. Esta circunstancia deberá ser anoticiada al público mediante la exhibición de la respectiva información en los locales de atención al público y/o en todos los canales a través de los cuales se comercialicen las cuotapartes, junto con el extracto semanal de composición de las carteras. Los vencimientos de los activos valuados a devengamiento deberán encontrarse escalonados de acuerdo con la política de liquidez del FCI.
 
 Para el cálculo de la vida promedio ponderada de la cartera integrada por activos valuados a devengamiento, los plazos fijos precancelables computarán de la siguiente forma:
 
-(i) Mientras no alcancen el período de precancelación, la cantidad de días corridos que resulten de la diferencia entre la fecha de precancelación y la fecha de cálculo respectivo; y
-
-(ii) en período de cancelación, se excluirán del cálculo.
+(i) Mientras no alcancen el período de precancelación, la cantidad de días corridos que resulten de la diferencia entre la fecha de precancelación y la fecha de cálculo respectivo; y (ii) en período de cancelación, se excluirán del cálculo.
 
 La participación de los cuotapartistas al momento de efectuar la suscripción no podrá superar el VEINTE POR CIENTO (20%) del patrimonio neto del FCI. En el caso de nuevos fondos comunes de inversión, este límite se aplicará a partir de los NOVENTA (90) días corridos desde su lanzamiento.
 
@@ -127,17 +125,21 @@ b.1) Particularmente, los FCI que se ofrezcan al público inversor, cualquiera s
 
 b.1.1) Sus carteras podrán estar compuestas por un porcentaje máximo del CINCUENTA POR CIENTO (50%) por plazos fijos no precancelables, los que serán activos valuados a devengamiento.
 
-b.1.2) Se podrá invertir hasta un CINCUENTA POR CIENTO (50%) en plazos fijos precancelables en período de precancelación, los que serán valuados a precio de realización y/o de mercado y por ende no estarán sujetos a la constitución de margen de liquidez.
+En aquellos FCI en los que la vida promedio ponderada de la cartera compuesta por activos valuados a devengamiento no exceda los TREINTA (30) días corridos, el límite máximo dispuesto en el párrafo precedente podrá llegar hasta el SESENTA POR CIENTO (60%). En estos casos, el margen de liquidez a que hace referencia el segundo párrafo del inciso b) del presente artículo, deberá constituirse por un monto equivalente a no menos del SESENTA Y CINCO POR CIENTO (65%) del porcentaje total que el FCI conserve en cartera en activos valuados a devengamiento.
+
+b.1.2) Se podrá invertir hasta un SESENTA POR CIENTO (60%) en plazos fijos precancelables en período de precancelación, los que serán valuados a precio de realización y/o de mercado y por ende no estarán sujetos a la constitución de margen de liquidez.
 
 b.1.3) La suma de plazos fijos no precancelables y plazos fijos precancelables en período de precancelación no podrá exceder el SETENTA POR CIENTO (70%) del patrimonio neto del fondo.
 
 b.1.4) La inversión en activos valuados a devengamiento distintos a los plazos fijos señalados en el inciso b.1.1) del presente artículo no podrá superar el TREINTA Y CINCO POR CIENTO (35%).
 
-b.1.5) La suma de los activos valuados a devengamiento señalados en los incisos b.1.1) y b.1.4) precedentes no podrá superar el CINCUENTA POR CIENTO (50%) del patrimonio neto del fondo.
+b.1.5) La suma de los activos valuados a devengamiento señalados en los incisos b.1.1) y b.1.4) precedentes no podrá superar el CINCUENTA POR CIENTO (50%) del patrimonio neto del fondo. Dicho porcentaje podrá ser incrementado hasta el SESENTA POR CIENTO (60%) cuando se cumpla el requisito indicado en el segundo párrafo del citado inciso b.1.1).
 
-b.1.6) Los intereses devengados provenientes de cuentas a la vista computarán para el límite del TREINTA Y CINCO POR CIENTO (35%) antes señalado como activos valuados a devengamiento. Cuando los intereses devengados provenientes de cuentas a la vista sean capitalizados, serán computados como activos valuados a precio de realización y/o de mercado, y por ende no sujetos a la constitución de margen de liquidez.
+b.1.6) Los intereses devengados provenientes de cuentas a la vista computarán para el límite del TREINTA Y CINCO POR CIENTO (35%) antes señalado como activos valuados a devengamiento.
 
-b.1.7) Adicionalmente a las inversiones previstas en los incisos precedentes, se encontrará admitida, exclusivamente, la adquisición de títulos representativos de deuda, cuyo vencimiento final no exceda de UN (1) año a partir de la fecha de adquisición por hasta el VEINTE POR CIENTO (20%) del patrimonio neto del fondo
+Cuando los intereses devengados provenientes de cuentas a la vista sean capitalizados, serán computados como activos valuados a precio de realización y/o de mercado, y por ende no sujetos a la constitución de margen de liquidez.
+
+b.1.7) Adicionalmente a las inversiones previstas en los incisos precedentes, se encontrará admitida, exclusivamente, la adquisición de títulos representativos de deuda, cuyo vencimiento final no exceda de UN (1) año a partir de la fecha de adquisición por hasta el VEINTE POR CIENTO (20%) del patrimonio neto del fondo.
 
 b.2) Aquellos fondos que se ofrezcan al público inversor, cualquiera sea el canal de comercialización utilizado, como “Fondo Común de Dinero Dinámico”, se regirán según las pautas generales señaladas en el apartado b) precedente, y, asimismo, se encontrarán sujetos a las siguientes disposiciones:
 
@@ -145,9 +147,13 @@ b.2.1) Sus carteras podrán estar compuestas por un porcentaje máximo del TREIN
 
 b.2.2) Se podrá invertir hasta un VEINTE POR CIENTO (20%) en plazos fijos precancelables en período de precancelación, los que serán valuados a precio de realización y/o de mercado. La suma de activos valuados a devengamiento y de plazos fijos precancelables en período de precancelación no podrá exceder el CINCUENTA POR CIENTO (50%) del patrimonio neto del fondo.
 
-b.2.3) Los plazos fijos precancelables, cuando no se encuentren en período de precancelación, y los intereses devengados provenientes de cuentas a la vista computarán para el límite del TREINTA POR CIENTO (30%) como activos valuados a devengamiento. Cuando los plazos fijos precancelables estén en período de precancelación y los intereses devengados provenientes de cuentas a la vista sean capitalizados, serán computados como activos valuados a precio de realización y/o de mercado, y por ende no sujetos a la constitución de margen de liquidez. b.2.4) Adicionalmente a las inversiones previstas en el inciso b.2.2) precedente, se encontrará admitida, exclusivamente, la adquisición de títulos representativos de deuda, cuyo vencimiento final no exceda de UN (1) año a partir de la fecha de adquisición.
+b.2.3) Los plazos fijos precancelables, cuando no se encuentren en período de precancelación, y los intereses devengados provenientes de cuentas a la vista computarán para el límite del TREINTA POR CIENTO (30%) como activos valuados a devengamiento. Cuando los plazos fijos precancelables estén en período de precancelación y los intereses devengados provenientes de cuentas a la vista sean capitalizados, serán computados como activos valuados a precio de realización y/o de mercado, y por ende no sujetos a la constitución de margen de liquidez.
+
+b.2.4) Adicionalmente a las inversiones previstas en el inciso b.2.2) precedente, se encontrará admitida, exclusivamente, la adquisición de títulos representativos de deuda, cuyo vencimiento final no exceda de UN (1) año a partir de la fecha de adquisición
 
 [Inciso b.1) sustituido por art. 1° de la RG 1096/2025, BO 24/12/2025]
+
+[Inciso b) sustituido por art. 1° de la RG 1126/2026, BO 09/04/2026]
 
 POLÍTICA DE CONOCIMIENTO DEL INVERSOR. FONDOS COMUNES DE DINERO.
 ARTÍCULO 16°. - La Sociedad Gerente deberá, respecto de cada categoría de inversor, según se prevé en el artículo 25, inciso 6, subincisos c) a g) de la Sección VII del Capítulo I del Título V de las Normas, realizar una evaluación a fin de anticipar el efecto de rescates simultáneos por parte de múltiples inversores, teniendo en cuenta, al menos, el tipo de inversores, el número de cuotapartes del FCI cuya titularidad corresponda a un único inversor y la evolución de suscripciones y rescates, incluyendo, entre otras, las siguientes variables:
