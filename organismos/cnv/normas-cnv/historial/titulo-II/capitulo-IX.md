@@ -1391,3 +1391,16 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > ```
 >
 > Patrimonio Neto (discriminado).
+
+## Artículo 14 (Sección III)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 13/03/2026
+- Sustituido por: RG 1119/2026, art. 1°
+- Texto:
+
+> PUBLICIDAD.
+> ARTÍCULO 14.- Los prospectos y suplementos de prospectos deberán, en todos los casos, publicarse con antelación a la colocación de los respectivos valores negociables, ello sin perjuicio de las facultades de fiscalización y sanción de la Comisión.
+>
+> El período mínimo de difusión será de UN (1) día hábil, siempre que la documentación haya estado subida antes de las DIEZ (10) horas de la mañana de ese día, de lo contrario el período de difusión deberá ser extendido como mínimo al día hábil siguiente.
+>
+> Cuando el Prospecto no contenga información financiera de la colocación, tal como la tasa, el precio o el monto, por no haber sido determinada debido a las condiciones particulares de la emisión, una vez determinada dicha información deberá ser publicada de inmediato por los medios informativos electrónicos de los Mercados en los que listen o negocien los valores negociables y mediante un aviso complementario en el mismo medio utilizado para la publicación y por igual plazo de difusión.

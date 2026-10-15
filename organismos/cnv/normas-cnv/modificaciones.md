@@ -78,6 +78,7 @@ Archivo: `vigente/titulo-II/capitulo-IX.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
+| art. 14 (Secc. III) | sustituye | RG 1119/2026 | 1° | 13/03/2026 |
 
 ## Título II, Capítulo X
 Archivo: `vigente/titulo-II/capitulo-X.md`
@@ -174,6 +175,7 @@ Archivo: `vigente/titulo-VI/capitulo-IV.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1100/2025 | 1° | 31/12/2025 |
+| art. 11 (Secc. III) | sustituye | RG 1119/2026 | 2° | 13/03/2026 |
 
 ## Título VI, Capítulo V
 Archivo: `vigente/titulo-VI/capitulo-V.md`

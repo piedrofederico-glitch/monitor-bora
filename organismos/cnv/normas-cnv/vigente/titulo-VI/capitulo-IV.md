@@ -1,5 +1,5 @@
 # Título VI — Capítulo IV: COLOCACIÓN PRIMARIA.
-Última modificación: RG 1100/2025 (BO 31/12/2025)
+Última modificación: RG 1119/2026 (BO 13/03/2026)
 Fuente: RG 1100/2025, art. 1°.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -153,11 +153,15 @@ ACCIONES. DERECHO DE PREFERENCIA Y ACRECER.
 ARTÍCULO 10.- La colocación primaria de acciones a colocar por suscripción mediante el sistema de formación de libro, Subasta o Licitación Pública, se refiere a los casos en que exista remanente luego del ejercicio de los derechos de preferencia y –de corresponder- de acrecer por parte de los accionistas titulares de dichos derechos. Cuando exista renuncia o cesión de tales derechos a Agentes intervinientes, éstos deberán cumplir con el procedimiento de formación de libro, Subasta o Licitación Pública respecto de todas las acciones recibidas en dicho carácter.
 
 PLAZO DE DIFUSIÓN.
-ARTÍCULO 11.- El plazo de difusión para la colocación primaria de los valores negociables, establecido en el artículo 8º, inciso 1. del presente Capítulo, deberá ser suficiente para garantizar el adecuado conocimiento por parte del público inversor.
+ARTÍCULO 11.- El plazo de difusión para la colocación primaria de los valores negociables, establecido en el artículo 8º, inciso 1 del presente Capítulo, deberá ser suficiente para garantizar el adecuado conocimiento por parte del público inversor.
 
 En todos los casos, el inicio del plazo de difusión comenzará el mismo día de la publicación del Prospecto o Suplemento de Prospecto, aviso de suscripción o aviso complementario que corresponda en la AIF y en los Mercados donde se van a listar los valores negociables. En caso de no coincidir, el que ocurra después, en la medida que estos hayan sido publicados con anterioridad a las DIEZ (10) horas de ese día. Caso contrario deberá contarse con un día de difusión adicional.
 
-Cuando se trate de emisiones destinadas a la refinanciación o canje previstos en la Sección V del presente Capítulo, el plazo de difusión mínimo será de DOS (2) días hábiles.
+Cuando la Emisora se encuentre registrada como Emisor Frecuente, el plazo de difusión y colocación primaria de los valores negociables podrá reducirse a UN (1) día hábil, de acuerdo con lo dispuesto en el Capítulo V del Título II de las presentes Normas. En todos los casos el plazo de difusión no podrá ser inferior a CINCO (5) horas.
+
+Lo dispuesto en el párrafo precedente no será aplicable a las emisiones de obligaciones negociables convertibles, bonos temáticos ni a las operaciones de refinanciación o canje. Cuando se trate de emisiones destinadas a la refinanciación o canje previstos en la Sección V del presente Capítulo, el plazo de difusión mínimo será de DOS (2) días hábiles.
+
+[Artículo sustituido por art. 2° de la RG 1119/2026, BO 13/03/2026]
 
 ### SECCIÓN IV — OPERACIONES DE ESTABILIZACIÓN DE MERCADO.
 

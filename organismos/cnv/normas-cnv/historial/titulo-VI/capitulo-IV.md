@@ -210,3 +210,16 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > ARTÍCULO 18.- A los fines indicados en el artículo anterior, los Agentes Depositarios Centrales de Valores Negociables deberán informar, dentro de los DIEZ (10) días posteriores al último día de cada mes calendario y al 31 de diciembre de cada año, el listado de las Obligaciones Negociables emitidas de conformidad con el Decreto Nº 621/2021, vigentes a esas fechas, y el listado de emisiones de esos valores que, estando vigentes al 1º de enero del año que se informa, hubiesen sido canceladas antes del vencimiento del 31 de diciembre del mismo año.
 >
 > El listado deberá ser enviado a través de la AUTOPISTA DE LA INFORMACIÓN FINANCIERA, completando el formulario establecido al efecto de acceso exclusivo para la Comisión y en formato Txt o Excel.
+
+## Artículo 11 (Sección III)
+- Vigente desde: 01/01/2026
+- Vigente hasta: 13/03/2026
+- Sustituido por: RG 1119/2026, art. 2°
+- Texto:
+
+> PLAZO DE DIFUSIÓN.
+> ARTÍCULO 11.- El plazo de difusión para la colocación primaria de los valores negociables, establecido en el artículo 8º, inciso 1. del presente Capítulo, deberá ser suficiente para garantizar el adecuado conocimiento por parte del público inversor.
+>
+> En todos los casos, el inicio del plazo de difusión comenzará el mismo día de la publicación del Prospecto o Suplemento de Prospecto, aviso de suscripción o aviso complementario que corresponda en la AIF y en los Mercados donde se van a listar los valores negociables. En caso de no coincidir, el que ocurra después, en la medida que estos hayan sido publicados con anterioridad a las DIEZ (10) horas de ese día. Caso contrario deberá contarse con un día de difusión adicional.
+>
+> Cuando se trate de emisiones destinadas a la refinanciación o canje previstos en la Sección V del presente Capítulo, el plazo de difusión mínimo será de DOS (2) días hábiles.

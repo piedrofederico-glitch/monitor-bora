@@ -1,5 +1,5 @@
 # Título II — Capítulo IX: PROSPECTO
-Última modificación: RG 1095/2025 (BO 18/12/2025)
+Última modificación: RG 1119/2026 (BO 13/03/2026)
 Fuente: RG 1095/2025, art. 2°.
 
 ### SECCIÓN I — RÉGIMEN GENERAL.
@@ -141,9 +141,11 @@ En los casos que se disponga, en forma total o parcial de la emisión respectiva
 PUBLICIDAD.
 ARTÍCULO 14.- Los prospectos y suplementos de prospectos deberán, en todos los casos, publicarse con antelación a la colocación de los respectivos valores negociables, ello sin perjuicio de las facultades de fiscalización y sanción de la Comisión.
 
-El período mínimo de difusión será de UN (1) día hábil, siempre que la documentación haya estado subida antes de las DIEZ (10) horas de la mañana de ese día, de lo contrario el período de difusión deberá ser extendido como mínimo al día hábil siguiente.
+Será de aplicación el período mínimo de difusión establecido en el Capítulo IV del Título VI de estas Normas.
 
-Cuando el Prospecto no contenga información financiera de la colocación, tal como la tasa, el precio o el monto, por no haber sido determinada debido a las condiciones particulares de la emisión, una vez determinada dicha información deberá ser publicada de inmediato por los medios informativos electrónicos de los Mercados en los que listen o negocien los valores negociables y mediante un aviso complementario en el mismo medio utilizado para la publicación y por igual plazo de difusión.
+Cuando el Prospecto no contenga información financiera de la colocación, tal como la tasa, el precio o el monto, por no haber sido determinada debido a las condiciones particulares de la emisión, una vez determinada dicha información deberá ser publicada de inmediato por los medios informativos electrónicos de los Mercados en los que listen o negocien los valores negociables y mediante un aviso complementario por el mismo medio utilizado para la publicación y por igual plazo de difusión.
+
+[Artículo sustituido por art. 1° de la RG 1119/2026, BO 13/03/2026]
 
 ### SECCIÓN IV — SUPLEMENTO DE PROSPECTO.
 

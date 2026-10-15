@@ -22,7 +22,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-II/capitulo-VI.md`](titulo-II/capitulo-VI.md) | Título II — Capítulo VI: PEQUEÑAS Y MEDIANAS EMPRESAS | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-VII.md`](titulo-II/capitulo-VII.md) | Título II — Capítulo VII: ENTIDADES DE GARANTÍA | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-VIII.md`](titulo-II/capitulo-VIII.md) | Título II — Capítulo VIII: EMISORAS EXTRANJERAS. CERTIFICADOS DE DEPÓSITO Y DE VALORES (CEDEARS Y CEVA). CERTIFICADOS DE DEPÓSITO EN CUSTODIA. | RG 1095/2025 (BO 18/12/2025) |
-| [`titulo-II/capitulo-IX.md`](titulo-II/capitulo-IX.md) | Título II — Capítulo IX: PROSPECTO | RG 1095/2025 (BO 18/12/2025) |
+| [`titulo-II/capitulo-IX.md`](titulo-II/capitulo-IX.md) | Título II — Capítulo IX: PROSPECTO | RG 1119/2026 (BO 13/03/2026) |
 | [`titulo-II/capitulo-X.md`](titulo-II/capitulo-X.md) | Título II — Capítulo X: REORGANIZACIÓN SOCIETARIA | RG 1095/2025 (BO 18/12/2025) |
 
 ## Título III — RETIRO DE LA OFERTA PÚBLICA. CANCELACIONES.OFERTA PÚBLICA DE ADQUISICIÓN. APORTES IRREVOCABLES
@@ -62,7 +62,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-VI/capitulo-I.md`](titulo-VI/capitulo-I.md) | Título VI — Capítulo I: MERCADOS | RG 1113/2026 (BO 27/02/2026) |
 | [`titulo-VI/capitulo-II.md`](titulo-VI/capitulo-II.md) | Título VI — Capítulo II: CÁMARAS COMPENSADORAS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VI/capitulo-III.md`](titulo-VI/capitulo-III.md) | Título VI — Capítulo III: LIQUIDACIÓN Y COMPENSACIÓN DE OPERACIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-VI/capitulo-IV.md`](titulo-VI/capitulo-IV.md) | Título VI — Capítulo IV: COLOCACIÓN PRIMARIA. | RG 1100/2025 (BO 31/12/2025) |
+| [`titulo-VI/capitulo-IV.md`](titulo-VI/capitulo-IV.md) | Título VI — Capítulo IV: COLOCACIÓN PRIMARIA. | RG 1119/2026 (BO 13/03/2026) |
 | [`titulo-VI/capitulo-V.md`](titulo-VI/capitulo-V.md) | Título VI — Capítulo V: NEGOCIACIÓN SECUNDARIA. OPERACIONES | RG 1090/2025 (BO 14/11/2025) |
 | [`titulo-VI/capitulo-VI.md`](titulo-VI/capitulo-VI.md) | Título VI — Capítulo VI: NEGOCIACIÓN SECUNDARIA DE VALORES NEGOCIABLES DE EMISION INDIVIDUAL QUE GOZAN DE OFERTA PÚBLICA. | RG 1107/2026 (BO 13/02/2026) |
 
