@@ -2301,3 +2301,77 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > Toda notificación a la Comisión deberá ser efectuada mediante la plataforma TAD, excepto que se establezca de otra manera.
 >
 > Los Emisores deberán presentar toda la documentación dirigida a los Mercados.
+
+## Artículo 64 (Sección IX)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 06/03/2026
+- Sustituido por: RG 1117/2026, art. 2°
+- Texto:
+
+> DEFINICIÓN.
+> ARTÍCULO 64.- Se considerará una oferta de valores negociables como Oferta Pública de ON con Autorización Automática por su Bajo Impacto, que tendrá autorización automática de oferta pública, cuando se cumplan todas las siguientes condiciones:
+>
+> 1. La oferta sea realizada por uno o más Emisores, pudiendo contar con la participación de una cantidad ilimitada de Agentes registrados que actúen como ACyD. Los Emisores también podrán ser PyME CNV, que podrán llevar a cabo emisiones que sean PyME CNV GARANTIZADA. En el caso del artículo 74 de la presente Sección, se permitirá a las emisiones PyME CNV GARANTIZADAS (sean las primeras emisiones o subsiguientes) u otras emisiones que sean totalmente garantizadas por Entidades de Garantía emitir el monto ampliado permitido por dicho artículo.
+>
+> 2. Sólo podrán participar en la colocación primaria y en la negociación secundaria Inversores Calificados, sin limitación de número. No se admitirán inversores que no sean Inversores Calificados.
+>
+> Sin embargo, en las emisiones PyME CNV GARANTIZADA u otras emisiones que sean totalmente garantizadas por Entidades de Garantía podrán participar en la colocación primaria y en la negociación secundaria, sin limitación de número, inversores que no sean Inversores Calificados, atento a que dichas emisiones son garantizadas por Entidades de Garantía y, por ende, entrañan riesgos diferentes.
+>
+> 3. Los valores negociables deberán ser obligaciones negociables emitidas conforme la Ley de Obligaciones Negociables, incluyendo Valores de Corto Plazo que se emitan mediante obligaciones negociables, que no sean convertibles en acciones.
+>
+> 4. La invitación a ofertar podrá realizarse por cualquier medio incluido en la definición de oferta pública del artículo 2° de la Ley de Mercado de Capitales y de conformidad con estas Normas.
+>
+> 5. El Emisor podrá optar por realizar emisiones como clases o series autónomas, o emitir en el marco de programas globales (autorizados o no), incluso bajo el régimen de EF.
+>
+> 6. Las condiciones establecidas en los artículos 65, 66, 69 inciso 1, 73, 75 y, en su caso, 74 inciso 1 de la presente Sección.
+
+## Artículo 71 (Sección IX)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 06/03/2026
+- Sustituido por: RG 1117/2026, art. 3°
+- Texto:
+
+> OBLIGACIÓN DE LISTADO. NEGOCIACIÓN SECUNDARIA DE LOS VALORES NEGOCIABLES.
+> ARTÍCULO 71.- Los valores negociables emitidos bajo el presente régimen deberán ser colocados y listados en un Mercado autorizado por esta Comisión, en un panel específico determinado por dicho mercado.
+>
+> Los Mercados no podrán establecer mayores requisitos para el listado y/o negociación de los valores negociables autorizados bajo este régimen, ni exigir mayores requisitos para el retiro de listado a los exigidos por esta Comisión. En este sentido, deberán adecuar el ingreso a sus plataformas digitales a los lineamientos de la presente Sección de manera de no desvirtuar la simplicidad de emisión prevista por este Régimen de Oferta Pública con Autorización Automática por su Bajo Impacto. No obstante, en el caso de los valores negociables emitidos bajo los “Lineamientos para la Emisión de Valores Negociables Temáticos en Argentina”, los Mercados podrán establecer requisitos adicionales para garantizar la transparencia y su alineación con los Principios de ICMA (International Capital Markets Association), siempre que los mismos estén exclusivamente orientados a cumplir con los referidos principios y/o a los efectos de verificar el carácter SVS+ de la emisión, sin imponer excesivas cargas a los Emisores.
+>
+> Los inversores podrán transferir libremente a otros Inversores Calificados los valores negociables, sin restricciones en cualquier momento, o a inversores que no sean Inversores Calificados, en los casos de las emisiones PyME CNV Garantizadas y de las emisiones totalmente garantizadas por Entidades de Garantía.
+
+## Artículo 82 (Sección XI)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 06/03/2026
+- Sustituido por: RG 1117/2026, art. 4°
+- Texto:
+
+> DEFINICIÓN.
+> ARTÍCULO 82.- Se considerará una oferta de valores negociables como Oferta Pública de ON con Autorización Automática por su Mediano Impacto, que tendrá autorización automática de oferta pública, cuando se cumplan todas las siguientes condiciones:
+>
+> 1. El Emisor debe ingresar al Régimen de Oferta Pública según el artículo 85 de la presente Sección o encontrarse ya en el mismo.
+>
+> 2. La oferta sea realizada por uno o más Emisores, pudiendo contar con la participación de una cantidad ilimitada de Agentes registrados que actúen como ACyD.
+>
+> 3. Sólo podrán participar en la colocación primaria y en la negociación secundaria Inversores Calificados, sin limitación de número. No se admitirán inversores que no sean Inversores Calificados.
+>
+> 4. Los valores negociables deberán ser obligaciones negociables emitidas conforme a la Ley de Obligaciones Negociables, incluyendo Valores de Corto Plazo que se emitan mediante Obligaciones Negociables, en ambos casos, que no sean convertibles en acciones.
+>
+> 5. La oferta podrá realizarse por cualquier medio incluido en la definición de oferta pública del artículo 2° de la Ley de Mercado de Capitales y de conformidad con estas Normas.
+>
+> 6. El Emisor podrá optar por realizar emisiones como clases o series autónomas, o emitir en el marco de programas globales (ya autorizados o no) incluso bajo el Régimen de EF.
+>
+> 7. Las condiciones establecidas en los artículos 83, 84, 88 inciso 1, 95 y 97 de la presente Sección.
+>
+> 8. Se cumplan las condiciones establecidas en los artículos 85, 87 y 88 de la presente Sección, y las disposiciones establecidas en el Capítulo I del Título XII de estas Normas, en su caso.
+
+## Artículo 92 (Sección XI)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 06/03/2026
+- Sustituido por: RG 1117/2026, art. 5°
+- Texto:
+
+> OBLIGACIÓN DE LISTADO. NEGOCIACIÓN SECUNDARIA DE LOS VALORES NEGOCIABLES.
+> ARTÍCULO 92.- Los valores negociables emitidos bajo el presente Régimen de Oferta Pública con Autorización Automática por su Mediano Impacto deberán ser colocados y listados en un Mercado autorizado por esta Comisión, en un panel específico determinado por dicho Mercado.
+>
+> Los Mercados no podrán establecer mayores requisitos para el listado de los valores negociables autorizados bajo este régimen, ni exigir mayores requisitos para el retiro de listado a los exigidos por la CNV. En este sentido, deberán adecuar el ingreso a sus plataformas digitales a los lineamientos de la presente Sección de manera de no desvirtuar la relativa simplicidad de emisión prevista por este régimen. No obstante lo anterior, en el caso de los valores negociables emitidos bajo los “Lineamientos para la Emisión de Valores Negociables Temáticos en Argentina”, los Mercados podrán establecer requisitos adicionales para garantizar la transparencia y su alineación con los Principios de ICMA (International Capital Markets Association), siempre que los mismos estén exclusivamente orientados a cumplir con los referidos principios o a los efectos de verificar el carácter SVS+ de la emisión, sin imponer excesivas cargas a los Emisores.
+>
+> Los inversores podrán transferir libremente los valores negociables, sin restricciones en cualquier momento a otros Inversores Calificados.

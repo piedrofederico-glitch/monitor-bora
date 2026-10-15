@@ -1,5 +1,5 @@
 # Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA
-Última modificación: RG 1110/2026 (BO 23/02/2026)
+Última modificación: RG 1117/2026 (BO 06/03/2026)
 Fuente: RG 1095/2025, art. 2°.
 
 ### SECCIÓN I — OFERTA PÚBLICA.
@@ -603,19 +603,21 @@ En caso de no contarse con información comparativa, deberá dejarse constancia 
 DEFINICIÓN.
 ARTÍCULO 64.- Se considerará una oferta de valores negociables como Oferta Pública de ON con Autorización Automática por su Bajo Impacto, que tendrá autorización automática de oferta pública, cuando se cumplan todas las siguientes condiciones:
 
-1. La oferta sea realizada por uno o más Emisores, pudiendo contar con la participación de una cantidad ilimitada de Agentes registrados que actúen como ACyD. Los Emisores también podrán ser PyME CNV, que podrán llevar a cabo emisiones que sean PyME CNV GARANTIZADA. En el caso del artículo 74 de la presente Sección, se permitirá a las emisiones PyME CNV GARANTIZADAS (sean las primeras emisiones o subsiguientes) u otras emisiones que sean totalmente garantizadas por Entidades de Garantía emitir el monto ampliado permitido por dicho artículo.
+1. La oferta sea realizada por uno o más Emisores, pudiendo contar con la participación de una cantidad ilimitada de Agentes registrados que actúen como ACD. Los Emisores también podrán ser PyME CNV, que podrán llevar a cabo emisiones que sean PyME CNV Garantizada. En el caso del artículo 74 de la presente Sección, se permitirá a las emisiones PyME CNV Garantizadas (sean las primeras emisiones o subsiguientes) u otras emisiones que sean totalmente garantizadas por Entidades de Garantía, emitir el monto ampliado permitido por dicho artículo.
 
 2. Sólo podrán participar en la colocación primaria y en la negociación secundaria Inversores Calificados, sin limitación de número. No se admitirán inversores que no sean Inversores Calificados.
 
-Sin embargo, en las emisiones PyME CNV GARANTIZADA u otras emisiones que sean totalmente garantizadas por Entidades de Garantía podrán participar en la colocación primaria y en la negociación secundaria, sin limitación de número, inversores que no sean Inversores Calificados, atento a que dichas emisiones son garantizadas por Entidades de Garantía y, por ende, entrañan riesgos diferentes.
+Sin embargo, en las emisiones a) PyME CNV Garantizada, b) otras emisiones que sean totalmente garantizadas por Entidades de Garantía; o c) Emisoras que se encuentren autorizadas a la oferta pública bajo el Régimen General de Oferta Pública de ON o Acciones en tanto y en cuanto cumplan con el régimen informativo previsto en dicho régimen; podrán participar en la colocación primaria y en la negociación secundaria, sin limitación de número, cualquier tipo de inversor (sean Inversores Calificados o Inversores no Calificados).
 
-3. Los valores negociables deberán ser obligaciones negociables emitidas conforme la Ley de Obligaciones Negociables, incluyendo Valores de Corto Plazo que se emitan mediante obligaciones negociables, que no sean convertibles en acciones.
+3. Los valores negociables deberán ser obligaciones negociables emitidas conforme la Ley de Obligaciones Negociables, incluyendo los valores de corto plazo que se emitan mediante ON, que no sean convertibles en Acciones.
 
 4. La invitación a ofertar podrá realizarse por cualquier medio incluido en la definición de oferta pública del artículo 2° de la Ley de Mercado de Capitales y de conformidad con estas Normas.
 
-5. El Emisor podrá optar por realizar emisiones como clases o series autónomas, o emitir en el marco de programas globales (autorizados o no), incluso bajo el régimen de EF.
+5. El Emisor podrá optar por realizar emisiones como clases o series autónomas, o emitir en el marco de programas globales (autorizados o no), incluso bajo el Régimen de EF.
 
-6. Las condiciones establecidas en los artículos 65, 66, 69 inciso 1, 73, 75 y, en su caso, 74 inciso 1 de la presente Sección.
+6. Las condiciones establecidas en los artículos 65, 66, 69 inciso 1, 73, 75 y, en su caso, 74 inciso 1, de la presente Sección.
+
+[Artículo sustituido por art. 2° de la RG 1117/2026, BO 06/03/2026]
 
 MONTO. LÍMITE.
 ARTÍCULO 65.- Excepto por lo dispuesto en el artículo 74 de la presente Sección, el monto nominal total de los valores negociables emitidos al momento de efectuar el cálculo para la emisión de una nueva clase, serie o programa, no deberá superar UVA UN MILLÓN (1.000.000), o su equivalente al cierre del día anterior a la fecha de emisión de los valores negociables en pesos o en moneda extranjera, en este caso, calculado al Tipo de Cambio de Referencia Comunicación “A” 3500 del BCRA; o, si se trata de una moneda extranjera distinta al dólar estadounidense, al tipo de cambio vendedor divisa del BNA.
@@ -696,11 +698,15 @@ Los Emisores deberán presentar toda la documentación dirigida a los Mercados.
 [Inciso 1 sustituido por art. 1° de la RG 1099/2025, BO 26/12/2025]
 
 OBLIGACIÓN DE LISTADO. NEGOCIACIÓN SECUNDARIA DE LOS VALORES NEGOCIABLES.
-ARTÍCULO 71.- Los valores negociables emitidos bajo el presente régimen deberán ser colocados y listados en un Mercado autorizado por esta Comisión, en un panel específico determinado por dicho mercado.
+ARTÍCULO 71.- Los valores negociables emitidos bajo el presente régimen deberán ser colocados y listados en un Mercado autorizado por la CNV, en un panel específico determinado por dicho mercado.
 
-Los Mercados no podrán establecer mayores requisitos para el listado y/o negociación de los valores negociables autorizados bajo este régimen, ni exigir mayores requisitos para el retiro de listado a los exigidos por esta Comisión. En este sentido, deberán adecuar el ingreso a sus plataformas digitales a los lineamientos de la presente Sección de manera de no desvirtuar la simplicidad de emisión prevista por este Régimen de Oferta Pública con Autorización Automática por su Bajo Impacto. No obstante, en el caso de los valores negociables emitidos bajo los “Lineamientos para la Emisión de Valores Negociables Temáticos en Argentina”, los Mercados podrán establecer requisitos adicionales para garantizar la transparencia y su alineación con los Principios de ICMA (International Capital Markets Association), siempre que los mismos estén exclusivamente orientados a cumplir con los referidos principios y/o a los efectos de verificar el carácter SVS+ de la emisión, sin imponer excesivas cargas a los Emisores.
+Los Mercados no podrán establecer mayores requisitos para el listado y/o negociación de los valores negociables autorizados bajo este régimen, ni exigir mayores requisitos para el retiro de listado a los exigidos por la CNV. En este sentido, deberán adecuar el ingreso a sus plataformas digitales a los lineamientos de la presente Sección de manera de no desvirtuar la simplicidad de emisión prevista por este Régimen de Oferta Pública de ON con Autorización Automática por su Bajo Impacto. No obstante, en el caso de los valores negociables emitidos bajo los “Lineamientos para la Emisión de Valores Negociables Temáticos en Argentina”, los Mercados podrán establecer requisitos adicionales para garantizar la transparencia y su alineación con los Principios de ICMA ( International Capital Markets Association), siempre que los mismos estén exclusivamente orientados a cumplir con los referidos principios y/o a los efectos de verificar el carácter SVS+ de la emisión, sin imponer excesivas cargas a los Emisores.
 
-Los inversores podrán transferir libremente a otros Inversores Calificados los valores negociables, sin restricciones en cualquier momento, o a inversores que no sean Inversores Calificados, en los casos de las emisiones PyME CNV Garantizadas y de las emisiones totalmente garantizadas por Entidades de Garantía.
+Los inversores podrán transferir libremente a otros Inversores Calificados los valores negociables, sin restricciones en cualquier momento, o a inversores que no sean Inversores Calificados, en los casos de: 1. Las emisiones PyME CNV Garantizadas; 2. Las emisiones totalmente garantizadas por Entidades de Garantía; o 3. Las emisiones de una Emisora cuyas ON o acciones se encuentren autorizadas bajo el Régimen General en tanto y en cuanto cumplan con el régimen informativo previsto en dicho régimen.
+
+En este último caso, tampoco regirá la exigencia de panel específico referida en este artículo.
+
+[Artículo sustituido por art. 3° de la RG 1117/2026, BO 06/03/2026]
 
 TRANSPARENCIA.
 ARTÍCULO 72.- La admisión al Régimen de Oferta Pública con Autorización Automática por su Bajo Impacto, no exime al Emisor ni a los participantes en la colocación primaria durante la vigencia del Emisor en el régimen, de cumplir en todo momento con las normas de transparencia de los artículos 117 y concordantes de la Ley de Mercado de Capitales y de estas Normas.
@@ -803,19 +809,23 @@ ARTÍCULO 82.- Se considerará una oferta de valores negociables como Oferta Pú
 
 1. El Emisor debe ingresar al Régimen de Oferta Pública según el artículo 85 de la presente Sección o encontrarse ya en el mismo.
 
-2. La oferta sea realizada por uno o más Emisores, pudiendo contar con la participación de una cantidad ilimitada de Agentes registrados que actúen como ACyD.
+2. La oferta sea realizada por uno o más Emisores, pudiendo contar con la participación de una cantidad ilimitada de Agentes registrados que actúen como ACD.
 
 3. Sólo podrán participar en la colocación primaria y en la negociación secundaria Inversores Calificados, sin limitación de número. No se admitirán inversores que no sean Inversores Calificados.
 
-4. Los valores negociables deberán ser obligaciones negociables emitidas conforme a la Ley de Obligaciones Negociables, incluyendo Valores de Corto Plazo que se emitan mediante Obligaciones Negociables, en ambos casos, que no sean convertibles en acciones.
+Esta limitación no será aplicable a aquellas Emisoras que se encuentren autorizadas a la oferta pública bajo el Régimen General de Oferta Pública de ON o Acciones en tanto y en cuanto cumplan con el régimen informativo previsto en dicho régimen, por lo que podrán participar, en la colocación primaria y en la negociación secundaria, sin limitación de número, cualquier tipo de inversor (sea o no Inversor Calificado).
+
+4. Los valores negociables deberán ser ON emitidas conforme a la Ley de Obligaciones Negociables, incluyendo los valores de corto plazo que se emitan mediante ON, en ambos casos, que no sean convertibles en Acciones.
 
 5. La oferta podrá realizarse por cualquier medio incluido en la definición de oferta pública del artículo 2° de la Ley de Mercado de Capitales y de conformidad con estas Normas.
 
-6. El Emisor podrá optar por realizar emisiones como clases o series autónomas, o emitir en el marco de programas globales (ya autorizados o no) incluso bajo el Régimen de EF.
+6. El Emisor podrá optar por realizar emisiones como clases o series autónomas, o emitir en el marco de programas globales (ya autorizados o no), incluso bajo el Régimen de EF.
 
-7. Las condiciones establecidas en los artículos 83, 84, 88 inciso 1, 95 y 97 de la presente Sección.
+7. Las condiciones establecidas en los artículos 83, 84, 88, inciso 1, 95 y 97 de la presente Sección.
 
-8. Se cumplan las condiciones establecidas en los artículos 85, 87 y 88 de la presente Sección, y las disposiciones establecidas en el Capítulo I del Título XII de estas Normas, en su caso.
+8. Se cumplan las condiciones establecidas en los artículos 85, 87 y 88 de la presente Sección y las disposiciones establecidas en el Capítulo I del Título XII de estas Normas, en su caso.
+
+[Artículo sustituido por art. 4° de la RG 1117/2026, BO 06/03/2026]
 
 MONTO. LÍMITE.
 ARTÍCULO 83.- El monto nominal máximo de los valores negociables emitidos al momento de efectuar el cálculo para la emisión de una nueva clase o serie, no deberá superar los UVA SIETE MILLONES (7.000.000), o su equivalente al cierre del día anterior a la fecha de emisión de los valores negociables en pesos o en moneda extranjera, en este caso, calculado al Tipo de Cambio de Referencia Comunicación “A” 3500 del BCRA; o, si se trata de una moneda extranjera distinta al dólar estadounidense, al tipo de cambio vendedor divisa del BNA.
@@ -897,11 +907,15 @@ ARTÍCULO 91.- El Emisor comprendido en esta Sección, deberá informar a travé
 2. hechos de cualquier naturaleza y acontecimientos fortuitos que obstaculicen o puedan obstaculizar seriamente el desenvolvimiento de sus actividades o la capacidad de pago de las Emisoras.
 
 OBLIGACIÓN DE LISTADO. NEGOCIACIÓN SECUNDARIA DE LOS VALORES NEGOCIABLES.
-ARTÍCULO 92.- Los valores negociables emitidos bajo el presente Régimen de Oferta Pública con Autorización Automática por su Mediano Impacto deberán ser colocados y listados en un Mercado autorizado por esta Comisión, en un panel específico determinado por dicho Mercado.
+ARTÍCULO 92.- Los valores negociables emitidos bajo el presente Régimen de Oferta Pública de ON con Autorización Automática por su Mediano Impacto deberán ser colocados y listados en un Mercado autorizado por la CNV, en un panel específico determinado por dicho Mercado.
 
 Los Mercados no podrán establecer mayores requisitos para el listado de los valores negociables autorizados bajo este régimen, ni exigir mayores requisitos para el retiro de listado a los exigidos por la CNV. En este sentido, deberán adecuar el ingreso a sus plataformas digitales a los lineamientos de la presente Sección de manera de no desvirtuar la relativa simplicidad de emisión prevista por este régimen. No obstante lo anterior, en el caso de los valores negociables emitidos bajo los “Lineamientos para la Emisión de Valores Negociables Temáticos en Argentina”, los Mercados podrán establecer requisitos adicionales para garantizar la transparencia y su alineación con los Principios de ICMA (International Capital Markets Association), siempre que los mismos estén exclusivamente orientados a cumplir con los referidos principios o a los efectos de verificar el carácter SVS+ de la emisión, sin imponer excesivas cargas a los Emisores.
 
-Los inversores podrán transferir libremente los valores negociables, sin restricciones en cualquier momento a otros Inversores Calificados.
+Los inversores podrán transferir libremente a otros Inversores Calificados los valores negociables, sin restricciones en cualquier momento, o a inversores que no sean Inversores Calificados, cuando se trate de una Emisora cuyas ON o acciones se encuentren autorizadas bajo el Régimen General en tanto y en cuanto cumplan con el régimen informativo previsto en dicho régimen.
+
+En este último caso, tampoco regirá la exigencia de panel específico referida en este artículo.
+
+[Artículo sustituido por art. 5° de la RG 1117/2026, BO 06/03/2026]
 
 AUTOPISTA DE LA INFORMACIÓN FINANCIERA.
 ARTÍCULO 93.- El Emisor deberá dar cumplimiento al régimen informativo simplificado , según el artículo 90 de esta Sección, y dar de alta en el subsistema de instrumentos en la AIF correspondiente, las clases o series emitidas, manteniendo actualizada la información respecto a los avisos de resultados y de pago, o cualquier otro formulario a través de la AIF, conforme lo establecido en el Título XV de estas Normas; entendiéndose que por la aplicación del referido Título, no podrá exigirse cualquier otra información distinta de la requerida en virtud de la presente Sección.

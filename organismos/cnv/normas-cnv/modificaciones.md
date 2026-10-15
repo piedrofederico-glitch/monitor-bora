@@ -22,6 +22,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), término “Régimen General” o “Régimen ordinario” | modifica parcialmente | RG 1110/2026 | 1° | 23/02/2026 |
 | art. 2° (Secc. II), términos “CAFCI”, “FCIA”, “FCIC”, “GDE” y “RLPA” | modifica parcialmente | RG 1112/2026 | 1° | 26/02/2026 |
 | art. 2° (Secc. II), términos “Ley de Administración Financiera...” y “Resolución Técnica” o “RT” | modifica parcialmente | RG 1115/2026 | 1° | 02/03/2026 |
+| art. 2° (Secc. II), 5 términos de regímenes con autorización automática | modifica parcialmente | RG 1117/2026 | 1° | 06/03/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -45,6 +46,10 @@ Archivo: `vigente/titulo-II/capitulo-V.md`
 | capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
 | art. 70 (Secc. IX), inc. 1 | modifica parcialmente | RG 1099/2025 | 1° | 26/12/2025 |
 | Secc. XIV (completa) | incorpora | RG 1110/2026 | 2° | 23/02/2026 |
+| art. 64 (Secc. IX) | sustituye | RG 1117/2026 | 2° | 06/03/2026 |
+| art. 71 (Secc. IX) | sustituye | RG 1117/2026 | 3° | 06/03/2026 |
+| art. 82 (Secc. XI) | sustituye | RG 1117/2026 | 4° | 06/03/2026 |
+| art. 92 (Secc. XI) | sustituye | RG 1117/2026 | 5° | 06/03/2026 |
 
 ## Título II, Capítulo VI
 Archivo: `vigente/titulo-II/capitulo-VI.md`

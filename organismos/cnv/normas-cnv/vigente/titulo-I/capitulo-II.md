@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1115/2026 (BO 02/03/2026)
+Última modificación: RG 1117/2026 (BO 06/03/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -226,6 +226,14 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Obligaciones Negociables” y “ON” significa los valores representativos de deuda, emitidos por las entidades admitidas por Ley de Obligaciones Negociables, cumpliendo las condiciones allí previstas y en estas Normas.
 
+“Oferta Pública de Acciones con Autorización Automática por su Bajo Impacto” significa el régimen de autorización automática previsto en la Sección XII del Título II de estas Normas.
+
+“Oferta Pública de Acciones con Autorización Automática por su Mediano Impacto” significa el régimen de autorización automática previsto en la Sección XIII del Título II de estas Normas.
+
+“Oferta Pública de ON con Autorización Automática por su Bajo Impacto” significa el régimen de autorización automática previsto en la Sección IX del Título II de estas Normas.
+
+“Oferta Pública de ON con Autorización Automática por su Mediano Impacto” significa el régimen de autorización automática previsto en la Sección XI del Título II de estas Normas.
+
 “Oferta Pública Inicial” o “IPO”, por su sigla en inglés, significa la operación mediante la cual una Emisora ofrece acciones en suscripción o sus accionistas venden por primera vez sus acciones en un Mercado autorizado por la CNV, cualquiera fuera que sucediere primero.
 
 “OPA de Retiro” es una OPA por retiro del régimen de oferta pública por acciones.
@@ -233,6 +241,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 “OPA” significa Oferta Pública de Adquisición de acciones.
 
 “Organizador” significa las personas humanas o jurídicas designadas por la Emisora para realizar actividades de coordinación de los participantes en la transacción, gestión de la oferta pública ante las autoridades correspondientes y diseño de la estructura financiera de la emisión, así como cualquier otra actividad que tenga por finalidad llevar adelante el ofrecimiento de valores negociables mediante el procedimiento de oferta pública, con arreglo a lo dispuesto en la Ley de Mercado de Capitales y su reglamentación.
+
+“Otras Ofertas Públicas con Autorización Automática” significa el régimen de autorización automática previsto en la Sección X del Título II de estas Normas.
 
 “PFC” significa Plataforma de Financiamiento Colectivo.
 
@@ -327,6 +337,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos “CAFCI”, “FCIA”, “FCIC”, “GDE” y “RLPA” incorporados por art. 1° de la RG 1112/2026, BO 26/02/2026]
 
 [Términos “Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional” y “Resolución Técnica” o “RT” incorporados por art. 1° de la RG 1115/2026, BO 02/03/2026]
+
+[Términos de los regímenes de oferta pública con autorización automática incorporados por art. 1° de la RG 1117/2026, BO 06/03/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

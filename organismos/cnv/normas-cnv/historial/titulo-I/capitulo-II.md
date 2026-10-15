@@ -305,3 +305,17 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > “RePET” significa Registro Público de Personas y Entidades vinculadas a actos de Terrorismo y su Financiamiento.
 >
 > “Representación Digital” significa la forma de representación adicional de ciertos valores negociables prevista en el Capítulo I del Título XXII de estas Normas.
+
+## Artículo 2 (Sección II) — fragmento
+- Vigente desde: 03/03/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 06/03/2026
+- Sustituido/suprimido parcialmente por: RG 1117/2026, art. 1°
+- Texto:
+
+> “Oferta Pública Inicial” o “IPO”, por su sigla en inglés, significa la operación mediante la cual una Emisora ofrece acciones en suscripción o sus accionistas venden por primera vez sus acciones en un Mercado autorizado por la CNV, cualquiera fuera que sucediere primero.
+>
+> “OPA de Retiro” es una OPA por retiro del régimen de oferta pública por acciones.
+>
+> “OPA” significa Oferta Pública de Adquisición de acciones.
+>
+> “Organizador” significa las personas humanas o jurídicas designadas por la Emisora para realizar actividades de coordinación de los participantes en la transacción, gestión de la oferta pública ante las autoridades correspondientes y diseño de la estructura financiera de la emisión, así como cualquier otra actividad que tenga por finalidad llevar adelante el ofrecimiento de valores negociables mediante el procedimiento de oferta pública, con arreglo a lo dispuesto en la Ley de Mercado de Capitales y su reglamentación.
