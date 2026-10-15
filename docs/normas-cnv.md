@@ -71,6 +71,8 @@ Operaciones: sustituye, incorpora, deroga, modifica parcialmente, renumera. Las 
    5. Hacé **un commit por RG**: `normas-cnv: aplica RG <n>/<año>`.
 4. **Control contra InfoLEG.** InfoLEG publica el texto actualizado de las Normas: es el anexo de la RG 622/2013, `https://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/219405/texact.htm` y sus vínculos por título. Al terminar, compará por capítulo `vigente/` contra InfoLEG. Registrá las diferencias en `base.md`, con la explicación de cada una (error propio, demora de InfoLEG, criterio de consolidación).
 
+5. **Cierre.** Si mientras trabajabas se publicaron RG nuevas, aplicalas también. Al final, escribí en la primera línea de `base.md`: `Estado: construcción terminada (última RG aplicada: <n>/<año>)`. Desde ese momento, el mantenimiento pasa al Especialista CNV.
+
 ## Mantenimiento diario (Especialista CNV)
 
 Cuando llega una RG nueva:

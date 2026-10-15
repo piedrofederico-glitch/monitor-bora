@@ -26,6 +26,8 @@ El mensaje trae la fecha (`AAAAMMDD`), tu `slug` y la lista de archivos nuevos e
 
 El Especialista CNV mantiene además el texto consolidado de las Normas, con historial de redacciones anteriores. Seguí la sección "Mantenimiento diario" de `docs/normas-cnv.md` para cada RG nueva, antes de escribir el informe.
 
+**Guarda:** mientras `organismos/cnv/normas-cnv/base.md` no diga `Estado: construcción terminada`, no toques `normas-cnv/` ni `rg/`. La sesión "BORA · Construcción Normas CNV" incorpora las RG que se publiquen mientras trabaja. Mencioná en tu informe que la consolidación está en curso.
+
 ## Estructura del dossier
 
 ```
