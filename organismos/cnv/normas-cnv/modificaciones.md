@@ -288,3 +288,4 @@ Archivo: `vigente/titulo-XXI/capitulo-I.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | Secc. I (completa) | sustituye | RG 1109/2026 | 3° | 20/02/2026 |
+| art. 1° (Secc. I) | sustituye | RG 1114/2026 | 1° | 27/02/2026 |

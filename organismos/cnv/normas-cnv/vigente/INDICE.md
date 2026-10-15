@@ -88,5 +88,5 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVIII/capitulo-XVII.md`](titulo-XVIII/capitulo-XVII.md) | Título XVIII — Capítulo XVII: RÉGIMEN DE REGULARIZACIÓN DE ACTIVOS. LEY N° 27.743 – MEDIDAS FISCALES PALIATIVAS Y RELEVANTES. | RG 1099/2025 (BO 26/12/2025) |
 | [`titulo-XX/capitulo-I.md`](titulo-XX/capitulo-I.md) | Título XX — Capítulo I: PUERTOS SEGUROS PARA OFERTAS PRIVADAS DE VALORES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XX/capitulo-II.md`](titulo-XX/capitulo-II.md) | Título XX — Capítulo II: DISPOSICIONES COMUNES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XXI/capitulo-I.md`](titulo-XXI/capitulo-I.md) | Título XXI — Capítulo I: REGLAMENTACIÓN DECRETO N° 1017/24 | RG 1109/2026 (BO 20/02/2026) |
+| [`titulo-XXI/capitulo-I.md`](titulo-XXI/capitulo-I.md) | Título XXI — Capítulo I: REGLAMENTACIÓN DECRETO N° 1017/24 | RG 1114/2026 (BO 27/02/2026) |
 | [`titulo-XXII/capitulo-I.md`](titulo-XXII/capitulo-I.md) | Título XXII — Capítulo I: REPRESENTACION DIGITAL DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
