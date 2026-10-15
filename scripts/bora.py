@@ -210,11 +210,19 @@ def escribir(ruta, contenido):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--fecha", default=dt.datetime.now(dt.timezone(dt.timedelta(hours=-3))).strftime("%Y%m%d"))
-    fecha = ap.parse_args().fecha
+    ap.add_argument("--esperar-minutos", type=int, default=0,
+                    help="si la edición todavía no está publicada, reintenta cada 5 min hasta este plazo")
+    args = ap.parse_args()
+    fecha = args.fecha
     orgs = json.load(open(os.path.join(RAIZ, "config/organismos.json"), encoding="utf-8"))
     temas = json.load(open(os.path.join(RAIZ, "config/temas.json"), encoding="utf-8"))
 
+    limite = time.time() + args.esperar_minutos * 60
     avisos = listar_avisos(fecha)
+    while not avisos and time.time() < limite:
+        print(f"{fecha}: edición sin publicar todavía, reintento en 5 minutos", file=sys.stderr)
+        time.sleep(300)
+        avisos = listar_avisos(fecha)
     print(f"{fecha}: {len(avisos)} avisos en la primera sección")
     resumen = {"fecha": fecha, "total_avisos": len(avisos), "organismos": {k: [] for k in orgs},
                "temas_candidatos": []}

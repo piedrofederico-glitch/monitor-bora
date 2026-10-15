@@ -1,14 +1,18 @@
 # Corrida diaria
 
-La ejecuta la tarea programada de lunes a viernes. Cada corrida arranca en una sesión nueva.
+La ejecuta la tarea programada de lunes a viernes a las 05:55 (hora Argentina). Cada corrida arranca en una sesión nueva.
+
+**Objetivo horario:** el mail tiene que salir entre las 07:00 y las 07:30. Nunca después de las 07:30: si algo se demora, mandá lo que tengas.
 
 ## 1. Descargar
 
 ```bash
-python3 scripts/bora.py            # fecha de hoy (hora Argentina)
+python3 scripts/bora.py --esperar-minutos 50   # fecha de hoy (hora Argentina)
 ```
 
-Leé `runs/<AAAAMMDD>.json`. Si `total_avisos` es 0 (feriado o edición aún no publicada), terminá: sin mail ni mensajes, y explicá el motivo en la respuesta final.
+Si la edición todavía no está publicada, el script reintenta cada 5 minutos hasta 50 minutos. Corrélo en segundo plano (`run_in_background`) para no chocar con el timeout de comandos.
+
+Leé `runs/<AAAAMMDD>.json`. Si `total_avisos` es 0 después de esperar (feriado o edición demorada), terminá sin mensajes a especialistas y mandá un mail corto: "BORA <DD/MM/AAAA> — edición no publicada a las <hora>".
 
 ## 2. Commitear
 
@@ -38,7 +42,7 @@ No mandes mensaje a quien no tiene novedades.
 Corré en segundo plano (`run_in_background`), con los slugs a los que escribiste (`temas` para el Analista):
 
 ```bash
-python3 scripts/esperar_informes.py <AAAAMMDD> cnv bcra temas --minutos 45
+python3 scripts/esperar_informes.py <AAAAMMDD> cnv bcra temas --minutos 45 --hasta 07:15
 ```
 
 ## 5. Enviar el mail

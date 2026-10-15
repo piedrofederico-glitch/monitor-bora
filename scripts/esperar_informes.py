@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Espera a que los especialistas suban sus informes del día.
 
-Uso: python3 scripts/esperar_informes.py AAAAMMDD slug1 [slug2 ...] [--minutos 45]
+Uso: python3 scripts/esperar_informes.py AAAAMMDD slug1 [slug2 ...] [--minutos 45] [--hasta 07:15]
 Hace git pull cada minuto hasta encontrar informes/<fecha>/<slug>.md para todos los slugs
 o hasta agotar el plazo. Imprime cuáles llegaron y cuáles faltan.
 """
@@ -16,9 +16,16 @@ ap = argparse.ArgumentParser()
 ap.add_argument("fecha")
 ap.add_argument("slugs", nargs="+")
 ap.add_argument("--minutos", type=int, default=45)
+ap.add_argument("--hasta", help="hora límite HH:MM (Argentina); gana la que llegue primero")
 a = ap.parse_args()
 
 limite = time.time() + a.minutos * 60
+if a.hasta:
+    import datetime as dt
+    tz = dt.timezone(dt.timedelta(hours=-3))
+    ahora = dt.datetime.now(tz)
+    h, m = map(int, a.hasta.split(":"))
+    limite = min(limite, ahora.replace(hour=h, minute=m, second=0, microsecond=0).timestamp())
 while True:
     subprocess.run(["git", "-C", RAIZ, "pull", "-q", "--rebase", "origin", "main"], capture_output=True)
     faltan = [s for s in a.slugs if not os.path.exists(os.path.join(RAIZ, "informes", a.fecha, f"{s}.md"))]
