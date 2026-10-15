@@ -22,6 +22,10 @@ El mensaje trae la fecha (`AAAAMMDD`), tu `slug` y la lista de archivos nuevos e
 6. Commit y push (`especialista-<slug>: <fecha> informe y dossier`).
 7. Respondé en esta conversación con 2 o 3 líneas: qué procesaste y si algo merece atención especial.
 
+## Solo CNV: Normas (N.T. 2013 y mod.)
+
+El Especialista CNV mantiene además el texto consolidado de las Normas, con historial de redacciones anteriores. Seguí la sección "Mantenimiento diario" de `docs/normas-cnv.md` para cada RG nueva, antes de escribir el informe.
+
 ## Estructura del dossier
 
 ```
