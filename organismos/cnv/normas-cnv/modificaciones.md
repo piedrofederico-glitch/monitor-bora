@@ -231,6 +231,13 @@ Archivo: `vigente/titulo-VII/capitulo-I.md`
 | art. 25 | incorpora | RG 1102/2025 | 5° | 31/12/2025 |
 | art. 26 | incorpora | RG 1102/2025 | 5° | 31/12/2025 |
 
+## Título VII, Capítulo II
+Archivo: `vigente/titulo-VII/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 35 | sustituye | RG 1122/2026 | 1° | 31/03/2026 |
+
 ## Título VIII, Capítulo I
 Archivo: `vigente/titulo-VIII/capitulo-I.md`
 
@@ -251,6 +258,13 @@ Texto derogado: `historial/titulo-XIV/capitulo-II-derogado-RG-1118-2026.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | deroga | RG 1118/2026 | 1° | 06/03/2026 |
+
+## Título XV, Capítulo I
+Archivo: `vigente/titulo-XV/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 11 (Secc. IV), inc. L), subinc. 44) | modifica parcialmente | RG 1122/2026 | 2° | 31/03/2026 |
 
 ## Título XVI, Capítulo I
 Archivo: `vigente/titulo-XVI/capitulo-I.md`
@@ -304,6 +318,13 @@ Archivo: `vigente/titulo-XVIII/capitulo-IV.md`
 | art. 1° | sustituye | RG 1099/2025 | 3° | 26/12/2025 |
 | art. 15 | incorpora | RG 1113/2026 | 3° | 27/02/2026 |
 | art. 15 | sustituye | RG 1120/2026 | 1° | 13/03/2026 |
+
+## Título XVIII, Capítulo V
+Archivo: `vigente/titulo-XVIII/capitulo-V.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 22 | incorpora | RG 1122/2026 | 3° | 31/03/2026 |
 
 ## Título XVIII, Capítulo XI
 Archivo: `vigente/titulo-XVIII/capitulo-XI.md`

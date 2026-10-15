@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES.
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1122/2026 (BO 31/03/2026)
 Fuente: PDF base, págs. 928–935.
 
 ADECUACIÓN PATRIMONIO NETO MÍNIMO AN, ALYC Y AAGI.
@@ -159,3 +159,14 @@ ARTÍCULO 21.- Los ALyC, en el marco de las disposiciones del artículo 35 del C
 1.- hasta el 15 de enero de 2026: la información requerida en el formulario “Pasivos Financieros”, para los cierres mensuales correspondientes al 31 de agosto, 30 de septiembre, 31 de octubre y 30 de noviembre de 2025, debiendo informar la totalidad de los acuerdos de préstamo o alquiler de valores negociables celebrados con anterioridad al 31 de julio de 2025 y con vencimiento posterior a dicha fecha.
 
 2.- hasta el 30 de enero de 2026: la información requerida en el formulario “Pasivos Financieros” para el cierre mensual correspondiente al 31 de diciembre de 2025.
+
+CRONOGRAMA DE CUMPLIMIENTO.
+ARTÍCULO 22.- Los ALyC, en el marco de las disposiciones del artículo 35 del Capítulo II del Título VII de estas Normas, desde la fecha de entrada en vigencia de la Resolución General N° 1122, deberán remitir a través de la AIF:
+
+1. Hasta el 1° de mayo de 2026: la información histórica correspondiente a las cauciones, pases, cheques y pagaré, relativa a los cierres mensuales del 31 de agosto, 30 de septiembre, 31 de octubre, 30 de noviembre y 31 de diciembre de 2025; y 31 de enero y 28 de febrero de 2026. Dicha información deberá ser remitida a través del formulario “AGE_ 033–Pasivos Financieros – complementario”.
+
+2. Hasta el 15 de abril de 2026: la información completa correspondiente al cierre del 31 de marzo de 2026. Dicha información deberá ser remitida a través del formulario “AGE_ 030– Pasivos Financieros”, conforme las pautas establecidas en la “Guía de Pasivos Financieros” (https://www.argentina.gob.ar/sites/default/files/guia_para_la_carga_del_formulario_pa sivos_financieros_vf.pdf ).
+
+3. Respecto de la información correspondiente al cierre del 30 de abril de 2026 y en adelante, la misma deberá se remitida dentro del plazo establecido en el artículo 35 del Capítulo II del Título VII de estas Normas y bajo el formulario indicado en el inciso 2 precedente
+
+[Artículo incorporado por art. 3° de la RG 1122/2026, BO 31/03/2026]

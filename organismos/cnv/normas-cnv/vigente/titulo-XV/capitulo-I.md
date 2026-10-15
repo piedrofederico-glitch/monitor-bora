@@ -1,5 +1,5 @@
 # Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1122/2026 (BO 31/03/2026)
 Fuente: PDF base, págs. 862–884.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -1325,6 +1325,8 @@ L) AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN (ALyC):
 
 43) AGE_ 030– Pasivos Financieros.
 
+44) AGE_ 033–Pasivos Financieros – complementario
+
 M) AGENTES PRODUCTORES (AP):
 
 1) Requisitos generales para personas jurídicas:
@@ -1723,3 +1725,5 @@ S) PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES:
 21) PSAV_017 - Convenios con Terceros sobre actividades PSAV.
 
 22) PSAV_018 - Acta Constitutiva y Estatuto vigente PSAV.
+
+[Subinciso 44) del inciso L) incorporado por art. 2° de la RG 1122/2026, BO 31/03/2026]
