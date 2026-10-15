@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1109/2026 (BO 20/02/2026)
+Última modificación: RG 1110/2026 (BO 23/02/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -252,6 +252,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Ratio del CEVA” o “Ratio de conversión” significa la proporción existente entre el CEVA y el valor negociable subyacente emitido en el país.
 
+“Régimen General” o “Régimen ordinario” significa régimen de la CNV aplicable a la oferta pública de valores negociables cuando la Emisora no se encuentra comprendida en un régimen especial”.
+
 “Régimen Informativo Periódico” significa el previsto en el Título IV de estas Normas.
 
 “Régimen Informativo”, “Régimen Informativo Simplificado”, “Régimen Informativo Especial”, “Régimen Informativo Diferenciado”, o cualquier otra expresión similar, excepto por el Régimen Informativo Periódico, estará referida a las disposiciones específicas que le resultarán exigibles a las Emisoras u otros sujetos regulados por esta Comisión.
@@ -305,6 +307,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos “FCE MiPyMEs” y “VNEI” incorporados por art. 1° de la RG 1107/2026, BO 13/02/2026]
 
 [Términos “Ley de Régimen Penal Tributario” y “Ley de Prevención de la Evasión Fiscal” incorporados por art. 1° de la RG 1108/2026, BO 20/02/2026]
+
+[Término “Régimen General” o “Régimen ordinario” incorporado por art. 1° de la RG 1110/2026, BO 23/02/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

@@ -19,6 +19,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), términos “FCE MiPyMEs” y “VNEI” | modifica parcialmente | RG 1107/2026 | 1° | 13/02/2026 |
 | art. 2° (Secc. II), términos “Ley de Régimen Penal Tributario” y “Ley de Prevención de la Evasión Fiscal” | modifica parcialmente | RG 1108/2026 | 1° | 20/02/2026 |
 | art. 3° (Secc. III), expresión “Agentes inscriptos en el registro a cargo de la CNV” | modifica parcialmente | RG 1109/2026 | 1° | 20/02/2026 |
+| art. 2° (Secc. II), término “Régimen General” o “Régimen ordinario” | modifica parcialmente | RG 1110/2026 | 1° | 23/02/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -41,6 +42,7 @@ Archivo: `vigente/titulo-II/capitulo-V.md`
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
 | art. 70 (Secc. IX), inc. 1 | modifica parcialmente | RG 1099/2025 | 1° | 26/12/2025 |
+| Secc. XIV (completa) | incorpora | RG 1110/2026 | 2° | 23/02/2026 |
 
 ## Título II, Capítulo VI
 Archivo: `vigente/titulo-II/capitulo-VI.md`

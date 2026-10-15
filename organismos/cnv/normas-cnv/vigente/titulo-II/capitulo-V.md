@@ -1,5 +1,5 @@
 # Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA
-Última modificación: RG 1099/2025 (BO 26/12/2025)
+Última modificación: RG 1110/2026 (BO 23/02/2026)
 Fuente: RG 1095/2025, art. 2°.
 
 ### SECCIÓN I — OFERTA PÚBLICA.
@@ -1241,6 +1241,116 @@ ARTÍCULO 126.- Si la oferta pública no cumple con los requisitos de los artíc
 Si se incumple cualquier otro requisito de esta Sección, el oferente estará sujeto a sanciones disciplinarias conforme lo establecido en la Ley de Mercado de Capitales y en estas Normas.
 
 Las tasas impagas serán tratadas según lo dispuesto en el artículo 125 precedente, sin perjuicio de su ejecución.
+
+### SECCIÓN XIV — CAMBIO DE RÉGIMEN.
+
+DISPOSICIONES GENERALES.
+ARTÍCULO 127.- Las Emisoras comprendidas en el Régimen General de Oferta Pública o en el Régimen PyME CNV, ya sea que se encuentren admitidas por acciones o por ON, podrán solicitar el cambio a cualquiera de los regímenes establecidos por la CNV, siempre que cumplan con los requisitos previstos para el régimen al que pretendan incorporarse y los definidos en esta Sección.
+
+Las Emisoras, que soliciten el cambio de régimen, no podrán adeudar el pago de la tasa de fiscalización y control anual ni encontrarse en mora en el pago de las sumas correspondientes a los servicios de interés o capital de los valores negociables emitidos. Tampoco podrán encontrarse en concurso preventivo o APE.
+
+ARTÍCULO 128.- El cambio de régimen deberá ser aprobado por la asamblea extraordinaria de accionistas, con el quórum y las mayorías previstas en la Ley General de Sociedades, en el estatuto social y, en su caso, en los términos y condiciones de emisión de los valores negociables en cuestión.
+
+Cuando el cambio de régimen involucre exclusivamente valores negociables de deuda, deberá ser aprobado por el órgano social competente o con el consentimiento de tenedores previsto en las condiciones de emisión correspondientes.
+
+ARTÍCULO 129.- La convocatoria a la asamblea deberá incluir como punto expreso del orden del día el tratamiento del cambio de régimen y, de corresponder, la formulación de la OPA con indicación del precio equitativo conforme las pautas establecidas por el artículo 88, Apartado II y concordantes de la Ley de Mercado de Capitales y en la Sección III del Capítulo II del Título III de estas Normas, cuyo pago podrá ser efectuado por la propia Emisora o por sus accionistas controlantes.
+
+ARTÍCULO 130.- La decisión de promover el cambio de régimen deberá ser comunicada como Hecho Relevante en forma inmediata a la decisión del órgano de administración de convocar a asamblea para su tratamiento, debiendo incluir, en su caso, el precio a ser ofrecido.
+
+La asamblea deberá justificar expresamente tanto la decisión de aprobar el cambio de régimen como el precio ofrecido, cuando corresponda.
+
+ARTÍCULO 131.- Cuando el cambio de régimen implique la sustitución del órgano de fiscalización colegiado por uno unipersonal, la asamblea con facultades suficientes para decidir dicho cambio -cuando no se requiera una asamblea especial- podrá, en el mismo acto, aprobar la reforma estatutaria correspondiente y designar al síndico titular y suplente, cuya designación será efectiva a partir de la aceptación de su cargo.
+
+ARTÍCULO 132.- Cuando el cambio de régimen implique una reforma del estatuto social, la Emisora podrá iniciar y tramitar la solicitud de cambio de régimen ante la CNV en forma simultánea con la tramitación de la reforma estatutaria ante la autoridad competente.
+
+La aprobación del cambio de régimen por parte de la CNV no quedará supeditada a la previa inscripción de la reforma, debiendo acreditarse el inicio del trámite de inscripción.
+
+Sin perjuicio de ello, la Emisora deberá advertir en el Prospecto los riesgos derivados de la falta de inscripción y acreditar dicha inscripción una vez obtenida.
+
+ARTÍCULO 133.- Las Emisoras que se encuentren comprendidas en cualquiera de los regímenes especiales de oferta pública con requisitos inferiores al Régimen General, tanto por acciones como por ON, podrán optar por el cambio al Régimen General o al Régimen PyME CNV, efectuando la solicitud firmada por el representante legal, apoderado o subdelegado acompañada del acta del órgano de administración correspondiente.
+
+En el caso de tratarse de una Emisora autorizada a la oferta pública por acciones, no se configurará un supuesto de obligación de formular una OPA de retiro, debiendo cumplimentar los requisitos exigidos para ingresar al Régimen General que no estuvieran cumplidos, y efectuar las comunicaciones del cambio de régimen con los eventuales efectos y diferencias para conocimiento de los accionistas e inversores.
+
+ARTÍCULO 134.- Cuando el cambio sea del Régimen General por ON a otro régimen, las ON emitidas bajo el Régimen General se mantendrán en él hasta que dichas emisiones estén totalmente canceladas.
+
+ARTÍCULO 135.- Una vez autorizado el cambio por la CNV, la Emisora quedará sujeta a todas las disposiciones aplicables al nuevo régimen en el que quede comprendida, excepto por lo indicado en el artículo anterior.
+
+ARTÍCULO 136.- Si una Emisora posee más de un valor negociable admitido a la oferta pública y, optara por el cambio de uno solo de ellos, podrá hacerlo cumpliendo las disposiciones aplicables al cambio de régimen del valor negociable que corresponda, quedando sometida a las disposiciones aplicables al régimen de mayores exigencias.
+
+SOLICITUD.
+ARTÍCULO 137.- La solicitud de autorización del cambio de régimen deberá ser tramitada a través de la plataforma TAD y cumplir con los siguientes requisitos:
+
+I. OBLIGACIONES PREVIAS A LA ASAMBLEA
+
+1. Con VEINTE (20) días previos a la celebración de la asamblea que trate la propuesta de cambio de régimen, se deberá publicar en la AIF, un documento informativo en el que se informe:
+
+a) La decisión de cambiar de régimen y los datos de la convocatoria a la asamblea;
+
+b) la solicitud de autorización a la CNV;
+
+c) la opinión de la comisión fiscalizadora o del consejo de vigilancia o síndicos, en el sentido indicado en el inciso d) de este artículo;
+
+d) descripción del nuevo régimen, las ventajas y diferencias que implica para la Emisora el cambio de régimen y los eventuales efectos en su situación patrimonial, económica y financiera y riesgos que, en su caso, ello puede implicar;
+
+e) en su caso, el precio equitativo a ser ofrecido y su justificación; y
+
+f) carta compromiso del garante por el monto total de la oferta más los gastos estimados, en caso de corresponder.
+
+II. OBLIGACIONES LUEGO DE LA ASAMBLEA Y DE INSTRUMENTACIÓN DE LA OPA.
+
+1. Dentro de los CINCO (5) días de haber sido aprobado por la asamblea el cambio de régimen, se deberá acompañar:
+
+a) Nota suscripta por el representante legal o apoderado o subdelegado solicitando el cambio al régimen elegido. Si el cambio es respecto a una Emisora autorizada al Régimen de Oferta Pública por acciones, en ella se deberá indicar: la composición del capital social; el valor nominal de las acciones; la cantidad de votos que otorgan; la descripción de la estructura societaria o del grupo económico al que pertenece; y la cantidad de empleados que posee. Si se trata de una Emisora autorizada al Régimen de Oferta Pública por ON, deberán especificarse los instrumentos emitidos que continuarán bajo el régimen anterior, indicando valor nominal emitido, fechas de colocación y de vencimiento y valor residual actualizado. Asimismo, en cualquier caso, se deberán mencionar los Mercados en los que continuarán listando o comenzarán a listar los valores negociables.
+
+b) Acta de asamblea extraordinaria que decidió el cambio de régimen y los datos de envío a través de la AIF.
+
+c) Certificado MiPymes vigente, si correspondiese.
+
+d) Opinión de la comisión fiscalizadora o del consejo de vigilancia o síndicos de la Emisora sobre la conveniencia o ventajas que representa para ésta el cambio de régimen y si ello afecta los derechos de accionistas minoritarios, o de tenedores de ON, explicando además las diferencias entre el régimen vigente y el nuevo.
+
+e) Si se trata del cambio de una Emisora autorizada al Régimen de Oferta Pública por acciones:
+
+1) Constancia de aprobación de la formulación de una OPA obligatoria dirigida a los accionistas que voten en contra o se hubiesen abstenido de votar en la decisión asamblearia o hubiesen estado ausentes, y del precio equitativo determinado de conformidad con lo establecido en el artículo 88 Apartado II de la Ley de Mercado de Capitales y Capítulo II del Título III de estas Normas, en lo pertinente.
+
+2) Acreditación de la inmovilización de las tenencias accionarias de los accionistas que votaron a favor del cambio de régimen hasta tanto concluya el proceso de la OPA y autorización definitiva del cambio de Régimen.
+
+3) Documento que acredite la constitución de las garantías que aseguren el cumplimiento de las obligaciones.
+
+4) Documento definitivo del Prospecto, confeccionado siguiendo las pautas establecidas en el Anexo III del Capítulo IX del presente Título, en lo pertinente.
+
+III. OBLIGACIONES POSTERIORES A LA LIQUIDACIÓN Y PAGO DE LA OPA.
+
+1. Publicar en forma inmediata al cierre un aviso del resultado de la OPA.
+
+2. Acompañar constancia de pago de la solicitud de levantamiento de la garantía.
+
+3. Nota de solicitud firmada por el presidente, apoderado o subdelegado solicitando la autorización definitiva del cambio de régimen.
+
+4. Informar si ha habido impugnaciones del acto asambleario o medidas judiciales o extrajudiciales respecto al procedimiento de cambio de régimen.
+
+ARTÍCULO 138.- La CNV dará curso únicamente a las solicitudes que reúnan la totalidad de los requisitos y acompañen toda la documentación prevista en esta Sección y podrá requerir información adicional que considere necesaria para decidir sobre la solicitud.
+
+ARTÍCULO 139.- Supletoriamente, respecto a cualquier disposición no prevista en esta Sección, se aplicarán e interpretarán conforme las normas previstas en los Capítulos I y II del Título III de estas Normas.
+
+DISPOSICIONES ADICIONALES ESPECIALES EN CASO DE CAMBIO DE RÉGIMEN DE EMISORAS POR ACCIONES.
+ARTÍCULO 140.- Cuando se trate de una Emisora autorizada a la oferta pública de sus acciones bajo el Régimen General o el Régimen PyME CNV, hacia regímenes especiales de oferta pública con requisitos informativos y/o de negociación menores a los del Régimen General o PyME CNV, en su caso, la Emisora deberá cumplir con lo establecido en los artículos 97 y 98 de la Ley de Mercado de Capitales y en el Título III de estas Normas para el supuesto de retiro del régimen de oferta pública.
+
+ARTÍCULO 141.- La OPA deberá ser formulada a un precio equitativo, determinado conforme al artículo 88, Apartado II de la Ley de Mercado de Capitales y conforme lo previsto en la Sección III del Capítulo II del Título III de estas Normas, aplicables al supuesto de retiro del régimen de oferta pública.
+
+GARANTÍAS.
+ARTÍCULO 142.- La garantía destinada a asegurar el cumplimiento del pago correspondiente a la OPA de retiro, deberá constituirse con carácter previo a la autorización definitiva de la publicación del Prospecto de su lanzamiento y mantenerse vigente exclusivamente durante el plazo de aceptación y hasta su liquidación, conforme lo establezca la CNV al autorizar su implementación.
+
+La garantía deberá ser emitida por una o más Entidades Financieras locales o extranjeras, estas últimas con sucursal o representación permanente en la República Argentina, o por compañías de seguro del país fiscalizadas por la SSN, de reconocida trayectoria y solvencia.
+
+Cuando la contraprestación ofrecida consista en valores ya emitidos, deberá acreditarse su indisponibilidad y su afectación al resultado de la oferta.
+
+Cuando el oferente acredite fehacientemente que algún accionista no aceptará la oferta o no participará de ella dado su carácter de co-oferente, se admitirá que la garantía comprenda únicamente aquellas acciones, o valores negociables con derecho a ellas, remanentes a las que efectivamente se destinará el ofrecimiento.
+
+ARTÍCULO 143.- La CNV autorizará el cambio de régimen y, en su caso, la OPA, desde el punto de vista formal y regulatorio, verificando el cumplimiento de las pautas y requisitos establecidos en esta Sección. Dicha autorización no implicará pronunciamiento alguno sobre la conveniencia económica del precio ofrecido, cuya determinación y justificación será exclusiva responsabilidad de la Emisora y de los sujetos obligados a su cumplimiento.
+
+Cuando se trate del cambio de Régimen de Oferta Pública por acciones, la autorización definitiva del cambio de régimen será otorgada una vez acreditado el cumplimiento íntegro de la OPA a los accionistas que hubieran aceptado la oferta, el levantamiento de la garantía correspondiente y el cumplimiento de lo establecido en el apartado III del artículo 137 de la presente Sección
+
+[Sección incorporada por art. 2° de la RG 1110/2026, BO 23/02/2026]
 
 ### ANEXO I
 
