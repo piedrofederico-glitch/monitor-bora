@@ -58,6 +58,13 @@ Archivo: `vigente/titulo-II/capitulo-X.md`
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
 
+## Título V, Capítulo II
+Archivo: `vigente/titulo-V/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 15 (Secc. II), inc. b.1) | modifica parcialmente | RG 1096/2025 | 1° | 24/12/2025 |
+
 ## Título VI, Capítulo I
 Archivo: `vigente/titulo-VI/capitulo-I.md`
 

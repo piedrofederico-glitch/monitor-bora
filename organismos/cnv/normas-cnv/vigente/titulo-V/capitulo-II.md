@@ -1,5 +1,5 @@
 # Título V — Capítulo II: FONDOS COMUNES DE INVERSIÓN ABIERTOS.
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1096/2025 (BO 24/12/2025)
 Fuente: PDF base, págs. 331–358.
 
 ### SECCIÓN I — AUTORIZACIÓN DE FONDOS COMUNES DE INVERSIÓN ABIERTOS.
@@ -121,13 +121,23 @@ A todo evento, se entiende por plazos fijos precancelables a los instrumentos in
 
 Los Fondos Comunes de Dinero podrán invertir hasta el VEINTE POR CIENTO (20%) del patrimonio neto del fondo en cauciones.
 
-El reglamento de gestión deberá contener un acápite especial detallando las consideraciones de riesgo para la inversión en este tipo fondos debiendo diferenciarlas en tanto se trate de FCI constituidos según las previsiones del inciso b.1) o b.2) que se detallan a continuación. b.1) Particularmente, los FCI que se ofrezcan al público inversor, cualquiera sea el canal de comercialización utilizado, como “Fondo Común de Dinero Clásico”, deberán cumplir con las pautas generales señaladas en el apartado b) precedente, y, asimismo, se encontrarán sujetos a las siguientes disposiciones:
+El reglamento de gestión deberá contener un acápite especial detallando las consideraciones de riesgo para la inversión en este tipo fondos debiendo diferenciarlas en tanto se trate de FCI constituidos según las previsiones del inciso b.1) o b.2) que se detallan a continuación.
 
-b.1.1) Sus carteras podrán estar compuestas por un porcentaje máximo del TREINTA Y CINCO POR CIENTO (35%) por activos valuados a devengamiento.
+b.1) Particularmente, los FCI que se ofrezcan al público inversor, cualquiera sea el canal de comercialización utilizado, como “Fondo Común de Dinero Clásico”, deberán cumplir con las pautas generales señaladas en el apartado b) precedente, y, asimismo, se encontrarán sujetos a las siguientes disposiciones:
 
-b.1.2) Se podrá invertir hasta un TREINTA Y CINCO POR CIENTO (35%) en plazos fijos precancelables en período de precancelación, los que serán valuados a precio de realización y/o de mercado. La suma de activos valuados a devengamiento y de plazos fijos precancelables en período de precancelación no podrá exceder el SETENTA POR CIENTO (70%) del patrimonio neto del fondo.
+b.1.1) Sus carteras podrán estar compuestas por un porcentaje máximo del CINCUENTA POR CIENTO (50%) por plazos fijos no precancelables, los que serán activos valuados a devengamiento.
 
-b.1.3) Los plazos fijos precancelables, cuando no se encuentren en período de precancelación, y los intereses devengados provenientes de cuentas a la vista computarán para el límite del TREINTA Y CINCO POR CIENTO (35%) como activos valuados a devengamiento. Cuando los plazos fijos precancelables estén en período de precancelación y los intereses devengados provenientes de cuentas a la vista sean capitalizados, serán computados como activos valuados a precio de realización y/o de mercado, y por ende no sujetos a la constitución de margen de liquidez. b.1.4) Adicionalmente a las inversiones previstas en el inciso b.1.2) precedente, se encontrará admitida, exclusivamente, la adquisición de títulos representativos de deuda, cuyo vencimiento final no exceda de UN (1) año a partir de la fecha de adquisición por hasta el VEINTE POR CIENTO (20%) del patrimonio neto del fondo.
+b.1.2) Se podrá invertir hasta un CINCUENTA POR CIENTO (50%) en plazos fijos precancelables en período de precancelación, los que serán valuados a precio de realización y/o de mercado y por ende no estarán sujetos a la constitución de margen de liquidez.
+
+b.1.3) La suma de plazos fijos no precancelables y plazos fijos precancelables en período de precancelación no podrá exceder el SETENTA POR CIENTO (70%) del patrimonio neto del fondo.
+
+b.1.4) La inversión en activos valuados a devengamiento distintos a los plazos fijos señalados en el inciso b.1.1) del presente artículo no podrá superar el TREINTA Y CINCO POR CIENTO (35%).
+
+b.1.5) La suma de los activos valuados a devengamiento señalados en los incisos b.1.1) y b.1.4) precedentes no podrá superar el CINCUENTA POR CIENTO (50%) del patrimonio neto del fondo.
+
+b.1.6) Los intereses devengados provenientes de cuentas a la vista computarán para el límite del TREINTA Y CINCO POR CIENTO (35%) antes señalado como activos valuados a devengamiento. Cuando los intereses devengados provenientes de cuentas a la vista sean capitalizados, serán computados como activos valuados a precio de realización y/o de mercado, y por ende no sujetos a la constitución de margen de liquidez.
+
+b.1.7) Adicionalmente a las inversiones previstas en los incisos precedentes, se encontrará admitida, exclusivamente, la adquisición de títulos representativos de deuda, cuyo vencimiento final no exceda de UN (1) año a partir de la fecha de adquisición por hasta el VEINTE POR CIENTO (20%) del patrimonio neto del fondo
 
 b.2) Aquellos fondos que se ofrezcan al público inversor, cualquiera sea el canal de comercialización utilizado, como “Fondo Común de Dinero Dinámico”, se regirán según las pautas generales señaladas en el apartado b) precedente, y, asimismo, se encontrarán sujetos a las siguientes disposiciones:
 
@@ -136,6 +146,8 @@ b.2.1) Sus carteras podrán estar compuestas por un porcentaje máximo del TREIN
 b.2.2) Se podrá invertir hasta un VEINTE POR CIENTO (20%) en plazos fijos precancelables en período de precancelación, los que serán valuados a precio de realización y/o de mercado. La suma de activos valuados a devengamiento y de plazos fijos precancelables en período de precancelación no podrá exceder el CINCUENTA POR CIENTO (50%) del patrimonio neto del fondo.
 
 b.2.3) Los plazos fijos precancelables, cuando no se encuentren en período de precancelación, y los intereses devengados provenientes de cuentas a la vista computarán para el límite del TREINTA POR CIENTO (30%) como activos valuados a devengamiento. Cuando los plazos fijos precancelables estén en período de precancelación y los intereses devengados provenientes de cuentas a la vista sean capitalizados, serán computados como activos valuados a precio de realización y/o de mercado, y por ende no sujetos a la constitución de margen de liquidez. b.2.4) Adicionalmente a las inversiones previstas en el inciso b.2.2) precedente, se encontrará admitida, exclusivamente, la adquisición de títulos representativos de deuda, cuyo vencimiento final no exceda de UN (1) año a partir de la fecha de adquisición.
+
+[Inciso b.1) sustituido por art. 1° de la RG 1096/2025, BO 24/12/2025]
 
 POLÍTICA DE CONOCIMIENTO DEL INVERSOR. FONDOS COMUNES DE DINERO.
 ARTÍCULO 16°. - La Sociedad Gerente deberá, respecto de cada categoría de inversor, según se prevé en el artículo 25, inciso 6, subincisos c) a g) de la Sección VII del Capítulo I del Título V de las Normas, realizar una evaluación a fin de anticipar el efecto de rescates simultáneos por parte de múltiples inversores, teniendo en cuenta, al menos, el tipo de inversores, el número de cuotapartes del FCI cuya titularidad corresponda a un único inversor y la evolución de suscripciones y rescates, incluyendo, entre otras, las siguientes variables:
