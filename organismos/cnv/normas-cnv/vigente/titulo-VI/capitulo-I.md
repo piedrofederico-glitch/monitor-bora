@@ -1,5 +1,5 @@
 # Título VI — Capítulo I: MERCADOS
-Última modificación: RG 1090/2025 (BO 14/11/2025)
+Última modificación: RG 1113/2026 (BO 27/02/2026)
 Fuente: PDF base, págs. 449–500.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -480,6 +480,13 @@ ARTÍCULO 56.- Los Mercados deberán remitir a la COMISION NACIONAL DE VALORES, 
 Asimismo, los Mercados deberán remitir los datos completos de todas las ofertas de compra y venta, en tiempo real y en formato FIX, que se cursen en los respectivos mercados, detallando las órdenes recibidas de sus comitentes, en todas las especies y operatorias vigentes, tal como se registran en sus respectivos sistemas de negociación.
 
 Los Mercados deberán comunicar a la COMISIÓN NACIONAL DE VALORES, con una anticipación mínima de TREINTA (30) días corridos a su implementación, cualquier modificación que decidan efectuar en los contenidos de los mensajes que remiten, no pudiendo en ningún caso alterar su formato, estampa de tiempo (timestamp), uso de Tiempo Universal Coordinado (UTC) y fecha de transacción, los cuales se encuentran establecidos en los Anexos IV y V del presente Capítulo.
+
+DATOS DE POSICIONES EN FUTUROS Y OPCIONES.
+ARTÍCULO 56 BIS.- Los Mercados deberán remitir a la CNV, con periodicidad semanal, dentro de los DOS (2) días siguientes de finalizada cada semana, el detalle diario con los datos completos indicados en el Anexo IX del presente Capítulo, sobre las posiciones abiertas en futuros y opciones por ALyC, excepto: que (i) sean Participantes Directos; o (ii) revistan la calidad de entidades financieras en el marco de la Ley de Entidades Financieras.
+
+La obligación de informar, en los términos y con el alcance previsto en el presente artículo, no resulta aplicable respecto de las personas que por su vinculación con el ALyC se encuentren comprendidas en el concepto de cartera propia ampliada, dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas
+
+[Artículo incorporado por art. 1° de la RG 1113/2026, BO 27/02/2026]
 
 ### SECCIÓN XXV — INFORMACIÓN DE OPERACIONES Y CONECTIVIDAD ENTRE MERCADOS.
 
@@ -1713,3 +1720,14 @@ https://www.cnv.gov.ar/descargas/marcoregulatorio/blob/e66d8df1-0fcd-4151-9cbb- 
 GUÍA PARA EVALUADORES EXTERNOS DE BONOS SOCIALES, VERDES Y SUSTENTABLES:
 
 https://www.cnv.gov.ar/descargas/marcoregulatorio/blob/02585eea-bfee-4717-81b5- 88aa56301c57
+
+### ANEXO IX.
+
+DATOS DE POSICIONES EN FUTUROS Y OPCIONES
+
+[Tabla publicada como imagen en la RG 1113/2026 (pág. 2 del PDF CNV). Transcripción de los encabezados de columna; las filas están vacías en el original.]
+
+| Fecha | Nombre producto / Subyacente | Unidad de medida o Moneda | Lado | Denominación ALyC (de contar con este dato) | CUIT ALyC | Nro Cuenta Comitente | Posición abierta (delta contratos/lotes) | Posición Abierta (delta um) | Posición abierta (en valores $ o USD) | Porcentaje | Interés Abierto Total Mercado (delta contratos/lotes) | Interés Abierto Total Mercado (en valores $ o USD) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+[Anexo incorporado por art. 2° de la RG 1113/2026, BO 27/02/2026]

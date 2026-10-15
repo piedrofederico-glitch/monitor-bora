@@ -31,7 +31,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-V/capitulo-VII.md`](titulo-V/capitulo-VII.md) | Título V — Capítulo VII: REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN ABIERTOS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-V/capitulo-VIII.md`](titulo-V/capitulo-VIII.md) | Título V — Capítulo VIII: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FIDEICOMISOS FINANCIEROS. | RG 1105/2026 (BO 22/01/2026) |
 | [`titulo-V/capitulo-IX.md`](titulo-V/capitulo-IX.md) | Título V — Capítulo IX: PRODUCTOS DE INVERSIÓN COLECTIVA. TRATAMIENTO IMPOSITIVO DE REGÍMENES ESPECIALES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-VI/capitulo-I.md`](titulo-VI/capitulo-I.md) | Título VI — Capítulo I: MERCADOS | RG 1090/2025 (BO 14/11/2025) |
+| [`titulo-VI/capitulo-I.md`](titulo-VI/capitulo-I.md) | Título VI — Capítulo I: MERCADOS | RG 1113/2026 (BO 27/02/2026) |
 | [`titulo-VI/capitulo-II.md`](titulo-VI/capitulo-II.md) | Título VI — Capítulo II: CÁMARAS COMPENSADORAS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VI/capitulo-III.md`](titulo-VI/capitulo-III.md) | Título VI — Capítulo III: LIQUIDACIÓN Y COMPENSACIÓN DE OPERACIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VI/capitulo-IV.md`](titulo-VI/capitulo-IV.md) | Título VI — Capítulo IV: COLOCACIÓN PRIMARIA. | RG 1100/2025 (BO 31/12/2025) |
@@ -72,7 +72,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVIII/capitulo-I.md`](titulo-XVIII/capitulo-I.md) | Título XVIII — Capítulo I: EMISORAS | RG 1099/2025 (BO 26/12/2025) |
 | [`titulo-XVIII/capitulo-II.md`](titulo-XVIII/capitulo-II.md) | Título XVIII — Capítulo II: PRODUCTOS DE INVERSIÓN COLECTIVA. FIDEICOMISOS FINANCIEROS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-III.md`](titulo-XVIII/capitulo-III.md) | Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1099/2025 (BO 26/12/2025) |
+| [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1113/2026 (BO 27/02/2026) |
 | [`titulo-XVIII/capitulo-V.md`](titulo-XVIII/capitulo-V.md) | Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-VI.md`](titulo-XVIII/capitulo-VI.md) | Título XVIII — Capítulo VI: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-VII.md`](titulo-XVIII/capitulo-VII.md) | Título XVIII — Capítulo VII: AGENTES DE CALIFICACIÓN DE RIESGOS (ACR). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |

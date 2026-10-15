@@ -131,6 +131,8 @@ Archivo: `vigente/titulo-VI/capitulo-I.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 29 (Secc. IX) | sustituye | RG 1090/2025 | 1° | 14/11/2025 |
+| art. 56 BIS (Secc. XXIV) | incorpora | RG 1113/2026 | 1° | 27/02/2026 |
+| Anexo Ix | incorpora | RG 1113/2026 | 2° | 27/02/2026 |
 
 ## Título VI, Capítulo IV
 Archivo: `vigente/titulo-VI/capitulo-IV.md`
@@ -241,6 +243,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-IV.md`
 |---|---|---|---|---|
 | art. 14 | incorpora | RG 1090/2025 | 7° | 14/11/2025 |
 | art. 1° | sustituye | RG 1099/2025 | 3° | 26/12/2025 |
+| art. 15 | incorpora | RG 1113/2026 | 3° | 27/02/2026 |
 
 ## Título XVIII, Capítulo XI
 Archivo: `vigente/titulo-XVIII/capitulo-XI.md`

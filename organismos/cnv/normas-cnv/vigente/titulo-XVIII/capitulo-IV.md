@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS
-Última modificación: RG 1099/2025 (BO 26/12/2025)
+Última modificación: RG 1113/2026 (BO 27/02/2026)
 Fuente: PDF base, págs. 926–928.
 
 RÉGIMEN PYME CNV GARANTIZADA.
@@ -46,3 +46,12 @@ ADECUACIÓN REGLAMENTACIONES DE LOS MERCADOS – VALORES DE EMISIÓN INDIVIDUAL.
 ARTÍCULO 14.- Los Mercados deberán adecuar sus reglamentaciones conforme lo previsto por la Resolución General N° 1090 y presentar las mismas a la previa aprobación de esta Comisión con antelación suficiente y de forma tal que las mismas se encuentren operativas a la fecha de entrada en vigencia de la mencionada resolución general.
 
 [Artículo incorporado por art. 7° de la RG 1090/2025, BO 14/11/2025, vigente desde 02/02/2026]
+
+CRONOGRAMA DE CUMPLIMIENTO.
+ARTÍCULO 15.- Los Mercados, en el marco de las disposiciones del artículo 56 BIS de la Sección XXIV del Capítulo I del Título VI de estas Normas, desde la fecha de entrada en vigencia de la Resolución General N° 1113, deberán remitir la información requerida en el Anexo IX de dicho Capítulo y Título, conforme al siguiente cronograma:
+
+1. Antes del 31 de marzo de 2026: la información de los meses de agosto, septiembre, octubre, noviembre y diciembre de 2025 y enero de 2026. En este caso, la información a remitir deberá contener detalle semanal.
+
+2. Antes del 10 de marzo de 2026: la información correspondiente a partir del 1° de febrero de 2026. En este caso, la información a remitir semanalmente deberá contener detalle diario, conforme lo dispuesto en el artículo 56 BIS de la Sección XXIV del Capítulo I del Título VI de estas Normas
+
+[Artículo incorporado por art. 3° de la RG 1113/2026, BO 27/02/2026]
