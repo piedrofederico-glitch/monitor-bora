@@ -1,11 +1,15 @@
 # Título XVI — Capítulo I: NOTIFICACIONES. OTRAS DISPOSICIONES.
-Última modificación: RG 1112/2026 (BO 26/02/2026)
+Última modificación: RG 1127/2026 (BO 09/04/2026)
 Fuente: RG 1112/2026, art. 2°.
 
 ### SECCIÓN I — NOTIFICACIONES.
 
 PRINCIPIO GENERAL.
 ARTÍCULO 1º.- Las notificaciones de los actos administrativos emitidos por la CNV se rigen por lo dispuesto en el RLPA.
+
+Los plazos se rigen por lo establecido en la LPA.
+
+[Artículo sustituido por art. 5° de la RG 1127/2026, BO 09/04/2026]
 
 NOTIFICACIONES POR CORREO ELECTRÓNICO.
 ARTÍCULO 2º.- Sin perjuicio de lo dispuesto en el artículo anterior, las notificaciones efectuadas por la CNV que se realicen por correo electrónico se ajustarán a las siguientes reglas:

@@ -25,6 +25,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), 5 términos de regímenes con autorización automática | modifica parcialmente | RG 1117/2026 | 1° | 06/03/2026 |
 | art. 2° (Secc. II), término “IOSCO” | modifica parcialmente | RG 1121/2026 | 1° | 27/03/2026 |
 | art. 2° (Secc. II), “Inversor Calificado” inc. 13) y 5 términos nuevos | modifica parcialmente | RG 1125/2026 | 1° | 07/04/2026 |
+| art. 2° (Secc. II), término “LPA” | modifica parcialmente | RG 1127/2026 | 1° | 09/04/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -39,6 +40,21 @@ Archivo: `vigente/titulo-II/capitulo-II.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1095/2025 | 1° | 18/12/2025 |
+
+## Título II, Capítulo III
+Archivo: `vigente/titulo-II/capitulo-III.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo (sin anexos) | sustituye | RG 1127/2026 | 2° | 09/04/2026 |
+| Anexos I a V | sustituye | RG 1127/2026 | 3° | 09/04/2026 |
+
+## Título II, Capítulo IV
+Archivo: `vigente/titulo-II/capitulo-IV.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1127/2026 | 4° | 09/04/2026 |
 
 ## Título II, Capítulo V
 Archivo: `vigente/titulo-II/capitulo-V.md`
@@ -282,6 +298,7 @@ Archivo: `vigente/titulo-XVI/capitulo-I.md`
 | Secc. II → I | renumera | RG 1097/2025 | 3° | 24/12/2025 |
 | Secc. III → II | renumera | RG 1097/2025 | 3° | 24/12/2025 |
 | capítulo completo | sustituye | RG 1112/2026 | 2° | 26/02/2026 |
+| art. 1° (Secc. I) | sustituye | RG 1127/2026 | 5° | 09/04/2026 |
 
 ## Título XVI, Capítulo II
 Archivo: `vigente/titulo-XVI/capitulo-II.md`

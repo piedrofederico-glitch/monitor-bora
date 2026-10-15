@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1125/2026 (BO 07/04/2026)
+Última modificación: RG 1127/2026 (BO 09/04/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -220,6 +220,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Ley PyME” significa Ley N° 24.467.
 
+“LPA” significa la Ley de Procedimientos Administrativos N° 19.549.
+
 “Mercado de Capitales”, “Oferta Pública”, “Valores Negociables”, “Productos de Inversión Colectiva”, “Mercados” y “Agentes Registrados” tienen el alcance previsto en el artículo 2º de la Ley Nº 26.831.
 
 “NCPA” significa las Normas Contables Profesionales Argentinas.
@@ -355,6 +357,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Término “IOSCO” incorporado por art. 1° de la RG 1121/2026, BO 27/03/2026]
 
 [Inciso 13) de “Inversor Calificado” sustituido y términos “Activos Virtuales”, “Financiamiento Colectivo” y de los regímenes de financiamiento colectivo incorporados por art. 1° de la RG 1125/2026, BO 07/04/2026]
+
+[Término “LPA” incorporado por art. 1° de la RG 1127/2026, BO 09/04/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

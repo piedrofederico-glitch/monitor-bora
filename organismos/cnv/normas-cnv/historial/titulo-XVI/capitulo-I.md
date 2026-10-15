@@ -377,3 +377,12 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 >                                    DE IDENTIDAD/CUIT
 >  DEL DEUDOR CEDIDO                                                        OPERACIÓN.
 > ```
+
+## Artículo 1 (Sección I)
+- Vigente desde: 27/02/2026
+- Vigente hasta: 09/04/2026
+- Sustituido por: RG 1127/2026, art. 5°
+- Texto:
+
+> PRINCIPIO GENERAL.
+> ARTÍCULO 1º.- Las notificaciones de los actos administrativos emitidos por la CNV se rigen por lo dispuesto en el RLPA.
