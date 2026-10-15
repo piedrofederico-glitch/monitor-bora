@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo I: EMISORAS
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1095/2025 (BO 18/12/2025)
 Fuente: PDF base, págs. 918–920.
 
 ### SECCIÓN I — APLICACIÓN DISPOSICIONES DE LAS NIIF 9 SOBRE DETERIORO DE VALOR DE LOS CRÉDITOS.
@@ -17,3 +17,19 @@ ARTÍCULO 4°. - Las disposiciones incorporadas por la Resolución General Nº 1
 ### SECCIÓN III — APLICACIÓN RESOLUCIÓN GENERAL N° 1076.
 
 ARTÍCULO 5°.- En atención a la modificación del artículo 71 de la sección VIII del Capítulo V del Título II de las NORMAS (N.T. 2013 y mod.), referido a la posibilidad de emitir y reemitir series y/o clases bajo el Régimen Simplificado de Emisor Frecuente, aquellas Emisoras que se encuentren registradas a la fecha de la Resolución indicada bajo ese Régimen, quedan habilitadas de pleno derecho a emitir y reemitir clases y/o series siempre que no superen el último monto máximo autorizado en circulación, mediante la sola acreditación de la decisión del órgano de administración y/o subdelegado. Esta facultad deberá constar en el primer prospecto y/o suplemento de prospecto que publiquen bajo este Régimen.
+
+### SECCIÓN IV — EMISIONES DE PYMES CNV GARANTIZADAS BAJO EL CAPÍTULO VI. APLICACIÓN RESOLUCIÓN GENERAL N° 1095.
+
+ARTÍCULO 6°.- Las Emisoras que hayan efectuado emisiones de obligaciones negociables PyME CNV GARANTIZADAS, de conformidad con lo establecido en el Capítulo VI del Título II de estas Normas, con anterioridad a la entrada en vigencia de la Resolución General N° 1095, continuarán sujetas al cumplimiento de las disposiciones que resultaban aplicables al momento de la emisión de dichos valores negociables, hasta tanto las mismas se encuentren totalmente canceladas.
+
+Lo dispuesto precedentemente se aplicará independientemente de las modificaciones normativas que se introduzcan con posterioridad, manteniéndose el régimen vigente al momento de la emisión para todos los efectos legales, regulatorios y contractuales vinculados con tales instrumentos.
+
+[Sección incorporada por art. 3° de la RG 1095/2025, BO 18/12/2025]
+
+### SECCIÓN V — EMISIONES DE VALORES REPRESENTATIVOS DE DEUDA DE CORTO PLAZO RESOLUCIÓN GENERAL N° 1095.
+
+ARTÍCULO 7°.- Las Emisoras que hayan efectuado emisiones de obligaciones negociables bajo el Régimen de Valores Representativos de Deuda de Corto Plazo, de conformidad con lo establecido en el Capítulo V del Título II de estas Normas, con anterioridad a la entrada en vigencia de la Resolución General N° 1095, continuarán sujetas al cumplimiento de las disposiciones que resultaban aplicables al momento de la emisión de dichos valores negociables, hasta tanto las mismas se encuentren totalmente canceladas.
+
+Lo dispuesto precedentemente se aplicará independientemente de las modificaciones normativas que se introduzcan con posterioridad, manteniéndose el régimen vigente al momento de la emisión para todos los efectos legales, regulatorios y contractuales vinculados con tales instrumentos.
+
+[Sección incorporada por art. 3° de la RG 1095/2025, BO 18/12/2025]

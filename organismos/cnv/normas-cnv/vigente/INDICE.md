@@ -5,16 +5,16 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/titulo-I.md`](titulo-I/titulo-I.md) | Título I — DISPOSICIONES PRELIMINARES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-II/capitulo-I.md`](titulo-II/capitulo-I.md) | Título II — Capítulo I: ACCIONES Y OTROS VALORES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y MODIFICACIONES ESTATUTARIAS. ASAMBLEAS A DISTANCIA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-II/capitulo-I.md`](titulo-II/capitulo-I.md) | Título II — Capítulo I: ACCIONES Y OTROS VALORES NEGOCIABLES | RG 1095/2025 (BO 18/12/2025) |
+| [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y REUNIONES DE OTROS ÓRGANOS SOCIALES. MODIFICACIONES ESTATUTARIAS O DE CONDICIONES DE EMISIÓN. ASAMBLEAS A DISTANCIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-III.md`](titulo-II/capitulo-III.md) | Título II — Capítulo III: ÓRGANOS DE ADMINISTRACIÓN Y FISCALIZACIÓN. AUDITORÍA EXTERNA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-II/capitulo-IV.md`](titulo-II/capitulo-IV.md) | Título II — Capítulo IV: FISCALIZACIÓN SOCIETARIA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-II/capitulo-V.md`](titulo-II/capitulo-V.md) | Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-II/capitulo-VI.md`](titulo-II/capitulo-VI.md) | Título II — Capítulo VI: PEQUEÑAS Y MEDIANAS EMPRESAS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-II/capitulo-VII.md`](titulo-II/capitulo-VII.md) | Título II — Capítulo VII: ENTIDADES DE GARANTÍA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-II/capitulo-VIII.md`](titulo-II/capitulo-VIII.md) | Título II — Capítulo VIII: EMISORAS EXTRANJERAS. CERTIFICADOS DE DEPÓSITO Y DE VALORES (CEDEARS Y CEVA). CERTIFICADOS DE DEPÓSITO EN CUSTODIA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-II/capitulo-IX.md`](titulo-II/capitulo-IX.md) | Título II — Capítulo IX: PROSPECTO | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-II/capitulo-X.md`](titulo-II/capitulo-X.md) | Título II — Capítulo X: REORGANIZACIÓN SOCIETARIA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-II/capitulo-V.md`](titulo-II/capitulo-V.md) | Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA | RG 1095/2025 (BO 18/12/2025) |
+| [`titulo-II/capitulo-VI.md`](titulo-II/capitulo-VI.md) | Título II — Capítulo VI: PEQUEÑAS Y MEDIANAS EMPRESAS | RG 1095/2025 (BO 18/12/2025) |
+| [`titulo-II/capitulo-VII.md`](titulo-II/capitulo-VII.md) | Título II — Capítulo VII: ENTIDADES DE GARANTÍA | RG 1095/2025 (BO 18/12/2025) |
+| [`titulo-II/capitulo-VIII.md`](titulo-II/capitulo-VIII.md) | Título II — Capítulo VIII: EMISORAS EXTRANJERAS. CERTIFICADOS DE DEPÓSITO Y DE VALORES (CEDEARS Y CEVA). CERTIFICADOS DE DEPÓSITO EN CUSTODIA. | RG 1095/2025 (BO 18/12/2025) |
+| [`titulo-II/capitulo-IX.md`](titulo-II/capitulo-IX.md) | Título II — Capítulo IX: PROSPECTO | RG 1095/2025 (BO 18/12/2025) |
+| [`titulo-II/capitulo-X.md`](titulo-II/capitulo-X.md) | Título II — Capítulo X: REORGANIZACIÓN SOCIETARIA | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-III/capitulo-I.md`](titulo-III/capitulo-I.md) | Título III — Capítulo I: RETIRO Y CANCELACIÓN DEL RÉGIMEN DE OFERTA PÚBLICA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-III/capitulo-II.md`](titulo-III/capitulo-II.md) | Título III — Capítulo II: OFERTAS PÚBLICAS DE ADQUISICIÓN Y/O CANJE | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-III/capitulo-III.md`](titulo-III/capitulo-III.md) | Título III — Capítulo III: APORTES IRREVOCABLES A CUENTA DE FUTURAS EMISIONES Y CAPITALIZACIÓN DE DEUDAS DE LA EMISORA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -68,7 +68,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVI/capitulo-I.md`](titulo-XVI/capitulo-I.md) | Título XVI — Capítulo I: DEFINICIONES. NOTIFICACIONES. OTRAS DISPOSICIONES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVI/capitulo-II.md`](titulo-XVI/capitulo-II.md) | Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVII/capitulo-I.md`](titulo-XVII/capitulo-I.md) | Título XVII — Capítulo I: TASAS Y ARANCELES LEY Nº 26.831, ARTÍCULO 14 INCISO B), RESOLUCIÓN 153- E/2017 DEL MINISTERIO DE FINANZAS Y MODIFICATORIAS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVIII/capitulo-I.md`](titulo-XVIII/capitulo-I.md) | Título XVIII — Capítulo I: EMISORAS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XVIII/capitulo-I.md`](titulo-XVIII/capitulo-I.md) | Título XVIII — Capítulo I: EMISORAS | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-XVIII/capitulo-II.md`](titulo-XVIII/capitulo-II.md) | Título XVIII — Capítulo II: PRODUCTOS DE INVERSIÓN COLECTIVA. FIDEICOMISOS FINANCIEROS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-III.md`](titulo-XVIII/capitulo-III.md) | Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1090/2025 (BO 14/11/2025) |

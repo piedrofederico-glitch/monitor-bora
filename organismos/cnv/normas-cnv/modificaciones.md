@@ -2,6 +2,62 @@
 
 Índice inverso: ubicación → RG que la modificó desde la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025). Orden por título y capítulo; dentro de cada capítulo, en el orden en que se aplicaron las RG. Las redacciones anteriores están en `historial/` con la misma ruta.
 
+## Título II, Capítulo I
+Archivo: `vigente/titulo-II/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1095/2025 | 1° | 18/12/2025 |
+
+## Título II, Capítulo II
+Archivo: `vigente/titulo-II/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1095/2025 | 1° | 18/12/2025 |
+
+## Título II, Capítulo V
+Archivo: `vigente/titulo-II/capitulo-V.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
+
+## Título II, Capítulo VI
+Archivo: `vigente/titulo-II/capitulo-VI.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
+
+## Título II, Capítulo VII
+Archivo: `vigente/titulo-II/capitulo-VII.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
+
+## Título II, Capítulo VIII
+Archivo: `vigente/titulo-II/capitulo-VIII.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
+
+## Título II, Capítulo IX
+Archivo: `vigente/titulo-II/capitulo-IX.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
+
+## Título II, Capítulo X
+Archivo: `vigente/titulo-II/capitulo-X.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
+
 ## Título VI, Capítulo I
 Archivo: `vigente/titulo-VI/capitulo-I.md`
 
@@ -40,6 +96,14 @@ Archivo: `vigente/titulo-VI/capitulo-VI.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | incorpora | RG 1090/2025 | 6° | 14/11/2025 |
+
+## Título XVIII, Capítulo I
+Archivo: `vigente/titulo-XVIII/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| Secc. IV (completa) | incorpora | RG 1095/2025 | 3° | 18/12/2025 |
+| Secc. V (completa) | incorpora | RG 1095/2025 | 3° | 18/12/2025 |
 
 ## Título XVIII, Capítulo IV
 Archivo: `vigente/titulo-XVIII/capitulo-IV.md`
