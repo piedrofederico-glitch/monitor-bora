@@ -16,6 +16,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1097/2025 | 1° | 24/12/2025 |
 | art. 2° (Secc. II), término “PyME CNV” | modifica parcialmente | RG 1105/2026 | 1° | 22/01/2026 |
+| art. 2° (Secc. II), términos “Ley de Régimen Penal Tributario” y “Ley de Prevención de la Evasión Fiscal” | modifica parcialmente | RG 1108/2026 | 1° | 20/02/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -183,6 +184,13 @@ Archivo: `vigente/titulo-VIII/capitulo-I.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 37 (Secc. XII) | sustituye | RG 1102/2025 | 6° | 31/12/2025 |
+
+## Título XI
+Archivo: `vigente/titulo-XI/titulo-XI.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| Secc. VI (completa) | incorpora | RG 1108/2026 | 2° | 20/02/2026 |
 
 ## Título XVI, Capítulo I
 Archivo: `vigente/titulo-XVI/capitulo-I.md`
