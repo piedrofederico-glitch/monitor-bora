@@ -287,6 +287,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-IV.md`
 | art. 14 | incorpora | RG 1090/2025 | 7° | 14/11/2025 |
 | art. 1° | sustituye | RG 1099/2025 | 3° | 26/12/2025 |
 | art. 15 | incorpora | RG 1113/2026 | 3° | 27/02/2026 |
+| art. 15 | sustituye | RG 1120/2026 | 1° | 13/03/2026 |
 
 ## Título XVIII, Capítulo XI
 Archivo: `vigente/titulo-XVIII/capitulo-XI.md`
