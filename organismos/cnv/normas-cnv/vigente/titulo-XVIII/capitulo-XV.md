@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo XV: DISPOSICIÓN TRANSITORIA. SUSPENSIÓN PERCEPCIÓN Y PAGO TASAS DE FISCALIZACIÓN Y CONTROL
-Última modificación: RG 1098/2025 (BO 24/12/2025)
+Última modificación: RG 1103/2026 (BO 09/01/2026)
 Fuente: PDF base, págs. 948–950.
 
 ### SECCIÓN I — SUSPENSIÓN PERCEPCIÓN Y PAGO TASAS DE FISCALIZACIÓN Y CONTROL CORRESPONDIENTE AL AÑO 2021.
@@ -46,8 +46,10 @@ Los PSAV -personas humanas y jurídicas- que resulten inscriptos en el Registro 
 
 ### SECCIÓN V — SUSPENSIÓN PERCEPCIÓN Y PAGO TASAS DE FISCALIZACIÓN Y CONTROL CORRESPONDIENTE AL AÑO 2026.
 
-ARTÍCULO 5°.- Suspender transitoriamente la percepción de la tasa de fiscalización y control correspondiente al año 2026, cuya fecha de pago y sujetos obligados se encuentran previstos en los incisos a), b), c), e) y f) del artículo 3º del Capítulo I del Título XVII de estas Normas, hasta el 2 de febrero de 2026 inclusive.
+ARTÍCULO 9°.- Suspender transitoriamente la percepción de la tasa de fiscalización y control correspondiente al año 2026, cuya fecha de pago y sujetos obligados se encuentran previstos en los incisos a), b), c), e) y f) del artículo 3º del Capítulo I del Título XVII de estas Normas, hasta el 2 de febrero de 2026 inclusive.
 
-La presente suspensión no alcanza aquellos casos que se encuentren en mora en el pago de la tasa de fiscalización y control correspondiente a años anteriores
+La presente suspensión no alcanza aquellos casos que se encuentren en mora en el pago de la tasa de fiscalización y control correspondiente a años anteriores.
 
-[Sección incorporada por art. 1° de la RG 1098/2025, BO 24/12/2025]
+ARTÍCULO 10.- El pago de la tasa de fiscalización y control correspondiente al año 2026, por parte de los sujetos obligados que se encuentran previstos en los incisos a), b), c), e) y f) del artículo 3° del Capítulo I del Título XVII de estas Normas, deberá abonarse del 3 al 9 de febrero de 2026, conforme los montos dispuestos por la Resolución N° 1/2026 del Ministerio de Economía
+
+[Sección sustituida por art. 4° de la RG 1103/2026, BO 09/01/2026]

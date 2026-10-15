@@ -1,5 +1,5 @@
 # Título XVII — Capítulo I: TASAS Y ARANCELES LEY Nº 26.831, ARTÍCULO 14 INCISO B), RESOLUCIÓN 153- E/2017 DEL MINISTERIO DE FINANZAS Y MODIFICATORIAS.
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1103/2026 (BO 09/01/2026)
 Fuente: PDF base, págs. 911–918.
 
 REGLA GENERAL.
@@ -13,7 +13,7 @@ ARTÍCULO 3º.- Las tasas de fiscalización y control se harán efectivas en la 
 
 a) Los Mercados, las Cámaras Compensadoras y los Mercados con función de Cámara Compensadora, que se encuentren registrados al 31 de diciembre de cada año, del 8º al 12° día hábil de enero del año siguiente.
 
-b) Los Agentes Depositarios Centrales de Valores Negociables; Agentes de Calificación de Riesgos, Agentes de Registro y Pago, Agentes de Negociación, Agentes de Negociación RUCA, Agentes Asesores Globales de Inversión, Agentes de Liquidación y Compensación -Propio e Integral-, Agente de Liquidación y Compensación - Integral / Agroindustrial-; Agentes de Liquidación y Compensación -Participante Directo-; Agentes de Corretaje de Valores Negociables, los Agentes Productores -personas humanas y jurídicas-, y los Proveedores de Servicios de Activos Virtuales- personas humanas y jurídicas- que se encuentren registrados al 31 de diciembre de cada año, del 8° a 12° día hábil de enero del año siguiente.
+b) Los Agentes Depositarios Centrales de Valores Negociables; Agentes de Calificación de Riesgos, Agentes de Custodia, Registro y Pago, Agentes de Negociación, Agentes de Negociación RUCA, Agentes Asesores Globales de Inversión, Agentes de Liquidación y Compensación -Propio e Integral-, Agente de Liquidación y Compensación -Integral / Agroindustrial-; Agentes de Liquidación y Compensación -Participante Directo-; Agentes de Corretaje de Valores Negociables, los Agentes Productores -personas humanas y jurídicas-, y los Proveedores de Servicios de Activos Virtuales -personas humanas y jurídicas- que se encuentren registrados al 31 de diciembre de cada año, del 8° al 12° día hábil de enero del año siguiente…
 
 c) Las Emisoras de Acciones, Obligaciones Negociables, Valores Representativos de Deuda de Corto Plazo, CERTIFICADOS DE DEPÓSITO ARGENTINOS (CEDEAR) y/o CERTIFICADOS DE VALORES (CEVA), que se encuentren registradas al 31 de diciembre de cada año, del 8º al 12º día hábil de enero del año siguiente.
 
@@ -24,6 +24,8 @@ En el caso de los Fondos Comunes de Inversión Abiertos, los Agentes de Administ
 e) Los Agentes de Colocación y Distribución de Fondos Comunes de Inversión y los Agentes de Colocación y Distribución Integral de Fondos Comunes de Inversión, que se encuentren registrados al 31 de diciembre de cada año, del 8º al 12º día hábil de enero del año siguiente. f) Los Fiduciarios Financieros (entidades financieras y/o sociedades anónimas), que se encuentren registrados al 31 de diciembre de cada año, del 8º al 12º día hábil de enero del año siguiente.
 
 f) Los Fiduciarios Financieros (entidades financieras y/o sociedades anónimas), que se encuentren registrados al 31 de diciembre de cada año, del 8º al 12º día hábil de enero del año siguiente. Las entidades que sean autorizadas o registradas con posterioridad a las fechas indicadas, deberán abonar la tasa anual dentro de los CINCO (5) días hábiles de obtenida la autorización o registro, respectivamente.
+
+[Inciso b) sustituido por art. 1° de la RG 1103/2026, BO 09/01/2026]
 
 APLICACIÓN DE LA TASA DE FISCALIZACIÓN Y CONTROL.
 ARTÍCULO 4º.- En el caso de aquellas entidades que se encuentren registradas en más de una categoría y/o sean emisoras de diferentes valores negociables, a efectos del pago de las tasas de fiscalización y control, corresponderá:
@@ -37,46 +39,52 @@ c) Las Emisoras de distintos valores negociables abonarán exclusivamente, en re
 d) Los Agentes de Colocación y Distribución de Fondos Comunes de Inversión abonarán, en relación a esta categoría, una única tasa, aún en el caso de que se encuentren inscriptos en las dos calidades contempladas en ella.
 
 ARANCEL DE AUTORIZACIÓN.
-ARTÍCULO 5º.- El arancel de autorización, establecido respecto de las obligaciones negociables y de los fideicomisos financieros, será de aplicación para todas las emisiones individuales, programas y/o emisiones de series o clases que se soliciten, debiendo acreditarse conforme se detalla a continuación:
+ARTÍCULO 5º.- El arancel de autorización, establecido respecto de las obligaciones negociables y de los fideicomisos financieros, será de aplicación para todas las emisiones autónomas, programas y emisiones de series o clases, debiendo acreditarse conforme se detalla a continuación:
 
-a) Por emisiones individuales de obligaciones negociables, aumento de monto y por otras modificaciones de los términos y condiciones de las mismas, deberá acreditarse con carácter previo a la obtención de la autorización definitiva.
+a) Por emisiones autónomas de obligaciones negociables, aumento de monto y por otras modificaciones de los términos y condiciones de las mismas, deberá acreditarse con carácter previo a la obtención de la autorización definitiva.
 
 b) Emisiones de obligaciones negociables por Programa:
 
 b.1) Por el monto máximo del programa, deberá acreditarse con carácter previo a la obtención de la autorización definitiva.
 
-b.2) Por modificación en los términos y condiciones, aumento de monto y/o prórroga del plazo, deberá acreditarse con carácter previo a la obtención de la autorización definitiva. b.3) Por colocación de serie y/o clase del Programa, deberá acreditarse dentro de los CINCO (5) días de la fecha de colocación de cada serie y/o clase.
+b.2) Por modificación en los términos y condiciones, aumento de monto y/o prórroga del plazo, deberá acreditarse con carácter previo a la obtención de la autorización definitiva.
 
-b.4) Por modificación de los términos y condiciones de cada serie y/o clase, deberá acreditarse dentro de los CINCO (5) días de la fecha de publicación en la AUTOPISTA DE LA INFORMACIÓN FINANCIERA del suplemento o adenda correspondiente. A los efectos de determinar el valor residual de la serie y/o clase se deberá considerar el importe que corresponda al día anterior a la fecha de pago.
+b.3) Por colocación de serie o clase del Programa, deberá acreditarse dentro de los CINCO (5) días de la fecha de colocación de cada serie o clase.
+
+b.4) Por modificación de los términos y condiciones de cada serie o clase, deberá acreditarse dentro de los CINCO (5) días de la fecha de publicación en la AIF del Suplemento o adenda correspondiente. A los efectos de determinar el valor residual de la serie o clase se deberá considerar el importe que corresponda al día anterior a la fecha de pago.
 
 c) Por emisiones individuales de valores fiduciarios y/o modificación de términos y condiciones, deberá acreditarse con carácter previo a la obtención de la autorización definitiva. En el caso de aquellos fideicomisos financieros individuales, con emisión por tramos, deberá acreditarse con carácter previo a la obtención de la autorización definitiva el pago del arancel sobre el total del monto autorizado.
 
-d) Emisiones de Valores Fiduciarios por Programa:
+d) Emisiones de valores fiduciarios por Programa:
 
-d.1) Por el monto máximo del programa, deberá acreditarse con carácter previo a la obtención de la autorización definitiva.
+d.1) Por el monto máximo del Programa, deberá acreditarse con carácter previo a la obtención de la autorización definitiva.
 
-d.2) Por modificación en los términos y condiciones, aumento de monto y/o prórroga del plazo, deberá acreditarse con carácter previo a la obtención de la autorización definitiva. d.3) Por la colocación de serie y/o clase del Programa, deberá acreditarse dentro de los CINCO (5) días de la fecha de colocación de cada serie y/o clase.
+d.2) Por modificación en los términos y condiciones, aumento de monto y/o prórroga del plazo, deberá acreditarse con carácter previo a la obtención de la autorización definitiva.
 
-d.4) Por modificación de los términos y condiciones de cada serie y/o clase, deberá acreditarse con carácter previo a la obtención de la autorización definitiva. A los efectos de determinar el valor residual de la serie y/o clase se deberá considerar el importe que corresponda al día anterior a la fecha de pago.
+d.3) Por la colocación de serie o clase del Programa, deberá acreditarse dentro de los CINCO (5) días de la fecha de colocación de cada serie o clase.
 
-Las disposiciones del presente artículo serán aplicables a las emisiones de Valores Negociables Sociales, Verdes y Sustentables en Argentina; Valores Negociables con Impacto Social bajo el Régimen Simplificado y Garantizado y Valores Fiduciarios de Fideicomisos Financieros PyMEs. A todos los efectos del presente Capítulo, se entenderá por valor residual de la serie y/o clase al remanente del valor nominal emitido luego de deducidas las amortizaciones pagadas y las cancelaciones efectuados de dicha emisión al día anterior a la fecha de pago.
+d.4) Por modificación de los términos y condiciones de cada serie o clase, deberá acreditarse con carácter previo a la obtención de la autorización definitiva. A los efectos de determinar el valor residual de la serie o clase se deberá considerar el importe que corresponda al día anterior a la fecha de pago.
 
-ARANCEL DE AUTORIZACIÓN EMISOR FRECUENTE.
-ARTÍCULO 6º.- El arancel de autorización establecido respecto al Régimen de Emisor Frecuente y todas las emisiones de series o clases bajo dicho Régimen deberá acreditarse conforme se detalla a continuación:
+Las disposiciones del presente artículo serán aplicables a las emisiones de ON y FF Sociales, Verdes y Sustentables (SVS); ON con Impacto Social bajo el Régimen Simplificado y Garantizado y Valores Fiduciarios emitidos bajo los Regímenes Especiales para la constitución de FF Sustentables y de FF destinados al Financiamiento de PyMEs.
 
-a) Inscripción de Emisor Frecuente. Por el monto máximo autorizado, deberá acreditarse con carácter previo a la obtención de la autorización definitiva.
+A todos los efectos del presente Capítulo, se entenderá por valor residual de la serie o clase al remanente del valor nominal emitido luego de deducidas las amortizaciones pagadas y las cancelaciones efectuadas de dicha emisión al día anterior a la fecha de pago.
 
-b) Derogado mediante Art. 8°, Resolución General N° 1073/2025.
+[Artículo sustituido por art. 2° de la RG 1103/2026, BO 09/01/2026]
 
-c) Colocación de serie y/o clase. Por el monto efectivamente colocado, deberá acreditarse dentro de los CINCO (5) días de la fecha de colocación de cada serie y/o clase.
+ARANCEL DE AUTORIZACIÓN EMISOR FRECUENTE (EF).
+ARTÍCULO 6º.- El arancel de autorización establecido respecto al Régimen de EF y todas las emisiones de series o clases bajo dicho régimen deberá acreditarse conforme se detalla a continuación:
 
-d) Aumento del monto autorizado bajo el régimen de Emisor Frecuente. Por el monto del aumento autorizado, deberá acreditarse con carácter previo a la obtención de la autorización definitiva.
+a) Colocación de serie o clase. Por el monto efectivamente colocado, deberá acreditarse dentro de los CINCO (5) días de la fecha de colocación de cada serie o clase.
 
-e) Otras modificaciones en los términos y condiciones. Por el monto máximo autorizado disponible para futuras emisiones, deberá acreditarse con carácter previo a la obtención de la autorización definitiva.
+b) Modificación de los términos y condiciones de cada serie o clase. Por el valor residual, deberá acreditarse dentro de los CINCO (5) días de la fecha de publicación en la AIF del Suplemento o adenda correspondiente.
 
-f) Modificación de los términos y condiciones de cada serie y/o clase. Por el valor residual, deberá acreditarse dentro de los CINCO (5) días de la fecha de publicación en la AUTOPISTA DE LA INFORMACIÓN FINANCIERA del suplemento o adenda correspondiente. A los efectos de determinar el valor residual de la serie y/o clase se deberá considerar el importe que corresponda al día anterior a la fecha de pago.
+c) Por modificación en los términos y condiciones y/o aumento de monto, deberá acreditarse con carácter previo a la obtención de la autorización definitiva.
 
-Las disposiciones del presente artículo serán aplicables a todas las emisiones de Obligaciones Negociables cuando las mismas sean realizadas bajo el Régimen de Emisor Frecuente.
+A los efectos de determinar el valor residual de la serie o clase se deberá considerar el importe que corresponda al día anterior a la fecha de pago.
+
+Las disposiciones del presente artículo serán aplicables a todas las emisiones de obligaciones negociables cuando las mismas sean realizadas bajo el Régimen de EF
+
+[Artículo sustituido por art. 2° de la RG 1103/2026, BO 09/01/2026]
 
 CAPITALIZACIÓN DE INTERESES.
 ARTÍCULO 7º.- Cuando se capitalicen intereses, se deberán abonar, dentro de los CINCO (5) días hábiles desde la fecha de capitalización, las sumas que resulten de aplicar el arancel de autorización respectivo sobre los montos capitalizados.
@@ -103,6 +111,11 @@ d) Derogado por la Resolución General N° 1047 (B.O. 9/1/2025).
 
 PAGO DE ARANCELES EN OTRAS MONEDAS. TIPO DE CAMBIO.
 ARTÍCULO 12- En el caso de emisiones nominadas en dólares estadounidenses, para el cobro del arancel de autorización corresponde aplicar el Tipo de Cambio de Referencia Comunicación "A" 3500 del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA correspondiente al día hábil anterior a la fecha de pago. En el caso de emisiones nominadas en otras monedas extranjeras, se utilizará el tipo de cambio publicado en el sitio web del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA, en http://www.bcra.gov.ar, correspondiente al día hábil anterior a la fecha de pago.
+
+OTROS SERVICIOS.
+ARTÍCULO 13.- Las sociedades emisoras en el Régimen de Oferta Pública deberán acreditar, al momento de solicitar la emisión del Certificado de vigencia, el pago de la tasa prevista en el anexo de la Resolución N° 87/2017 del ex Ministerio de Finanzas
+
+[Artículo incorporado por art. 3° de la RG 1103/2026, BO 09/01/2026]
 
 ### ANEXO I ARANCEL DE AUTORIZACIÓN DE VALORES NEGOCIABLES
 

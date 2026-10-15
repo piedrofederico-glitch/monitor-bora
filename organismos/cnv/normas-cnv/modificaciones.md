@@ -185,6 +185,16 @@ Archivo: `vigente/titulo-XVI/capitulo-I.md`
 | Secc. II → I | renumera | RG 1097/2025 | 3° | 24/12/2025 |
 | Secc. III → II | renumera | RG 1097/2025 | 3° | 24/12/2025 |
 
+## Título XVII, Capítulo I
+Archivo: `vigente/titulo-XVII/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 3°, inc. b) | modifica parcialmente | RG 1103/2026 | 1° | 09/01/2026 |
+| art. 5° | sustituye | RG 1103/2026 | 2° | 09/01/2026 |
+| art. 6° | sustituye | RG 1103/2026 | 2° | 09/01/2026 |
+| art. 13 | incorpora | RG 1103/2026 | 3° | 09/01/2026 |
+
 ## Título XVIII, Capítulo I
 Archivo: `vigente/titulo-XVIII/capitulo-I.md`
 
@@ -215,6 +225,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-XV.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | Secc. V (completa) | incorpora | RG 1098/2025 | 1° | 24/12/2025 |
+| Secc. V (completa) | sustituye | RG 1103/2026 | 4° | 09/01/2026 |
 
 ## Título XVIII, Capítulo XVII (capítulo derogado)
 Texto derogado: `historial/titulo-XVIII/capitulo-XVII-derogado-RG-1099-2025.md`
