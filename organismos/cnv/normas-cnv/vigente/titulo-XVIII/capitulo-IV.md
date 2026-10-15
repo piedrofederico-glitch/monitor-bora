@@ -1,9 +1,11 @@
 # Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS
-Última modificación: RG 1090/2025 (BO 14/11/2025)
+Última modificación: RG 1099/2025 (BO 26/12/2025)
 Fuente: PDF base, págs. 926–928.
 
 RÉGIMEN PYME CNV GARANTIZADA.
-ARTÍCULO 1°.- Los mercados deberán adecuar sus reglamentos a los efectos de prever el régimen de las Obligaciones Negociables garantizadas de acuerdo a lo establecido en el Título II “Emisoras” Capítulo VI Sección III “Régimen PYME CNV Garantizada”, considerando las características particulares de dicho régimen conforme las presentes Normas, entre ellas, su régimen informativo diferenciado conforme lo dispuesto en el artículo 24 de la Sección VI del Capítulo VI del Título II de estas Normas, la obligatoriedad de contar con una garantía por la totalidad de la emisión por al menos una Entidad de Garantía autorizada por esta Comisión. El Mercado no podrá imponer mayores exigencias y requisitos que las requeridas por esta Comisión.
+ARTÍCULO 1°.- Los Mercados deberán adecuar sus reglamentos a los efectos de prever el Régimen de las Obligaciones Negociables PyME CNV Garantizadas de acuerdo a lo establecido en la Sección IX del Capítulo V del Título II de estas Normas, considerando las características particulares de dicho régimen conforme estas Normas, entre ellas, la obligatoriedad de contar con una garantía por la totalidad de la emisión por al menos una Entidad de Garantía.
+
+[Artículo sustituido por art. 3° de la RG 1099/2025, BO 26/12/2025]
 
 CRONOGRAMA ADECUACIÓN PATRIMONIO NETO MÍNIMO MERCADOS.
 ARTÍCULO 2°. - En lo que respecta a los requisitos patrimoniales establecidos en las presentes Normas, los Mercados que se encuentren registrados a la fecha de entrada en vigencia de la Resolución General N° 1080 deberán contar, al 31 de diciembre de 2025, con el CIEN (100%) del patrimonio neto mínimo requerido.

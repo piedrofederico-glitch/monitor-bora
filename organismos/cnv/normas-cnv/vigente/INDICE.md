@@ -10,7 +10,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y REUNIONES DE OTROS ÓRGANOS SOCIALES. MODIFICACIONES ESTATUTARIAS O DE CONDICIONES DE EMISIÓN. ASAMBLEAS A DISTANCIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-III.md`](titulo-II/capitulo-III.md) | Título II — Capítulo III: ÓRGANOS DE ADMINISTRACIÓN Y FISCALIZACIÓN. AUDITORÍA EXTERNA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-II/capitulo-IV.md`](titulo-II/capitulo-IV.md) | Título II — Capítulo IV: FISCALIZACIÓN SOCIETARIA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-II/capitulo-V.md`](titulo-II/capitulo-V.md) | Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA | RG 1095/2025 (BO 18/12/2025) |
+| [`titulo-II/capitulo-V.md`](titulo-II/capitulo-V.md) | Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA | RG 1099/2025 (BO 26/12/2025) |
 | [`titulo-II/capitulo-VI.md`](titulo-II/capitulo-VI.md) | Título II — Capítulo VI: PEQUEÑAS Y MEDIANAS EMPRESAS | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-VII.md`](titulo-II/capitulo-VII.md) | Título II — Capítulo VII: ENTIDADES DE GARANTÍA | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-VIII.md`](titulo-II/capitulo-VIII.md) | Título II — Capítulo VIII: EMISORAS EXTRANJERAS. CERTIFICADOS DE DEPÓSITO Y DE VALORES (CEDEARS Y CEVA). CERTIFICADOS DE DEPÓSITO EN CUSTODIA. | RG 1095/2025 (BO 18/12/2025) |
@@ -69,10 +69,10 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVI/capitulo-I.md`](titulo-XVI/capitulo-I.md) | Título XVI — Capítulo I: DEFINICIONES. NOTIFICACIONES. OTRAS DISPOSICIONES. | RG 1097/2025 (BO 24/12/2025) |
 | [`titulo-XVI/capitulo-II.md`](titulo-XVI/capitulo-II.md) | Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVII/capitulo-I.md`](titulo-XVII/capitulo-I.md) | Título XVII — Capítulo I: TASAS Y ARANCELES LEY Nº 26.831, ARTÍCULO 14 INCISO B), RESOLUCIÓN 153- E/2017 DEL MINISTERIO DE FINANZAS Y MODIFICATORIAS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVIII/capitulo-I.md`](titulo-XVIII/capitulo-I.md) | Título XVIII — Capítulo I: EMISORAS | RG 1095/2025 (BO 18/12/2025) |
+| [`titulo-XVIII/capitulo-I.md`](titulo-XVIII/capitulo-I.md) | Título XVIII — Capítulo I: EMISORAS | RG 1099/2025 (BO 26/12/2025) |
 | [`titulo-XVIII/capitulo-II.md`](titulo-XVIII/capitulo-II.md) | Título XVIII — Capítulo II: PRODUCTOS DE INVERSIÓN COLECTIVA. FIDEICOMISOS FINANCIEROS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-III.md`](titulo-XVIII/capitulo-III.md) | Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1090/2025 (BO 14/11/2025) |
+| [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1099/2025 (BO 26/12/2025) |
 | [`titulo-XVIII/capitulo-V.md`](titulo-XVIII/capitulo-V.md) | Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-VI.md`](titulo-XVIII/capitulo-VI.md) | Título XVIII — Capítulo VI: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-VII.md`](titulo-XVIII/capitulo-VII.md) | Título XVIII — Capítulo VII: AGENTES DE CALIFICACIÓN DE RIESGOS (ACR). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -85,8 +85,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVIII/capitulo-XIV.md`](titulo-XVIII/capitulo-XIV.md) | Título XVIII — Capítulo XIV: PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES (PSAV). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-XV.md`](titulo-XVIII/capitulo-XV.md) | Título XVIII — Capítulo XV: DISPOSICIÓN TRANSITORIA. SUSPENSIÓN PERCEPCIÓN Y PAGO TASAS DE FISCALIZACIÓN Y CONTROL | RG 1098/2025 (BO 24/12/2025) |
 | [`titulo-XVIII/capitulo-XVI.md`](titulo-XVIII/capitulo-XVI.md) | Título XVIII — Capítulo XVI: RÉGIMEN DE INCENTIVO A LA CONSTRUCCIÓN FEDERAL ARGENTINA Y ACCESO A LA VIVIENDA. LEY Nº 27.613 | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVIII/capitulo-XVII.md`](titulo-XVIII/capitulo-XVII.md) | Título XVIII — Capítulo XVII: ENTIDADES DE GARANTIA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVIII/capitulo-XVIII.md`](titulo-XVIII/capitulo-XVIII.md) | Título XVIII — Capítulo XVIII: RÉGIMEN DE REGULARIZACIÓN DE ACTIVOS. LEY N° 27.743 – MEDIDAS FISCALES PALIATIVAS Y RELEVANTES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XVIII/capitulo-XVII.md`](titulo-XVIII/capitulo-XVII.md) | Título XVIII — Capítulo XVII: RÉGIMEN DE REGULARIZACIÓN DE ACTIVOS. LEY N° 27.743 – MEDIDAS FISCALES PALIATIVAS Y RELEVANTES. | RG 1099/2025 (BO 26/12/2025) |
 | [`titulo-XIX/titulo-XIX.md`](titulo-XIX/titulo-XIX.md) | Título XIX — ENTIDADES REPRESENTATIVAS REGIONALES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XX/capitulo-I.md`](titulo-XX/capitulo-I.md) | Título XX — Capítulo I: PUERTOS SEGUROS PARA OFERTAS PRIVADAS DE VALORES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XX/capitulo-II.md`](titulo-XX/capitulo-II.md) | Título XX — Capítulo II: DISPOSICIONES COMUNES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |

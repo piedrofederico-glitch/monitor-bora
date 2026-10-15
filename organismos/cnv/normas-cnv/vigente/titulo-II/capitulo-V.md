@@ -1,5 +1,5 @@
 # Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA
-Última modificación: RG 1095/2025 (BO 18/12/2025)
+Última modificación: RG 1099/2025 (BO 26/12/2025)
 Fuente: RG 1095/2025, art. 2°.
 
 ### SECCIÓN I — OFERTA PÚBLICA.
@@ -681,7 +681,7 @@ b) el artículo 72 último párrafo de la Ley de Fideicomiso, según sea el caso
 INFORMACIÓN A SER REMITIDA.
 ARTÍCULO 70.- Con excepción de lo previsto en los incisos 3 y 4 del presente artículo, dentro de los DIEZ (10) días hábiles posteriores al cierre del período de colocación, el Emisor deberá:
 
-1. Presentar por ante esta Comisión la información prevista en el artículo 14 inciso 3 de la Sección III de este Capítulo, exceptuándose de ello, a las emisiones que califiquen como PyME CNV GARANTIZADAS o bajo el Régimen PyME CNV.
+1. Presentar por ante la CNV la información prevista en el artículo 14 inciso 6 de la Sección III de este Capítulo, exceptuándose de ello, a las emisiones que califiquen como PyME CNV Garantizada o bajo el Régimen PyME CNV.
 
 2. Mantener a disposición de la Comisión la documentación que acredita los esfuerzos de colocación realizados para los fines previstos en la Ley de Obligaciones Negociables.
 
@@ -692,6 +692,8 @@ ARTÍCULO 70.- Con excepción de lo previsto en los incisos 3 y 4 del presente a
 Toda notificación a la Comisión deberá ser efectuada mediante la plataforma TAD, excepto que se establezca de otra manera.
 
 Los Emisores deberán presentar toda la documentación dirigida a los Mercados.
+
+[Inciso 1 sustituido por art. 1° de la RG 1099/2025, BO 26/12/2025]
 
 OBLIGACIÓN DE LISTADO. NEGOCIACIÓN SECUNDARIA DE LOS VALORES NEGOCIABLES.
 ARTÍCULO 71.- Los valores negociables emitidos bajo el presente régimen deberán ser colocados y listados en un Mercado autorizado por esta Comisión, en un panel específico determinado por dicho mercado.

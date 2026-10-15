@@ -2280,3 +2280,24 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > Firma, aclaración y cargo Fecha:”
 >
 > 1 En caso de ser Apoderado deberá adjuntar copia certificada del poder.
+
+## Artículo 70 (Sección IX)
+- Vigente desde: anterior a la base
+- Vigente hasta: 26/12/2025
+- Modificado parcialmente por: RG 1099/2025, art. 1°
+- Texto:
+
+> INFORMACIÓN A SER REMITIDA.
+> ARTÍCULO 70.- Con excepción de lo previsto en los incisos 3 y 4 del presente artículo, dentro de los DIEZ (10) días hábiles posteriores al cierre del período de colocación, el Emisor deberá:
+>
+> 1. Presentar por ante esta Comisión la información prevista en el artículo 14 inciso 3 de la Sección III de este Capítulo, exceptuándose de ello, a las emisiones que califiquen como PyME CNV GARANTIZADAS o bajo el Régimen PyME CNV.
+>
+> 2. Mantener a disposición de la Comisión la documentación que acredita los esfuerzos de colocación realizados para los fines previstos en la Ley de Obligaciones Negociables.
+>
+> 3. En su caso, el Emisor deberá acreditar el cumplimiento del plan de afectación de fondos conforme al artículo 15 de la Sección III del presente Capítulo. La acreditación del plan de afectación de fondos no podrá exceder el plazo de duración de la clase o serie emitida. En caso de capital de trabajo, la acreditación deberá ser realizada dentro del primer año de emitida.
+>
+> 4. Remitir oportunamente a los Mercados donde se listen o negocien los valores negociables, así como al ADCVN la información sobre los eventos de pago correspondientes.
+>
+> Toda notificación a la Comisión deberá ser efectuada mediante la plataforma TAD, excepto que se establezca de otra manera.
+>
+> Los Emisores deberán presentar toda la documentación dirigida a los Mercados.

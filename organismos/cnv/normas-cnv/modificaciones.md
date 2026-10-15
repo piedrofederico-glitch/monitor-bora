@@ -36,6 +36,7 @@ Archivo: `vigente/titulo-II/capitulo-V.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
+| art. 70 (Secc. IX), inc. 1 | modifica parcialmente | RG 1099/2025 | 1° | 26/12/2025 |
 
 ## Título II, Capítulo VI
 Archivo: `vigente/titulo-II/capitulo-VI.md`
@@ -134,6 +135,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-I.md`
 |---|---|---|---|---|
 | Secc. IV (completa) | incorpora | RG 1095/2025 | 3° | 18/12/2025 |
 | Secc. V (completa) | incorpora | RG 1095/2025 | 3° | 18/12/2025 |
+| capítulo completo | sustituye | RG 1099/2025 | 2° | 26/12/2025 |
 
 ## Título XVIII, Capítulo IV
 Archivo: `vigente/titulo-XVIII/capitulo-IV.md`
@@ -141,6 +143,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-IV.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 14 | incorpora | RG 1090/2025 | 7° | 14/11/2025 |
+| art. 1° | sustituye | RG 1099/2025 | 3° | 26/12/2025 |
 
 ## Título XVIII, Capítulo XI
 Archivo: `vigente/titulo-XVIII/capitulo-XI.md`
@@ -155,3 +158,17 @@ Archivo: `vigente/titulo-XVIII/capitulo-XV.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | Secc. V (completa) | incorpora | RG 1098/2025 | 1° | 24/12/2025 |
+
+## Título XVIII, Capítulo XVII (capítulo derogado)
+Texto derogado: `historial/titulo-XVIII/capitulo-XVII-derogado-RG-1099-2025.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | deroga | RG 1099/2025 | 4° | 26/12/2025 |
+
+## Título XVIII, Capítulo XVII
+Archivo: `vigente/titulo-XVIII/capitulo-XVII.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo (antes Cap. XVIII) | renumera | RG 1099/2025 | 5° | 26/12/2025 |
