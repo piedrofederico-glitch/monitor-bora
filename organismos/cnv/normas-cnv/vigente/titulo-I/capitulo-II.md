@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1107/2026 (BO 13/02/2026)
+Última modificación: RG 1108/2026 (BO 20/02/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -194,6 +194,10 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 
 “Ley de Obligaciones Negociables” significa Ley N° 23.576.
 
+Ley de Prevención de la Evasión Fiscal significa Ley N° 25.345”.
+
+Ley de Régimen Penal Tributario significa Ley N° 27.799”.
+
 “Ley General de Sociedades” significa Ley N° 19.550.
 
 “Ley para el Financiamiento de la Vivienda y la Construcción” significa Ley N° 24.441.
@@ -299,6 +303,8 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 [Término “PyME CNV” sustituido por art. 1° de la RG 1105/2026, BO 22/01/2026]
 
 [Términos “FCE MiPyMEs” y “VNEI” incorporados por art. 1° de la RG 1107/2026, BO 13/02/2026]
+
+[Términos “Ley de Régimen Penal Tributario” y “Ley de Prevención de la Evasión Fiscal” incorporados por art. 1° de la RG 1108/2026, BO 20/02/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

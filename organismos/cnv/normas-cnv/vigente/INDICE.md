@@ -5,7 +5,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1107/2026 (BO 13/02/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1108/2026 (BO 20/02/2026) |
 | [`titulo-II/capitulo-I.md`](titulo-II/capitulo-I.md) | Título II — Capítulo I: ACCIONES Y OTROS VALORES NEGOCIABLES | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y REUNIONES DE OTROS ÓRGANOS SOCIALES. MODIFICACIONES ESTATUTARIAS O DE CONDICIONES DE EMISIÓN. ASAMBLEAS A DISTANCIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-III.md`](titulo-II/capitulo-III.md) | Título II — Capítulo III: ÓRGANOS DE ADMINISTRACIÓN Y FISCALIZACIÓN. AUDITORÍA EXTERNA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -50,7 +50,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-IX/capitulo-I.md`](titulo-IX/capitulo-I.md) | Título IX — Capítulo I: AGENTES DE CALIFICACIÓN DE RIESGOS SOCIEDADES ANÓNIMAS Y OTRAS ORGANIZACIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-IX/capitulo-II.md`](titulo-IX/capitulo-II.md) | Título IX — Capítulo II: AGENTES DE CALIFICACIÓN DE RIESGOS UNIVERSIDADES PÚBLICAS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-X/titulo-X.md`](titulo-X/titulo-X.md) | Título X — DEL REGISTRO DE MERCADOS, CÁMARAS COMPENSADORAS Y AGENTES BAJO COMPETENCIA DE LA GERENCIA DE AGENTES Y MERCADOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XI/titulo-XI.md`](titulo-XI/titulo-XI.md) | Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO (PLAyFT) | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XI/titulo-XI.md`](titulo-XI/titulo-XI.md) | Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO (PLAyFT) | RG 1108/2026 (BO 20/02/2026) |
 | [`titulo-XII/capitulo-I.md`](titulo-XII/capitulo-I.md) | Título XII — Capítulo I: DISPOSICIONES GENERALES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XII/capitulo-II.md`](titulo-XII/capitulo-II.md) | Título XII — Capítulo II: OBLIGACIONES DE LOS PARTICIPANTES EN EL ÁMBITO DE LA OFERTA PÚBLICA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XII/capitulo-III.md`](titulo-XII/capitulo-III.md) | Título XII — Capítulo III: CONDUCTAS CONTRARIAS A LA TRANSPARENCIA EN EL ÁMBITO DE LA OFERTA PÚBLICA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
