@@ -5,7 +5,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1105/2026 (BO 22/01/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1107/2026 (BO 13/02/2026) |
 | [`titulo-II/capitulo-I.md`](titulo-II/capitulo-I.md) | Título II — Capítulo I: ACCIONES Y OTROS VALORES NEGOCIABLES | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y REUNIONES DE OTROS ÓRGANOS SOCIALES. MODIFICACIONES ESTATUTARIAS O DE CONDICIONES DE EMISIÓN. ASAMBLEAS A DISTANCIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-III.md`](titulo-II/capitulo-III.md) | Título II — Capítulo III: ÓRGANOS DE ADMINISTRACIÓN Y FISCALIZACIÓN. AUDITORÍA EXTERNA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -36,7 +36,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-VI/capitulo-III.md`](titulo-VI/capitulo-III.md) | Título VI — Capítulo III: LIQUIDACIÓN Y COMPENSACIÓN DE OPERACIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VI/capitulo-IV.md`](titulo-VI/capitulo-IV.md) | Título VI — Capítulo IV: COLOCACIÓN PRIMARIA. | RG 1100/2025 (BO 31/12/2025) |
 | [`titulo-VI/capitulo-V.md`](titulo-VI/capitulo-V.md) | Título VI — Capítulo V: NEGOCIACIÓN SECUNDARIA. OPERACIONES | RG 1090/2025 (BO 14/11/2025) |
-| [`titulo-VI/capitulo-VI.md`](titulo-VI/capitulo-VI.md) | Título VI — Capítulo VI: NEGOCIACIÓN SECUNDARIA DE VALORES NEGOCIABLES DE EMISION INDIVIDUAL QUE GOZAN DE OFERTA PÚBLICA. | RG 1090/2025 (BO 14/11/2025) |
+| [`titulo-VI/capitulo-VI.md`](titulo-VI/capitulo-VI.md) | Título VI — Capítulo VI: NEGOCIACIÓN SECUNDARIA DE VALORES NEGOCIABLES DE EMISION INDIVIDUAL QUE GOZAN DE OFERTA PÚBLICA. | RG 1107/2026 (BO 13/02/2026) |
 | [`titulo-VII/capitulo-I.md`](titulo-VII/capitulo-I.md) | Título VII — Capítulo I: AGENTE DE NEGOCIACIÓN | RG 1102/2025 (BO 31/12/2025) |
 | [`titulo-VII/capitulo-II.md`](titulo-VII/capitulo-II.md) | Título VII — Capítulo II: AGENTE DE LIQUIDACIÓN Y COMPENSACIÓN | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VII/capitulo-III.md`](titulo-VII/capitulo-III.md) | Título VII — Capítulo III: FONDO DE GARANTÍA PARA RECLAMOS DE CLIENTES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -79,7 +79,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVIII/capitulo-VIII.md`](titulo-XVIII/capitulo-VIII.md) | Título XVIII — Capítulo VIII: BOLSAS DE COMERCIO CON Y SIN MERCADO DE VALORES ADHERIDO. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-IX.md`](titulo-XVIII/capitulo-IX.md) | Título XVIII — Capítulo IX: DE LAS DENUNCIAS PENALES Y QUERELLAS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-X.md`](titulo-XVIII/capitulo-X.md) | Título XVIII — Capítulo X: PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIAMIENTO DEL TERRORISMO | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVIII/capitulo-XI.md`](titulo-XVIII/capitulo-XI.md) | Título XVIII — Capítulo XI: AGENTE DE CUSTODIA, REGISTRO Y PAGO | RG 1090/2025 (BO 14/11/2025) |
+| [`titulo-XVIII/capitulo-XI.md`](titulo-XVIII/capitulo-XI.md) | Título XVIII — Capítulo XI: AGENTE DE CUSTODIA, REGISTRO Y PAGO | RG 1107/2026 (BO 13/02/2026) |
 | [`titulo-XVIII/capitulo-XII.md`](titulo-XVIII/capitulo-XII.md) | Título XVIII — Capítulo XII: MEDIDAS EN EL MARCO DEL AISLAMIENTO SOCIAL, PREVENTIVO Y OBLIGATORIO COVID-19 | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-XIII.md`](titulo-XVIII/capitulo-XIII.md) | Título XVIII — Capítulo XIII: AUDITORES EXTERNOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-XIV.md`](titulo-XVIII/capitulo-XIV.md) | Título XVIII — Capítulo XIV: PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES (PSAV). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |

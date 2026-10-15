@@ -16,6 +16,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1097/2025 | 1° | 24/12/2025 |
 | art. 2° (Secc. II), término “PyME CNV” | modifica parcialmente | RG 1105/2026 | 1° | 22/01/2026 |
+| art. 2° (Secc. II), términos “FCE MiPyMEs” y “VNEI” | modifica parcialmente | RG 1107/2026 | 1° | 13/02/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -164,6 +165,7 @@ Archivo: `vigente/titulo-VI/capitulo-VI.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | incorpora | RG 1090/2025 | 6° | 14/11/2025 |
+| art. 17 (Secc. X) | sustituye | RG 1107/2026 | 2° | 13/02/2026 |
 
 ## Título VII, Capítulo I
 Archivo: `vigente/titulo-VII/capitulo-I.md`
@@ -226,6 +228,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-XI.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 6 | incorpora | RG 1090/2025 | 8° | 14/11/2025 |
+| art. 7° | incorpora | RG 1107/2026 | 3° | 13/02/2026 |
 
 ## Título XVIII, Capítulo XV
 Archivo: `vigente/titulo-XVIII/capitulo-XV.md`
