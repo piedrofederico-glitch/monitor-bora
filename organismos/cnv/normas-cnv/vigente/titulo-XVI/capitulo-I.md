@@ -1,62 +1,12 @@
 # Título XVI — Capítulo I: DEFINICIONES. NOTIFICACIONES. OTRAS DISPOSICIONES.
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1097/2025 (BO 24/12/2025)
 Fuente: PDF base, págs. 893–900.
 
-### SECCIÓN I — DEFINICIÓN Y ALCANCE DE TÉRMINOS.
+[Sección I (DEFINICIÓN Y ALCANCE DE TÉRMINOS.) derogada por art. 2° de la RG 1097/2025, BO 24/12/2025]
 
-ARTÍCULO 1º.- A los fines de las presentes normas:
+### SECCIÓN I — NOTIFICACIONES.
 
-a) La palabra "Comisión" y la sigla “CNV”, se refieren a la COMISIÓN NACIONAL DE VALORES.
-
-b) Los términos “Normas”, “Normas CNV” y “Normas procedimentales” hacen referencia a las Normas de esta COMISIÓN NACIONAL DE VALORES.
-
-c) Los términos “Mercado de Capitales”, “Oferta Pública”, “Valores negociables”, “Productos de inversión colectiva”, “Mercados”, “Agentes registrados”, y sus diferentes categorías: agentes de negociación, agentes productores, agentes de colocación y distribución, agentes de corretaje, agentes de liquidación y compensación, agentes de administración de productos de inversión colectiva, agentes de custodia de productos de inversión colectiva, agentes depositario central de valores negociables y agentes de calificación de riesgos, tienen el alcance previsto en el artículo 2º de la Ley Nº 26.831.
-
-d) El término “Emisoras” identifica a aquellas entidades (sociedades por acciones, sociedad de responsabilidad limitada, cooperativas o asociaciones) que se encuentren autorizadas para efectuar oferta pública de sus valores negociables y a los emisores de fideicomisos financieros, Cedears y Ceva.
-
-e) Las expresiones “Controlante, grupo controlante o grupos de control”, tienen el alcance señalado en el referido artículo 2º de la Ley Nº 26.831.
-
-f) Se entenderá que, a todos los fines y salvo que medie prueba en contrario, hay “actuación concertada” entre DOS (2) o más personas, de existir entre algunas de ellas, una o más de las siguientes vinculaciones:
-
-1) Cuando se trate de personas jurídicas, participaciones significativas de una de ellas en la otra u otras.
-
-2) Vinculación en los términos de la Ley Nº 19.550.
-
-3) Cuando, de tratarse de una actuación que comprenda a personas humanas y jurídicas, una de las personas humanas involucradas o su cónyuge o conviviente reconocido legalmente, ascendientes o descendientes o consanguíneos hasta el segundo grado, se desempeñe en los órganos de administración o fiscalización, o en la primera línea gerencial, de alguna de las personas jurídicas que estén actuando, o tenga en ellas participaciones significativas.
-
-4) Cuando las personas involucradas tengan en común a representantes legales, apoderados, integrantes de sus órganos de administración, fiscalización o a integrantes de la primera línea gerencial.
-
-5) Cuando las personas humanas y jurídicas que estén actuando compartan iguales domicilios legales o constituidos, en su caso.
-
-6) Cuando tales personas se hallaren vinculadas por algún acuerdo que determine la forma en que habrán de hacer valer todo o parte de sus derechos como titulares de valores negociables de la emisora en cuestión, y ese acuerdo fuere de fecha anterior al inicio de la actuación concertada.
-
-g) El término “Organizador” hace referencia a las personas humanas o jurídicas designadas por la emisora para realizar actividades de coordinación de los participantes en la transacción, gestión de la oferta pública ante las autoridades correspondientes y diseño de la estructura financiera de la emisión, así como cualquier otra actividad que tenga por finalidad llevar adelante el ofrecimiento de valores negociables mediante el procedimiento de oferta pública, con arreglo a lo dispuesto en la Ley Nº 26.831 y su reglamentación.
-
-h) Las expresiones “Gerentes”, “Gerentes de primera línea” y “Gerentes generales o especiales”, hacen referencia a la primera línea de reporte, o sea a aquellos funcionarios de rango gerencial que reportan en forma directa al Directorio de la entidad.
-
-i) La expresión “Administrador” de Fondos Comunes de Inversión, hace referencia a “Agente de Administración de productos de inversión colectiva” de Fondos Comunes de Inversión; y la expresión “Custodio” de Fondos Comunes de Inversión, hace referencia a “Agente de Custodia de productos de inversión colectiva” de Fondos Comunes de Inversión.
-
-j) Los términos “sede” y “sede social” utilizados en estas Normas, hacen referencia a la sede inscripta de la persona jurídica.
-
-k) La expresión “Agente de Control y Revisión”, tiene el alcance previsto en los artículos 27 y 28 del Capítulo “Fideicomisos Financieros”, del Título “Productos de Inversión Colectiva”.
-
-l) En todos los casos en que en estas Normas se haga referencia a números de leyes, decretos o resoluciones, deberá interpretarse que estas referencias son comprensivas de todas las modificaciones que hubieran sido dictadas, con posterioridad a su vigencia inicial.
-
-m) El término información reservada o privilegiada tiene el alcance referido en el artículo 2º de la Ley N° 26.831.
-
-n) Los términos “aportes irrevocables”, “aportes irrevocables a cuenta de futuras suscripciones”, “adelantos irrevocables a cuenta de futuras suscripciones”, “aportes irrevocables a cuenta de futuras emisiones de acciones”, y cualquier otra denominación que sea utilizada y esté referida a idéntico concepto, a los efectos de estas Normas serán entendidos como sinónimos.
-
-o) La sigla “AIF”, hace referencia a la AUTOPISTA DE LA INFORMACION FINANCIERA.
-
-p) Las expresiones “BCRA” y “Banco Central” aluden al BANCO CENTRAL DE LA REPÚBLICA ARGENTINA.
-
-q) Las expresiones “FCI” y “Fondos” hacen referencia a Fondos Comunes de Inversión.
-
-r) Las expresiones “Agente Colocador y Distribuidor de FCI” y “Agente Colocador de FCI” alude a “Agentes de Colocación y Distribución de Fondos Comunes de Inversión”.
-
-s) La sigla “LMC” y la expresión “Ley de Mercado de Capitales” se refiere a la Ley N° 26.831.
-
-### SECCIÓN II — NOTIFICACIONES.
+[Sección renumerada (antes Secc. II) por art. 3° de la RG 1097/2025, BO 24/12/2025]
 
 PRINCIPIO GENERAL.
 ARTÍCULO 2º.- Las notificaciones de los actos administrativos emitidos por la Comisión se rigen por lo dispuesto en la Reglamentación de la Ley de Procedimientos Administrativos (Decreto Nº 1759/72- Texto Ordenado 2017).
@@ -82,7 +32,9 @@ ARTÍCULO 4º.- Se tendrán por válidas las comunicaciones efectuadas por los a
 HORARIOS DE LAS COMUNICACIONES.
 ARTÍCULO 5º.- Las comunicaciones a través de este medio, deberán efectuarse dentro del horario de atención al público de la mesa de entradas de la Comisión. Aquellas que se realicen fuera de dicho horario se tendrán por efectuadas el día siguiente al de recepción, en el horario de inicio de atención al público.
 
-### SECCIÓN III — OTRAS DISPOSICIONES.
+### SECCIÓN II — OTRAS DISPOSICIONES.
+
+[Sección renumerada (antes Secc. III) por art. 3° de la RG 1097/2025, BO 24/12/2025]
 
 RESOLUCIONES MODIFICATORIAS DEL TEXTO DE LAS NORMAS.
 ARTÍCULO 6°. - Las futuras reglamentaciones dictadas por la Comisión deberán redactarse en todos los casos como modificaciones al presente cuerpo normativo, adecuándose a la metodología adoptada y manteniendo la uniformidad de los términos utilizados en el texto.

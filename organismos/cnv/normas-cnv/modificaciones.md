@@ -2,6 +2,20 @@
 
 Índice inverso: ubicación → RG que la modificó desde la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025). Orden por título y capítulo; dentro de cada capítulo, en el orden en que se aplicaron las RG. Las redacciones anteriores están en `historial/` con la misma ruta.
 
+## Título I, Capítulo I
+Archivo: `vigente/titulo-I/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1097/2025 | 1° | 24/12/2025 |
+
+## Título I, Capítulo II
+Archivo: `vigente/titulo-I/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1097/2025 | 1° | 24/12/2025 |
+
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
 
@@ -103,6 +117,15 @@ Archivo: `vigente/titulo-VI/capitulo-VI.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | incorpora | RG 1090/2025 | 6° | 14/11/2025 |
+
+## Título XVI, Capítulo I
+Archivo: `vigente/titulo-XVI/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| Secc. I (completa) | deroga | RG 1097/2025 | 2° | 24/12/2025 |
+| Secc. II → I | renumera | RG 1097/2025 | 3° | 24/12/2025 |
+| Secc. III → II | renumera | RG 1097/2025 | 3° | 24/12/2025 |
 
 ## Título XVIII, Capítulo I
 Archivo: `vigente/titulo-XVIII/capitulo-I.md`

@@ -4,7 +4,8 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-I/titulo-I.md`](titulo-I/titulo-I.md) | Título I — DISPOSICIONES PRELIMINARES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1097/2025 (BO 24/12/2025) |
 | [`titulo-II/capitulo-I.md`](titulo-II/capitulo-I.md) | Título II — Capítulo I: ACCIONES Y OTROS VALORES NEGOCIABLES | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y REUNIONES DE OTROS ÓRGANOS SOCIALES. MODIFICACIONES ESTATUTARIAS O DE CONDICIONES DE EMISIÓN. ASAMBLEAS A DISTANCIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-III.md`](titulo-II/capitulo-III.md) | Título II — Capítulo III: ÓRGANOS DE ADMINISTRACIÓN Y FISCALIZACIÓN. AUDITORÍA EXTERNA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -65,7 +66,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XV/capitulo-I.md`](titulo-XV/capitulo-I.md) | Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XV/capitulo-II.md`](titulo-XV/capitulo-II.md) | Título XV — Capítulo II: AGENTES DE ADMINISTRACIÓN DE PRODUCTOS DE INVERSIÓN COLECTIVA – FIDUCIARIOS FINANCIEROS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XV/capitulo-III.md`](titulo-XV/capitulo-III.md) | Título XV — Capítulo III: EMISORAS – OBLIGACIONES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVI/capitulo-I.md`](titulo-XVI/capitulo-I.md) | Título XVI — Capítulo I: DEFINICIONES. NOTIFICACIONES. OTRAS DISPOSICIONES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XVI/capitulo-I.md`](titulo-XVI/capitulo-I.md) | Título XVI — Capítulo I: DEFINICIONES. NOTIFICACIONES. OTRAS DISPOSICIONES. | RG 1097/2025 (BO 24/12/2025) |
 | [`titulo-XVI/capitulo-II.md`](titulo-XVI/capitulo-II.md) | Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVII/capitulo-I.md`](titulo-XVII/capitulo-I.md) | Título XVII — Capítulo I: TASAS Y ARANCELES LEY Nº 26.831, ARTÍCULO 14 INCISO B), RESOLUCIÓN 153- E/2017 DEL MINISTERIO DE FINANZAS Y MODIFICATORIAS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-I.md`](titulo-XVIII/capitulo-I.md) | Título XVIII — Capítulo I: EMISORAS | RG 1095/2025 (BO 18/12/2025) |
