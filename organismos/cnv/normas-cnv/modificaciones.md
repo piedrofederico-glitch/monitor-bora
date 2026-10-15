@@ -349,6 +349,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-V.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 22 | incorpora | RG 1122/2026 | 3° | 31/03/2026 |
+| art. 6° TER | sustituye | RG 1128/2026 | 1° | 10/04/2026 |
 
 ## Título XVIII, Capítulo XI
 Archivo: `vigente/titulo-XVIII/capitulo-XI.md`
