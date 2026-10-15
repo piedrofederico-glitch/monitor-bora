@@ -1,9 +1,8 @@
 # Título IV — Capítulo II: OTRA INFORMACIÓN PERIÓDICA QUE DEBEN PRESENTAR LAS EMISORAS
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
-Fuente: PDF base, págs. 279–280.
+Última modificación: RG 1115/2026 (BO 02/03/2026)
+Fuente: RG 1115/2026, art. 2°.
 
-OBLIGACIONES NEGOCIABLES, OTROS VALORES REPRESENTATIVOS DE DEUDA Y/O CERTIFICADOS DE PARTICIPACIÓN.
-ARTÍCULO 1°.- Los administradores de todas las emisoras de obligaciones negociables, Cedears, otros valores representativos de deuda y/o certificados de participación, deberán presentar ante la Comisión, dentro de los DIEZ (10) días de finalizado cada trimestre calendario, la información requerida en el Anexo II de este Título.
+OBLIGACIONES NEGOCIABLES AUTÓNOMAS, BAJO PROGRAMAS GLOBALES Y CEDEAR O CEVA.
+ARTÍCULO 1°.- Los administradores de todas las Emisoras de ON autónomas, bajo programas globales o de CEDEAR o CEVA, deberán presentar ante la CNV, dentro de los DIEZ (10) días de finalizado cada trimestre calendario, la información requerida en el Anexo II del presente Título.
 
-FIANZAS Y AVALES OTORGADOS POR ENTIDADES FINANCIERAS.
-ARTÍCULO 2°.- Las entidades financieras, cuando otorguen avales, fianzas y garantías dentro de su operatoria normal y de acuerdo a su objeto social, deberán informar dentro del QUINTO (5º) día de cada mes el detalle de todas las operaciones otorgadas a un mismo beneficiario, cuando el total acumulado (al último día del mes anterior a aquel en el que se informa) de los avales, fianzas y garantías otorgados a ese beneficiario, alcancen o superen el UNO POR CIENTO (1%) del patrimonio neto. En todos los casos, las entidades financieras deberán indicar la identidad de los beneficiarios, montos y apertura por operación individual. Cuando se hubieren otorgado avales, fianzas o garantías que no superen los porcentajes establecidos en el presente inciso, o no hubiesen sido otorgados, deberá informarse en forma expresa con la misma periodicidad mensual tal circunstancia. Las entidades que no puedan proporcionar esta información, en virtud de una disposición legal específica, deberán de inmediato hacer conocer esta circunstancia a la Comisión.
+[Título sustituido por art. 2° de la RG 1115/2026, BO 02/03/2026]

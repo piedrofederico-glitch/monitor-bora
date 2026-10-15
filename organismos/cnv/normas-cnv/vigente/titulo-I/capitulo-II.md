@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1112/2026 (BO 26/02/2026)
+Última modificación: RG 1115/2026 (BO 02/03/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -188,6 +188,8 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “Ley Caja de Valores” significa Ley de Régimen para la Compra de Títulos Valores Privados N° 20.643.
 
+“Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional” significa Ley N° 24.156.
+
 “Ley de Entidades Financieras” significa Ley N° 21.526.
 
 “Ley de Fondos Comunes de Inversión” significa Ley N° 24.083.
@@ -274,6 +276,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Representación Digital” significa la forma de representación adicional de ciertos valores negociables prevista en el Capítulo I del Título XXII de estas Normas.
 
+“Resolución Técnica” o “RT” significa Resolución Técnica emitida por la Federación Argentina de Consejos Profesionales de Ciencias Económicas.
+
 “RLPA” significa Reglamento de la Ley de Procedimientos Administrativos (Decreto 1759/72- T.O. 2017).
 
 “RUCA” significa Registro Único de la Cadena Agroalimentaria.
@@ -321,6 +325,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Término “Régimen General” o “Régimen ordinario” incorporado por art. 1° de la RG 1110/2026, BO 23/02/2026]
 
 [Términos “CAFCI”, “FCIA”, “FCIC”, “GDE” y “RLPA” incorporados por art. 1° de la RG 1112/2026, BO 26/02/2026]
+
+[Términos “Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional” y “Resolución Técnica” o “RT” incorporados por art. 1° de la RG 1115/2026, BO 02/03/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

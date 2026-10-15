@@ -21,6 +21,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 3° (Secc. III), expresión “Agentes inscriptos en el registro a cargo de la CNV” | modifica parcialmente | RG 1109/2026 | 1° | 20/02/2026 |
 | art. 2° (Secc. II), término “Régimen General” o “Régimen ordinario” | modifica parcialmente | RG 1110/2026 | 1° | 23/02/2026 |
 | art. 2° (Secc. II), términos “CAFCI”, “FCIA”, “FCIC”, “GDE” y “RLPA” | modifica parcialmente | RG 1112/2026 | 1° | 26/02/2026 |
+| art. 2° (Secc. II), términos “Ley de Administración Financiera...” y “Resolución Técnica” o “RT” | modifica parcialmente | RG 1115/2026 | 1° | 02/03/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -100,6 +101,27 @@ Archivo: `vigente/titulo-III/capitulo-III.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1101/2025 | 1° | 31/12/2025 |
+
+## Título IV, Capítulo I
+Archivo: `vigente/titulo-IV/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1115/2026 | 2° | 02/03/2026 |
+
+## Título IV, Capítulo II
+Archivo: `vigente/titulo-IV/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1115/2026 | 2° | 02/03/2026 |
+
+## Título IV, Capítulo III
+Archivo: `vigente/titulo-IV/capitulo-III.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1115/2026 | 2° | 02/03/2026 |
 
 ## Título V, Capítulo I
 Archivo: `vigente/titulo-V/capitulo-I.md`

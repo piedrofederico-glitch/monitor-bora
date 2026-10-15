@@ -213,3 +213,95 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > “RePET” significa Registro Público de Personas y Entidades vinculadas a actos de Terrorismo y su Financiamiento.
 >
 > “Representación Digital” significa la forma de representación adicional de ciertos valores negociables prevista en el Capítulo I del Título XXII de estas Normas.
+
+## Artículo 2 (Sección II) — fragmento
+- Vigente desde: 27/02/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 02/03/2026
+- Sustituido/suprimido parcialmente por: RG 1115/2026, art. 1°
+- Texto:
+
+> “Ley de Entidades Financieras” significa Ley N° 21.526.
+>
+> “Ley de Fondos Comunes de Inversión” significa Ley N° 24.083.
+>
+> “Ley de Financiamiento Productivo” significa Ley N° 27.440.
+>
+> “Ley de Lavado” significa Ley de Encubrimiento y Lavado de Activos de Origen Delictivo N° 25.246.
+>
+> “Ley de Mercado de Capitales” significa Ley N° 26.831.
+>
+> “Ley de Nominatividad de Títulos Valores Privados” significa Ley N° 24.587.
+>
+> “Ley de Obligaciones Negociables” significa Ley N° 23.576.
+>
+> Ley de Prevención de la Evasión Fiscal significa Ley N° 25.345”.
+>
+> Ley de Régimen Penal Tributario significa Ley N° 27.799”.
+>
+> “Ley General de Sociedades” significa Ley N° 19.550.
+>
+> “Ley para el Financiamiento de la Vivienda y la Construcción” significa Ley N° 24.441.
+>
+> “Ley PyME” significa Ley N° 24.467.
+>
+> “Mercado de Capitales”, “Oferta Pública”, “Valores Negociables”, “Productos de Inversión Colectiva”, “Mercados” y “Agentes Registrados” tienen el alcance previsto en el artículo 2º de la Ley Nº 26.831.
+>
+> “NCPA” significa las Normas Contables Profesionales Argentinas.
+>
+> “Negociación Secundaria” significa cualquier compra o venta de valores negociables posterior a la colocación primaria.
+>
+> “NIIF” significa las Normas Internacionales de Información Financiera.
+>
+> “Normas”, “NORMAS CNV” o “NORMAS (N.T. 2013 y mod.)” significa las Normas de la CNV.
+>
+> “Obligaciones Negociables” y “ON” significa los valores representativos de deuda, emitidos por las entidades admitidas por Ley de Obligaciones Negociables, cumpliendo las condiciones allí previstas y en estas Normas.
+>
+> “Oferta Pública Inicial” o “IPO”, por su sigla en inglés, significa la operación mediante la cual una Emisora ofrece acciones en suscripción o sus accionistas venden por primera vez sus acciones en un Mercado autorizado por la CNV, cualquiera fuera que sucediere primero.
+>
+> “OPA de Retiro” es una OPA por retiro del régimen de oferta pública por acciones.
+>
+> “OPA” significa Oferta Pública de Adquisición de acciones.
+>
+> “Organizador” significa las personas humanas o jurídicas designadas por la Emisora para realizar actividades de coordinación de los participantes en la transacción, gestión de la oferta pública ante las autoridades correspondientes y diseño de la estructura financiera de la emisión, así como cualquier otra actividad que tenga por finalidad llevar adelante el ofrecimiento de valores negociables mediante el procedimiento de oferta pública, con arreglo a lo dispuesto en la Ley de Mercado de Capitales y su reglamentación.
+>
+> “PFC” significa Plataforma de Financiamiento Colectivo.
+>
+> “PIC” se refiere a Producto de Inversión Colectiva.
+>
+> “PLAFTFP” y significa Prevención de Lavado de Activos y Financiación del Terrorismo.
+>
+> “Precio Equitativo” significa el precio determinado de conformidad con lo establecido por la Ley de Mercado de Capitales y lo dispuesto en el Capítulo II del Título III de estas Normas.
+>
+> “Programa de CEDEAR o CEVA” significa el conjunto de términos y condiciones y sus posteriores aumentos o modificaciones para la oferta pública y negociación en Mercados autorizados en la República Argentina de CEDEAR o CEVA. Dicho Programa determina los valores subyacentes, los Emisores, depositarios y demás intervinientes, así como los derechos y obligaciones de los tenedores y participantes, y podrá prever emisiones sucesivas bajo su marco, conforme la normativa aplicable.
+>
+> “Programa Global” significa un marco general bajo el cual pueden emitirse o volver a emitirse clases o series de obligaciones negociables y valores fiduciarios hasta el monto máximo autorizado.
+>
+> “Programa” según el contexto en el que se escribe en el texto de la Normas significa Programa Global o Programa de CEDEAR o CEVA.
+>
+> “Prospecto del Programa” significa el Prospecto confeccionado bajo un Programa Global o Programa de CEDEAR o CEVA.
+>
+> “PSAV” significa Proveedor de Servicios de Activos Virtuales.
+>
+> “PyME CNV Garantizada” significa la Emisora que califica como PyME y que emite Obligaciones Negociables conforme al régimen previsto en el Capítulo V del Título II de estas Normas, bajo el régimen de Oferta Pública de ON con Autorización Automática por su Bajo Impacto o que emitieron con anterioridad bajo el Régimen previsto en el Capítulo VI del Título II de estas Normas.
+>
+> “PyME CNV” significa (i) la Emisora que califica como PyME y que emite acciones u obligaciones negociables conforme al régimen establecido en el Capítulo VI del Título II o bajo el régimen de Oferta Pública de ON con Autorización Automática por su Bajo Impacto establecido en el Capítulo V del Título II de estas Normas, y (ii) en lo que respecta a los PIC, y en los términos de lo dispuesto para los FCI y para los FF respectivamente, aquellas entidades que cuenten con Certificado MiPymes vigente, en tanto no se encuentren alcanzadas por las restricciones previstas en el artículo 2° del Capítulo VI del Título II
+>
+> “PyME” significa Pequeña y Mediana Empresa.
+>
+> “Ratio del CEDEAR” o “Ratio de conversión” significa la proporción existente entre el CEDEAR y el valor negociable subyacente emitido en el extranjero.
+>
+> “Ratio del CEVA” o “Ratio de conversión” significa la proporción existente entre el CEVA y el valor negociable subyacente emitido en el país.
+>
+> “Régimen General” o “Régimen ordinario” significa régimen de la CNV aplicable a la oferta pública de valores negociables cuando la Emisora no se encuentra comprendida en un régimen especial”.
+>
+> “Régimen Informativo Periódico” significa el previsto en el Título IV de estas Normas.
+>
+> “Régimen Informativo”, “Régimen Informativo Simplificado”, “Régimen Informativo Especial”, “Régimen Informativo Diferenciado”, o cualquier otra expresión similar, excepto por el Régimen Informativo Periódico, estará referida a las disposiciones específicas que le resultarán exigibles a las Emisoras u otros sujetos regulados por esta Comisión.
+>
+> “Régimen PyME CNV Garantizada” significa el conjunto de disposiciones normativas aplicables que debe cumplir una Emisora PyME CNV que emita obligaciones negociables con el aval de una o más Entidades de Garantía bajo los regímenes admitidos por estas Normas.
+>
+> “Régimen PyME CNV” significa el conjunto de disposiciones normativas aplicables que debe cumplir una Emisora PyME CNV de conformidad con lo establecido en el Capítulo VI del Título II de estas Normas.
+>
+> “RePET” significa Registro Público de Personas y Entidades vinculadas a actos de Terrorismo y su Financiamiento.
+>
+> “Representación Digital” significa la forma de representación adicional de ciertos valores negociables prevista en el Capítulo I del Título XXII de estas Normas.

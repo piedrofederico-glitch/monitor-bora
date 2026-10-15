@@ -5,7 +5,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1112/2026 (BO 26/02/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1115/2026 (BO 02/03/2026) |
 | [`titulo-II/capitulo-I.md`](titulo-II/capitulo-I.md) | Título II — Capítulo I: ACCIONES Y OTROS VALORES NEGOCIABLES | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y REUNIONES DE OTROS ÓRGANOS SOCIALES. MODIFICACIONES ESTATUTARIAS O DE CONDICIONES DE EMISIÓN. ASAMBLEAS A DISTANCIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-III.md`](titulo-II/capitulo-III.md) | Título II — Capítulo III: ÓRGANOS DE ADMINISTRACIÓN Y FISCALIZACIÓN. AUDITORÍA EXTERNA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -19,9 +19,9 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-III/capitulo-I.md`](titulo-III/capitulo-I.md) | Título III — Capítulo I: RETIRO Y CANCELACIÓN DEL RÉGIMEN DE OFERTA PÚBLICA. | RG 1101/2025 (BO 31/12/2025) |
 | [`titulo-III/capitulo-II.md`](titulo-III/capitulo-II.md) | Título III — Capítulo II: OFERTAS PÚBLICAS DE ADQUISICIÓN O CANJE | RG 1101/2025 (BO 31/12/2025) |
 | [`titulo-III/capitulo-III.md`](titulo-III/capitulo-III.md) | Título III — Capítulo III: APORTES IRREVOCABLES A CUENTA DE FUTURAS EMISIONES Y CAPITALIZACIÓN DE DEUDAS DE LA EMISORA | RG 1101/2025 (BO 31/12/2025) |
-| [`titulo-IV/capitulo-I.md`](titulo-IV/capitulo-I.md) | Título IV — Capítulo I: RÉGIMEN INFORMATIVO | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-IV/capitulo-II.md`](titulo-IV/capitulo-II.md) | Título IV — Capítulo II: OTRA INFORMACIÓN PERIÓDICA QUE DEBEN PRESENTAR LAS EMISORAS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-IV/capitulo-III.md`](titulo-IV/capitulo-III.md) | Título IV — Capítulo III: NORMAS RELATIVAS A LA FORMA DE PRESENTACIÓN Y CRITERIOS DE VALUACIÓN DE LOS ESTADOS FINANCIEROS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-IV/capitulo-I.md`](titulo-IV/capitulo-I.md) | Título IV — Capítulo I: RÉGIMEN INFORMATIVO | RG 1115/2026 (BO 02/03/2026) |
+| [`titulo-IV/capitulo-II.md`](titulo-IV/capitulo-II.md) | Título IV — Capítulo II: OTRA INFORMACIÓN PERIÓDICA QUE DEBEN PRESENTAR LAS EMISORAS | RG 1115/2026 (BO 02/03/2026) |
+| [`titulo-IV/capitulo-III.md`](titulo-IV/capitulo-III.md) | Título IV — Capítulo III: NORMAS RELATIVAS A LA FORMA DE PRESENTACION Y CRITERIOS DE VALUACIÓN DE LOS ESTADOS FINANCIEROS | RG 1115/2026 (BO 02/03/2026) |
 | [`titulo-V/capitulo-I.md`](titulo-V/capitulo-I.md) | Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN. | RG 1102/2025 (BO 31/12/2025) |
 | [`titulo-V/capitulo-II.md`](titulo-V/capitulo-II.md) | Título V — Capítulo II: FONDOS COMUNES DE INVERSIÓN ABIERTOS. | RG 1096/2025 (BO 24/12/2025) |
 | [`titulo-V/capitulo-III.md`](titulo-V/capitulo-III.md) | Título V — Capítulo III: FONDOS COMUNES DE INVERSIÓN CERRADOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
