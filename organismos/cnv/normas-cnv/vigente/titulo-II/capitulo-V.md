@@ -1,5 +1,5 @@
 # Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA
-Última modificación: RG 1117/2026 (BO 06/03/2026)
+Última modificación: RG 1125/2026 (BO 07/04/2026)
 Fuente: RG 1095/2025, art. 2°.
 
 ### SECCIÓN I — OFERTA PÚBLICA.
@@ -828,7 +828,9 @@ Esta limitación no será aplicable a aquellas Emisoras que se encuentren autori
 [Artículo sustituido por art. 4° de la RG 1117/2026, BO 06/03/2026]
 
 MONTO. LÍMITE.
-ARTÍCULO 83.- El monto nominal máximo de los valores negociables emitidos al momento de efectuar el cálculo para la emisión de una nueva clase o serie, no deberá superar los UVA SIETE MILLONES (7.000.000), o su equivalente al cierre del día anterior a la fecha de emisión de los valores negociables en pesos o en moneda extranjera, en este caso, calculado al Tipo de Cambio de Referencia Comunicación “A” 3500 del BCRA; o, si se trata de una moneda extranjera distinta al dólar estadounidense, al tipo de cambio vendedor divisa del BNA.
+ARTÍCULO 83.- El monto nominal máximo de los valores negociables emitidos al momento de efectuar el cálculo para la emisión de una nueva clase o serie, no deberá superar los UVA QUINCE MILLONES (15.000.000), o su equivalente al cierre del día anterior a la fecha de emisión de los valores negociables en pesos o en moneda extranjera, en este caso, calculado al Tipo de Cambio de Referencia Comunicación “A” 3500 del BCRA; o, si se trata de una moneda extranjera distinta al dólar estadounidense, al tipo de cambio vendedor divisa del BNA.
+
+[Artículo sustituido por art. 2° de la RG 1125/2026, BO 07/04/2026]
 
 PERÍODO DE CÁLCULO DE LOS MONTOS MÁXIMOS. AGREGACIÓN.
 ARTÍCULO 84.- Para calcular el monto nominal máximo previsto en el artículo anterior, se considerarán como parte de una misma oferta a todas las colocaciones de valores negociables realizadas por el mismo Emisor bajo el presente régimen.
@@ -1151,9 +1153,9 @@ La decisión de llevar a cabo el traspaso de Régimen deberá ser adoptada por l
 2. podrán optar por el traspaso al Régimen PyME CNV, sin que ello implique un retiro del Régimen de Oferta Pública o la obligación de efectuar una OPA por Retiro, en la medida que acrediten y cumplimenten los requisitos exigidos para el ingreso, previstos en el régimen que solicita el traspaso.
 
 MONTO. LÍMITE.
-ARTÍCULO 113.- El valor nominal de las acciones a emitir en concepto de suscripción inicial más, en su caso, la prima de emisión no deberá superar el equivalente en pesos de UVA SIETE MILLONES (7.000.000) al cierre del día anterior a la fecha de suscripción de las acciones.
+ARTÍCULO 113.- El valor nominal de las acciones a emitir en concepto de suscripción inicial más, en su caso, la prima de emisión no deberá superar el equivalente en pesos de UVA QUINCE MILLONES (15.000.000) al cierre del día anterior a la fecha de suscripción de las acciones. Una vez que los montos anteriores, calculado a la fecha de cada emisión, alcance el monto del equivalente en pesos de UVA TREINTA MILLONES (30.000.000), sin importar el período, no podrá emitir bajo el presente régimen.
 
-Una vez que el monto anterior, calculado a la fecha de cada emisión, alcance el monto del equivalente en pesos de UVA VEINTIÚN MILLONES (21.000.000), sin importar el período, no podrá emitir bajo el presente régimen.
+[Artículo sustituido por art. 3° de la RG 1125/2026, BO 07/04/2026]
 
 PERÍODO DE CÁLCULO DE LOS MONTOS MÁXIMOS. AGREGACIÓN.
 ARTÍCULO 114.- Para calcular el límite máximo del equivalente en pesos de UVA SIETE MILLONES (7.000.000) previsto en el artículo anterior, se considerarán como parte de una misma oferta a todas las emisiones de acciones por suscripción que realice el Emisor bajo el presente régimen durante los DOCE (12) meses anteriores contados desde la última fecha de emisión de acciones bajo este régimen. No resultan alcanzadas por esta disposición las emisiones de acciones en concepto de dividendos en acciones, capitalización de ajustes de capital, u otras emisiones de acciones liberadas.
@@ -1365,6 +1367,55 @@ ARTÍCULO 143.- La CNV autorizará el cambio de régimen y, en su caso, la OPA, 
 Cuando se trate del cambio de Régimen de Oferta Pública por acciones, la autorización definitiva del cambio de régimen será otorgada una vez acreditado el cumplimiento íntegro de la OPA a los accionistas que hubieran aceptado la oferta, el levantamiento de la garantía correspondiente y el cumplimiento de lo establecido en el apartado III del artículo 137 de la presente Sección
 
 [Sección incorporada por art. 2° de la RG 1110/2026, BO 23/02/2026]
+
+### SECCIÓN XV — OFERTA PÚBLICA CON AUTORIZACIÓN AUTOMÁTICA DE VALORES NEGOCIABLES - FINANCIAMIENTO COLECTIVO.
+
+DISPOSICIONES COMUNES.
+
+EXCLUSIONES.
+ARTÍCULO 144.- Queda excluido del ámbito de la CNV y, por lo tanto, fuera de su supervisión y regulación, todo financiamiento colectivo que:
+
+1. No involucre valores negociables; o
+
+2. no reúna los requisitos de oferta pública establecidos en la Ley de Mercado de Capitales.
+
+PARTICIPACIÓN DE INVERSORES NO CALIFICADOS.
+ARTÍCULO 145.- Podrán participar en la colocación primaria y en la negociación secundaria, sin limitación de número, inversores que no revistan el carácter de Inversores Calificados.
+
+MECANISMOS DE COLOCACIÓN.
+ARTÍCULO 146.- La colocación podrá realizarse de conformidad con los mecanismos generales previstos en el Capítulo IV del Título VI en estas Normas o a través de PFC registradas, en este último caso dentro de lo previsto en el Capítulo I del Título XIV de estas Normas.
+
+PAUTAS DE INFORMACIÓN. LENGUAJE CLARO.
+ARTÍCULO 147.- La Emisora y los Agentes intervinientes en la emisión y colocación de los VN deberán procurar que toda información que se brinde sea en un lenguaje claro y de fácil comprensión para el público en general, evitando términos técnicos que requieran algún grado de capacitación previa en materia financiera o del mercado de capitales, a fin de garantizar la adecuada comprensión de los riesgos que involucra la suscripción, negociación con cada tipo de valor que se ofrece o la estrategia de inversión propuesta, según corresponda.
+
+LÍMITES POR INVERSOR.
+ARTÍCULO 148.- Ningún inversor podrá invertir por un monto superior equivalente a UVA TRES MIL (3.000) en cualquier emisión ni mayor de UVA DIEZ MIL (10.000) en el conjunto de las emisiones bajo este régimen.
+
+Asimismo, el monto invertido no podrá exceder del CINCO POR CIENTO (5%) del patrimonio del inversor en cada emisión ni el DIEZ POR CIENTO (10%) del patrimonio de dicha persona en el total de emisiones en las que haya invertido.
+
+Lo indicado precedentemente podrá acreditarse mediante DDJJ del inversor al momento de cada suscripción, sin perjuicio de la facultad del Emisor o los Agentes Registrados participantes de solicitar respaldo de la misma.
+
+[Sección incorporada por art. 4° de la RG 1125/2026, BO 07/04/2026]
+
+### SECCIÓN XVI — OFERTA PÚBLICA CON AUTORIZACIÓN AUTOMÁTICA DE VALORES NEGOCIABLES POR SU BAJO IMPACTO - FINANCIAMIENTO COLECTIVO.
+
+DEFINICIÓN. RÉGIMEN APLICABLE.
+ARTÍCULO 149.- Se considerará una oferta de valores negociables como Oferta Pública de Valores Negociables con Autorización Automática por su Bajo Impacto – Financiamiento Colectivo, cuando se cumplan la totalidad de las condiciones previstas en las Secciones IX o XII de este Capítulo, para la Oferta Pública con Autorización Automática por su Bajo Impacto, según se trate de ON o acciones, con las particularidades previstas en la Sección XV y en la presente Sección.
+
+LÍMITES DE EMISIÓN Y AGREGACIÓN.
+ARTÍCULO 150.- Aplicarán tanto los límites de emisión, así como el concepto de agregación previstos en los artículos 65, 66, 101 y 102 del presente Capítulo, según se trate de ON o acciones.
+
+[Sección incorporada por art. 4° de la RG 1125/2026, BO 07/04/2026]
+
+### SECCIÓN XVII — OFERTA PÚBLICA CON AUTORIZACIÓN AUTOMÁTICA DE VALORES NEGOCIABLES POR SU MEDIANO IMPACTO - FINANCIAMIENTO COLECTIVO
+
+DEFINICIÓN. RÉGIMEN APLICABLE.
+ARTÍCULO 151.- Se considerará una oferta de valores negociables como Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto – Financiamiento Colectivo, cuando se cumplan la totalidad de las condiciones previstas en las Secciones XI o XIII de este Capítulo, para la Oferta Pública con Autorización Automática por su Mediano Impacto, según se trate de ON o acciones, con las particularidades previstas en la Sección XV y en la presente Sección.
+
+EXCEPCIÓN A LÍMITES DE EMISIÓN Y AGREGACIÓN.
+ARTÍCULO 152.- No aplicarán los límites de emisión ni el concepto de agregación previstos en los artículos 83, 84, 113 y 114 del presente Capítulo.
+
+[Sección incorporada por art. 4° de la RG 1125/2026, BO 07/04/2026]
 
 ### ANEXO I
 

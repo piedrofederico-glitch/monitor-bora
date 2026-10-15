@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1121/2026 (BO 27/03/2026)
+Última modificación: RG 1125/2026 (BO 07/04/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -27,6 +27,8 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 “ACR-UP” significa Agente de Calificación de Riesgo Universidad Pública.
 
 “ACRyP” significa Agente de Custodia, Registro y Pago.
+
+“Activos Virtuales” tiene el significado atribuido en la definición establecida en el artículo 4° bis de la Ley N° 25.246, modificada por la Ley N° 27.739, como toda representación digital de valor que se puede comercializar y/o transferir digitalmente y utilizar para pagos o inversiones. En ningún caso se entenderá como activo virtual la moneda de curso legal en territorio nacional y las monedas emitidas por otros países o jurisdicciones (moneda fiduciaria).
 
 “ACVN” significa Agente de Corretaje de Valores Negociables.
 
@@ -140,6 +142,8 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “FGS” significa Fondo de Garantía de Sustentabilidad.
 
+“Financiamiento Colectivo” significa un sistema en el que muchos inversores aportan pequeñas cantidades de dinero a una Emisora bajo los lineamientos establecidos en el Capítulo V del Título II de estas Normas para el financiamiento de un proyecto en común participando como inversores.
+
 “Firma Evaluadora Independiente” significa una persona humana (excepto por lo dispuesto en el Capítulo II del Título III, respecto de las OPAs) o jurídica, con reconocida experiencia, prestigio y solvencia profesional en el ámbito económico-financiero o contable, que cumple con los requisitos de independencia respecto de la Emisora, sus controlantes, controladas o vinculadas, y de las Partes Relacionadas involucradas en una operación, según lo dispuesto en dicho Capítulo. En el contexto del Título III del Capítulo II de estas Normas significa toda persona jurídica que cumple con lo dispuesto en dicho Capítulo.
 
 “FP” significa Financiamiento de la Proliferación de Armas de Destrucción Masiva.
@@ -182,7 +186,7 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 12) Personas humanas que se encuentren inscriptas, con carácter definitivo, en el Registro de Idóneos a cargo de la CNV.
 
-13) Personas humanas o jurídicas, distintas de las enunciadas en los incisos anteriores, que al momento de efectuar la inversión cuenten con inversiones en valores negociables y/o depósitos en entidades financieras por un monto equivalente a UVAS TRESCIENTAS CINCUENTA MIL (350.000).
+13) Personas humanas residentes en la República Argentina o personas jurídicas constituidas en la República Argentina, distintas de las enunciadas en los incisos anteriores, que al momento de efectuar la inversión cuenten con inversiones en valores negociables y/o depósitos en entidades financieras, en ambos casos en la República Argentina o en el exterior, o en Activos Virtuales, por un monto equivalente a UVAS TRESCIENTAS CINCUENTA MIL (350.000).”
 
 14) Personas jurídicas constituidas en el extranjero y personas humanas con domicilio real en el extranjero.
 
@@ -235,6 +239,12 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 “Oferta Pública de ON con Autorización Automática por su Bajo Impacto” significa el régimen de autorización automática previsto en la Sección IX del Título II de estas Normas.
 
 “Oferta Pública de ON con Autorización Automática por su Mediano Impacto” significa el régimen de autorización automática previsto en la Sección XI del Título II de estas Normas.
+
+“Oferta Pública de Valores Negociables con Autorización Automática - Financiamiento Colectivo” significa el régimen de autorización automática previsto en la Sección XV del Capítulo V del Título II de estas Normas que contiene las disposiciones comunes referidas en las Secciones XVI y XVII del Capítulo V del Título II de estas Normas.
+
+“Oferta Pública de Valores Negociables con Autorización Automática por su Bajo Impacto - Financiamiento Colectivo” significa el régimen de autorización automática previsto en la Sección XVI del Capítulo V del Título II de estas Normas.
+
+“Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto - Financiamiento Colectivo” significa el régimen de autorización automática previsto en la Sección XVII del Capítulo V del Título II de estas Normas.
 
 “Oferta Pública Inicial” o “IPO”, por su sigla en inglés, significa la operación mediante la cual una Emisora ofrece acciones en suscripción o sus accionistas venden por primera vez sus acciones en un Mercado autorizado por la CNV, cualquiera fuera que sucediere primero.
 
@@ -343,6 +353,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos de los regímenes de oferta pública con autorización automática incorporados por art. 1° de la RG 1117/2026, BO 06/03/2026]
 
 [Término “IOSCO” incorporado por art. 1° de la RG 1121/2026, BO 27/03/2026]
+
+[Inciso 13) de “Inversor Calificado” sustituido y términos “Activos Virtuales”, “Financiamiento Colectivo” y de los regímenes de financiamiento colectivo incorporados por art. 1° de la RG 1125/2026, BO 07/04/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

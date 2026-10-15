@@ -2375,3 +2375,23 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > Los Mercados no podrán establecer mayores requisitos para el listado de los valores negociables autorizados bajo este régimen, ni exigir mayores requisitos para el retiro de listado a los exigidos por la CNV. En este sentido, deberán adecuar el ingreso a sus plataformas digitales a los lineamientos de la presente Sección de manera de no desvirtuar la relativa simplicidad de emisión prevista por este régimen. No obstante lo anterior, en el caso de los valores negociables emitidos bajo los “Lineamientos para la Emisión de Valores Negociables Temáticos en Argentina”, los Mercados podrán establecer requisitos adicionales para garantizar la transparencia y su alineación con los Principios de ICMA (International Capital Markets Association), siempre que los mismos estén exclusivamente orientados a cumplir con los referidos principios o a los efectos de verificar el carácter SVS+ de la emisión, sin imponer excesivas cargas a los Emisores.
 >
 > Los inversores podrán transferir libremente los valores negociables, sin restricciones en cualquier momento a otros Inversores Calificados.
+
+## Artículo 83 (Sección XI)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 07/04/2026
+- Sustituido por: RG 1125/2026, art. 2°
+- Texto:
+
+> MONTO. LÍMITE.
+> ARTÍCULO 83.- El monto nominal máximo de los valores negociables emitidos al momento de efectuar el cálculo para la emisión de una nueva clase o serie, no deberá superar los UVA SIETE MILLONES (7.000.000), o su equivalente al cierre del día anterior a la fecha de emisión de los valores negociables en pesos o en moneda extranjera, en este caso, calculado al Tipo de Cambio de Referencia Comunicación “A” 3500 del BCRA; o, si se trata de una moneda extranjera distinta al dólar estadounidense, al tipo de cambio vendedor divisa del BNA.
+
+## Artículo 113 (Sección XIII)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 07/04/2026
+- Sustituido por: RG 1125/2026, art. 3°
+- Texto:
+
+> MONTO. LÍMITE.
+> ARTÍCULO 113.- El valor nominal de las acciones a emitir en concepto de suscripción inicial más, en su caso, la prima de emisión no deberá superar el equivalente en pesos de UVA SIETE MILLONES (7.000.000) al cierre del día anterior a la fecha de suscripción de las acciones.
+>
+> Una vez que el monto anterior, calculado a la fecha de cada emisión, alcance el monto del equivalente en pesos de UVA VEINTIÚN MILLONES (21.000.000), sin importar el período, no podrá emitir bajo el presente régimen.

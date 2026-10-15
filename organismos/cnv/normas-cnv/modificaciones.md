@@ -24,6 +24,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), términos “Ley de Administración Financiera...” y “Resolución Técnica” o “RT” | modifica parcialmente | RG 1115/2026 | 1° | 02/03/2026 |
 | art. 2° (Secc. II), 5 términos de regímenes con autorización automática | modifica parcialmente | RG 1117/2026 | 1° | 06/03/2026 |
 | art. 2° (Secc. II), término “IOSCO” | modifica parcialmente | RG 1121/2026 | 1° | 27/03/2026 |
+| art. 2° (Secc. II), “Inversor Calificado” inc. 13) y 5 términos nuevos | modifica parcialmente | RG 1125/2026 | 1° | 07/04/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -51,6 +52,11 @@ Archivo: `vigente/titulo-II/capitulo-V.md`
 | art. 71 (Secc. IX) | sustituye | RG 1117/2026 | 3° | 06/03/2026 |
 | art. 82 (Secc. XI) | sustituye | RG 1117/2026 | 4° | 06/03/2026 |
 | art. 92 (Secc. XI) | sustituye | RG 1117/2026 | 5° | 06/03/2026 |
+| art. 83 (Secc. XI) | sustituye | RG 1125/2026 | 2° | 07/04/2026 |
+| art. 113 (Secc. XIII) | sustituye | RG 1125/2026 | 3° | 07/04/2026 |
+| Secc. XV (completa) | incorpora | RG 1125/2026 | 4° | 07/04/2026 |
+| Secc. XVI (completa) | incorpora | RG 1125/2026 | 4° | 07/04/2026 |
+| Secc. XVII (completa) | incorpora | RG 1125/2026 | 4° | 07/04/2026 |
 
 ## Título II, Capítulo VI
 Archivo: `vigente/titulo-II/capitulo-VI.md`
