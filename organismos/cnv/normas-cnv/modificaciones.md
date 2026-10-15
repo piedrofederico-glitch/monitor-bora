@@ -148,3 +148,10 @@ Archivo: `vigente/titulo-XVIII/capitulo-XI.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 6 | incorpora | RG 1090/2025 | 8° | 14/11/2025 |
+
+## Título XVIII, Capítulo XV
+Archivo: `vigente/titulo-XVIII/capitulo-XV.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| Secc. V (completa) | incorpora | RG 1098/2025 | 1° | 24/12/2025 |
