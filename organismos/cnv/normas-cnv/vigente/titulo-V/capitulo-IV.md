@@ -1,5 +1,5 @@
 # Título V — Capítulo IV: FIDEICOMISOS FINANCIEROS
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1116/2026 (BO 06/03/2026)
 Fuente: PDF base, págs. 374–413.
 
 ### SECCIÓN I — FIDEICOMISOS FINANCIEROS.
@@ -244,13 +244,27 @@ ARTÍCULO 16.- Cabe asignar al Fiduciario responsabilidad como organizador o exp
 
 ARTÍCULO 17.- Los integrantes de los órganos de administración de las entidades que se desempeñen como Fiduciarios en fideicomisos financieros que cuenten con autorización de oferta pública otorgada por la Comisión deberán informar al Organismo en forma inmediata a través de la AIF, todo hecho o situación que, por su importancia, pueda afectar la colocación o el curso de negociación de los valores negociables fiduciarios emitidos. Esa obligación recae, asimismo, en los miembros del órgano de fiscalización del Fiduciario en materias de su competencia.
 
-ARTÍCULO 18.- En el caso de programas globales para la emisión de valores negociables fiduciarios contemplados bajo el presente Capítulo, el/los Fiduciario/s o el/los Fiduciante/s deberán estar identificados en el respectivo programa y en los diferentes fideicomisos que se constituyan. La identificación inicial del o los Fiduciarios en el programa global no admite posibilidad de sustitución.
+ARTÍCULO 18.- En el caso de programas globales para la emisión de valores negociables fiduciarios contemplados bajo el presente Capítulo, el/los Fiduciario/s o el/los Fiduciante/s deberán estar identificados en el respectivo programa y en los diferentes fideicomisos que se constituyan. La identificación inicial del o los Fiduciarios en el Programa Global no admite posibilidad de sustitución.
 
-Se admitirá la incorporación de nuevos Fiduciantes a un programa global autorizado. En este caso, se deberá:
+Se admitirá la incorporación de nuevos Fiduciantes a un Programa Global autorizado. En este caso, se deberá:
 
 1. Presentar la resolución social del Fiduciante que se incorpora e instrumento suficiente del Fiduciario;
 
-2. informar fehacientemente la incorporación del nuevo Fiduciante, y requerir la conformidad al respecto, de los Fiduciantes que participan en tal carácter en el programa global ya autorizado. El instrumento que acredite la conformidad deberá encontrarse a disposición en las oficinas del Fiduciario. Los Fiduciantes podrán otorgar por anticipado esa conformidad, lo que se hará constar en el Prospecto del programa.
+2. informar fehacientemente la incorporación del nuevo Fiduciante, y requerir la conformidad al respecto de los Fiduciantes que participan en tal carácter en el Programa Global ya autorizado. El instrumento que acredite la conformidad deberá encontrarse a disposición en las oficinas del Fiduciario. Los Fiduciantes podrán otorgar por anticipado esa conformidad, lo que se hará constar en el Prospecto del programa.
+
+Se podrán denominar de la misma manera y numerar correlativamente los fideicomisos financieros que se constituyan en el marco de un mismo Programa Global, mantengan la identidad de Fiduciario y del o de los Fiduciantes y conserven coincidencia en la composición del activo subyacente.
+
+No obstante, se admitirá la continuidad de la denominación y de la numeración consecutiva en el supuesto en que se produzca un cambio de Programa Global, ya sea que intervenga el Fiduciario original u otro distinto. A tales efectos, deberán verificarse conjuntamente los siguientes extremos:
+
+a) que el nuevo programa conserve características sustancialmente similares a las del programa en cuyo marco se han emitido los fideicomisos precedentes;
+
+b) que se mantenga la identidad sustancial del o de los Fiduciantes; y
+
+c) que los fideicomisos financieros conserven coincidencia en la composición del activo subyacente.
+
+Por su parte, ya sea que se produzca o no el cambio de Programa Global en los términos indicados precedentemente, cuando se trate de un fideicomiso constituido con derechos creditorios como activo subyacente originados por el Fiduciante, y se verifique una modificación de los bienes fideicomitidos sin alteración de su naturaleza de derecho creditorio, se admitirá la continuidad de la denominación y de la numeración correlativa, debiendo verificarse que en la denominación del fideicomiso respectivo se identifique expresamente la clase de activos correspondiente. En tal supuesto, deberá incorporarse una consideración de riesgo específica vinculada con la modificación del haber fideicomitido.
+
+[Artículo sustituido por art. 1° de la RG 1116/2026, BO 06/03/2026]
 
 ARTÍCULO 19.- Se admitirá la dispensa del requisito de identificación de los Fiduciantes en aquellos programas globales constituidos en los términos del artículo precedente cuando se cumplan alguno de los siguientes extremos:
 

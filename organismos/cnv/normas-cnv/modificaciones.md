@@ -140,6 +140,13 @@ Archivo: `vigente/titulo-V/capitulo-II.md`
 |---|---|---|---|---|
 | art. 15 (Secc. II), inc. b.1) | modifica parcialmente | RG 1096/2025 | 1° | 24/12/2025 |
 
+## Título V, Capítulo IV
+Archivo: `vigente/titulo-V/capitulo-IV.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 18 (Secc. IX) | sustituye | RG 1116/2026 | 1° | 06/03/2026 |
+
 ## Título V, Capítulo VIII
 Archivo: `vigente/titulo-V/capitulo-VIII.md`
 
