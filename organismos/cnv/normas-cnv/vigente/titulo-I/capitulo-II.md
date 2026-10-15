@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1117/2026 (BO 06/03/2026)
+Última modificación: RG 1121/2026 (BO 27/03/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -186,6 +186,8 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 14) Personas jurídicas constituidas en el extranjero y personas humanas con domicilio real en el extranjero.
 
+“IOSCO” significa Organización Internacional de Comisiones de Valores, por sus siglas en inglés.
+
 “Ley Caja de Valores” significa Ley de Régimen para la Compra de Títulos Valores Privados N° 20.643.
 
 “Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional” significa Ley N° 24.156.
@@ -339,6 +341,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos “Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional” y “Resolución Técnica” o “RT” incorporados por art. 1° de la RG 1115/2026, BO 02/03/2026]
 
 [Términos de los regímenes de oferta pública con autorización automática incorporados por art. 1° de la RG 1117/2026, BO 06/03/2026]
+
+[Término “IOSCO” incorporado por art. 1° de la RG 1121/2026, BO 27/03/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

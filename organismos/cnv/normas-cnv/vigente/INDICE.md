@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1117/2026 (BO 06/03/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1121/2026 (BO 27/03/2026) |
 
 ## Título II — EMISORAS
 
@@ -45,9 +45,9 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-V/capitulo-I.md`](titulo-V/capitulo-I.md) | Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN. | RG 1102/2025 (BO 31/12/2025) |
+| [`titulo-V/capitulo-I.md`](titulo-V/capitulo-I.md) | Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN. | RG 1121/2026 (BO 27/03/2026) |
 | [`titulo-V/capitulo-II.md`](titulo-V/capitulo-II.md) | Título V — Capítulo II: FONDOS COMUNES DE INVERSIÓN ABIERTOS. | RG 1096/2025 (BO 24/12/2025) |
-| [`titulo-V/capitulo-III.md`](titulo-V/capitulo-III.md) | Título V — Capítulo III: FONDOS COMUNES DE INVERSIÓN CERRADOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-V/capitulo-III.md`](titulo-V/capitulo-III.md) | Título V — Capítulo III: FONDOS COMUNES DE INVERSIÓN CERRADOS. | RG 1121/2026 (BO 27/03/2026) |
 | [`titulo-V/capitulo-IV.md`](titulo-V/capitulo-IV.md) | Título V — Capítulo IV: FIDEICOMISOS FINANCIEROS | RG 1116/2026 (BO 06/03/2026) |
 | [`titulo-V/capitulo-V.md`](titulo-V/capitulo-V.md) | Título V — Capítulo V: DISPOSICIONES COMUNES APLICABLES A LOS REGIMENES ESPECIALES DE PRODUCTOS DE INVERSIÓN COLECTIVA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-V/capitulo-VI.md`](titulo-V/capitulo-VI.md) | Título V — Capítulo VI: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN CERRADOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -159,7 +159,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 |---|---|---|
 | [`titulo-XVIII/capitulo-I.md`](titulo-XVIII/capitulo-I.md) | Título XVIII — Capítulo I: EMISORAS | RG 1099/2025 (BO 26/12/2025) |
 | [`titulo-XVIII/capitulo-II.md`](titulo-XVIII/capitulo-II.md) | Título XVIII — Capítulo II: PRODUCTOS DE INVERSIÓN COLECTIVA. FIDEICOMISOS FINANCIEROS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVIII/capitulo-III.md`](titulo-XVIII/capitulo-III.md) | Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XVIII/capitulo-III.md`](titulo-XVIII/capitulo-III.md) | Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN. | RG 1121/2026 (BO 27/03/2026) |
 | [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1120/2026 (BO 13/03/2026) |
 | [`titulo-XVIII/capitulo-V.md`](titulo-XVIII/capitulo-V.md) | Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-VI.md`](titulo-XVIII/capitulo-VI.md) | Título XVIII — Capítulo VI: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |

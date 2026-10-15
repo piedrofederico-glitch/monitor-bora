@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN.
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1121/2026 (BO 27/03/2026)
 Fuente: PDF base, págs. 921–926.
 
 ### SECCIÓN I — RÉGIMEN DE SINCERAMIENTO FISCAL LEY N° 27.260.
@@ -86,3 +86,9 @@ ARTÍCULO 22°. – Las Sociedades Gerentes de FCI dispondrán de un plazo de NO
 
 REQUISITO PATRIMONIAL. PLAZO DE ADECUACIÓN.
 ARTÍCULO 23°. – Las Sociedades que desarrollen funciones de Agente de Colocación y Distribución de FCI y/o Agente de Colocación y Distribución Integral de FCI, deberán acreditar el cumplimiento del requisito patrimonial dispuesto en tales categorías según lo requerido en los artículos 18 de la Sección V y 20 de la Sección VI, respectivamente, del Capítulo I del Título V de estas Normas con la presentación de los estados contables anuales cerrados al 31 de diciembre de 2025 o primera fecha de cierre de Estados Contables anuales posterior, en caso de corresponder.
+
+### SECCIÓN X — RESOLUCIÓN GENERAL Nº 1121.
+
+ARTÍCULO 24.- Las Sociedades Gerentes de FCI dispondrán de un plazo de TREINTA (30) días hábiles respecto de los Fondos Comunes de Dinero, y de SESENTA (60) días hábiles respecto del resto de los FCI, contados a partir de la entrada en vigencia de la presente Resolución General a fin de implementar la publicación de la Ficha Única requerida el artículo 31 BIS de la Sección VII del Capítulo I del Título V de estas Normas
+
+[Sección incorporada por art. 4° de la RG 1121/2026, BO 27/03/2026]

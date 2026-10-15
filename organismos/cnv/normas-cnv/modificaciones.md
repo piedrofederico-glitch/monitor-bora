@@ -23,6 +23,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), términos “CAFCI”, “FCIA”, “FCIC”, “GDE” y “RLPA” | modifica parcialmente | RG 1112/2026 | 1° | 26/02/2026 |
 | art. 2° (Secc. II), términos “Ley de Administración Financiera...” y “Resolución Técnica” o “RT” | modifica parcialmente | RG 1115/2026 | 1° | 02/03/2026 |
 | art. 2° (Secc. II), 5 términos de regímenes con autorización automática | modifica parcialmente | RG 1117/2026 | 1° | 06/03/2026 |
+| art. 2° (Secc. II), término “IOSCO” | modifica parcialmente | RG 1121/2026 | 1° | 27/03/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -138,6 +139,7 @@ Archivo: `vigente/titulo-V/capitulo-I.md`
 | art. 7° (Secc. II), inc. 3 | modifica parcialmente | RG 1102/2025 | 2° | 31/12/2025 |
 | art. 10 (Secc. II) | sustituye | RG 1102/2025 | 3° | 31/12/2025 |
 | art. 20 (Secc. VI), primer párrafo | modifica parcialmente | RG 1102/2025 | 4° | 31/12/2025 |
+| art. 31 BIS (Secc. VII) | incorpora | RG 1121/2026 | 2° | 27/03/2026 |
 
 ## Título V, Capítulo II
 Archivo: `vigente/titulo-V/capitulo-II.md`
@@ -145,6 +147,13 @@ Archivo: `vigente/titulo-V/capitulo-II.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 15 (Secc. II), inc. b.1) | modifica parcialmente | RG 1096/2025 | 1° | 24/12/2025 |
+
+## Título V, Capítulo III
+Archivo: `vigente/titulo-V/capitulo-III.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| Anexo III | incorpora | RG 1121/2026 | 3° | 27/03/2026 |
 
 ## Título V, Capítulo IV
 Archivo: `vigente/titulo-V/capitulo-IV.md`
@@ -278,6 +287,13 @@ Archivo: `vigente/titulo-XVIII/capitulo-I.md`
 | Secc. IV (completa) | incorpora | RG 1095/2025 | 3° | 18/12/2025 |
 | Secc. V (completa) | incorpora | RG 1095/2025 | 3° | 18/12/2025 |
 | capítulo completo | sustituye | RG 1099/2025 | 2° | 26/12/2025 |
+
+## Título XVIII, Capítulo III
+Archivo: `vigente/titulo-XVIII/capitulo-III.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| Secc. X (completa) | incorpora | RG 1121/2026 | 4° | 27/03/2026 |
 
 ## Título XVIII, Capítulo IV
 Archivo: `vigente/titulo-XVIII/capitulo-IV.md`

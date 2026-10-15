@@ -1,5 +1,5 @@
 # Título V — Capítulo III: FONDOS COMUNES DE INVERSIÓN CERRADOS.
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1121/2026 (BO 27/03/2026)
 Fuente: PDF base, págs. 358–374.
 
 ### SECCIÓN I — RÉGIMEN GENERAL.
@@ -552,3 +552,140 @@ CAPÍTULO 9: “PUBLICIDAD Y ESTADOS CONTABLES”.
 CAPÍTULO 10: “SOLUCIÓN DE DIVERGENCIAS”.
 
 CAPÍTULO 11: “CUESTIONES ADICIONALES RELACIONADAS CON CUESTIONES NO CONTEMPLADAS EN LOS CAPÍTULOS ANTERIORES”.
+
+### ANEXO III - MODELO FICHA UNICA FCI ABIERTOS CONFORME ARTICULO 31 BIS DE LA SECCION VII DEL CAPITULO I DEL TITULO V FONDOS COMUNES DE DINERO
+
+[Nota de consolidación: el Anexo (IF-2026-30433786-APN-GAL#CNV) se publicó como dos páginas de imagen. Se transcriben sus títulos, rótulos, tablas y textos; los gráficos de ejemplo se describen entre corchetes. El art. 3° de la RG 1121/2026 lo incorpora como Anexo III del Capítulo III del Título V, aunque el art. 31 BIS (Secc. VII, Cap. I, Tít. V) remite al "Anexo III del presente Capítulo".]
+
+| LOGOTIPO SOCIEDAD GERENTE | NOMBRE COMPLETO DEL FCI Fecha del reporte | LOGOTIPO SOCIEDAD DEPOSITARIA |
+|---|---|---|
+
+DESCRIPCIÓN DEL FCI. OBJETIVO Y POLÍTICA DE INVERSIÓN
+
+INFORMACIÓN DEL FCI
+
+Patrimonio neto:
+Moneda del FCI:
+Monto mínimo de suscripción:
+Plazo de pago de rescates:
+Clasificación:
+Horizonte de inversión:
+Indicador de riesgo: Bajo/Medio/Alto
+Perfil de inversor: Conservador/Moderado/Agresivo
+Número de registro ante CNV:
+Fecha de inicio de operaciones:
+Identificación de los Auditores del FCI:
+Correo electrónico de contacto:
+Calificación de riesgo y Benchmark, de corresponder:
+
+RENDIMIENTO HISTÓRICO
+
+| Valor Cuotaparte | CLASE A | CLASE B | CLASE C |
+|---|---|---|---|
+| 7 días | TNA | TNA | TNA |
+| 1 mes | TNA | TNA | TNA |
+| 90 días | TNA | TNA | TNA |
+| 180 días | TNA | TNA | TNA |
+| En el año | TNA | TNA | TNA |
+| 12 meses | TNA | TNA | TNA |
+
+COMPOSICIÓN DE LA CARTERA
+
+[Gráfico de torta de ejemplo: Disponibilidades; 45,43% — Operaciones a Plazo; 40,66% — Títulos de Deuda; 10,86% — Otros Activos y Pasivos; 3,04%]
+
+HONORARIOS, GASTOS Y COMISIONES
+
+| | CLASE A | CLASE B | CLASE C |
+|---|---|---|---|
+| Honorarios Sociedad Gerente y Sociedad Depositaria (*) (**) | % | % | % |
+| Comisiones suscripción, de rescate y de transferencia | % | % | % |
+| Honorarios de éxito | % | % | % |
+| Gastos ordinarios de gestión (Promedio últimos 3 meses) | % | % | % |
+
+(*) Los Honorarios de la Sociedad Depositaria incluyen IVA,
+
+(**) Incluye la retribución de los Agentes de la Colocación de las cuotapartes.
+
+PRINCIPALES TENENCIAS
+
+[Gráfico de barras de ejemplo con tenencias por cuenta corriente bancaria (valores ilustrativos).]
+
+EVOLUCIÓN VALOR CUOTAPARTE
+
+[Gráfico de línea de ejemplo con la evolución diaria del valor de la cuotaparte (valores ilustrativos).]
+
+TRATAMIENTO IMPOSITIVO
+
+Enlace directo de acceso público al régimen impositivo aplicable
+
+ACCESO DIGITAL
+
+Enlace directo de acceso público al comparador de FCI disponible en el sitio web de la CAFCI (Fondos de Dinero)
+
+Las inversiones en cuotas del FCI no constituyen depósitos en… (denominación de la entidad financiera interviniente), a los fines de la Ley de Entidades Financieras ni cuentan con ninguna de las garantías que tales depósitos a la vista o a plazo puedan gozar de acuerdo a la legislación y reglamentación aplicables en materia de depósitos en entidades financieras. Asimismo, (denominación de la entidad financiera interviniente) se encuentra impedida por normas del BCRA de asumir, tácita o expresamente, compromiso alguno en cuanto al mantenimiento, en cualquier momento, del valor del capital invertido, al rendimiento, al valor de rescate de las cuotapartes o al otorgamiento de liquidez a tal fin.
+
+ANEXO III - MODELO FICHA UNICA FCI ABIERTOS CONFORME ARTICULO 31 BIS DE LA SECCION VII DEL CAPITULO I DEL TITULO V OTROS FCI (DISTINTOS DE FONDOS COMUNES DE DINERO)
+
+| LOGOTIPO SOCIEDAD GERENTE | NOMBRE COMPLETO DEL FCI Fecha del reporte | LOGOTIPO SOCIEDAD DEPOSITARIA |
+|---|---|---|
+
+DESCRIPCIÓN DEL FCI. OBJETIVO Y POLÍTICA DE INVERSIÓN
+
+INFORMACIÓN DEL FCI
+
+Patrimonio neto:
+Moneda del FCI:
+Monto mínimo de suscripción:
+Plazo de pago de rescates:
+Clasificación:
+Horizonte de inversión:
+Indicador de riesgo: Bajo/Medio/Alto
+Perfil de inversor: Conservador/Moderado/Agresivo
+Número de registro ante CNV:
+Fecha de inicio de operaciones:
+Identificación de los Auditores del FCI:
+Correo electrónico de contacto:
+Calificación de riesgo y Benchmark, de corresponder:
+
+RENDIMIENTO HISTÓRICO
+
+| Valor Cuotaparte | CLASE A | CLASE B | CLASE C |
+|---|---|---|---|
+| 1 mes | Directo | Directo | Directo |
+| 90 días | Directo | Directo | Directo |
+| 180 días | Directo | Directo | Directo |
+| En el año | Directo | Directo | Directo |
+| 12 meses | Directo | Directo | Directo |
+
+COMPOSICIÓN DE LA CARTERA
+
+[Gráfico de torta de ejemplo: Disponibilidades; 45,43% — Operaciones a Plazo; 40,66% — Títulos de Deuda; 10,86% — Otros Activos y Pasivos; 3,04%]
+
+HONORARIOS, GASTOS Y COMISIONES
+
+| | CLASE A | CLASE B | CLASE C |
+|---|---|---|---|
+| Honorarios Sociedad Gerente y Sociedad Depositaria (*) (**) | % | % | % |
+| Comisiones suscripción, de rescate y de transferencia | % | % | % |
+| Honorarios de éxito | % | % | % |
+| Gastos ordinarios de gestión (Promedio últimos 3 meses) | % | % | % |
+
+(*) Los Honorarios de la Sociedad Depositaria incluyen IVA,
+
+(**) Incluye la retribución de los Agentes de la Colocación de las cuotapartes.
+
+PRINCIPALES TENENCIAS
+
+[Gráfico de barras de ejemplo con tenencias por cuenta corriente bancaria (valores ilustrativos).]
+
+EVOLUCIÓN VALOR CUOTAPARTE
+
+[Gráfico de línea de ejemplo con la evolución diaria del valor de la cuotaparte (valores ilustrativos).]
+
+TRATAMIENTO IMPOSITIVO
+
+Enlace directo de acceso público al régimen impositivo aplicable
+
+Las inversiones en cuotas del FCI no constituyen depósitos en… (denominación de la entidad financiera interviniente), a los fines de la Ley de Entidades Financieras ni cuentan con ninguna de las garantías que tales depósitos a la vista o a plazo puedan gozar de acuerdo a la legislación y reglamentación aplicables en materia de depósitos en entidades financieras. Asimismo, (denominación de la entidad financiera interviniente) se encuentra impedida por normas del BCRA de asumir, tácita o expresamente, compromiso alguno en cuanto al mantenimiento, en cualquier momento, del valor del capital invertido, al rendimiento, al valor de rescate de las cuotapartes o al otorgamiento de liquidez a tal fin.
+
+[Anexo incorporado por art. 3° de la RG 1121/2026, BO 27/03/2026]
