@@ -1,5 +1,5 @@
 # Título VI — Capítulo VI: NEGOCIACIÓN SECUNDARIA DE VALORES NEGOCIABLES DE EMISION INDIVIDUAL QUE GOZAN DE OFERTA PÚBLICA.
-Última modificación: RG 1107/2026 (BO 13/02/2026)
+Última modificación: RG 1090/2025 (BO 14/11/2025)
 Fuente: RG 1090/2025, art. 6°.
 
 ### SECCIÓN I — DISPOSICIONES COMUNES APLICABLES A LA NEGOCIACIÓN SECUNDARIA DE LOS VALORES NEGOCIABLES DE EMISION INDIVIDUAL
@@ -177,25 +177,7 @@ ARTÍCULO 16.- Los certificados de depósito de plazo fijo deberán estar consti
 
 ### SECCIÓN X — DISPOSICIONES APLICABLES A LOS AGENTES EN RELACION A LOS VALORES NEGOCIABLES DE EMISION INDIVIDUAL.
 
-ARTICULO 17.- Los Agentes no podrán ser emisores o libradores de VNEI, excepto cuando:
-
-1. se encuentren inscriptos bajo alguna de las siguientes categorías:
-
-a) ALYC Participante Directo;
-
-b) ALyC Integral-Agroindustrial;
-
-c) AN RUCA; o
-
-d) ALYC que sean bancos que estén autorizados bajo la Ley de Entidades Financieras; o
-
-2. se trate de:
-
-a) FCE MiPyMEs; o
-
-b) VNEI que se negocien en el segmento avalado
-
-[Artículo sustituido por art. 2° de la RG 1107/2026, BO 13/02/2026]
+ARTICULO 17.- Los Agentes no podrán ser emisores o libradores de valores negociables de emisión individual.
 
 ARTICULO 18.- Los Agentes que participen como vendedores de valores negociables de emisión individual deberán conocer a sus clientes, requiriendo a sus comitentes, emisores, libradores o beneficiarios de tales valores, la información patrimonial y financiera acorde y necesaria, conforme su naturaleza lo permita.
 

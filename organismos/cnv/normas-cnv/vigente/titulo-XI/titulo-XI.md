@@ -1,5 +1,5 @@
 # Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO (PLAyFT)
-Última modificación: RG 1108/2026 (BO 20/02/2026)
+Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
 Fuente: PDF base, págs. 755–764.
 
 ### SECCIÓN I — NORMATIVA APLICABLE Y SUJETOS ALCANZADOS.
@@ -194,66 +194,6 @@ i. riesgos y posibles prácticas abusivas y defraudatorias relacionadas con el m
 ii. tipologías de lavado de activos y financiación del terrorismo relacionadas con el mercado de capitales y los productos y servicios ofrecidos por los distintos actores del mismo;
 
 iii. sanciones aplicadas por infracciones a la normativa vigente en materia de prevención del lavado de activos y de la financiación del terrorismo.
-
-### SECCIÓN VI — REGLAMENTACIÓN DEL RÉGIMEN DE DDJJ SIMPLIFICADA PARA EL IMPUESTO A LAS GANANCIAS.
-
-ARTÍCULO 14.- El siguiente será el régimen aplicable al ingreso de fondos y/o activos al sistema financiero de aquellas personas humanas o sucesiones indivisas residentes en el país (los “Clientes”) que se encuentren adheridas al “Régimen de Declaración Jurada Simplificada para el Impuesto a las Ganancias”, establecido en el marco de las disposiciones de la Ley de Régimen penal Tributario, del Decreto N° 93/2026 y de la Resolución General N° 5820 de ARCA, en los términos dispuestos por dicha normativa.
-
-ARTÍCULO 15.- No serán de aplicación las limitaciones de monto a los depósitos en efectivo dispuestas por el artículo 3° de la Sección II del Título XI de estas Normas, a los Clientes que realicen depósitos en efectivo en las cuentas bancarias de los sujetos obligados indicados en el artículo 1° del presente Título (colectivamente, los “Sujetos”), abiertas en entidades financieras del país autorizadas por el BCRA, siempre que actúen en la entrega y recepción de fondos y que cumplan con los requisitos del artículo 17 de la presente Sección.
-
-ARTÍCULO 16.- Los Sujetos podrán recibir fondos y/o activos de los Clientes que adhieran al Régimen de DDJJ Simplificada para el Impuesto a las Ganancias y que cumplan con el artículo 17 de la presente Sección, de las siguientes maneras:
-
-1. Depósitos en efectivo.
-
-2. Transferencia de valores negociables desde y hacia subcuentas comitentes abiertas bajo su titularidad o cotitularidad en los agentes intervinientes en la colocación de FCI o en los ALyC.
-
-3. Transferencia de Activos Virtuales desde y hacia cuentas abiertas bajo su titularidad o cotitularidad en los PSAV inscriptos en la CNV.
-
-En los casos de los incisos 2 y 3, las jurisdicciones de origen de las subcuentas comitentes o cuentas mencionadas, según sea el caso, no deberán pertenecer al listado de jurisdicciones no cooperantes a los fines de la transparencia fiscal - en los términos del artículo 24 del Anexo integrante del Decreto N° 862/2019- ni ser consideradas jurisdicciones de Alto Riesgo por el GAFI.
-
-ARTÍCULO 17.- A fin de que resulten aplicables los artículos 15 y 16 de la presente Sección, los Clientes deberán cumplir con los requisitos que se indican a continuación:
-
-1. En todos los casos de ingreso de fondos y/o activos que se indican en el artículo 16 precedente, el Cliente deberá encontrarse adherido al “Régimen de DDJJ Simplificada para el Impuesto a las Ganancias”.
-
-2. En todos los casos de ingreso de fondos y/o activos que se indican en el artículo 16 de la presente Sección, el Cliente deberá ser titular o cotitular de -al menos- una cuenta comitente o una cuenta abierta en la entidad a la cual le realizará el depósito de efectivo, la transferencia de valores negociables o la transferencia de Activos Virtuales.
-
-3. En los casos de ingreso de activos mediante la transferencia de valores negociables el Cliente deberá ser titular o cotitular de -al menos- una cuenta comitente en el ALyC o agentes intervinientes en la colocación de FCI al cual le transferirá los valores negociables.
-
-4. En los casos de ingreso de activos mediante la transferencia de activos virtuales, el Cliente deberá ser titular o cotitular de -al menos- una cuenta abierta en el PSAV inscripto en la CNV al cual le transferirá los Activos Virtuales.
-
-Sin perjuicio de las disposiciones precedentes, deberá observarse en todo momento la normativa dictada por la UIF en materia de PLAFTFP y por la CNV en materia de suscripción de cuotapartes de FCI en moneda y en valores negociables y de segregación de cuentas propias como de terceros ya sea de fondos y/o de activos
-
-[Sección incorporada por art. 2° de la RG 1108/2026, BO 20/02/2026]
-
-### SECCIÓN VI — REGLAMENTACIÓN DEL RÉGIMEN DE DDJJ SIMPLIFICADA PARA EL IMPUESTO A LAS GANANCIAS.
-
-ARTÍCULO 14.- El siguiente será el régimen aplicable al ingreso de fondos y/o activos al sistema financiero de aquellas personas humanas o sucesiones indivisas residentes en el país (los “Clientes”) que se encuentren adheridas al “Régimen de Declaración Jurada Simplificada para el Impuesto a las Ganancias”, establecido en el marco de las disposiciones de la Ley de Régimen penal Tributario, del Decreto N° 93/2026 y de la Resolución General N° 5820 de ARCA, en los términos dispuestos por dicha normativa.
-
-ARTÍCULO 15.- No serán de aplicación las limitaciones de monto a los depósitos en efectivo dispuestas por el artículo 3° de la Sección II del Título XI de estas Normas, a los Clientes que realicen depósitos en efectivo en las cuentas bancarias de los sujetos obligados indicados en el artículo 1° del presente Título (colectivamente, los “Sujetos”), abiertas en entidades financieras del país autorizadas por el BCRA, siempre que actúen en la entrega y recepción de fondos y que cumplan con los requisitos del artículo 17 de la presente Sección.
-
-ARTÍCULO 16.- Los Sujetos podrán recibir fondos y/o activos de los Clientes que adhieran al Régimen de DDJJ Simplificada para el Impuesto a las Ganancias y que cumplan con el artículo 17 de la presente Sección, de las siguientes maneras:
-
-1. Depósitos en efectivo.
-
-2. Transferencia de valores negociables desde y hacia subcuentas comitentes abiertas bajo su titularidad o cotitularidad en los agentes intervinientes en la colocación de FCI o en los ALyC.
-
-3. Transferencia de Activos Virtuales desde y hacia cuentas abiertas bajo su titularidad o cotitularidad en los PSAV inscriptos en la CNV.
-
-En los casos de los incisos 2 y 3, las jurisdicciones de origen de las subcuentas comitentes o cuentas mencionadas, según sea el caso, no deberán pertenecer al listado de jurisdicciones no cooperantes a los fines de la transparencia fiscal - en los términos del artículo 24 del Anexo integrante del Decreto N° 862/2019- ni ser consideradas jurisdicciones de Alto Riesgo por el GAFI.
-
-ARTÍCULO 17.- A fin de que resulten aplicables los artículos 15 y 16 de la presente Sección, los Clientes deberán cumplir con los requisitos que se indican a continuación:
-
-1. En todos los casos de ingreso de fondos y/o activos que se indican en el artículo 16 precedente, el Cliente deberá encontrarse adherido al “Régimen de DDJJ Simplificada para el Impuesto a las Ganancias”.
-
-2. En todos los casos de ingreso de fondos y/o activos que se indican en el artículo 16 de la presente Sección, el Cliente deberá ser titular o cotitular de -al menos- una cuenta comitente o una cuenta abierta en la entidad a la cual le realizará el depósito de efectivo, la transferencia de valores negociables o la transferencia de Activos Virtuales.
-
-3. En los casos de ingreso de activos mediante la transferencia de valores negociables el Cliente deberá ser titular o cotitular de -al menos- una cuenta comitente en el ALyC o agentes intervinientes en la colocación de FCI al cual le transferirá los valores negociables.
-
-4. En los casos de ingreso de activos mediante la transferencia de activos virtuales, el Cliente deberá ser titular o cotitular de -al menos- una cuenta abierta en el PSAV inscripto en la CNV al cual le transferirá los Activos Virtuales.
-
-Sin perjuicio de las disposiciones precedentes, deberá observarse en todo momento la normativa dictada por la UIF en materia de PLAFTFP y por la CNV en materia de suscripción de cuotapartes de FCI en moneda y en valores negociables y de segregación de cuentas propias como de terceros ya sea de fondos y/o de activos
-
-[Sección incorporada por art. 2° de la RG 1108/2026, BO 20/02/2026]
 
 ### ANEXO I FORMULARIOS PARA REMISIÓN DE INFORMACIÓN A TRAVÉS DE LA AUTOPISTA DE INFORMACIÓN FINANCIERA.
 

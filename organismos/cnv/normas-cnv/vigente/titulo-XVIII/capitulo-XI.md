@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo XI: AGENTE DE CUSTODIA, REGISTRO Y PAGO
-Última modificación: RG 1107/2026 (BO 13/02/2026)
+Última modificación: RG 1090/2025 (BO 14/11/2025)
 Fuente: PDF base, págs. 941–942.
 
 ADECUACIÓN PATRIMONIO NETO MÍNIMO ACRYP.
@@ -23,8 +23,3 @@ ADECUACIÓN REGLAMENTACIONES DE LOS ACRYP - VALORES NEGOCIABLES EMISIÓN INDIVID
 ARTÍCULO 6°.- Los ACRyP deberán adecuar sus reglamentaciones conforme lo previsto por la Resolución General N° 1090 y presentar las mismas a la previa aprobación de esta Comisión con antelación suficiente y de forma tal que las mismas se encuentren operativas a la fecha de entrada en vigencia de la mencionada resolución general.
 
 [Artículo incorporado por art. 8° de la RG 1090/2025, BO 14/11/2025, vigente desde 02/02/2026]
-
-ADECUACIÓN SISTEMAS CANJE VNEI – RG N° 1090.
-ARTÍCULO 7°.- Los ACRyP deberán adecuar sus sistemas a los fines de la implementación de lo dispuesto en el artículo 5° del Capítulo VI del Título VI de las NORMAS (N.T. 2013 y mod.), antes del 6 de abril de 2026
-
-[Artículo incorporado por art. 3° de la RG 1107/2026, BO 13/02/2026]

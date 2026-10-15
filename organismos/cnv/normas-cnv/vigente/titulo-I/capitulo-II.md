@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1108/2026 (BO 20/02/2026)
+Última modificación: RG 1105/2026 (BO 22/01/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -126,8 +126,6 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 
 “FACPCE” significa Federación Argentina de Consejos Profesionales de Ciencias Económicas.
 
-“FCE MiPyMEs” significa facturas de crédito eElectrónicas MiPyMEs conforme a lo previsto en el Título I de la Ley de Financiamiento Productivo.
-
 “FCI” significa fondo común de inversión.
 
 “FF” significa fideicomiso financiero.
@@ -193,14 +191,6 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 “Ley de Nominatividad de Títulos Valores Privados” significa Ley N° 24.587.
 
 “Ley de Obligaciones Negociables” significa Ley N° 23.576.
-
-Ley de Prevención de la Evasión Fiscal significa Ley N° 25.345”.
-
-Ley de Prevención de la Evasión Fiscal significa Ley N° 25.345”.
-
-Ley de Régimen Penal Tributario significa Ley N° 27.799”.
-
-Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Ley General de Sociedades” significa Ley N° 19.550.
 
@@ -302,15 +292,7 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Valor Residual” es la porción de un valor negociable que aún no se ha amortizado. Significa el saldo de capital pendiente de pagar o amortizar de una emisión de valores negociables, luego de deducidas las amortizaciones de capital o rescates parciales, efectuados hasta la fecha de cálculo”.
 
-“VNEI” o “Valores Negociables de Emisión Individual” significa los siguientes valores negociables que gozan de oferta pública en los términos de la Ley de Mercado de Capitales y podrán ser negociados en Mercados autorizados y registrados ante la Comisión: cheques de pago diferido, cheques de pago diferido u otros valores negociables de emisión individual garantizados por Warrants, certificados de depósitos de plazo fijo, facturas de crédito electrónicas MiPyMEs, certificados de depósito y warrants, pagarés, letras de cambio y letras hipotecarias
-
 [Término “PyME CNV” sustituido por art. 1° de la RG 1105/2026, BO 22/01/2026]
-
-[Términos “Ley de Régimen Penal Tributario” y “Ley de Prevención de la Evasión Fiscal” incorporados por art. 1° de la RG 1108/2026, BO 20/02/2026]
-
-[Términos “FCE MiPyMEs” y “VNEI” incorporados por art. 1° de la RG 1107/2026, BO 13/02/2026]
-
-[Términos “Ley de Régimen Penal Tributario” y “Ley de Prevención de la Evasión Fiscal” incorporados por art. 1° de la RG 1108/2026, BO 20/02/2026]
 
 ### SECCIÓN III — EXPRESIONES
 
