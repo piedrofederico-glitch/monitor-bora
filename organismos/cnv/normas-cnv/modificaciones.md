@@ -87,6 +87,13 @@ Archivo: `vigente/titulo-VI/capitulo-I.md`
 |---|---|---|---|---|
 | art. 29 (Secc. IX) | sustituye | RG 1090/2025 | 1° | 14/11/2025 |
 
+## Título VI, Capítulo IV
+Archivo: `vigente/titulo-VI/capitulo-IV.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1100/2025 | 1° | 31/12/2025 |
+
 ## Título VI, Capítulo V
 Archivo: `vigente/titulo-VI/capitulo-V.md`
 
