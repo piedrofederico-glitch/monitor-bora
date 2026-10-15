@@ -234,6 +234,13 @@ Archivo: `vigente/titulo-XI/titulo-XI.md`
 |---|---|---|---|---|
 | Secc. VI (completa) | incorpora | RG 1108/2026 | 2° | 20/02/2026 |
 
+## Título XIV, Capítulo II (capítulo derogado)
+Texto derogado: `historial/titulo-XIV/capitulo-II-derogado-RG-1118-2026.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | deroga | RG 1118/2026 | 1° | 06/03/2026 |
+
 ## Título XVI, Capítulo I
 Archivo: `vigente/titulo-XVI/capitulo-I.md`
 
@@ -323,3 +330,10 @@ Archivo: `vigente/titulo-XXI/capitulo-I.md`
 |---|---|---|---|---|
 | Secc. I (completa) | sustituye | RG 1109/2026 | 3° | 20/02/2026 |
 | art. 1° (Secc. I) | sustituye | RG 1114/2026 | 1° | 27/02/2026 |
+
+## Título XIV
+Archivo: `vigente/titulo-XIV/denominacion`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| denominación | sustituye | RG 1118/2026 | 2° | 06/03/2026 |

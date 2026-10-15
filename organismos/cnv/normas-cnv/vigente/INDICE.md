@@ -124,12 +124,12 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XIII/capitulo-II.md`](titulo-XIII/capitulo-II.md) | Título XIII — Capítulo II: PROCEDIMIENTO SUMARIAL | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XIII/capitulo-III.md`](titulo-XIII/capitulo-III.md) | Título XIII — Capítulo III: PUBLICIDAD PROCEDIMIENTO SUMARIAL | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
-## Título XIV — PLATAFORMA DE FINANCIAMIENTO COLECTIVO. HUB DE INNOVACIÓN E INCLUSIÓN FINANCIERA. REGISTRO DE PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES
+## Título XIV — PLATAFORMA DE FINANCIAMIENTO COLECTIVO. REGISTRO DE PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES
+[Denominación sustituida por art. 2° de la RG 1118/2026, BO 06/03/2026]
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-XIV/capitulo-I.md`](titulo-XIV/capitulo-I.md) | Título XIV — Capítulo I: PLATAFORMA DE FINANCIAMIENTO COLECTIVO | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XIV/capitulo-II.md`](titulo-XIV/capitulo-II.md) | Título XIV — Capítulo II: HUB DE INNOVACIÓN E INCLUSIÓN FINANCIERA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XIV/capitulo-III.md`](titulo-XIV/capitulo-III.md) | Título XIV — Capítulo III: PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES (PSAV) | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
 ## Título XV — AUTOPISTA DE LA INFORMACIÓN FINANCIERA (AIF)
