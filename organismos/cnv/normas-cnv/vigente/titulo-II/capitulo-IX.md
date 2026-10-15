@@ -1,5 +1,5 @@
 # Título II — Capítulo IX: PROSPECTO
-Última modificación: RG 1119/2026 (BO 13/03/2026)
+Última modificación: RG 1129/2026 (BO 16/04/2026)
 Fuente: RG 1095/2025, art. 2°.
 
 ### SECCIÓN I — RÉGIMEN GENERAL.
@@ -67,52 +67,82 @@ Respecto de emisiones de obligaciones negociables destinados a proyectos SVS+ se
 
 ### SECCIÓN II — DIFUSIÓN DE INFORMACIÓN PREVIA A LA AUTORIZACIÓN DE OFERTA PÚBLICA.
 
-CARACTERISTICAS
-ARTÍCULO 8°. – Las Emisoras podrán distribuir un Prospecto preliminar, con anterioridad al otorgamiento de la autorización de la oferta pública por parte de la Comisión, o con anterioridad al inicio del período de difusión, en las siguientes condiciones:
+CARACTERÍSTICAS.
+ARTÍCULO 8°.- Las Emisoras podrán distribuir un Prospecto o Suplemento de Prospecto preliminar, u otros Documentos de Oferta Preliminares, con anterioridad: (i) al otorgamiento de la autorización de oferta pública por parte de la Comisión, en los casos en que ésta resulte exigible; o (ii) a la notificación, publicación en la AIF o inicio del proceso de colocación, según corresponda, en los regímenes que no requieren autorización previa de esta Comisión. En ambos casos, podrán hacerlo siempre que se cumplan las siguientes condiciones:
 
-1. En el Prospecto (o Suplemento de Prospecto) preliminar deberá insertarse, en la primera página, la siguiente leyenda en tinta roja y caracteres destacados:
+1. En el Prospecto o Suplemento de Prospecto o Documento de Oferta Preliminar deberá insertarse, en la primera página, la siguiente leyenda en tinta roja y caracteres destacados:
 
-“PROSPECTO/SUPLEMENTO DE PROSPECTO PRELIMINAR: el presente Prospecto (o Suplemento de Prospecto) preliminar es distribuido al sólo efecto informativo. La autorización para hacer oferta pública de los valores negociables a que se refiere el presente ha sido solicitada a la Comisión Nacional de Valores con arreglo a las normas vigentes con fecha… y, hasta el momento, no ha sido otorgada. La información contenida en este Prospecto está sujeta a cambios y modificaciones y no puede ser considerada como definitiva por aquellas personas que tomen conocimiento de la misma. Este Prospecto no constituye una oferta de venta, ni una invitación a formular oferta de compra, ni podrán efectuarse compras o ventas de los valores negociables aquí referidos, hasta tanto la oferta pública haya sido autorizada por la Comisión Nacional de Valores”.
+“PROSPECTO/SUPLEMENTO DE PROSPECTO PRELIMINAR [u otro DOCUMENTO DE OFERTA] [especificar]: el presente Prospecto [o Suplemento de Prospecto o Documento de Oferta] Preliminar es distribuido al sólo efecto informativo. La autorización, notificación o trámite correspondiente para la oferta pública de los valores negociables a que se refiere el presente ha sido iniciado o será cumplimentado de conformidad con la normativa vigente, según corresponda, y a la fecha no se encuentra finalizado o no ha sido presentado aún. La información contenida en este Documento de Oferta Preliminar está sujeta a cambios y modificaciones y no puede ser considerada como definitiva por aquellas personas que tomen conocimiento de la misma. Este Prospecto [o Suplemento de Prospecto o Documento de Oferta] Preliminar no constituye una oferta de venta, ni una invitación a formular oferta de compra, ni podrán efectuarse compras o ventas de los valores negociables aquí referidos, hasta tanto la oferta pública haya sido autorizada, notificada o publicada en la AIF, según corresponda, por la Comisión Nacional de Valores”.
 
-2. En oportunidad de solicitar la autorización de oferta pública el Emisor deberá, o con anterioridad al inicio del período de difusión, informar a través de la plataforma TAD, si realizará una publicidad de la emisión mediante la distribución de un Prospecto o Suplemento de Prospecto preliminar y, presentar una copia del Prospecto preliminar a la Comisión, con los recaudos establecidos en el inciso 1. del presente artículo.
+2. La Emisora deberá informar a través de la plataforma TAD la distribución de Documentos de Oferta Preliminares, acompañando copia de los mismos, con los recaudos establecidos en el inciso 1. del presente artículo.
 
-3. El Prospecto o Suplemento de Prospecto preliminar no será objeto de autorización ni aprobación por la Comisión, asumiendo los órganos de administración y, en lo que les atañe, los órganos de fiscalización de la Emisora y los auditores en cuanto a sus respectivos informes sobre los EECC que se acompañan, plena responsabilidad por la información contenida en él. En caso de valores negociables fiduciarios, esa responsabilidad corresponderá al Fiduciante en su caso y, en lo que respecta al fideicomiso y su propia información como entidad, al Fiduciario.
+Dicha comunicación deberá efectuarse en la oportunidad correspondiente según el régimen aplicable, pudiendo realizarse en forma previa, simultánea o posterior a su difusión, siempre que tenga lugar dentro del trámite de autorización, notificación o presentación de la documentación vinculada a la emisión, según se indica seguidamente:
 
-4. El Prospecto o Suplemento de Prospecto preliminar deberá ser sustituido por el Prospecto o Suplemento de Prospecto definitivo una vez autorizada la oferta pública de los valores negociables a que se refiere, oportunidad en la cual deberá ser puesto a disposición de interesados e intermediarios con todas las modificaciones introducidas a requerimiento de la Comisión, eliminándose la leyenda establecida en el inciso 1.
+a) Si se trata de una emisión que requiere la previa autorización de esta CNV, la comunicación deberá ser realizada al momento de presentarse la solicitud para su tramitación, o con posterioridad a la misma pero siempre antes de la aprobación de la solicitud.
 
-5. La distribución del Prospecto o Suplemento de Prospecto preliminar no podrá ser realizada, en ningún caso, con anterioridad a la presentación de la solicitud de autorización de oferta pública de la emisión de que se trate.
+b) Si se trata de emisiones realizadas bajo cualquier Régimen de Oferta Pública con Autorización Automática por su Bajo Impacto, en forma previa o simultánea a la notificación inicial correspondiente al régimen respectivo.
 
-ARTÍCULO 9°. – Las Emisoras que emitan bajo cualquiera de los Regímenes de Autorización Automática también podrán distribuir un Prospecto preliminar, con anterioridad a la notificación de la emisión a la CNV, en las siguientes condiciones:
+c) Si se trata de emisiones realizadas bajo cualquier Régimen de Oferta Pública con Autorización Automática por su Mediano Impacto, en oportunidad de acompañar la documentación prevista en las Secciones correspondientes al régimen respectivo.
 
-1. En el Prospecto (o Suplemento de Prospecto) preliminar deberá insertarse, en la primera página, la siguiente leyenda en tinta roja y caracteres destacados:
+d) Si se trata de emisiones bajo el régimen de Emisor Frecuente, o de series o clases a ser emitidas en el marco de un Programa Global que no requieren de la autorización previa de esta CNV, en el plazo previsto para la presentación de la documentación, aunque dicho plazo sea posterior a su colocación.
 
-“PROSPECTO/SUPLEMENTO DE PROSPECTO PRELIMINAR: el presente Prospecto (o Suplemento de Prospecto) preliminar es distribuido al sólo efecto informativo. La notificación de la emisión a la Comisión Nacional de Valores no ha sido realizada a la fecha. La información contenida en este Prospecto está sujeta a cambios y modificaciones y no puede ser considerada como definitiva por aquellas personas que tomen conocimiento de la misma. Este Prospecto no constituye una oferta de venta, ni una invitación a formular oferta de compra, ni podrán efectuarse compras o ventas de los valores negociables aquí referidos, hasta tanto la oferta pública haya sido notificada a la Comisión Nacional de Valores”.
+e) Cuando se hubiese distribuido Prospecto o Suplemento de Prospecto o cualquier otro Documento de Oferta Preliminar y luego se haya desistido de efectuar la correspondiente emisión, la Emisora deberá mantener a disposición de esta CNV los documentos distribuidos, junto con la respectiva comunicación a los sujetos a quienes se suministró tal información, y su posterior desistimiento.
 
-2. El Prospecto o Suplemento de Prospecto preliminar se enmarcan en una oferta pública automática efectuada en los términos de la Ley Nº 26.831, los Decretos N° 1087/93 y N° 1023/13 y la Sección XV del Capítulo V del Título II de las Normas de la Comisión Nacional de Valores. La oferta y posterior negociación secundaria se encontrará dirigida exclusivamente a Inversores Calificados.
+f) La comunicación solo podrá efectuarse con posterioridad a la colocación de los valores negociables en el caso del inciso d) anterior.
 
-3. Tanto el Prospecto o Suplemento de Prospecto preliminar como el definitivo no serán objeto de autorización ni aprobación por la Comisión, asumiendo los órganos de administración y, en lo que les atañe, los órganos de fiscalización de la Emisora y los auditores en cuanto a sus respectivos informes sobre los EECC que se acompañan, plena responsabilidad por la información contenida en él. En caso de valores negociables fiduciarios, esa responsabilidad corresponderá al Fiduciante en su caso y, en lo que respecta al fideicomiso y su propia información como entidad, al Fiduciario.
+3. El Documento de Oferta Preliminar no será objeto de revisión, autorización ni aprobación por la Comisión, sin perjuicio de las facultades de supervisión y control que le competen conforme la normativa vigente, asumiendo los órganos de administración y, en lo que les atañe, los órganos de fiscalización de la Emisora y los auditores en cuanto a sus respectivos informes sobre los EECC que se acompañan, plena responsabilidad por la información contenida en él.
 
-4. El Prospecto o Suplemento de Prospecto preliminar deberá ser sustituido por el Prospecto o Suplemento de Prospecto definitivo una vez que sea notificada a la Comisión la emisión de los valores negociables a que se refiere, oportunidad en la cual deberá ser puesto a disposición de interesados e intermediarios con todas las modificaciones introducidas a requerimiento de la Comisión, eliminándose la leyenda establecida en el inciso 1 precedente.
+4. La información contenida en dichos documentos deberá ser consistente con la que se incluya en el Prospecto, Suplemento o Documento de Oferta Definitivo, no pudiendo introducirse modificaciones sustanciales sin su debida y expresa identificación. En todos los casos, la difusión definitiva deberá hacerse utilizando el mismo tipo de documento elegido en la distribución preliminar, o uno equivalente que cumpla idéntica función informativa, haciendo referencia a ello en la versión definitiva.
 
-ARTÍCULO 10. – Se podrán celebrar reuniones informativas acerca de la Emisora y los valores negociables respecto de los cuales se ha presentado la respectiva solicitud tanto presenciales como virtuales, en el país como en el exterior (en caso de colocaciones internacionales), sujeto a las leyes aplicables en cada país.
+5. El Documento de Oferta Preliminar deberá ser sustituido por el Documento de Oferta Definitivo una vez cumplido el requisito de autorización, notificación o publicación correspondiente, oportunidad en la cual deberá ser puesto a disposición de interesados e intermediarios con todas las modificaciones introducidas a requerimiento de la Comisión, eliminándose la leyenda establecida en el inciso 1., debiendo destacarse en este último, en su caso, las modificaciones relevantes introducidas respecto del Documento de Oferta Preliminar.
+
+6. La información contenida en los Documentos de Oferta Preliminares no podrá tener una antigüedad superior a VEINTE (20) días hábiles contados desde su fecha de emisión o última actualización, respecto de la fecha de inicio del período de colocación o de la publicación del Documento de Oferta Definitivo, lo que ocurra primero.
+
+Vencido dicho plazo sin que se hubiera producido la publicación del Documento de Oferta Definitivo deberá comunicarse a la CNV si la colocación no se llevará a cabo o si se ha prorrogado y, en ambos casos, presentar el Prospecto, Suplementos y Documento de Oferta Preliminar a la CNV.
+
+[Artículo sustituido por art. 2° de la RG 1129/2026, BO 16/04/2026]
+
+ARTÍCULO 9°.- Las Emisoras que emitan bajo cualquiera de los Regímenes de Autorización Automática o que no requieren autorización previa de CNV, deberán:
+
+1. Ajustar la leyenda prevista en el artículo anterior al tipo de régimen aplicable, debiendo dejarse expresa constancia de que la oferta se realiza bajo un régimen que no requiere autorización previa de la Comisión, sino su notificación o publicación conforme corresponda.
+
+2. Dejar expresa constancia en el Documento de Oferta Preliminar y en el Documento de Oferta Definitivo del régimen bajo el cual se realiza la oferta, incluyendo la normativa aplicable y, en su caso, el tipo de inversores a los cuales se dirige, indicando que ésta se efectúa bajo un Régimen de Oferta Pública Automática en los términos de la normativa vigente, a fin de una adecuada comprensión por parte de los inversores.
+
+3. Cumplir con la totalidad de las obligaciones de información previstas en el artículo 8° de la presente Sección, en cuanto resulten compatibles con la naturaleza del régimen aplicable.
+
+4. A tales efectos, en el Documento de Oferta Preliminar deberá insertarse, en la primera página, en tinta roja y caracteres destacados, la siguiente leyenda:
+
+“PROSPECTO/SUPLEMENTO DE PROSPECTO [u otro Documento de Oferta [especificar]] PRELIMINAR: el presente Prospecto [o Suplemento de Prospecto o Documento de Oferta [especificar]] Preliminar es distribuido al sólo efecto informativo. La oferta pública de los valores negociables a que se refiere el presente se realiza bajo un régimen que no requiere autorización previa de la Comisión Nacional de Valores, encontrándose sujeta a su notificación y/o publicación en la AUTOPISTA DE LA INFORMACIÓN FINANCIERA (AIF), de conformidad con la normativa vigente. La información contenida en este Prospecto [o Suplemento de Prospecto o Documento de Oferta Preliminar] está sujeta a cambios y modificaciones y no puede ser considerada como definitiva por aquellas personas que tomen conocimiento de la misma. Este Prospecto [o Suplemento o Documento de Oferta Preliminar] no constituye una oferta de venta, ni una invitación a formular oferta de compra, ni podrán efectuarse compras o ventas de los valores negociables aquí referidos, hasta tanto la oferta pública haya sido notificada a la Comisión Nacional de Valores”.
+
+[Artículo sustituido por art. 2° de la RG 1129/2026, BO 16/04/2026]
+
+ARTÍCULO 10.- Se podrán celebrar reuniones informativas acerca de la Emisora y los valores negociables, tanto presenciales como virtuales, en el país o en el exterior, antes de la autorización, notificación o publicación de la oferta pública, según corresponda, sujeto a las leyes aplicables en cada país.
 
 La convocatoria y realización de las reuniones informativas deberá cumplir con los siguientes requisitos:
 
-1. Las invitaciones sólo podrán ser formuladas en forma personalizada por la Emisora o los Agentes registrados en la CNV a cargo de la organización, colocación y distribución o el Fiduciante (Emisor u organizador), en su caso.
+1. Las invitaciones sólo podrán ser formuladas en forma personalizada por la Emisora o los Agentes registrados en la CNV a cargo de la organización, colocación y distribución, en su caso.
 
-2. En el texto de las invitaciones deberá incluirse un párrafo indicando que la Comisión no se ha expedido respecto de la solicitud de autorización de oferta pública de los valores negociables.
+2. En el texto de las invitaciones deberá incluirse un párrafo indicando que la Comisión no se ha expedido (ni lo hará) respecto de la oferta pública de los valores negociables, o que la misma se encuentra sujeta a notificación o publicación, según el régimen aplicable.
 
-3. Las reuniones deberán celebrarse en espacios en los cuales pueda garantizarse el acceso exclusivo de las personas invitadas.
+3. Las reuniones deberán celebrarse en espacios en los cuales pueda garantizarse el acceso exclusivo de las personas invitadas, admitiéndose su realización por medios virtuales, siempre que se garantice un adecuado control de acceso o registro de participantes.
 
-4. Las reuniones tendrán como único objeto la presentación de información, que deberá ser consistente con la incluida en el Prospecto o Suplemento de Prospecto preliminar, respecto de la Emisora y en su caso del Fiduciante (Emisor u organizador), tratándose de valores negociables fiduciarios, sus actividades, situación, resultados, perspectivas y cualquier otra información relevante en relación con ella y sobre los valores negociables motivo de la emisión.
+4. Las reuniones tendrán como único objeto la presentación de información, que deberá ser consistente con la incluida en el Documento de la Oferta Preliminar, respecto de la Emisora, sus actividades, situación, resultados, perspectivas y cualquier otra información relevante en relación con ella y sobre los valores negociables motivo de la emisión.
 
-5. Podrá difundirse información de carácter general que fuere consistente con el Prospecto preliminar y no exceda los contenidos del mismo. Dicha información deberá incluir la advertencia prevista en el inciso 2 mencionado.
+No podrá suministrarse información adicional que no se encuentre contenida en el Documento de Oferta Preliminar, salvo que sea consistente con éste y sea incorporada en forma simultánea o posterior a dicho documento.
 
-6. Durante el período comprendido entre la distribución del Prospecto o Suplemento de Prospecto preliminar y la autorización de oferta pública de los valores negociables por parte de la Comisión, las Emisoras o instituciones seleccionadas por la Emisora para la colocación de la emisión en el país o en el exterior, podrán recibir indicaciones de interés respecto de los valores negociables en cuestión. Dichas indicaciones de interés no tendrán carácter vinculante.
+Ello sin perjuicio del cumplimiento de las obligaciones de información completa, veraz y suficiente exigidas por la normativa vigente.
 
-En caso de haberse brindado información general al público sobre la base del Prospecto preliminar, la Emisora o las instituciones seleccionadas para la colocación deberán asegurar (con adecuada antelación a la colocación por oferta pública de la emisión) la difusión de la información del Prospecto definitivo en condiciones idénticas a la otorgada al Prospecto preliminar, en la AIF y en los sistemas de información de los Mercados donde negocien.
+5. Podrá difundirse información de carácter general que fuere consistente con el Prospecto o Suplemento de Prospecto o Documentos de la Oferta Preliminar y no exceda los contenidos del mismo. Dicha información deberá incluir la advertencia prevista en el inciso 2. precedente.
 
-No será necesario hacer referencia en el Prospecto al precio de colocación cuando el mismo no hubiera sido determinado a la fecha de la distribución antes referida.
+6. Durante el período comprendido entre la distribución del Prospecto o Suplemento de Prospecto o Documento de la Oferta Preliminar y, de corresponder, la autorización de oferta pública de los valores negociables por parte de la Comisión, o notificación o publicación en la AIF, las Emisoras o instituciones seleccionadas por la Emisora para la colocación de la emisión en el país o en el exterior, podrán recibir indicaciones de interés respecto de los valores negociables en cuestión. Dichas indicaciones de interés no tendrán carácter vinculante.
+
+En caso de haberse brindado información general al público sobre la base del Prospecto o Suplemento de Prospecto o Documento de la Oferta Preliminar, la Emisora o las instituciones seleccionadas para la colocación deberán asegurar (con adecuada antelación a la colocación por oferta pública de los valores negociables) la difusión de la información del Prospecto definitivo en condiciones idénticas a la otorgada al Documento de Oferta Preliminar, en la AIF y en los sistemas de información de los Mercados donde negocien.
+
+El documento definitivo deberá reflejar adecuadamente cualquier modificación relevante introducida respecto del documento preliminar.
+
+No será necesario hacer referencia en el Prospecto o Suplemento de Prospecto o Documento de la Oferta Definitivo, al precio de colocación cuando el mismo no hubiera sido determinado a la fecha de la distribución antes referida
+
+[Artículo sustituido por art. 2° de la RG 1129/2026, BO 16/04/2026]
 
 MODIFICACIONES AL PROSPECTO.
 ARTÍCULO 11.- Las Emisoras a las que se les requieran aclaraciones, informaciones complementarias o cambios en la redacción del Prospecto, tendrán un plazo de DIEZ (10) días hábiles para presentarlas, cuando no se hubiese fijado un plazo diferente.

@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1127/2026 (BO 09/04/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1129/2026 (BO 16/04/2026) |
 
 ## Título II — EMISORAS
 
@@ -22,7 +22,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-II/capitulo-VI.md`](titulo-II/capitulo-VI.md) | Título II — Capítulo VI: PEQUEÑAS Y MEDIANAS EMPRESAS | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-VII.md`](titulo-II/capitulo-VII.md) | Título II — Capítulo VII: ENTIDADES DE GARANTÍA | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-VIII.md`](titulo-II/capitulo-VIII.md) | Título II — Capítulo VIII: EMISORAS EXTRANJERAS. CERTIFICADOS DE DEPÓSITO Y DE VALORES (CEDEARS Y CEVA). CERTIFICADOS DE DEPÓSITO EN CUSTODIA. | RG 1095/2025 (BO 18/12/2025) |
-| [`titulo-II/capitulo-IX.md`](titulo-II/capitulo-IX.md) | Título II — Capítulo IX: PROSPECTO | RG 1119/2026 (BO 13/03/2026) |
+| [`titulo-II/capitulo-IX.md`](titulo-II/capitulo-IX.md) | Título II — Capítulo IX: PROSPECTO | RG 1129/2026 (BO 16/04/2026) |
 | [`titulo-II/capitulo-X.md`](titulo-II/capitulo-X.md) | Título II — Capítulo X: REORGANIZACIÓN SOCIETARIA | RG 1095/2025 (BO 18/12/2025) |
 
 ## Título III — RETIRO DE LA OFERTA PÚBLICA. CANCELACIONES.OFERTA PÚBLICA DE ADQUISICIÓN. APORTES IRREVOCABLES

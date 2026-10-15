@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1127/2026 (BO 09/04/2026)
+Última modificación: RG 1129/2026 (BO 16/04/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -113,6 +113,10 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 “Dividendo” significa el derecho económico que otorga cada acción a cobrar en el reparto de utilidades del ejercicio. Es una modalidad por medio de la cual las sociedades distribuyen beneficios entre sus accionistas.
 
 “DNI” significa Documento Nacional de Identidad.
+
+“Documento de Oferta Definitivo” significa cualquier material impreso o digital utilizado para la difusión definitiva de información relativa a una oferta pública, con independencia de la denominación que se le otorgue.
+
+“Documento de Oferta Preliminar” significa cualquier material impreso o digital utilizado para la difusión previa de información relativa a una oferta pública, con independencia de la denominación que se le otorgue.
 
 “DUVA” significa Declaración Unilateral de Voluntad de Adquisición de Acciones.
 
@@ -296,6 +300,12 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Régimen PyME CNV” significa el conjunto de disposiciones normativas aplicables que debe cumplir una Emisora PyME CNV de conformidad con lo establecido en el Capítulo VI del Título II de estas Normas.
 
+“Regímenes de Autorización Automática” significa cualquier régimen de autorización automática previsto en estas Normas.
+
+“Regímenes de Oferta Pública con Autorización Automática de Valores Negociables por su Bajo Impacto” significa cualquier régimen de autorización automática por su bajo impacto.
+
+“Regímenes de Oferta Pública con Autorización Automática de Valores Negociables por su Mediano Impacto” significa cualquier régimen de autorización automática por su mediano impacto.
+
 “RePET” significa Registro Público de Personas y Entidades vinculadas a actos de Terrorismo y su Financiamiento.
 
 “Representación Digital” significa la forma de representación adicional de ciertos valores negociables prevista en el Capítulo I del Título XXII de estas Normas.
@@ -359,6 +369,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Inciso 13) de “Inversor Calificado” sustituido y términos “Activos Virtuales”, “Financiamiento Colectivo” y de los regímenes de financiamiento colectivo incorporados por art. 1° de la RG 1125/2026, BO 07/04/2026]
 
 [Término “LPA” incorporado por art. 1° de la RG 1127/2026, BO 09/04/2026]
+
+[Términos “Documento de Oferta Preliminar”, “Documento de Oferta Definitivo” y de los Regímenes de Autorización Automática incorporados por art. 1° de la RG 1129/2026, BO 16/04/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

@@ -26,6 +26,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), término “IOSCO” | modifica parcialmente | RG 1121/2026 | 1° | 27/03/2026 |
 | art. 2° (Secc. II), “Inversor Calificado” inc. 13) y 5 términos nuevos | modifica parcialmente | RG 1125/2026 | 1° | 07/04/2026 |
 | art. 2° (Secc. II), término “LPA” | modifica parcialmente | RG 1127/2026 | 1° | 09/04/2026 |
+| art. 2° (Secc. II), 5 términos (documentos de oferta y regímenes automáticos) | modifica parcialmente | RG 1129/2026 | 1° | 16/04/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -102,6 +103,9 @@ Archivo: `vigente/titulo-II/capitulo-IX.md`
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
 | art. 14 (Secc. III) | sustituye | RG 1119/2026 | 1° | 13/03/2026 |
+| art. 8° (Secc. II) | sustituye | RG 1129/2026 | 2° | 16/04/2026 |
+| art. 9° (Secc. II) | sustituye | RG 1129/2026 | 2° | 16/04/2026 |
+| art. 10 (Secc. II) | sustituye | RG 1129/2026 | 2° | 16/04/2026 |
 
 ## Título II, Capítulo X
 Archivo: `vigente/titulo-II/capitulo-X.md`
