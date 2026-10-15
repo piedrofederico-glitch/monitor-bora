@@ -1,0 +1,112 @@
+{
+  "fecha": "20261015",
+  "total_avisos": 48,
+  "organismos": {
+    "cnv": [
+      {
+        "id": "348986",
+        "organismo": "COMISIÓN NACIONAL DE VALORES",
+        "titulo": "Resolución General 1172/2026",
+        "codigo": "RESGC-2026-1172-APN-DIR#CNV - Normas (N.T. 2013 y mod.). Modificación.",
+        "firmantes": "Manuel Ignacio Calderon - Laura Ines Herbon - Sonia Fabiana Salvatierra - Roberto Emilio Silva",
+        "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348986/20261015",
+        "archivo": "organismos/cnv/normas/20261015_348986_resolucion-general-1172-2026.md"
+      },
+      {
+        "id": "348987",
+        "organismo": "COMISIÓN NACIONAL DE VALORES",
+        "titulo": "Resolución General 1173/2026",
+        "codigo": "RESGC-2026-1173-APN-DIR#CNV - Normas (N.T. 2013 y mod.). Modificación.",
+        "firmantes": "Manuel Ignacio Calderon - Laura Ines Herbon - Sonia Fabiana Salvatierra - Roberto Emilio Silva",
+        "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348987/20261015",
+        "archivo": "organismos/cnv/normas/20261015_348987_resolucion-general-1173-2026.md"
+      }
+    ],
+    "atep": [
+      {
+        "id": "348988",
+        "organismo": "SINDICATURA GENERAL DE LA NACIÓN Y UNIDAD EJECUTORA ESPECIAL TEMPORARIA “AGENCIA DE TRANSFORMACIÓN DE EMPRESAS PÚBLICAS”",
+        "titulo": "Resolución Conjunta 1/2026",
+        "codigo": "RESFC-2026-1-APN-UEETATEP#MEC",
+        "firmantes": "Alejandro Fabian Diaz - Diego Martín Chaher",
+        "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348988/20261015",
+        "archivo": "organismos/atep/normas/20261015_348988_resolucion-conjunta-1-2026.md"
+      }
+    ],
+    "bcra": [],
+    "aaip": []
+  },
+  "temas_candidatos": [
+    {
+      "id": "348979",
+      "organismo": "MINISTERIO DE ECONOMÍA",
+      "titulo": "Resolución 1807/2026",
+      "codigo": "RESOL-2026-1807-APN-MEC",
+      "firmantes": "E/E Juan Bautista Mahiques",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348979/20261015",
+      "archivo": "temas/textos/20261015_348979_resolucion-1807-2026.md",
+      "temas": {
+        "privatizaciones": [
+          {
+            "patron": "privatiz",
+            "fragmento": "a operacion, la provincia debera acordar la solucion tecnica definitiva con el eventual adjudicatario del sector ferroviario, en el marco del proceso de privatizacion de bcyl. ambas soluciones tecnicas (la provisoria y la definitiva) deberan contar con el visado tecnico de adif. c. que la provincia haya cumpl"
+          }
+        ]
+      }
+    },
+    {
+      "id": "348987",
+      "organismo": "COMISIÓN NACIONAL DE VALORES",
+      "titulo": "Resolución General 1173/2026",
+      "codigo": "RESGC-2026-1173-APN-DIR#CNV - Normas (N.T. 2013 y mod.). Modificación.",
+      "firmantes": "Manuel Ignacio Calderon - Laura Ines Herbon - Sonia Fabiana Salvatierra - Roberto Emilio Silva",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348987/20261015",
+      "archivo": "temas/textos/20261015_348987_resolucion-general-1173-2026.md",
+      "temas": {
+        "datos_personales": [
+          {
+            "patron": "datos personales",
+            "fragmento": "s; 11. mecanismos adecuados de independencia, segregacion funcional y prevencion de conflictos de interes; 12. politicas y procedimientos para la proteccion de datos personales y resguardo de la informacion de los postulantes; 13. mecanismos de control de acceso, confidencialidad y custodia del banco de preguntas; y 14. procedimientos"
+          },
+          {
+            "patron": "proteccion de datos",
+            "fragmento": "y contingencias; 11. mecanismos adecuados de independencia, segregacion funcional y prevencion de conflictos de interes; 12. politicas y procedimientos para la proteccion de datos personales y resguardo de la informacion de los postulantes; 13. mecanismos de control de acceso, confidencialidad y custodia del banco de preguntas; y 14. pro"
+          },
+          {
+            "patron": "dispositivo:bases? de datos",
+            "fragmento": " 1. examen aprobado 2. la entidad registra el resultado en su sistema 3. remision de la informacion via aif 4. la informacion se incorpora automaticamente a la base de datos administrada por cnv, alimentando la nomina central de personas aprobadas 5. analisis y validacion de la informacion por la cnv 6. solicitud de alta por el age"
+          }
+        ]
+      }
+    },
+    {
+      "id": "348988",
+      "organismo": "SINDICATURA GENERAL DE LA NACIÓN Y UNIDAD EJECUTORA ESPECIAL TEMPORARIA “AGENCIA DE TRANSFORMACIÓN DE EMPRESAS PÚBLICAS”",
+      "titulo": "Resolución Conjunta 1/2026",
+      "codigo": "RESFC-2026-1-APN-UEETATEP#MEC",
+      "firmantes": "Alejandro Fabian Diaz - Diego Martín Chaher",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348988/20261015",
+      "archivo": "temas/textos/20261015_348988_resolucion-conjunta-1-2026.md",
+      "temas": {
+        "privatizaciones": [
+          {
+            "patron": "transformacion de empresas publicas",
+            "fragmento": "sindicatura general de la nacion y unidad ejecutora especial temporaria “agencia de transformacion de empresas publicas” resolucion conjunta 1/2026 resfc-2026-1-apn-ueetatep#mec ciudad de buenos aires, 13/10/2026 visto los expedientes n° ex-2026-98797025-apn-dgda#mec y ex-2026-9"
+          },
+          {
+            "patron": "participacion estatal mayoritaria",
+            "fragmento": "decuadamente sus funciones. que el establecimiento de requisitos previos a la designacion de los miembros de los organos de administracion de las sociedades de participacion estatal mayoritaria se ha convertido en una buena practica reconocida por la organizacion para la cooperacion y desarrollo economico (ocde), toda vez que constituye una herramient"
+          },
+          {
+            "patron": "transformacion societaria",
+            "fragmento": "ector privado impulse el crecimiento, la inversion y el empleo. en este marco, a traves del articulo 48 del decreto 70 del 20 de diciembre de 2023 se ordeno la transformacion societaria de sociedades del estado y empresas del estado en sociedades anonimas en los terminos de la ley n° 19.550 (t.o. 1984) y se dispuso la eliminacion de las prerro"
+          },
+          {
+            "patron": "dispositivo:empresas? publicas?",
+            "fragmento": " articulo 1°.- apruebanse los “lineamientos para el procedimiento de seleccion y designacion de miembros de los organos de administracion de las empresas publicas” que, como anexo (acto-2026-98978037-apn-ueetatep#mec), forman parte integrante de esta medida. articulo 2°.- la presente medida entrara en vigencia a partir d"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cnv": {
+    "nombre": "Comisión Nacional de Valores",
+    "organismo_regex": ["COMISION NACIONAL DE VALORES"],
+    "codigo_regex": ["#CNV\\b"]
+  },
+  "atep": {
+    "nombre": "Agencia de Transformación de Empresas Públicas",
+    "organismo_regex": ["AGENCIA DE TRANSFORMACION DE EMPRESAS PUBLICAS"],
+    "codigo_regex": ["UEETATEP"]
+  },
+  "bcra": {
+    "nombre": "Banco Central de la República Argentina (Comunicaciones \"A\")",
+    "organismo_regex": ["BANCO CENTRAL DE LA REPUBLICA ARGENTINA"],
+    "requiere_texto_regex": ["COMUNICACION\\s*[\"“”']?\\s*A\\s*[\"“”']?\\s*\\d{3,5}"]
+  },
+  "aaip": {
+    "nombre": "Agencia de Acceso a la Información Pública / Dirección Nacional de Protección de Datos Personales",
+    "organismo_regex": ["AGENCIA DE ACCESO A LA INFORMACION PUBLICA", "PROTECCION DE DATOS PERSONALES"],
+    "codigo_regex": ["#AAIP\\b", "-AAIP\\b"]
+  }
+}

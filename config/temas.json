@@ -1,0 +1,64 @@
+{
+  "_nota": "Filtro prima facie, sin acentos y en minúsculas. Prefijos opcionales: titulo:, codigo:, rubro:, dispositivo: (parte resolutiva, después de RESUELVE/DECRETA/DISPONE). Sin prefijo busca en todo el texto y anexos. Se prefieren falsos positivos: el Analista de Temas descarta lo irrelevante. Las citas a leyes en considerandos (p. ej. 'decreto reglamentario', 'Ley 27.742') son ruido, por eso esos patrones van acotados.",
+  "rigi": [
+    "\\brigi\\b",
+    "regimen de incentivo para grandes inversiones",
+    "grandes inversiones",
+    "vehiculo de proyecto unico",
+    "dispositivo:27\\.?742"
+  ],
+  "privatizaciones": [
+    "privatiz",
+    "23\\.?696",
+    "transformacion de empresas publicas",
+    "participacion estatal mayoritaria",
+    "desinversion",
+    "(venta|enajenacion|transferencia) (de|del) (las )?(acciones|paquete accionario|participacion accionaria)",
+    "transformacion societaria",
+    "dispositivo:empresas? publicas?",
+    "dispositivo:sociedad(es)? del estado",
+    "dispositivo:concesion (integral|de la explotacion|del servicio)",
+    "dispositivo:licitacion publica nacional e internacional"
+  ],
+  "leyes_generales": [
+    "titulo:^ley \\d",
+    "rubro:^leyes",
+    "codigo:\\bdnu-",
+    "titulo:\\bdnu\\b",
+    "dispositivo:promulgase",
+    "dispositivo:tengase por ley"
+  ],
+  "reglamentacion_de_leyes": [
+    "dispositivo:reglamentase",
+    "dispositivo:apruebase la reglamentacion",
+    "dispositivo:reglamentacion (de la ley|del articulo|de los articulos|del capitulo|del titulo)",
+    "titulo:reglament"
+  ],
+  "datos_personales": [
+    "datos personales",
+    "25\\.?326",
+    "proteccion de datos",
+    "habeas data",
+    "tratamiento de (los )?datos",
+    "biometric",
+    "agencia de acceso a la informacion publica",
+    "\\baaip\\b",
+    "privacidad",
+    "dispositivo:bases? de datos"
+  ],
+  "juegos_de_azar": [
+    "loteri",
+    "juegos? de azar",
+    "apuestas?",
+    "casinos?",
+    "quiniela",
+    "bingos?",
+    "tragamonedas",
+    "juegos? (online|en linea|virtuales?)",
+    "ludopatia",
+    "juego (compulsivo|patologico|responsable)",
+    "\\blotba\\b",
+    "hipodromo",
+    "carreras de caballos"
+  ]
+}
