@@ -40,3 +40,8 @@ Actualizado: 15/10/2026
 - **Período del primer PSAV_014 con el formato nuevo:** octubre o noviembre de 2026. Ver si sale un criterio interpretativo o una aclaración en la AIF.
 - **Idóneos:** primeras resoluciones de reconocimiento de Entidades Administradoras; fijación de topes de tasa (art. 22); mecanismo de asignación de los VEP pendientes; tensión entre la publicidad total del banco de preguntas (art. 27) y su reserva futura (art. 19 / Protocolo).
 - Seguir otras sustituciones integrales de capítulos dentro de la agenda de simplificación.
+
+## Normas CNV consolidadas
+- Texto ordenado de las Normas (N.T. 2013 y mod.) al día con la RG 1173/2026: `normas-cnv/vigente/` (un archivo por capítulo; índice en `vigente/INDICE.md`), textos anteriores en `normas-cnv/historial/` y tabla de cambios en `normas-cnv/modificaciones.md`.
+- Base y control: `normas-cnv/base.md` (PDF CNV actualizado a la RG 1094/2025, sin la RG 1090; cotejo contra InfoLEG del 16/10/2026 y pendientes).
+- Una ficha por RG desde la 1090/2025: `rg/RG-<n>-<año>.md` (datos, resumen, afectaciones y notas de consolidación).

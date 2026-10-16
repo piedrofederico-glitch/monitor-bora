@@ -1,4 +1,4 @@
-Estado: construcción en curso (última RG aplicada: 1173/2026)
+Estado: construcción terminada (última RG aplicada: 1173/2026)
 
 # Base del texto consolidado de las Normas CNV (N.T. 2013 y mod.)
 
@@ -62,4 +62,33 @@ Base = PDF CNV actualizado a la RG 1094/2025 (BO 11/12/2025), sin la RG 1090/202
 
 ## Control contra InfoLEG
 
-Pendiente: se hace al terminar de aplicar las RG.
+Hecho el 16/10/2026 contra el texto actualizado de la RG 622/2013 en InfoLEG (`servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/219405/texact.htm` y sus 88 páginas por título y capítulo). InfoLEG ya incorpora la RG 1173/2026 (Cap. XVIII del Tít. XVIII), así que el punto de corte es el mismo.
+
+**Método:** por cada página de InfoLEG se tomó el o los archivos de `vigente/` equivalentes; se quitaron las notas de vigencia de ambos lados ("(Artículo sustituido por…)" y "[… RG n/aaaa …]") y se compararon las secuencias de palabras normalizadas (sin tildes, mayúsculas ni puntuación). Se descartaron los bloques que sólo cambian de lugar (tablas y glosario en otro orden) y se revisó a mano cada diferencia restante.
+
+**Resultado:** 47 de las 88 páginas coinciden palabra por palabra con `vigente/`. En 31 las diferencias son de forma: tablas y formularios con otra disposición de columnas, erratas de uno u otro lado ("fncionar", "circnstancia", "trascurso", "habite"), "http/gob" frente a "https/gov", las anotaciones "Ver CRI n" del PDF de la CNV, que InfoLEG no trae, y siglas "ACyD/ACyDI" que InfoLEG no reemplazó. InfoLEG omite en varios capítulos la nota de RG aplicadas acá (por ejemplo, las RG 1090, 1095, 1107, 1144 y 1155), aunque su texto ya las refleja. Las 10 páginas restantes tienen las diferencias de fondo que siguen.
+
+Diferencias de fondo:
+
+| Ubicación | Diferencia | Tratamiento |
+|---|---|---|
+| Tít. I, Cap. II, arts. 2° y 3° | Faltaban en `vigente/` el párrafo “Mercado de Capitales”, “Oferta Pública”… “tienen el alcance previsto en el artículo 2º de la Ley Nº 26.831” y el de sinónimos de “Aportes irrevocables”. Se suprimieron por error al consolidar los arts. 3° y 4° de la RG 1131/2026, que no los modifican. | **Corregido** (commit "normas-cnv: corrige glosario…"), con nota en el texto, en el historial y en la ficha de la RG 1131. |
+| Tít. I, Cap. II, art. 2° | InfoLEG conserva, junto a la redacción nueva, las versiones anteriores de “CEVA”, “IOSCO”, “Programa de CEDEAR o CEVA” y “Prospecto del Programa”. | Error de InfoLEG. Acá sólo figura la versión vigente. |
+| Tít. V, Cap. II | InfoLEG puso la nueva Sección VI de la RG 1163/2026 en el lugar de la Sección IV (le faltan los arts. 53 a 55, criterios de valuación) y mantiene la Sección VI anterior (régimen de "adenda"). | Error de InfoLEG. La RG 1163, art. 4°, sustituye la Sección VI; acá está aplicada así, con vigencia desde el 23/10/2026. |
+| Tít. V, Cap. III, Anexo III (Ficha Única, RG 1121/2026) | InfoLEG ubica el anexo en el Cap. III, igual que acá, pero no trae su contenido (publicado como imagen). | Se mantiene la transcripción de la imagen. Queda resuelta la duda de ubicación anotada en la ficha de la RG 1121. |
+| Tít. V, Cap. VI, art. 9° | InfoLEG trae un cuarto párrafo ("En su caso, la Sociedad Gerente deberá proceder a la difusión de la información periódica reportada por los vehículos elegibles…") que no está en el PDF base. La RG 1089/2025, art. 14, sustituye el tercer párrafo y deja "(…)" después, lo que sugiere que el párrafo existe. | **No incorporado:** viene de antes de la base y la única fuente es InfoLEG. Pendiente de verificar contra la RG que lo dictó. |
+| Tít. VI, Cap. I | InfoLEG mantiene la Sección XXXIV (art. 72, "Régimen informativo especial", incorporada por la RG 624/2014). | La RG 1094/2025, art. 5°, derogó la RG 624. Coincide con el PDF base, que no la trae. |
+| Tít. VI, Cap. I, art. 70, inc. a.29) | InfoLEG: "Documentación vinculada para la previa aprobación de reglamentaciones dictadas por los Mercados"; PDF base: "Lista de Agentes autorizados por el Mercado para Acceso Directo al Mercado y los sistemas que se utilizarán". | Diferencia anterior a la base. Se mantiene el PDF de la CNV. |
+| Tít. VI, Cap. I, Anexos III a V; Tít. VIII, Cap. I, anexo FIX | InfoLEG transcribe los "Lineamientos para la emisión de valores negociables temáticos" y el anexo de mensajería FIX; el PDF base sólo da el enlace. A la inversa, el PDF trae el texto de los Anexos IV y V (ISO 20022) que InfoLEG publica como archivo. | Diferencia de formato de la fuente. No se agregó texto. |
+| Tít. VIII, Cap. I, art. 8°, inc. a) | InfoLEG: "a) Estatuto Social: Copia autenticada del estatuto social inscripto en el Registro Público de Comercio…"; el PDF base repite en el inc. a) el texto del inc. b) ("Prever en su objeto social…"). | Probable errata del PDF base, anterior a la RG 1094. Se mantiene el PDF; pendiente. |
+| Tít. II, Cap. III, Anexo VI | Los dos textos conservan el Anexo VI de la RG 939/2022, que la RG 1127/2026 no menciona. | Coincide con el tratamiento de acá (ver la ficha de la RG 1127). |
+| Tít. IV, Cap. III; Tít. XVI, Anexo II (RG 1165 y 1168); Tít. XIV, Cap. III, Anexo I (RG 1172) | InfoLEG no trae los modelos de estados contables, el cuadro de patrimonio neto mínimo por categoría, o los trae con otra disposición. | Diferencia de formato. Acá están como bloques preformateados. |
+| Tít. XIV, Cap. II; Tít. XIX | InfoLEG conserva la página con la nota de derogación (RG 1118/2026 y RG 1109/2026). | Coincide: derogados. El texto anterior está en `historial/`. |
+
+## Pendientes
+
+- Tít. V, Cap. VI, art. 9°, cuarto párrafo, y Tít. VIII, Cap. I, art. 8°, inc. a): verificar contra las RG de origen (son anteriores a la base).
+- RG 1163/2026: vigencia calculada en 45 días hábiles desde el 21/08/2026, o sea el 23/10/2026. Confirmar la fecha.
+- RG 1113/2026 (Anexo IX, Tít. VI, Cap. I), RG 1121/2026 (Anexo III, Tít. V, Cap. III) y RG 1127/2026 (fórmula R, Anexo I, Tít. II, Cap. III): publicados como imagen; acá figura una transcripción. Cotejar con la imagen si se usa para algo más que una consulta.
+- RG 1098/2025 y 1103/2026: numeración repetida del art. 5° (Secc. V, Cap. XV, Tít. XVIII), reemplazado luego por los arts. 9° y 10 de la RG 1103.
+- RG 1148/2026: el art. 26 (Secc. XII, Cap. III, Tít. XVIII) remite a un "artículo siguiente" que no existe. Así figura en el original.
