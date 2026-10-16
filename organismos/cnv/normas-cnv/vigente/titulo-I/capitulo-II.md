@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1139/2026 (BO 14/05/2026)
+Última modificación: RG 1142/2026 (BO 01/06/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -41,6 +41,8 @@ ARTÍCULO 2º.- A los fines de las presentes Normas y de las notas, informes, di
 “ADCVN” significa Agente Depositarios Central de Valores Negociables.
 
 “Administrador de FCIs” o “Sociedad Gerente”, significa Agente de Administración de productos de inversión colectiva de FCIs.
+
+“ADR” significa American Depositary Receipt por sus siglas en inglés o Certificado de Depósito en Custodia en su traducción al español.
 
 “AIF” significa Autopista de la Información Financiera.
 
@@ -92,7 +94,7 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “Certificado MiPymes” significa el certificado que otorga la correspondiente autoridad de aplicación, de conformidad con lo establecido en la Resolución de la Secretaría de Emprendedores y de la Pequeña y Mediana Empresa N° 220/2019, o la que en el futuro la reemplace.
 
-“CEVA” significa Certificado de Valores; que representa una pluralidad de otros valores negociables, depositados ante una entidad autorizada a tal fin, permitiendo su negociación indirecta en los mercados autorizados.
+“CEVA” significa Certificado de Valores Argentinos; que representa una pluralidad de Valores Negociables con negociación en Mercados autorizados emitidos por residentes nacionales, depositados ante una entidad autorizada a tal fin, permitiendo su negociación indirecta en los Mercados autorizados.
 
 “CIE” significa Clave de Inversores del Exterior.
 
@@ -145,6 +147,10 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 “Entidades de Garantía” significa las entidades admitidas en el Capítulo VII del Título II de estas Normas o las que en el futuro se establezcan.
 
 “Entidades” significa todas aquellas personas jurídicas, cualquiera sea su forma o naturaleza, que se encuentren bajo la supervisión o registración de la CNV, o que soliciten su autorización para actuar o ingresar a alguno de los regímenes regulados por ésta bajo cualquiera de las leyes aplicables al mercado de capitales, incluyendo a las entidades sujetas a privatización en los términos de las Leyes N° 27.742, N° 23.696 y sus normas complementarias, así como las comprendidas en el artículo 8°, inciso b) de la Ley N° 24.156.
+
+“ETF” significa Exchange Traded Funds, por sus siglas en inglés o Fondos Cotizados en su traducción al español.
+
+“ETP” significa Exchange Traded Product, por sus siglas en inglés o Productos Cotizados en su traducción al español.
 
 “FACPCE” significa Federación Argentina de Consejos Profesionales de Ciencias Económicas.
 
@@ -210,7 +216,7 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 14) Personas jurídicas constituidas en el extranjero y personas humanas con domicilio real en el extranjero.
 
-“IOSCO” significa Organización Internacional de Comisiones de Valores, por sus siglas en inglés.
+“IOSCO” u “OICV” significa International Organization of Securities Commissions por sus siglas en inglés, u Organización Internacional de Comisiones de Valores en su traducción al español.
 
 “Ley Caja de Valores” significa Ley de Régimen para la Compra de Títulos Valores Privados N° 20.643.
 
@@ -276,6 +282,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Otras Ofertas Públicas con Autorización Automática” significa el régimen de autorización automática previsto en la Sección X del Título II de estas Normas.
 
+“Participantes Autorizados” significa, en el contexto de emisiones de CEVA o de FCIA ETF, los ALyC en las subcategorías de (i) ALyC Integral; o (ii) ALyC Propio, habilitados para solicitar la creación y cancelación de CEVA o de FCIA ETF, que cuentan con capacidad operativa, patrimonial y técnica suficiente.
+
 “PEN” significa Poder Ejecutivo Nacional.
 
 “PFC” significa Plataforma de Financiamiento Colectivo.
@@ -286,13 +294,13 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Precio Equitativo” significa el precio determinado de conformidad con lo establecido por la Ley de Mercado de Capitales y lo dispuesto en el Capítulo II del Título III de estas Normas.
 
-“Programa de CEDEAR o CEVA” significa el conjunto de términos y condiciones y sus posteriores aumentos o modificaciones para la oferta pública y negociación en Mercados autorizados en la República Argentina de CEDEAR o CEVA. Dicho Programa determina los valores subyacentes, los Emisores, depositarios y demás intervinientes, así como los derechos y obligaciones de los tenedores y participantes, y podrá prever emisiones sucesivas bajo su marco, conforme la normativa aplicable.
+“Programa de CEDEAR o CEVA” significa cualquier emisión de CEDEAR o CEVA.
 
 “Programa Global” significa un marco general bajo el cual pueden emitirse o volver a emitirse clases o series de obligaciones negociables y valores fiduciarios hasta el monto máximo autorizado.
 
 “Programa” según el contexto en el que se escribe en el texto de la Normas significa Programa Global o Programa de CEDEAR o CEVA.
 
-“Prospecto del Programa” significa el Prospecto confeccionado bajo un Programa Global o Programa de CEDEAR o CEVA.
+“Prospecto del Programa” significa el Prospecto confeccionado bajo un Programa Global o respecto de una emisión de CEDEAR o CEVA.
 
 “PSAV” significa Proveedor de Servicios de Activos Virtuales.
 
@@ -405,6 +413,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos “ALyC I AGRO”, “CSNU”, “CVU”, “PEN” y “PSP” incorporados por art. 1° de la RG 1139/2026, BO 14/05/2026]
 
 [Definición de “PLAFTFP” sustituida por “PLA/FT/FP” por art. 2° de la RG 1139/2026, BO 14/05/2026]
+
+[Términos incorporados: “ADR”, “ETF”, “ETP”, “Participantes Autorizados”; Definiciones sustituidas: “CEVA”, “IOSCO”, “Programa de CEDEAR o CEVA”, “Prospecto del Programa” por art. 1° de la RG 1142/2026, BO 01/06/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

@@ -35,6 +35,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 3° (Secc. III), 4 expresiones nuevas | modifica parcialmente | RG 1131/2026 | 5° | 29/04/2026 |
 | art. 2° (Secc. II), términos “ALyC I AGRO”, “CSNU”, “CVU”, “PEN” y “PSP” | modifica parcialmente | RG 1139/2026 | 1° | 14/05/2026 |
 | art. 2° (Secc. II), definición “PLAFTFP” → “PLA/FT/FP” | modifica parcialmente | RG 1139/2026 | 2° | 14/05/2026 |
+| art. 2° (Secc. II), Términos incorporados: “ADR”, “ETF”, “ETP”, “Participantes Autorizados”; Definiciones sustituidas: “CEVA”, “IOSCO”, “Programa de CEDEAR o CEVA”, “Prospecto del Programa” | modifica parcialmente | RG 1142/2026 | 1° | 01/06/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -104,6 +105,13 @@ Archivo: `vigente/titulo-II/capitulo-VIII.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
+| Secc. II (completa) | sustituye | RG 1142/2026 | 2° | 01/06/2026 |
+| Secc. III (completa) | sustituye | RG 1142/2026 | 2° | 01/06/2026 |
+| Secc. IV (completa) | sustituye | RG 1142/2026 | 2° | 01/06/2026 |
+| Secc. V (completa) | incorpora | RG 1142/2026 | 3° | 01/06/2026 |
+| Secc. VI (completa) | incorpora | RG 1142/2026 | 3° | 01/06/2026 |
+| Secc. VII (completa) | incorpora | RG 1142/2026 | 3° | 01/06/2026 |
+| Anexo I | incorpora | RG 1142/2026 | 4° | 01/06/2026 |
 
 ## Título II, Capítulo IX
 Archivo: `vigente/titulo-II/capitulo-IX.md`

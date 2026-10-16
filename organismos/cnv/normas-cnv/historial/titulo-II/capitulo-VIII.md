@@ -408,3 +408,233 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > ### SECCIÓN V — APLICACIÓN SUPLETORIA.
 >
 > ARTÍCULO 24.- Supletoriamente, respecto a las cuestiones no contempladas en este Capítulo, serán de aplicación las disposiciones establecidas para el resto de las emisoras en el Capítulo Oferta Pública Primaria.
+
+## Sección II (completa)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 01/06/2026
+- Sustituida por: RG 1142/2026, art. 2°
+- Texto:
+
+> ### SECCIÓN II — CEDEAR. CEVA.
+>
+> ARTÍCULO 4°.- Las entidades enumeradas en el artículo siguiente podrán solicitar la aprobación de:
+>
+> 1. Programas de Emisión de CEDEAR representativos del depósito de una sola especie de valores negociables no autorizados para su oferta pública en el territorio de la República Argentina.
+>
+> 2. CEVA representativos de diferentes especies de valores negociables autorizados o no autorizados para su oferta pública en el territorio de la República Argentina, siempre que las distintas especies de valores negociables depositadas o representadas se encuentren caracterizadas, categorizadas o sistematizadas de acuerdo a criterios que reflejen el valor de los mismos en la forma o bajo los lineamientos que oportunamente sean informados y autorizados por la CNV. De acuerdo con su naturaleza, los valores negociables objeto del CEVA deben ser gestionados con el objeto principal de mantener las proporciones originalmente autorizadas en cada emisión.
+>
+> Los CEDEAR y los CEVA estarán autorizados a su oferta pública, conforme a las disposiciones del presente régimen y a las normas de negociación.
+>
+> ARTÍCULO 5°.- Podrán emitir CEDEAR y CEVA las entidades comprendidas en el inciso a) del artículo 1° y en el artículo 2° de la Ley de Mercado de Capitales que acrediten un patrimonio neto mínimo acorde con la emisión que solicitan y siempre que esta actividad sea compatible con su objeto, conforme las reglamentaciones dispuestas en estas Normas. Asimismo, podrán emitir CEDEAR y CEVA los bancos comerciales o de inversión y las compañías financieras autorizados para operar por el BCRA que acrediten un patrimonio neto igual o superior a los UVA CIENTO VEINTE MIL (120.000).
+>
+> ARTÍCULO 6°.- Los CEDEAR y los CEVA deberán ser de libre disponibilidad, salvo las restricciones exclusivamente emergentes de los términos y condiciones de la emisión, otorgando iguales derechos entre sus titulares.
+>
+> Los valores negociables cuyo depósito es representado por los CEDEAR y los CEVA deberán ser emitidos por un Emisor:
+>
+> 1. Admitido a oferta pública en la República Argentina, sólo para el caso de CEVA, o
+>
+> 2. Admitido a oferta pública por una entidad gubernamental regulatoria con la cual la Comisión tenga firmado un Memorando de Entendimiento para la asistencia recíproca, colaboración e información mutua, o
+>
+> 3. Admitido a oferta pública por una entidad gubernamental regulatoria de países miembros del Mercado Común del Sur (MERCOSUR) y República de Chile.
+>
+> 4. Valores negociables que, sin estar admitidos a oferta pública en algún Mercado, sean autorizados como activo subyacente por la Comisión mediante resolución fundada.
+>
+> Los CEDEAR y los CEVA serán canjeables irrestrictamente y a solicitud de su tenedor legítimo, por los valores negociables que representen cuyo canje se solicite. Contra la entrega de los valores negociables deberán cancelarse y destruirse (en su caso) los CEDEAR y los CEVA correspondientes. La entrega de los valores negociables podrá materializarse en forma física o registral, según sea la naturaleza de los mismos o su situación de depósito.
+>
+> El día del vencimiento de la emisión, deberán canjearse, y consecuentemente cancelarse, la totalidad de los CEDEAR y CEVA entonces en circulación, entregándose los correspondientes valores negociables subyacentes.
+>
+> También podrán emitirse nuevos CEDEAR y CEVA contra el depósito de los valores negociables equivalentes, siempre que no se supere el monto máximo admitido en el programa aprobado.
+>
+> Las Emisoras de CEDEAR y CEVA deberán tener, en todo momento desde su emisión, tantos valores negociables, libres de todo gravamen, en el pleno e irrestricto ejercicio de sus derechos y de libre disponibilidad, como CEDEAR y CEVA de dichos valores negociables se encuentren en circulación, no cancelados por su canje.
+>
+> ARTÍCULO 7°.- Los CEDEAR o CEVA y sus subyacentes podrán estar depositados en:
+>
+> 1. Su Emisor; o
+>
+> 2. en un ADCVN; o
+>
+> Los valores negociables subyacentes del CEDEAR, podrán estar depositados y custodiados en:
+>
+> 3. en el depositario central de valores que actúe como tal en el país de emisión del subyacente del CEDEAR; o
+>
+> 4. en un banco custodio que actúe en el país de emisión del subyacente del CEDEAR.
+>
+> En todos los casos con un patrimonio neto no inferior a UVA CIENTO VEINTE MIL (120.000) o su equivalente en la moneda del país de emisión.
+>
+> Estas entidades pueden bajo su exclusiva responsabilidad, utilizar los servicios de una entidad subcustodiante, establecida en el país de emisión de los valores negociables subyacentes o de una casa de compensación y liquidación internacional reconocida a esos efectos por la Comisión. En caso de utilizarse los servicios de una entidad subcustodiante, esta deberá cumplir también con los requisitos patrimoniales exigidos en el párrafo anterior.
+>
+> En todos los casos, los depositarios mantendrán su responsabilidad primaria y directa por la existencia, custodia y el ejercicio de derechos de los valores subyacentes y de los CEDEAR y CEVA, sin menguar de la responsabilidad adicional que pueda corresponder a los subcustodios o las casas de compensación y liquidación internacionales y deberán cumplir con los requisitos de índole patrimonial que les correspondan conforme este artículo.
+>
+> Los depositarios y custodios comprendidos en los incisos 3 y 4 precedentes, quedan eximidos de la exigencia de operar en el país de emisión del CEDEAR, en tanto operen exclusivamente en ese carácter. En todos los casos, deberá preverse que el depositario no podrá adquirir la propiedad ni el uso de los valores negociables depositados, que quedarán inmovilizados con los alcances de un depósito regular, al solo efecto de constituir la contrapartida de los CEDEAR y los CEVA.
+>
+> La modificación del depositario podrá realizarse con una notificación previa de TREINTA (30) días a los tenedores, y se considerará aprobada si no se manifiesta oposición por al menos el VEINTICINCO POR CIENTO (25%) del capital representado por los CEDEAR emitidos.
+>
+> En ningún caso se admitirá la conformidad anticipada y genérica al cambio de la entidad depositaria. La conformidad deberá expresarse en todos los casos frente a una propuesta concreta y mediante la identificación de las alternativas del nuevo depositario.
+>
+> ARTÍCULO 8°.- Los CEDEAR y los CEVA serán libremente transmisibles y podrán ser emitidos en forma nominativa no endosable o escritural y, adicionalmente, representados digitalmente y representar uno o más valores negociables de la misma especie, clase y emisor, por CEDEAR y CEVA.
+>
+> Regirán los regímenes generales para valores negociables vigentes en cada momento para valores nominativos o escriturales según sea el caso.
+>
+> Los CEDEAR y los CEVA nominativos deberán contener al menos:
+>
+> 1. El nombre y domicilio principal de la/s Emisora/s de los valores negociables representados.
+>
+> 2. El lugar donde fue autorizada la emisión de los valores negociables representados por los CEDEAR y los CEVA con la identificación pertinente de dicha autorización por la correspondiente autoridad de control.
+>
+> 3. La cantidad de valores negociables representados por cada CEDEAR y las especies y proporciones de valores negociables representados por cada CEVA.
+>
+> 4. El nombre y domicilio principal del Emisor del CEDEAR y CEVA.
+>
+> a) El número de autorización de la emisión o Programa bajo el cual fue emitido el CEDEAR y CEVA.
+>
+> 5. La aclaración en forma destacada de que el CEDEAR y CEVA no expresa valores, sino que representa una certificación de la existencia en depósito de los valores negociables que refiere, a favor del emisor del CEDEAR.
+>
+> 6. El lugar donde se encuentran depositados los valores negociables representados.
+>
+> En el caso de CEDEAR y CEVA escriturales el registro deberá contener los datos indicados en los incisos 1., 2., 4., 5. y 7. del presente artículo, en su caso.
+>
+> 7. En los casos que se disponga la representación digital, total o parcial, incluir además toda la información requerida por el artículo 12 de la Sección II del Capítulo I del Título XXII de estas Normas.
+>
+> Los CEDEAR y los CEVA darán a sus titulares el beneficio de todos los derechos inherentes a los valores negociables representados por los CEDEAR y los CEVA, sin perjuicio de su ejercicio a través del emisor de los CEDEAR y los CEVA.
+>
+> ARTÍCULO 9°.- Podrán emitirse Programas patrocinados por el Emisor de los valores negociables representados por los CEDEAR y los CEVA o Programas no patrocinados por dicho emisor.
+>
+> En los Programas no patrocinados, podrá existir o no un acuerdo relativo al Programa entre el Emisor de los CEDEAR o CEVA y el Emisor de los valores negociables representados, pero el Emisor de los CEDEAR o CEVA tendrá la obligación de cumplir con los requisitos de información conforme se detalla en los artículos 10 y 11 de la presente Sección.
+>
+> En los Programas patrocinados deberá cumplirse, además, con los requerimientos indicados en este Capítulo.
+>
+> Cuando los valores negociables representados en los CEDEAR y CEVA correspondan a una oferta pública inicial sólo podrán presentarse Programas patrocinados.
+>
+> RÉGIMEN NO PATROCINADO.
+> ARTÍCULO 10.- En los Programas no patrocinados los deberes de información se limitarán al Emisor de los CEDEAR y CEVA únicamente, quien deberá por medio de la AIF y simultáneamente poner a disposición de los inversores a través de los sistemas de información de los Mercados donde los CEDEAR y CEVA listen o negocien, la siguiente información y documentación relativa a las Emisoras cuyos valores negociables no se encuentran autorizados para su oferta pública en la República Argentina:
+>
+> 1. Dentro de los DIEZ (10) días corridos contados desde su publicación, copia de toda la información y documentación presentada por la Emisora de los valores negociables, cuyo depósito representan los CEDEAR y CEVA, a las autoridades de control a las que dicha Emisora se encuentre sometida o a los Mercados donde los mismos listen o negocien y publicada por alguno de ellos o por la propia Emisora, cuando la información no se encuentre comprendida en el inciso 3. de este artículo. Dentro de igual plazo deberá remitirse toda información y documentación presentada a las autoridades de control públicamente disponible, aunque no se encuentre publicada, en cuyo caso el plazo se contará desde su presentación a la correspondiente autoridad de control.
+>
+> 2. En forma simultánea e inmediata con la toma de conocimiento por el Emisor de los CEDEAR y CEVA en su calidad de tenedor de los valores negociables, toda información o documentación relevante del Emisor de los valores negociables cuyo depósito representan los CEDEAR y CEVA.
+>
+> 3. Dentro de los DIEZ (10) días corridos de efectuada su presentación ante sus autoridades de control o ante los Mercados donde listen o negocien, indicar el sitio web del Emisor de los valores subyacentes donde se pueden encontrar sus EECC.
+>
+> 4. Asimismo el Emisor de CEDEAR y CEVA queda sujeto, en lo pertinente, a las disposiciones del Título XII de estas Normas, tanto respecto de hechos o actos que afecten o se vinculen al Emisor de los CEDEAR y CEVA, como a hechos o actos que afecten o se vinculen al Emisor de los valores negociables representados por los CEDEAR y CEVA de los que tenga conocimiento en su calidad de accionista o que fueren publicados por la autoridad de control del país de origen del Emisor de los valores negociables representados por los CEDEAR y CEVA o por los Mercados donde listen o negocien. La presentación de la información o documentación del Emisor de los valores negociables representados por los CEDEAR y CEVA, por el Emisor de los CEDEAR y CEVA, importará su DDJJ de que esa es toda la información publicada por o recibida del Emisor de los valores negociables representados por los CEDEAR y CEVA, de la que el Emisor de los CEDEAR y CEVA tiene conocimiento en su calidad de accionista y de que es formalmente auténtica.
+>
+> RÉGIMEN PATROCINADO.
+> ARTÍCULO 11.- En las emisiones patrocinadas, el Emisor de los valores negociables representados deberá solicitar a la Comisión su admisión al Régimen de Oferta Pública mediante Programas de CEDEAR y CEVA siguiendo el procedimiento indicado en el artículo 12 de la presente Sección.
+>
+> Admitidos a este régimen, los Emisores de valores negociables representados en CEDEAR y CEVA deberán cumplir con los requerimientos de información periódica contenidos en el Título IV de estas Normas.
+>
+> ARTÍCULO 12.- Además de lo establecido, el Emisor de los CEDEAR y CEVA deberá en todos los casos informar a la Comisión y al Mercado en el que los CEDEAR y CEVA se negocien:
+>
+> 1. Dentro de los TREINTA (30) días corridos de cerrado cada trimestre calendario:
+>
+> a) El número de CEDEAR y CEVA en circulación el primer día del trimestre, informado por cada Programa en el cual actúe el Emisor.
+>
+> b) El número de valores negociables, correspondientes a cada Programa, que hayan sido canjeados por CEDEAR y CEVA, y retirados del depósito durante el trimestre informado.
+>
+> c) El número de CEDEAR y CEVA emitidos contra el depósito de nuevos valores negociables de los pertenecientes al Programa durante el período informado.
+>
+> d) El número de CEDEAR y CEVA por cada Programa, en circulación, al cierre del último día del trimestre informado.
+>
+> e) La cantidad de valores negociables representados por CEDEAR y CEVA, por cada Programa, depositados a nombre del Emisor, al cierre del último día del trimestre informado y el lugar de depósito. En su caso se informará y justificará apropiadamente las razones y las autorizaciones para los cambios en el lugar de depósito.
+>
+> 2. Dentro de los SESENTA (60) días corridos de cerrado cada trimestre, EEFF por períodos intermedios, con un informe de revisión limitada suscripto por contador público independiente.
+>
+> 3. Dentro de los CIENTO VEINTE (120) días corridos de cerrado cada ejercicio anual, sus EECC completos, auditados y aprobados por la respectiva asamblea de accionistas.
+>
+> 4. También deberá informar el Emisor de los CEDEAR y CEVA –tan pronto tenga conocimiento- cualquier hecho o acto que pueda afectar al Emisor, al depositario de los valores negociables representados (si fuera distinto del Emisor) o a los valores negociables representados, así como cualquier cambio en su estructura de remuneración o en la estructura de remuneración del depositario. Los cambios en la estructura de remuneración del Emisor y del depositario, cuando Emisor y depositario coincidan en la misma persona, sólo tendrán efecto TREINTA (30) días hábiles después de informados.
+>
+> ARTÍCULO 13.- El pedido de aprobación del Programa de CEDEAR o CEVA al Régimen de Oferta Pública, así como las posteriores modificaciones o aumentos, deberá ser presentado por el Emisor propuesto de los CEDEAR y CEVA, o por éste y el Emisor de los valores negociables representados en el Programa.
+>
+> La aprobación de los Programas patrocinados deberá ser presentados por ambas entidades.
+>
+> En ambos casos, el pedido deberá acompañarse con los siguientes documentos e informaciones:
+>
+> 1. Contratos relevantes a los efectos del Programa y de interés para los inversores, celebrados entre:
+>
+> a) El Emisor del CEDEAR o CEVA, por una parte y la Emisora de los valores negociables representados, por la otra (incluyendo entre otros el contrato de patrocinio del Programa, el contrato de suscripción de los CEDEAR o CEVA que regule las relaciones entre el Emisor y sus tenedores y otros vinculados a su en su caso); y
+>
+> b) el contrato con el depositario de los valores negociables representados en su caso vigentes
+>
+> 2. La determinación de los Mercados en los cuales se solicitará negociación de los CEDEAR y CEVA.
+>
+> 3. Una DDJJ del Emisor de los CEDEAR o CEVA y, en su caso, del Emisor de los valores negociables representados por los CEDEAR o CEVA, indicando que:
+>
+> a) Los valores negociables representados por los CEDEAR o CEVA han sido autorizados para ser ofrecidos públicamente en su país de origen;
+>
+> b) dicha autorización se encuentra vigente y con plenos efectos a la fecha de presentación.
+>
+> c) los valores subyacentes cotizan en un Mercado reconocido por la CNV;
+>
+> d) los acuerdos entre el Emisor de los CEDEAR y CEVA y el Emisor de los valores negociables representados por los CEDEAR y CEVA se encuentran vigentes y son válidos conforme a la legislación aplicable;
+>
+> e) los derechos derivados del CEDEAR y del canje son exigibles conforme a la normativa del Mercado de origen y a los términos del Programa de emisión.
+>
+> La DDJJ podrá ser sustituida por opinión legal externa del país del Emisor que se expida sobre esos mismos aspectos.
+>
+> 4. Una descripción de las características de los valores, y en el caso de valores negociables escriturales el contrato con el Agente de registro.
+>
+> 5. La declaración del carácter patrocinado o no patrocinado del Programa.
+>
+> 6. El plazo durante el cual el Emisor de los CEDEAR y CEVA se obliga a cumplir con los requerimientos informativos de los artículos 9° y 11 de este Capítulo y, en su caso, el plazo durante el cual el Emisor de los valores negociables representados por los CEDEAR y CEVA se obliga a cumplir con los requerimientos informativos del artículo 10 precedente. El plazo del Programa no podrá exceder el plazo menor de cualquiera de estos compromisos.
+>
+> 7. Las comisiones y/u honorarios que percibirá el Emisor de los CEDEAR y CEVA y, en su caso, las que percibirá el depositario de los valores negociables representados por los CEDEAR y CEVA.
+>
+> En los Programas patrocinados deberá acompañarse, además, la información y documentación requerida en el Capítulo “Oferta Pública Primaria” relativa a la Emisora de los valores negociables representados por los CEDEAR y CEVA objeto del Programa. Los EECC se considerarán presentados indicando el sitio web del Emisor de los valores subyacentes donde se pueden encontrar.
+>
+> En los Programas no patrocinados deberá acompañarse además de la información y documentación indicada en el presente artículo, toda otra información o documentación que vaya a ser presentada, exhibida, ofrecida o de otra forma publicitada al público inversor en el marco de los procedimientos de colocación de los CEDEAR y CEVA.
+>
+> ARTÍCULO 14.- A los efectos del artículo 6º de la Ley de Fondos deberá considerarse el país donde se ha autorizado la oferta pública de los activos subyacentes de los CEDEAR siendo aplicables las pautas de diversificación e integración de carteras establecidas en los artículos 8º inciso c) y 14 del Decreto Nº 471/2018 sobre dichos activos subyacentes y no sobre el Emisor de los CEDEAR.
+>
+> Se considerarán como activos emitidos y negociados en el país a los efectos del cumplimiento de los porcentajes de inversión previstos en el artículo 6° “in fine” de la Ley de Fondos, a los CEDEAR que representen en forma directa y exclusiva valores negociables correspondientes a Emisoras cuya autorización de oferta pública fuere otorgada en los países que revistan el carácter de “Estado Parte” del MERCOSUR o en la República de Chile o en países que resulten asimilables en los términos dispuesto por el artículo 13 del Decreto N° 471/2018.
+>
+> ARTÍCULO 15.- La presentación de la solicitud de emisión de CEDEAR y CEVA importará el sometimiento de los presentantes al régimen de la Ley de Mercado de Capitales y la presente reglamentación.
+>
+> ARTÍCULO 16.- Los Mercados donde sean negociados los CEDEAR y CEVA deberán proveer mecanismos que permitan asegurar la más amplia difusión del contrato de suscripción que rija las relaciones entre el Emisor de los CEDEAR y CEVA, y sus tenedores y de la información correspondiente a cada emisión. También deberán proveer mecanismos que permitan al público inversor conocer, en forma inmediata, los precios y volúmenes operados de los valores negociables representados por los CEDEAR y CEVA, en los Mercados donde se negocien y en su caso publicarlos en los sistemas informativos utilizados habitualmente para divulgar la información de los Mercados.
+>
+> ARTÍCULO 17.- La Comisión en ocasión de cada presentación determinará si los CEDEAR y CEVA sólo podrán ser adquiridos y trasmitidos por Inversores Calificados.
+>
+> ARTÍCULO 18.- Podrá solicitarse la oferta pública de CEDEAR que sean representativos de Exchange Traded Funds (ETFs) que repliquen en forma pasiva índices que cuenten con amplia difusión referidos a renta variable (entendida como representativa de acciones), activos virtuales o materias primas (commodities). Dichos ETFs deberán poseer, como mínimo, un índice de liquidez igual o mayor al índice MERVAL. A fin de acreditar la condición de gestión pasiva del subyacente, el Emisor deberá presentar el detalle de la composición del índice respectivo y las condiciones de funcionamiento y operación que acrediten que el objetivo es la replicación pasiva del índice, sin perjuicio de otra información que pueda requerir la Comisión a los fines de su autorización.
+
+## Sección III (completa)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 01/06/2026
+- Sustituida por: RG 1142/2026, art. 2°
+- Texto:
+
+> ### SECCIÓN III — CERTIFICADOS DE DEPÓSITO EN CUSTODIA (ADR).
+>
+> ARTÍCULO 19.- Las entidades autorizadas por la CNV para hacer oferta pública de sus valores negociables que además deseen obtener la autorización para negociar certificados de depósito en custodia o American Depositary Receipt (ADR por sus siglas en inglés), deberán cumplir ante la Comisión los recaudos que se indican a continuación:
+>
+> 1. Remisión de copia del acta que dispuso la presentación ante el supervisor de la oferta pública en el extranjero, para la negociación de certificados de depósito en custodia, representativos de sus valores negociables en la que deberán expresarse las razones tenidas en consideración al adoptar esa decisión.
+>
+> 2. Individualizar el banco que haya sido designado como depositario en el exterior y el banco designado como custodio de los valores negociables representados por esos certificados.
+>
+> 3. Informar si se trata de un Programa patrocinado, individualizando a la entidad patrocinante con remisión de copia del convenio respectivo.
+>
+> 4. Informar el modo en que serán negociados en el Mercado secundario dichos certificados.
+>
+> 5. Remisión de copia de la documentación presentada al supervisor extranjero y, en su caso, de las similares efectuadas a los Mercados elegidos para su negociación.
+>
+> 6. Informar el sistema implementado por la entidad y el banco depositario del exterior para el ejercicio del derecho de voto por parte de los inversores extranjeros y la percepción de dividendos u otras acreencias correspondientes a los valores negociables representados por los certificados. Las resoluciones que se adopten, con motivo de las presentaciones que la Sociedad haya efectuado y a las que se refieren los incisos precedentes, deberán ser comunicadas a la Comisión mediante la remisión de copias debidamente legalizadas y traducidas.
+>
+> ARTÍCULO 20.- La entidad depositaria de los valores negociables subyacentes a los certificados de depósito en custodia, podrá emitir su voto en sentido divergente únicamente en caso de cumplir los siguientes recaudos, sin que le sea de aplicación el artículo 9° del Capítulo II del presente Título y concordantes:
+>
+> 1. En el caso de valores negociables nominativos o escriturales, deberán inscribirse en el registro respectivo a nombre del banco depositario y como pertenecientes a un Programa de certificados de depósito en custodia.
+>
+> 2.Para participar en las asambleas, el banco depositario deberá dar cumplimiento a lo dispuesto en el artículo 238 de la Ley General de Sociedades, dejándose constancia en el libro de asistencia de la pertenencia de los valores negociables al Programa de certificados de depósito en custodia.
+>
+> 3. En caso de voto divergente, el banco deberá individualizar al momento de la votación, con qué valores negociables vota en uno u otro sentido y nombre de cada mandante.
+>
+> 4. En el acta donde se registren los votos, deberán discriminarse los votos del banco de acuerdo al sentido de cada votación.
+>
+> 5. El banco depositario deberá llevar un adecuado registro de las instrucciones de voto recibidas con motivo de cada asamblea. La Comisión podrá requerir al banco depositario que presente la constancia de haber cumplido dichas instrucciones.
+
+## Sección IV (completa)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 01/06/2026
+- Sustituida por: RG 1142/2026, art. 2°
+- Texto:
+
+> ### SECCIÓN IV — APLICACIÓN SUPLETORIA.
+>
+> ARTÍCULO 21.- Supletoriamente, respecto a las cuestiones no contempladas en este Capítulo, serán de aplicación las disposiciones establecidas para el resto de las Emisoras en el Capítulo V del presente Título.
+>
+> [Capítulo sustituido por art. 2° de la RG 1095/2025, BO 18/12/2025]
