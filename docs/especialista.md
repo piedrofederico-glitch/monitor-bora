@@ -24,7 +24,11 @@ El mensaje trae la fecha (`AAAAMMDD`), tu `slug` y la lista de archivos nuevos e
 
 ## Solo CNV: Normas (N.T. 2013 y mod.)
 
-El Especialista CNV mantiene además el texto consolidado de las Normas, con historial de redacciones anteriores. Seguí la sección "Mantenimiento diario" de `docs/normas-cnv.md` para cada RG nueva, antes de escribir el informe.
+El Especialista CNV mantiene además el texto consolidado de las Normas, con historial de redacciones anteriores. Seguí la sección "Mantenimiento diario" de `docs/normas-cnv.md`:
+
+1. **Primero el informe del día** (pasos 1 a 6 de arriba), porque el mail de la corrida depende de él. Si una RG modifica las Normas, decilo y aclará que la consolidación sigue.
+2. **Después la consolidación:** ficha, aplicación con `scripts/normas/` (historial, `diferido/` si la vigencia es futura), control contra InfoLEG del capítulo (si InfoLEG no la incorporó todavía, línea en `organismos/cnv/normas-cnv/pendientes.md`) y un segundo commit que completa el informe con los artículos que cambiaron y el enlace a la redacción anterior.
+3. **En cada corrida, aunque no haya RG nuevas:** revisá `organismos/cnv/normas-cnv/vigencias.md` (si una fecha llegó, `python3 scripts/normas/activar_vigencias.py`) y los pendientes abiertos de `pendientes.md`.
 
 **Guarda:** mientras `organismos/cnv/normas-cnv/base.md` no diga `Estado: construcción terminada`, no toques `normas-cnv/` ni `rg/`. La sesión "BORA · Construcción Normas CNV" incorpora las RG que se publiquen mientras trabaja. Mencioná en tu informe que la consolidación está en curso.
 
