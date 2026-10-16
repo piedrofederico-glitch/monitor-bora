@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1164/2026 (BO 04/09/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1165/2026 (BO 07/09/2026) |
 
 ## Título II — EMISORAS
 
@@ -83,7 +83,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-VIII/capitulo-preliminar.md`](titulo-VIII/capitulo-preliminar.md) | Título VIII — Capítulo Preliminar | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-VIII/capitulo-I.md`](titulo-VIII/capitulo-I.md) | Título VIII — Capítulo I: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | RG 1131/2026 (BO 29/04/2026) |
+| [`titulo-VIII/capitulo-I.md`](titulo-VIII/capitulo-I.md) | Título VIII — Capítulo I: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | RG 1165/2026 (BO 07/09/2026) |
 | [`titulo-VIII/capitulo-II.md`](titulo-VIII/capitulo-II.md) | Título VIII — Capítulo II: AGENTES DE CUSTODIA, REGISTRO Y PAGO (ACRYP). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
 ## Título IX — AGENTES DE CALIFICACIÓN DE RIESGOS (ACR)
@@ -145,7 +145,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XVI/capitulo-I.md`](titulo-XVI/capitulo-I.md) | Título XVI — Capítulo I: NOTIFICACIONES. OTRAS DISPOSICIONES. | RG 1147/2026 (BO 11/06/2026) |
+| [`titulo-XVI/capitulo-I.md`](titulo-XVI/capitulo-I.md) | Título XVI — Capítulo I: NOTIFICACIONES. OTRAS DISPOSICIONES. | RG 1165/2026 (BO 07/09/2026) |
 | [`titulo-XVI/capitulo-II.md`](titulo-XVI/capitulo-II.md) | Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS. | RG 1164/2026 (BO 04/09/2026) |
 
 ## Título XVII — TASAS DE FISCALIZACIÓN Y CONTROL- ARANCELES DE AUTORIZACIÓN

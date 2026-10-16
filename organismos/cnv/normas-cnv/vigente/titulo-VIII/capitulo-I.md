@@ -1,5 +1,5 @@
 # Título VIII — Capítulo I: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES.
-Última modificación: RG 1131/2026 (BO 29/04/2026)
+Última modificación: RG 1165/2026 (BO 07/09/2026)
 Fuente: PDF base, págs. 643–670.
 
 [Expresiones reemplazadas en este archivo (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”; 1 ocurrencias) por art. 7° de la RG 1131/2026, BO 29/04/2026]
@@ -73,8 +73,21 @@ Además, deben evitar cualquier práctica que pueda inducir a engaño al públic
 REGISTRO INTEGRANTES DEL ÓRGANO DE ADMINISTRACIÓN Y DEL ÓRGANO DE FISCALIZACIÓN.
 ARTÍCULO 6°.- Los integrantes de los órganos de administración y de fiscalización serán inscriptos en el “REGISTRO ESPECIAL DE MIEMBROS DEL ÓRGANO DE ADMINISTRACIÓN Y DEL ÓRGANO DE FISCALIZACIÓN de ADCVN, que a estos efectos lleva la Comisión, previo cumplimiento de los requisitos exigidos en este Capítulo.
 
-INSCRIPCIÓN EN OTROS REGISTROS COMPATIBLES.
-ARTÍCULO 7°.- Sin perjuicio de lo dispuesto en el artículo 1° del presente Capítulo, los ADCVN autorizados y registrados en la Comisión podrán asimismo actuar en calidad de “AGENTE DE CUSTODIA, REGISTRO Y PAGO (ACRYP)” con el alcance establecido en los artículos 2° y 4° del Capítulo II del presente Titulo, quedando automáticamente inscriptos en esta categoría, lo que deberá ser informado al público en general en todos los medios de comunicación utilizados para la difusión y publicidad de sus actividades.
+INSCRIPCIÓN AUTOMATICA COMO ACRyP Y EN OTROS REGISTROS COMPATIBLES.
+
+ARTÍCULO 7°.- Sin perjuicio de lo dispuesto en el artículo 1° del presente Capítulo, los ADCVN autorizados y registrados en la Comisión podrán asimismo actuar en calidad de ACRyP con el alcance establecido en los artículos 2° y 4° del Capítulo II del presente Título, quedando automáticamente inscriptos en esta categoría, lo que deberá ser informado al público en general en todos los medios de comunicación utilizados para la difusión y publicidad de sus actividades.
+
+A solicitud del ADCVN, previo cumplimiento de las disposiciones aplicables, la Comisión procederá a inscribir al mismo bajo la categoría de Fiduciario Financiero. El ADCVN sólo podrá encontrarse simultáneamente inscripto en la categoría de Fiduciario Financiero y no podrá inscribirse como Mercado o Cámara Compensadora.
+
+En aquellos supuestos en que el ADCVN, se encuentre inscripto bajo la mencionada categoría de Fiduciario Financiero, este deberá:
+
+a) Asegurar una segregación funcional y administrativa que permita el funcionamiento como unidades operativas o de negocio autónomas e independientes de las categorías en las que se encuentren inscriptos ante esta Comisión, y que posibilite la registración y apertura de los ingresos y egresos propios de cada una de esas unidades operativas o de negocios; y
+
+b) poseer una estructura organizativa, operativa y de control acorde al tipo, complejidad y volumen de negocios que desarrolle.
+
+Los manuales de procedimientos relativos al cumplimiento de los requisitos de organización interna a ser implementados sobre el particular deberán estar a disposición de la Comisión
+
+[Artículo sustituido por art. 2° de la RG 1165/2026, BO 07/09/2026]
 
 ### SECCIÓN III — REQUISITOS PARA AUTORIZACIÓN E INSCRIPCIÓN EN EL REGISTRO.
 
@@ -149,15 +162,21 @@ g) Seguridad: Detalle de medidas sobre seguridad y resguardo físico de los valo
 ### SECCIÓN IV — PATRIMONIO NETO MÍNIMO Y CONTRAPARTIDA.
 
 MONTO PATRIMONIO NETO MÍNIMO.
-ARTÍCULO 10.- Los ADCVN deberán contar con un patrimonio neto mínimo no inferior a un monto equivalente a UNIDADES DE VALOR ADQUISITIVO (UVA) VEINTICINCO MILLONES QUINIENTOS MIL (UVA 25.500.000). Dicho patrimonio neto mínimo deberá ser incrementado en un monto equivalente al VEINTICINCO POR CIENTO (25%) por cada actividad afín y/o complementaria desarrollada conforme lo previsto en el artículo 1° del presente Capítulo. De conformidad con lo dispuesto en el presente Capítulo y virtud que los ADCVN podrán asimismo actuar en calidad de ACRYP y, a tales fines, se encuentran automáticamente inscriptos en dicha categoría, los mismos deberán considerar y acreditar el patrimonio neto mínimo previsto en el presente artículo, debiéndose calcular el incremento del VEINTICINCO POR CIENTO (25%) mencionado precedentemente sobre dicho patrimonio neto mínimo.
+ARTÍCULO 10.- El ADCVN deberá contar con un patrimonio neto mínimo no inferior a un monto equivalente a UVA VEINTICINCO MILLONES QUINIENTOS MIL (UVA 25.500.000). Dicho patrimonio neto mínimo deberá ser incrementado en un monto equivalente al VEINTICINCO POR CIENTO (25%) por cada actividad afín y/o complementaria desarrollada conforme lo previsto en el artículo 1° del presente Capítulo.
 
-No resultará exigible el incremento previsto por cada actividad afín y/o complementaria contemplada en el artículo 1° del presente Capítulo respecto de: (i) aquellas actividades que desarrollen los ADCVN en su calidad de Infraestructura del Mercado Financiero (IMF) habilitada por el Banco Central de la República Argentina (BCRA), conforme el Texto Ordenado “Principios de las Infraestructuras de Mercado Financiero” y sus modificatorias del BCRA; y (ii) toda otra actividad afín y/o complementaria que, de igual forma, se encuentre bajo supervisión y/o vigilancia de dicha autoridad.
+De conformidad con lo dispuesto en el presente Capítulo y en virtud de que el ADCVN podrá asimismo actuar en calidad de ACRyP y, a tales fines, se encuentra automáticamente inscripto en dicha categoría, el ADCVN deberá considerar y acreditar el patrimonio neto mínimo previsto en el presente artículo, debiéndose calcular el incremento del VEINTICINCO POR CIENTO (25%) mencionado precedentemente sobre dicho patrimonio neto mínimo.
 
-El monto del patrimonio neto mínimo deberá ser cumplido de manera permanente y deberá surgir de los estados contables anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al cumplimiento del régimen informativo que resulte aplicable en cada caso.
+Asimismo, el ADCVN que se encuentre inscripto como Fiduciario Financiero conforme el artículo 7° del presente Capítulo, deberá computar, en concepto de patrimonio neto mínimo requerido, la suma resultante del importe del patrimonio neto mínimo exigido para la categoría de ADCVN, y el CIEN POR CIENTO (100%) del patrimonio neto mínimo exigido para categoría de Fiduciario Financiero. En dicho supuesto, no resultará exigible el referido incremento por cada actividad afín y/o complementaria desarrollada conforme lo previsto en el artículo 1° del presente Capítulo.
 
-Los estados contables trimestrales y anuales deberán ser acompañados con el acta del órgano de administración que los apruebe, el informe del órgano de fiscalización y el informe o dictamen del auditor con la firma legalizada por el consejo profesional correspondiente. Tanto el órgano de fiscalización en su informe, como el auditor en su informe o dictamen, deberán además expedirse específicamente respecto de la adecuación del patrimonio neto mínimo y de su contrapartida líquida conforme a las exigencias establecidas en el presente Capítulo.
+Asimismo, no resultará exigible el incremento previsto por cada actividad afín y/o complementaria contemplada en el artículo 1° del presente Capítulo respecto de: (i) aquellas actividades que desarrollen los ADCVN en su calidad de Infraestructura del Mercado Financiero (IMF) habilitada por el BCRA, conforme el Texto Ordenado “Principios de las Infraestructuras de Mercado Financiero” del BCRA; y (ii) toda otra actividad afín y/o complementaria que, de igual forma, se encuentre bajo supervisión y/o vigilancia de dicha autoridad.
 
-Los estados contables anuales deberán ser acompañados con la Memoria del órgano de administración sobre la gestión del ejercicio y el acta de asamblea que los apruebe.
+El monto del patrimonio neto mínimo deberá ser cumplido de manera permanente y deberá surgir de los EECC anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al cumplimiento del régimen informativo que resulte aplicable en cada caso.
+
+Los EECC trimestrales y anuales deberán ser acompañados con el acta del órgano de administración que los apruebe, el informe del órgano de fiscalización y el informe o dictamen del auditor con la firma legalizada por el Consejo Profesional correspondiente. Tanto el órgano de fiscalización en su informe, como el auditor en su informe o dictamen, deberán además expedirse específicamente respecto de la adecuación del patrimonio neto mínimo y de su contrapartida líquida conforme a las exigencias establecidas en el presente Capítulo.
+
+Los EECC anuales deberán ser acompañados con la memoria del órgano de administración sobre la gestión del ejercicio y el acta de asamblea que los apruebe
+
+[Artículo sustituido por art. 3° de la RG 1165/2026, BO 07/09/2026]
 
 NOTIFICACIÓN. RECOMPOSICIÓN PATRIMONIO NETO MÍNIMO.
 ARTÍCULO 11.- En caso de surgir de los estados contables trimestrales o anuales del Agente Depositario Central de Valores Negociables un importe de patrimonio neto que resulte inferior al valor establecido en el artículo precedente, se deberá informar dicha circunstancia inmediatamente a esta Comisión.
@@ -167,9 +186,13 @@ Dicha notificación deberá indicar los motivos por los que el patrimonio neto d
 Vencido el plazo indicado sin acreditación de la adecuación, la Comisión evaluará y dispondrá las medidas que el ADCVN deberá adoptar.
 
 CONTRAPARTIDA LÍQUIDA.
-ARTÍCULO 12.- Como contrapartida líquida, un mínimo del VEINTE POR CIENTO (20%) del importe del patrimonio neto mínimo deberá observar las exigencias y condiciones dispuestas en el Anexo I del Capítulo I Mercados del Título VI.
+ARTÍCULO 12.- Como contrapartida líquida, un mínimo del VEINTE POR CIENTO (20%) del importe del patrimonio neto mínimo deberá observar las exigencias y condiciones dispuestas en el Anexo I del Capítulo I del Título VI.
 
-De conformidad con lo dispuesto en el presente Capítulo y en virtud que los ADCVN podrán asimismo actuar en calidad de ACRYP y, a tales fines, se encuentran automáticamente inscriptos en dicha categoría, los mismos deberán acreditar la contrapartida líquida mínima prevista en el presente artículo considerando el monto del patrimonio neto mínimo dispuesto en el presente Capítulo.
+De conformidad con lo dispuesto en el presente Capítulo y en virtud de que el ADCVN podrá asimismo actuar en calidad de ACRyP y, a tales fines, se encuentra automáticamente inscripto en dicha categoría, el ADCVN deberá acreditar la contrapartida líquida mínima prevista en el presente artículo calculada sobre el monto del patrimonio neto mínimo dispuesto en el presente Capítulo.
+
+Asimismo, cuando el ADCVN se encuentre simultáneamente inscripto en la categoría de Fiduciario Financiero, el ADCVN deberá acreditar el monto resultante de la sumatoria de las exigencias mínimas de liquidez, en concepto de contrapartida líquida, requerida para cada una de tales categorías, calculada sobre los respectivos patrimonios netos mínimos
+
+[Artículo sustituido por art. 4° de la RG 1165/2026, BO 07/09/2026]
 
 ### SECCIÓN V — CAPITAL SOCIAL.
 

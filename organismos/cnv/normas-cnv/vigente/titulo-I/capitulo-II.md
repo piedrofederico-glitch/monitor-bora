@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1164/2026 (BO 04/09/2026)
+Última modificación: RG 1165/2026 (BO 07/09/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -252,6 +252,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “LPA” significa Ley de Procedimiento Administrativo N° 19.549.
 
+“Matriz de Compatibilidades” tiene el significado atribuido en el artículo 9° de la Sección III del Capítulo I del Título XVI de las Normas.
+
 “NCPA” significa las Normas Contables Profesionales Argentinas.
 
 “Negociación Secundaria” significa cualquier compra o venta de valores negociables posterior a la colocación primaria.
@@ -465,6 +467,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Término incorporado: “UTs” por art. 1° de la RG 1162/2026, BO 20/08/2026]
 
 [Término incorporado: “RNR” por art. 1° de la RG 1164/2026, BO 04/09/2026, vigente desde 04/09/2026]
+
+[Término incorporado: “Matriz de Compatibilidades” por art. 1° de la RG 1165/2026, BO 07/09/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

@@ -1,5 +1,5 @@
 # Título XVI — Capítulo I: NOTIFICACIONES. OTRAS DISPOSICIONES.
-Última modificación: RG 1147/2026 (BO 11/06/2026)
+Última modificación: RG 1165/2026 (BO 07/09/2026)
 Fuente: RG 1112/2026, art. 2°.
 
 ### SECCIÓN I — NOTIFICACIONES.
@@ -308,6 +308,16 @@ b) Examen de idóneos - Reimputación de pago.
 NOTIFICACIÓN AL DEUDOR CEDIDO.
 ARTÍCULO 8°.- En los términos de lo dispuesto por los artículos 70 a 72 de la Ley para el Financiamiento de la Vivienda y la Construcción”, la publicación en el sitio web de la CNV a través de la AIF, deberá contener la individualización del deudor cedido, documento de identidad o CUIT u otro medio de identificación fehaciente que permita indubitablemente al deudor su identificación, y la especificación de la operación. Todo ello deberá realizarse conforme el modelo establecido en el Anexo I del presente Capítulo. La publicación indicada constituirá medio de notificación fehaciente al deudor cedido siempre que la cesión tenga la finalidad prevista en el artículo 70 de la Ley para el Financiamiento de la Vivienda y la Construcción” y los valores negociables se encuentren autorizados a la oferta pública por la CNV.
 
+### SECCIÓN III — MATRIZ DE COMPATIBILIDADES ENTRE AGENTES REGISTRADOS, MERCADOS, CÁMARAS COMPENSADORAS Y OTROS SUJETOS REGISTRADOS.
+
+ARTÍCULO 9°.- La Matriz de Compatibilidades es una herramienta de sistematización normativa y de ordenamiento regulatorio, destinada a brindar mayor claridad y previsibilidad respecto del alcance de las actividades que pueden ser desarrolladas en forma simultánea por los Agentes registrados, Mercados, Cámaras Compensadoras y demás sujetos registrados ante la Comisión, identificando las relaciones de compatibilidad, los requerimientos patrimoniales y de liquidez aplicables, sin alterar los requisitos, obligaciones, limitaciones y condiciones aplicables a cada categoría conforme lo previsto en las Normas.
+
+Dicha Matriz de Compatibilidades no implica la modificación ni ampliación de las categorías existentes conforme las Normas, ni la creación de nuevas categorías o subcategorías de agentes ni de otros sujetos, como así tampoco modifica la naturaleza, alcance o régimen jurídico de tales categorías.
+
+La referida Matriz de Compatibilidades se encuentra publicada y disponible para su consulta en el sitio web de la Comisión
+
+[Sección incorporada por art. 5° de la RG 1165/2026, BO 07/09/2026]
+
 ### ANEXO I
 
 FORMULARIO PARA LA NOTIFICACIÓN AL DEUDOR CEDIDO. ARTÍCULO 72 DE LA LEY PARA EL FINANCIAMIENTO DE LA VIVIENDA Y LA CONSTRUCCIÓN.
@@ -330,3 +340,159 @@ SOCIAL       DEL                       LA OPERACIÓN.
 IDENTIFICACIÓN DEUDOR CEDIDO FEHACIENTE
 
 [Título sustituido por art. 2° de la RG 1112/2026, BO 26/02/2026]
+
+### ANEXO II
+
+[Nota de consolidación: el Anexo (IF-2026-85043558-APN-GAL#CNV) no lleva el rótulo "ANEXO II"; se agrega como encabezado según el art. 6° de la RG 1165/2026. Tiene carátula gráfica (pág. 7 del PDF CNV) y el cuadro de la matriz se transcribe como texto preformateado; las referencias numeradas remiten a las celdas del cuadro.]
+
+MATRIZ DE COMPATIBILIDADES
+
+Hacé clic en cualquier número del cuadro para ir a su referencia, o hacé clic en el número de la referencia para regresar al cuadro.
+
+```
+                              AN      ALyC P /   ALyC I                                                                                                                              ACyD     ACyDI
+        AGENTE       AN                                   ALyC PD   AAGI     ACVN       AP      ACR     ACR UP      PFC     MERC       CC     ACRyP     ADCVN      SG        SD                         FF   PSAV
+                             RUCA        I       AGRO                                                                                                                                 FCI      FCI
+AN                    1                                                                                                                                             2                  3
+AN RUCA                         4
+ALyC P y I                               5                                                                                                                          6         7        8           9    10
+ALyC I AGRO                                        11                                                                                                               12       13        14          15   16
+ALyC PD                                                     17
+AAGI                                                                 18
+ACVN                                                                          19
+AP                                                                                      20
+ACR                                                                                              21
+ACR UP                                                                                                     22
+PFC                                                                                                                 23
+MERC                                                                                                                          24       25        26
+CC                                                                                                                            25       27        28
+ACRyP                                                                                                                         26       28        29       30
+ADCVN *                                                                                                                                         30*       31                                            32
+SG **                 2                  6         12                                                                                                               33
+                                                                                                                                                                    3**                34          35
+SD                                       7         13                                                                                                                        36        37          38   39
+ACyD FCI              3                  8         14                                                                                                               34       37        40          41   42
+ACyDI FCI                                9         15                                                                                                               35       38        41          43   44
+FF                                      10         16                                                                                                     32                 39        42          44   45
+PSAV ***                                                                                                                                                                                                     46
+```
+
+6***
+
+Acrónimos y Aclaraciones
+
+PNMT: Patrimonio Neto Mínimo Total | CLMT: Contrapartida Líquida Mínima Total | EE FF: Entidades Financieras
+
+PNMT: Aquellos Agentes que se encuentren simultáneamente inscriptos en otras categorías, deberán computar en concepto de PNMT el patrimonio neto mínimo exigido para la categoría de inscripción de mayor monto, y adicionar el CINCUENTA POR CIENTO (50%) de cada uno de los patrimonios netos mínimos exigidos para las categorías restantes. CLMT: Cuando un Agente se encuentre simultáneamente inscripto en más de una categoría, deberá acreditar en concepto de CLMT, el monto resultante de la sumatoria de las exigencias mínimas de liquidez establecidas por cada una de las categorías en las cuales se encuentre inscripto. Punto 9, Anexo I, Capítulo I, Título VI de las Normas (N.T. 2013 y mod.). EE FF: No se efectúa requerimiento de Patrimonio Neto Mínimo Total ni de Contrapartida Líquida Mínima Total para las Sociedades Depositarias por revestir el carácter de Entidades Financieras. * El ADCVN automáticamente adquiere la matrícula de ACRyP, no viceversa.
+
+** La SG puede actuar como ACyD FCI sin necesidad de matricularse como ACyD FCI, no viceversa. El incremento del PNMT y de la CLMT por cada FCI adicional que las SG administren deberá ser computado a partir del lanzamiento de los FCI Abiertos y de la colocación de los FCI Cerrados.
+
+*** El PSAV inscripto bajo 2 o más categorías deberá cumplir con la exigencia de PNM correspondiente a la categoría más exigente. En la medida en que el PSAV tenga menos de U$S 2.500.000 en volumen transaccionado durante los últimos 12 meses para el caso de las CAT 1°, 2° y 3°, o menos de U$S 2.500.000 en volumen custodiado durante los últimos 12 meses, para el caso de la CAT 4°, la exigencia de PNM será del CINCUENTA POR CIENTO (50%).
+
+Referencias Detalladas
+
+1 Categoría: AN PNMT: 100 % PNMT (UVA 65.350)
+
+CLMT: 20% del PNMT (UVA 13.070)
+
+2 Categorías: AN / SG (Volver a Fila AN | Fila SG ) PNMT: 100% PNMT SG (UVA 150.000) + 50% PNMT AN (UVA 32.675) + UVA 20.000 por cada FCI adicional que administre CLMT: 50% PNMT SG (UVA 75.000) + UVA 10.000 por cada FCI adicional que administre + 20% PNMT AN (UVA 13.070)
+
+3 Categorías: AN / ACyD FCI (Volver a Fila AN | Fila ACyD FCI ) PNMT: 100% PNMT AN (UVA 65.350) + 50% PNMT ACyD FCI (UVA 8.500) CLMT: 20% PNMT AN (UVA 13.070)
+
+4 Categoría: AN RUCA PNMT: 100 % PNMT (UVA 65.350)
+
+CLMT: 20% del PNMT (UVA 13.070)
+
+5 Categorías: ALyC P y ALyC I PNMT: 100 % PNMT (UVA 470.350)
+
+CLMT: 50% del PNMT (UVA 235.175)
+
+6 Categorías: ALyC P y ALyC I / SG (Volver a Fila ALyC | Fila SG ) PNMT: 100% PNMT ALyC P - ALyC I (UVA 470.350) + 50% PNMT SG (UVA 75.000) + UVA 20.000 por cada FCI adicional que administre CLMT: 50% PNMT ALyC P - ALyC I (UVA 235.175) + 50% PNMT SG (UVA 75.000) + UVA 10.000 por cada FCI adicional que administre
+
+7 Categorías: ALyC P y ALyC I / SD (Volver a Fila ALyC | Fila SD ) PNMT: EE FF + 100% PNMT ALyC P - ALyC I (UVA 470.350) CLMT: EE FF
+
+8 Categorías: ALyC P y ALyC I / ACyD FCI (Volver a Fila ALyC | Fila ACyD FCI ) PNMT: 100% PNMT ALyC P - ALyC I (UVA 470.350) + 50% PNMT ACyD FCI (UVA 8.500) CLMT: 50% PNMT ALyC P - ALyC I (UVA 235.175)
+
+9 Categorías: ALyC P y ALyC I / ACyDI FCI (Volver a Fila ALyC | Fila ACyDI FCI ) PNMT: 100% PNMT ALyC P - ALyC I (UVA 470.350) + 50% PNMT ACyDI FCI (UVA 85.000) CLMT: 50% PNMT ALyC P - ALyC I (UVA 235.175) + 50% PNMT ACyDI FCI (UVA 85.000)
+
+10 Categorías: ALyC P y ALyC I / FF (Volver a Fila ALyC | Fila FF ) PNMT: 100% PNMT FF (UVA 950.000) + 50% PNMT ALyC P - ALyC I (UVA 235.175) CLMT: 50% PNMT FF (UVA 475.000) + 50% PNMT ALyC P - ALyC I (UVA 235.175) 11 Categoría: ALyC I AGRO PNMT: 100 % PNMT (UVA 1.175.350)
+
+CLMT: 40% del PNMT (UVA 470.000)
+
+12 Categorías: ALyC I AGRO / SG (Volver a Fila AGRO | Fila SG ) PNMT: 100% PNMT ALyC I AGRO (UVA 1.175.000) + 50% PNMT SG (UVA 75.000) + UVA 20.000 por cada FCI adicional que administre CLMT: 40% PNMT ALyC I AGRO (UVA 470.000) + 50% PNMT SG (UVA 75.000) + UVA 10.000 por cada FCI adicional que administre
+
+13 Categorías: ALyC I AGRO / SD (Volver a Fila AGRO | Fila SD ) PNMT: EE FF + 100% PNMT ALyC I AGRO (UVA 1.175.000) CLMT: EE FF
+
+14 Categorías: ALyC I AGRO / ACyD FCI (Volver a Fila AGRO | Fila ACyD FCI ) PNMT: 100% PNMT ALyC I AGRO (UVA 1.175.000) + 50% PNM ACyD FCI (UVA 8.500) CLMT: 40% PNMT ALyC I AGRO (UVA 470.000)
+
+15 Categorías: ALyC I AGRO / ACyDI FCI (Volver a Fila AGRO | Fila ACyDI FCI ) PNMT: 100% PNMT ALyC I AGRO (UVA 1.175.000) + 50% PNMT ACyDI FCI (UVA 85.000) CLMT: 40% PNMT ALyC I AGRO (UVA 470.000) + 50% PNMT ACyDI FCI (UVA 85.000)
+
+16 Categorías: ALyC I AGRO / FF (Volver a Fila AGRO | Fila FF ) PNMT: 100% PNMT ALyC I AGRO (UVA 1.175.000) + 50% PNMT FF (UVA 475.000) CLMT: 40% PNMT ALyC I AGRO (UVA 470.000) + 50% PNMT FF (UVA 475.000)
+
+17 Categoría: ALyC PD PNMT: No requiere CLMT: No requiere
+
+18 Categoría: AAGI PNMT: 100% PNMT (UVA 65.350)
+
+CLMT: No requiere
+
+19 Categoría: ACVN PNMT: 100% PNMT (UVA 65.350)
+
+CLMT: 20% del PNMT (UVA 13.070)
+
+20 Categoría: AP PNMT: No requiere CLMT: No requiere
+
+21 Categoría: ACR PNMT: 100% PNMT (UVA 100.000)
+
+CLMT: No requiere 22 Categoría: ACR UP PNMT: No requiere CLMT: No requiere
+
+23 Categoría: PFC PNMT: 100% PNMT (UVA 65.350)
+
+CLMT: No requiere
+
+24 Categoría: MERC PNMT: 100% PNMT (UVA 2.700.000) + 25% por cada actividad afín y/o complementaria CLMT: No requiere
+
+25 Categorías: MERC / CC (Volver a Fila MERC | Fila CC ) PNMT: 100% PNMT Mercado con CC (UVA 20.000.000) + 25% por cada actividad afín y/o complementaria CLMT: No requiere
+
+26 Categorías: MERC / ACRyP (No puede ser ADCVN) (Volver a Fila MERC | Fila ACRyP ) PNMT Mercado con CC: 100% PNMT Mercado (UVA 20.000.000) + 50% PNMT ACRyP (UVA 5.000.000) + 25% por cada actividad afín y/o complementaria sobre el PNMT de la categoría vinculada a la actividad PNMT Mercado sin CC: 50% PNMT Mercado (UVA 1.350.000) + 100% PNMT ACRyP (UVA 10.000.000) + 25% por cada actividad afín y/o complementaria sobre el PNMT de la categoría vinculada a la actividad CLMT: 20% del PNMT ACRyP (UVA 2.000.000)
+
+27 Categoría: CC PNMT: 100% PNMT (UVA 17.300.000) + 25% por cada actividad afín y/o complementaria CLMT: No requiere
+
+28 Categorías: CC / ACRyP (No puede ser ADCVN) (Volver a Fila CC | Fila ACRyP ) PNMT CC con Mercado: 100% PNMT CC (UVA 20.000.000) + 50% PNMT ACRyP (UVA 5.000.000) + 25% por cada actividad afín y/o complementaria sobre el PNMT de la categoría vinculada a la actividad PNMT CC sin Mercado: 100% PNMT CC (UVA 17.300.000) + 50% PNMT ACRyP (UVA 5.000.000) + 25% por cada actividad afín y/o complementaria sobre el PNMT de la categoría vinculada a la actividad CLMT: 20% del PNMT ACRyP (UVA 2.000.000)
+
+29 Categoría: ACRyP PNMT: 100% PNMT (UVA 10.000.000) + 25% por cada actividad afín y/o complementaria CLMT: 20% del PNMT (UVA 2.000.000)
+
+30 Categorías: ADCVN / ACRyP (Automática - No puede ser ni Mercado ni CC) (Volver a Fila ACRyP | Fila ADCVN ) PNMT: 100% PNMT ADCVN (UVA 25.500.000) + 25% por cada actividad afín y/o complementaria sobre el PNMT ADCVN CLMT: 20% del PNMT ADCVN (UVA 5.100.000)
+
+31 Categoría: ADCVN PNMT: 100% PNMT (UVA 25.500.000) + 25% por cada actividad afín y/o complementaria CLMT: 20% del PNMT ADCVN (UVA 5.100.000) 32 Categorías: ADCVN / FF (No puede tener otra categoría de Agente -salvo ACRyP- y no puede ser Mercado o CC) (Volver a Fila ADCVN | Fila FF ) PNMT: 100 % PNMT ADCVN (UVA 25.500.000) + 100% PNMT FF (UVA 950.000) CLMT: 20% del PNMT ADCVN (UVA 5.100.000) + 50% del PNMT FF (UVA 475.000)
+
+33 Categoría: SG PNMT: 100% PNMT (UVA 150.000) + UVA 20.000 por cada FCI adicional que administre CLMT: 50% del PNMT (UVA 75.000) + UVA 10.000 por cada FCI adicional que administre
+
+34 Categorías: ACyD FCI / SG (Volver a Fila SG | Fila ACyD FCI ) PNMT: Solo se requieren requisitos patrimoniales de SG CLMT: Solo se requieren requisitos patrimoniales de SG
+
+35 Categorías: ACyDI FCI / SG (Volver a Fila SG | Fila ACyDI FCI ) PNMT: 100% PNMT ACyDI FCI (UVA 170.000) + 50% del PNMT SG (UVA 75.000) + UVA 20.000 por cada FCI adicional que administre CLMT: 50% PNMT ACyDI FCI (UVA 85.000) + 50% del PNMT SG (UVA 75.000) + UVA 10.000 por cada FCI adicional que administre
+
+36 Categoría: SD PNMT: EE FF CLMT: EE FF
+
+37 Categoría: SD / ACyD FCI (Volver a Fila SD | Fila ACyD FCI ) PNMT: EE FF CLMT: EE FF
+
+38 Categoría: SD / ACyDI FCI (Volver a Fila SD | Fila ACyDI FCI ) PNMT: EE FF CLMT: EE FF
+
+39 Categoría: SD / FF (Volver a Fila SD | Fila FF ) PNMT: EE FF CLMT: EE FF
+
+40 Categoría: ACyD FCI PNMT: 100% PNMT (UVA 17.000)
+
+CLMT: No requiere
+
+41 Categoría: ACyD FCI / ACyDI FCI (Volver a Fila ACyD FCI | Fila ACyDI FCI ) PNMT: 100% PNMT ACyDI FCI (UVA 170.000) CLMT: 50% PNMT ACyDI FCI (UVA 85.000)
+
+42 Categoría: ACyD FCI / FF (Volver a Fila ACyD FCI | Fila FF ) PNMT: 100% PNMT FF (UVA 950.000) + 50% ACyD FCI (UVA 8.500) CLMT: 50% PNMT FF (UVA 475.000)
+
+43 Categoría: ACyDI FCI PNMT: 100% PNMT (UVA 170.000) CLMT: 50% PNMT (UVA 85.000)
+
+44 Categorías: ACyDI FCI / FF (Volver a Fila ACyDI FCI | Fila FF ) PNMT: 100% PNMT FF (UVA 950.000) + 50% PNMT ACyDI FCI (UVA 85.000) CLMT: 50% PNMT FF (UVA 475.000) + 50% PNMT ACyDI FCI (UVA 85.000)
+
+45 Categoría: FF PNMT: 100% PNMT FF (UVA 950.000) CLMT: 50% PNMT FF (UVA 475.000)
+
+46 Categoría: PSAV PNMT: Cat. 1: U$S 150.000; Cat. 2: U$S 150.000; Cat. 3: U$S 75.000; Cat. 4: U$S 150.000; y Cat. 5: U$S 35.000 CLMT: No requiere
+
+[Anexo incorporado por art. 6° de la RG 1165/2026, BO 07/09/2026]

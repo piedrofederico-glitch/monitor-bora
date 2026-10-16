@@ -67,3 +67,40 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 - Ocurrencias reemplazadas en este archivo: 1
 - Ubicaciones: art. 37 (Secc. XII)
 - Texto anterior: idéntico al vigente salvo las expresiones reemplazadas («ACyDI» → «ACDI»; «ACyD» → «ACD»).
+
+## Artículo 7 (Sección II)
+- Vigente desde: anterior a la base
+- Vigente hasta: 07/09/2026
+- Sustituido por: RG 1165/2026, art. 2°
+- Texto:
+
+> INSCRIPCIÓN EN OTROS REGISTROS COMPATIBLES.
+> ARTÍCULO 7°.- Sin perjuicio de lo dispuesto en el artículo 1° del presente Capítulo, los ADCVN autorizados y registrados en la Comisión podrán asimismo actuar en calidad de “AGENTE DE CUSTODIA, REGISTRO Y PAGO (ACRYP)” con el alcance establecido en los artículos 2° y 4° del Capítulo II del presente Titulo, quedando automáticamente inscriptos en esta categoría, lo que deberá ser informado al público en general en todos los medios de comunicación utilizados para la difusión y publicidad de sus actividades.
+
+## Artículo 10 (Sección IV)
+- Vigente desde: anterior a la base
+- Vigente hasta: 07/09/2026
+- Sustituido por: RG 1165/2026, art. 3°
+- Texto:
+
+> MONTO PATRIMONIO NETO MÍNIMO.
+> ARTÍCULO 10.- Los ADCVN deberán contar con un patrimonio neto mínimo no inferior a un monto equivalente a UNIDADES DE VALOR ADQUISITIVO (UVA) VEINTICINCO MILLONES QUINIENTOS MIL (UVA 25.500.000). Dicho patrimonio neto mínimo deberá ser incrementado en un monto equivalente al VEINTICINCO POR CIENTO (25%) por cada actividad afín y/o complementaria desarrollada conforme lo previsto en el artículo 1° del presente Capítulo. De conformidad con lo dispuesto en el presente Capítulo y virtud que los ADCVN podrán asimismo actuar en calidad de ACRYP y, a tales fines, se encuentran automáticamente inscriptos en dicha categoría, los mismos deberán considerar y acreditar el patrimonio neto mínimo previsto en el presente artículo, debiéndose calcular el incremento del VEINTICINCO POR CIENTO (25%) mencionado precedentemente sobre dicho patrimonio neto mínimo.
+>
+> No resultará exigible el incremento previsto por cada actividad afín y/o complementaria contemplada en el artículo 1° del presente Capítulo respecto de: (i) aquellas actividades que desarrollen los ADCVN en su calidad de Infraestructura del Mercado Financiero (IMF) habilitada por el Banco Central de la República Argentina (BCRA), conforme el Texto Ordenado “Principios de las Infraestructuras de Mercado Financiero” y sus modificatorias del BCRA; y (ii) toda otra actividad afín y/o complementaria que, de igual forma, se encuentre bajo supervisión y/o vigilancia de dicha autoridad.
+>
+> El monto del patrimonio neto mínimo deberá ser cumplido de manera permanente y deberá surgir de los estados contables anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al cumplimiento del régimen informativo que resulte aplicable en cada caso.
+>
+> Los estados contables trimestrales y anuales deberán ser acompañados con el acta del órgano de administración que los apruebe, el informe del órgano de fiscalización y el informe o dictamen del auditor con la firma legalizada por el consejo profesional correspondiente. Tanto el órgano de fiscalización en su informe, como el auditor en su informe o dictamen, deberán además expedirse específicamente respecto de la adecuación del patrimonio neto mínimo y de su contrapartida líquida conforme a las exigencias establecidas en el presente Capítulo.
+>
+> Los estados contables anuales deberán ser acompañados con la Memoria del órgano de administración sobre la gestión del ejercicio y el acta de asamblea que los apruebe.
+
+## Artículo 12 (Sección IV)
+- Vigente desde: anterior a la base
+- Vigente hasta: 07/09/2026
+- Sustituido por: RG 1165/2026, art. 4°
+- Texto:
+
+> CONTRAPARTIDA LÍQUIDA.
+> ARTÍCULO 12.- Como contrapartida líquida, un mínimo del VEINTE POR CIENTO (20%) del importe del patrimonio neto mínimo deberá observar las exigencias y condiciones dispuestas en el Anexo I del Capítulo I Mercados del Título VI.
+>
+> De conformidad con lo dispuesto en el presente Capítulo y en virtud que los ADCVN podrán asimismo actuar en calidad de ACRYP y, a tales fines, se encuentran automáticamente inscriptos en dicha categoría, los mismos deberán acreditar la contrapartida líquida mínima prevista en el presente artículo considerando el monto del patrimonio neto mínimo dispuesto en el presente Capítulo.

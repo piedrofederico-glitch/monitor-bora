@@ -49,6 +49,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), Término incorporado: “UTs” | modifica parcialmente | RG 1162/2026 | 1° | 20/08/2026 |
 | art. 2° (Secc. II), Término incorporado: “RNR” | modifica parcialmente | RG 1164/2026 | 1° | 04/09/2026 |
 | art. 3° (Secc. III), Término incorporado: “Calificación Pública” | modifica parcialmente | RG 1164/2026 | 2° | 04/09/2026 |
+| art. 2° (Secc. II), Término incorporado: “Matriz de Compatibilidades” | modifica parcialmente | RG 1165/2026 | 1° | 07/09/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -421,6 +422,9 @@ Archivo: `vigente/titulo-VIII/capitulo-I.md`
 |---|---|---|---|---|
 | art. 37 (Secc. XII) | sustituye | RG 1102/2025 | 6° | 31/12/2025 |
 | siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”: art. 37 (Secc. XII) | modifica parcialmente | RG 1131/2026 | 7° | 29/04/2026 |
+| art. 7° (Secc. II) | sustituye | RG 1165/2026 | 2° | 07/09/2026 |
+| art. 10 (Secc. IV) | sustituye | RG 1165/2026 | 3° | 07/09/2026 |
+| art. 12 (Secc. IV) | sustituye | RG 1165/2026 | 4° | 07/09/2026 |
 
 ## Título IX, Capítulo I
 Archivo: `vigente/titulo-IX/capitulo-I.md`
@@ -547,6 +551,8 @@ Archivo: `vigente/titulo-XVI/capitulo-I.md`
 | capítulo completo | sustituye | RG 1112/2026 | 2° | 26/02/2026 |
 | art. 1° (Secc. I) | sustituye | RG 1127/2026 | 5° | 09/04/2026 |
 | art. 7° (Secc. II), apartado 5 | modifica parcialmente | RG 1147/2026 | 7° | 11/06/2026 |
+| Secc. III (completa) | incorpora | RG 1165/2026 | 5° | 07/09/2026 |
+| Anexo II | incorpora | RG 1165/2026 | 6° | 07/09/2026 |
 
 ## Título XVI, Capítulo II
 Archivo: `vigente/titulo-XVI/capitulo-II.md`
