@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1146/2026 (BO 11/06/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1150/2026 (BO 11/06/2026) |
 
 ## Título II — EMISORAS
 
@@ -196,4 +196,4 @@ Sin texto vigente.
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XXII/capitulo-I.md`](titulo-XXII/capitulo-I.md) | Título XXII — Capítulo I: REPRESENTACION DIGITAL DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XXII/capitulo-I.md`](titulo-XXII/capitulo-I.md) | Título XXII — Capítulo I: REPRESENTACION DIGITAL DE VALORES NEGOCIABLES. | RG 1150/2026 (BO 11/06/2026) |

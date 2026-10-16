@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1146/2026 (BO 11/06/2026)
+Última modificación: RG 1150/2026 (BO 11/06/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -11,6 +11,8 @@ ARTÍCULO 1°.- En todos los casos en que en estas Normas se haga referencia a n
 ARTÍCULO 2º.- A los fines de las presentes Normas y de las notas, informes, dictámenes, resoluciones y demás documentos que emita la CNV, los siguientes términos o siglas, cuando se consignen con mayúscula, tendrán los significados que se indican a continuación, los cuales serán aplicables en todo el texto de las anteriores, salvo que del contexto surja un sentido distinto, siendo igualmente válidos tanto en singular como en plural:
 
 “AAGI” significa Agente Asesor Global de Inversión.
+
+“AAPIC” significa Agentes de administración de productos de inversión colectiva.
 
 “Acción No Rescatable” significa aquella acción que solamente puede ser rescatada como consecuencia de una reducción de capital decidida por la asamblea de accionistas, sin que el plazo de dicho rescate esté fijado al tiempo de la emisión o quede librado, conforme a las condiciones de ésta, a opción del accionista.
 
@@ -386,6 +388,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “TAMAR” significa Tasa Mayorista de Argentina.
 
+“TRD” significa Tecnología de Registro Distribuido o Tecnologías de Registro Distribuido, según el caso.
+
 “UIF” significa Unidad de Información Financiera.
 
 “UVA” significa Unidad de Valor Adquisitivo.
@@ -443,6 +447,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Definición sustituida: “Inversor Calificado” por art. 2° de la RG 1145/2026, BO 11/06/2026]
 
 [Términos incorporados: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes”, “Régimen de Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen General de FF” por art. 1° de la RG 1146/2026, BO 11/06/2026]
+
+[Términos incorporados: “AAPIC”, “TRD” por art. 1° de la RG 1150/2026, BO 11/06/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

@@ -40,6 +40,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), Término incorporado: “Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado” | modifica parcialmente | RG 1145/2026 | 1° | 11/06/2026 |
 | art. 2° (Secc. II), Definición sustituida: “Inversor Calificado” | modifica parcialmente | RG 1145/2026 | 2° | 11/06/2026 |
 | art. 2° (Secc. II), Términos incorporados: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes”, “Régimen de Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen General de FF” | modifica parcialmente | RG 1146/2026 | 1° | 11/06/2026 |
+| art. 2° (Secc. II), Términos incorporados: “AAPIC”, “TRD” | modifica parcialmente | RG 1150/2026 | 1° | 11/06/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -547,6 +548,22 @@ Archivo: `vigente/titulo-XXI/capitulo-I.md`
 |---|---|---|---|---|
 | Secc. I (completa) | sustituye | RG 1109/2026 | 3° | 20/02/2026 |
 | art. 1° (Secc. I) | sustituye | RG 1114/2026 | 1° | 27/02/2026 |
+
+## Título XXII, Capítulo I
+Archivo: `vigente/titulo-XXII/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 1° (Secc. I) | sustituye | RG 1150/2026 | 2° | 11/06/2026 |
+| art. 2° (Secc. I) | sustituye | RG 1150/2026 | 2° | 11/06/2026 |
+| art. 5° (Secc. I) | sustituye | RG 1150/2026 | 3° | 11/06/2026 |
+| art. 10 (Secc. I) | sustituye | RG 1150/2026 | 4° | 11/06/2026 |
+| art. 14 (Secc. III) | sustituye | RG 1150/2026 | 5° | 11/06/2026 |
+| art. 18 (Secc. IV) | sustituye | RG 1150/2026 | 6° | 11/06/2026 |
+| art. 28 (Secc. VI) | sustituye | RG 1150/2026 | 7° | 11/06/2026 |
+| art. 36 (Secc. VIII) | sustituye | RG 1150/2026 | 8° | 11/06/2026 |
+| art. 38 (Secc. IX) | sustituye | RG 1150/2026 | 9° | 11/06/2026 |
+| art. 39 (Secc. IX) | sustituye | RG 1150/2026 | 9° | 11/06/2026 |
 
 ## Título XIV
 Archivo: `vigente/titulo-XIV/denominacion`
