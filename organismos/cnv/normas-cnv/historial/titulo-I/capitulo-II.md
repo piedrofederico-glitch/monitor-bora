@@ -1777,3 +1777,59 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > 13) Personas humanas residentes en la República Argentina o personas jurídicas constituidas en la República Argentina, distintas de las enunciadas en los incisos anteriores, que al momento de efectuar la inversión cuenten con inversiones en valores negociables y/o depósitos en entidades financieras, en ambos casos en la República Argentina o en el exterior, o en Activos Virtuales, por un monto equivalente a UVAS TRESCIENTAS CINCUENTA MIL (350.000).”
 >
 > 14) Personas jurídicas constituidas en el extranjero y personas humanas con domicilio real en el extranjero.
+
+## Artículo 2 (Sección II) — fragmento
+- Vigente desde: 12/06/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 11/06/2026
+- Sustituido/suprimido parcialmente por: RG 1146/2026, art. 1°
+- Texto:
+
+> “Oferta Pública Inicial” o “IPO”, por su sigla en inglés, significa la operación mediante la cual una Emisora ofrece acciones en suscripción o sus accionistas venden por primera vez sus acciones en un Mercado autorizado por la CNV, cualquiera fuera que sucediere primero.
+>
+> “OPA de Retiro” es una OPA por retiro del régimen de oferta pública por acciones.
+>
+> “OPA” significa Oferta Pública de Adquisición de acciones.
+>
+> “Organizador” significa las personas humanas o jurídicas designadas por la Emisora para realizar actividades de coordinación de los participantes en la transacción, gestión de la oferta pública ante las autoridades correspondientes y diseño de la estructura financiera de la emisión, así como cualquier otra actividad que tenga por finalidad llevar adelante el ofrecimiento de valores negociables mediante el procedimiento de oferta pública, con arreglo a lo dispuesto en la Ley de Mercado de Capitales y su reglamentación.
+>
+> “Otras Ofertas Públicas con Autorización Automática” significa el régimen de autorización automática previsto en la Sección X del Título II de estas Normas.
+>
+> “Participantes Autorizados” significa, en el contexto de emisiones de CEVA o de FCIA ETF, los ALyC en las subcategorías de (i) ALyC Integral; o (ii) ALyC Propio, habilitados para solicitar la creación y cancelación de CEVA o de FCIA ETF, que cuentan con capacidad operativa, patrimonial y técnica suficiente.
+>
+> “PEN” significa Poder Ejecutivo Nacional.
+>
+> “PFC” significa Plataforma de Financiamiento Colectivo.
+>
+> “PIC” se refiere a Producto de Inversión Colectiva.
+>
+> “PLA/FT/FP” significa Prevención del lavado de activos, financiación del terrorismo y de la proliferación de armas de destrucción masiva.
+>
+> “Posición en Moneda Extranjera Bruta” tiene el significado atribuido en el artículo 36 del Capítulo II del Título VII de estas Normas.
+>
+> “Posición en Moneda Extranjera Neta” tiene el significado atribuido en el artículo 36 del Capítulo II del Título VII de estas Normas.
+>
+> “Precio Equitativo” significa el precio determinado de conformidad con lo establecido por la Ley de Mercado de Capitales y lo dispuesto en el Capítulo II del Título III de estas Normas.
+>
+> “Programa de CEDEAR o CEVA” significa cualquier emisión de CEDEAR o CEVA.
+>
+> “Programa Global” significa un marco general bajo el cual pueden emitirse o volver a emitirse clases o series de obligaciones negociables y valores fiduciarios hasta el monto máximo autorizado.
+>
+> “Programa” según el contexto en el que se escribe en el texto de la Normas significa Programa Global o Programa de CEDEAR o CEVA.
+>
+> “Prospecto del Programa” significa el Prospecto confeccionado bajo un Programa Global o respecto de una emisión de CEDEAR o CEVA.
+>
+> “PSAV” significa Proveedor de Servicios de Activos Virtuales.
+>
+> “PSP” significa Proveedor de Servicio de Pago.
+>
+> “PyME CNV Garantizada” significa la Emisora que califica como PyME y que emite Obligaciones Negociables conforme al régimen previsto en el Capítulo V del Título II de estas Normas, bajo el régimen de Oferta Pública de ON con Autorización Automática por su Bajo Impacto o que emitieron con anterioridad bajo el Régimen previsto en el Capítulo VI del Título II de estas Normas.
+>
+> “PyME CNV” significa (i) la Emisora que califica como PyME y que emite acciones u obligaciones negociables conforme al régimen establecido en el Capítulo VI del Título II o bajo el régimen de Oferta Pública de ON con Autorización Automática por su Bajo Impacto establecido en el Capítulo V del Título II de estas Normas, y (ii) en lo que respecta a los PIC, y en los términos de lo dispuesto para los FCI y para los FF respectivamente, aquellas entidades que cuenten con Certificado MiPymes vigente, en tanto no se encuentren alcanzadas por las restricciones previstas en el artículo 2° del Capítulo VI del Título II
+>
+> “PyME” significa Pequeña y Mediana Empresa.
+>
+> “Ratio del CEDEAR” o “Ratio de conversión” significa la proporción existente entre el CEDEAR y el valor negociable subyacente emitido en el extranjero.
+>
+> “Ratio del CEVA” o “Ratio de conversión” significa la proporción existente entre el CEVA y el valor negociable subyacente emitido en el país.
+>
+> “Régimen General” o “Régimen ordinario” significa régimen de la CNV aplicable a la oferta pública de valores negociables cuando la Emisora no se encuentra comprendida en un régimen especial”.

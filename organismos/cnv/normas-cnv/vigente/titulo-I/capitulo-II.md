@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1145/2026 (BO 11/06/2026)
+Última modificación: RG 1146/2026 (BO 11/06/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -276,6 +276,12 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado” significa, en el contexto de una Emisora en la oferta pública, el Régimen de Autorización Automática previsto en la Sección XVIII del Capítulo V del Título II de estas Normas, por lo que incluye a ONs y acciones, pero no incluye a FFs ni FCIs.
 
+“Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto” significa el régimen de autorización automática previsto en las Secciones XXI y XXII del Capítulo IV del Título V de estas Normas.
+
+“Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto” significa el régimen de autorización automática previsto en la Secciones XXI y XXIII del Capítulo IV del Título V de estas Normas.
+
+“Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado” significa el régimen de autorización automática previsto en las Secciones XXI y XXIV del Capítulo IV del Título V de estas Normas.
+
 “Oferta Pública Inicial” o “IPO”, por su sigla en inglés, significa la operación mediante la cual una Emisora ofrece acciones en suscripción o sus accionistas venden por primera vez sus acciones en un Mercado autorizado por la CNV, cualquiera fuera que sucediere primero.
 
 “OPA de Retiro” es una OPA por retiro del régimen de oferta pública por acciones.
@@ -324,7 +330,13 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Ratio del CEVA” o “Ratio de conversión” significa la proporción existente entre el CEVA y el valor negociable subyacente emitido en el país.
 
+“Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes” significa el régimen de autorización automática previsto en la Sección XXV del Capítulo IV del Título V de estas Normas.
+
+“Régimen de Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado” significa cualquier régimen de autorización automática por su mediano impacto ampliado.
+
 “Régimen General” o “Régimen ordinario” significa régimen de la CNV aplicable a la oferta pública de valores negociables cuando la Emisora no se encuentra comprendida en un régimen especial”.
+
+“Régimen General de FF” significa el régimen de la CNV aplicable a la oferta pública de valores negociables fiduciarios cuando el FF no se encuentra comprendido en un régimen especial.
 
 “Régimen Informativo Periódico” significa el previsto en el Título IV de estas Normas.
 
@@ -429,6 +441,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Término incorporado: “Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado” por art. 1° de la RG 1145/2026, BO 11/06/2026]
 
 [Definición sustituida: “Inversor Calificado” por art. 2° de la RG 1145/2026, BO 11/06/2026]
+
+[Términos incorporados: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes”, “Régimen de Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen General de FF” por art. 1° de la RG 1146/2026, BO 11/06/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

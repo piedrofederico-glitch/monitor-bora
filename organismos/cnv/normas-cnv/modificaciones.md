@@ -39,6 +39,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), Términos incorporados: “Posición en Moneda Extranjera Bruta”, “Posición en Moneda Extranjera Neta” | modifica parcialmente | RG 1144/2026 | 1° | 01/06/2026 |
 | art. 2° (Secc. II), Término incorporado: “Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado” | modifica parcialmente | RG 1145/2026 | 1° | 11/06/2026 |
 | art. 2° (Secc. II), Definición sustituida: “Inversor Calificado” | modifica parcialmente | RG 1145/2026 | 2° | 11/06/2026 |
+| art. 2° (Secc. II), Términos incorporados: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes”, “Régimen de Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen General de FF” | modifica parcialmente | RG 1146/2026 | 1° | 11/06/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -213,6 +214,17 @@ Archivo: `vigente/titulo-V/capitulo-IV.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 18 (Secc. IX) | sustituye | RG 1116/2026 | 1° | 06/03/2026 |
+| art. 6° (Secc. IV) | sustituye | RG 1146/2026 | 2° | 11/06/2026 |
+| art. 11 (Secc. IX) | sustituye | RG 1146/2026 | 3° | 11/06/2026 |
+| art. 18 (Secc. IX) | sustituye | RG 1146/2026 | 4° | 11/06/2026 |
+| art. 19 (Secc. IX) | sustituye | RG 1146/2026 | 4° | 11/06/2026 |
+| art. 19 BIS (Secc. IX) | incorpora | RG 1146/2026 | 5° | 11/06/2026 |
+| art. 21 BIS (Secc. X) | incorpora | RG 1146/2026 | 6° | 11/06/2026 |
+| art. 21 TER (Secc. X) | incorpora | RG 1146/2026 | 6° | 11/06/2026 |
+| Secc. XXI (completa) | sustituye | RG 1146/2026 | 7° | 11/06/2026 |
+| art. 67 (Secc. XXIII) | sustituye | RG 1146/2026 | 8° | 11/06/2026 |
+| Secc. XXIV (completa) | sustituye | RG 1146/2026 | 9° | 11/06/2026 |
+| Secc. XXV (completa) | incorpora | RG 1146/2026 | 10 | 11/06/2026 |
 
 ## Título V, Capítulo VII
 Archivo: `vigente/titulo-V/capitulo-VII.md`
@@ -408,6 +420,13 @@ Archivo: `vigente/titulo-XVIII/capitulo-I.md`
 | Secc. IV (completa) | incorpora | RG 1095/2025 | 3° | 18/12/2025 |
 | Secc. V (completa) | incorpora | RG 1095/2025 | 3° | 18/12/2025 |
 | capítulo completo | sustituye | RG 1099/2025 | 2° | 26/12/2025 |
+
+## Título XVIII, Capítulo II
+Archivo: `vigente/titulo-XVIII/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 3° | incorpora | RG 1146/2026 | 11 | 11/06/2026 |
 
 ## Título XVIII, Capítulo III
 Archivo: `vigente/titulo-XVIII/capitulo-III.md`
