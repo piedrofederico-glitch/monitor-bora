@@ -2213,3 +2213,11 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > “TAD” o “plataforma TAD” se refieren al Sistema de Trámites a Distancia.
 >
 > “TAMAR” significa Tasa Mayorista de Argentina.
+
+## Artículo 2 (Sección II) — fragmento
+- Vigente desde: 11/06/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 10/06/2026
+- Sustituido/suprimido parcialmente por: RG 1151/2026, art. 2°
+- Texto:
+
+> “FGS” significa Fondo de Garantía de Sustentabilidad.

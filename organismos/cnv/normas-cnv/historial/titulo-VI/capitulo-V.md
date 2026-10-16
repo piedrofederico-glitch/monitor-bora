@@ -445,3 +445,32 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > Los Mercados deberán reunir y conservar la documentación de respaldo necesaria que acredite la calidad mencionada e informar a esta Comisión, dentro de los DIEZ (10) días posteriores al último día de cada mes calendario y al 31 de diciembre de cada año, el detalle de los referidos instrumentos, para su posterior remisión a la ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS en el marco de lo dispuesto en el Decreto N° 621/2021.
 >
 > El referido detalle deberá ser enviado a través de la AUTOPISTA DE LA INFORMACIÓN FINANCIERA, completando el formulario establecido al efecto de acceso exclusivo para la Comisión y en formato Txt o Excel.
+
+## Artículo 2 (Sección II)
+- Vigente desde: anterior a la base
+- Vigente hasta: 10/06/2026
+- Sustituido por: RG 1151/2026, art. 3°
+- Texto:
+
+> REGLA GENERAL.
+> ARTÍCULO 2°. - Como regla general, todas las operaciones se realizarán a través de los Sistemas Informáticos de Negociación autorizados por la Comisión, bajo segmentos que aseguren la prioridad precio tiempo y por interferencia de ofertas, y serán garantizadas por el Mercado y por la Cámara Compensadora en su caso.
+>
+> Los Agentes habilitados para su actuación como hacedores de mercado sólo podrán desarrollar sus compromisos en segmentos de negociación por interferencia de ofertas con prioridad precio tiempo. Asimismo, aquellas instrucciones de operaciones tendientes a proveer liquidez que fueran impartidas por determinados clientes habilitados por dichos agentes, de conformidad con lo previsto en el presente Título de estas Normas, también deberán cursarse, sin excepción, en segmentos de negociación por interferencia de ofertas con prioridad precio tiempo.
+
+## Artículo 3 (Sección II)
+- Vigente desde: anterior a la base
+- Vigente hasta: 10/06/2026
+- Sustituido por: RG 1151/2026, art. 3°
+- Texto:
+
+> EXCEPCIÓN.
+> ARTÍCULO 3°. -En forma excepcional la Comisión podrá permitir a los Mercados organizar segmentos para la negociación bilateral no garantizada de valores negociables de renta fija públicos y/o privados, entre agentes de su cartera propia, o entre agentes e inversores calificados. Los Mercados no podrán establecer para dicho segmento precios de referencia vinculados a los precios registrados en la rueda de negociación a través de los Sistemas Informáticos de Negociación autorizados por la Comisión con prioridad precio tiempo y por interferencia de ofertas. Los Mercados deberán fijar adicionalmente, en base a un criterio debidamente fundado, los montos mínimos a partir de los cuales se permitirá la negociación en este segmento y determinar la banda o rango de precios, respecto del último cierre o último precio del segmento bilateral, dentro de los cuales se podrán registrar operaciones y los casos en los cuales los Mercados podrán autorizar excepcionalmente el registro de operaciones por encima o por debajo de dicho rango y el porcentaje de variación que se admitirá en tales excepciones
+
+## Artículo 6 (Sección III)
+- Vigente desde: anterior a la base
+- Vigente hasta: 10/06/2026
+- Sustituido por: RG 1151/2026, art. 4°
+- Texto:
+
+> DEFINICIÓN.
+> ARTÍCULO 6º.- Se entiende que el concepto de cartera propia comprende las operaciones realizadas por los agentes para sí o para sus sociedades controladas, las controlantes o las que estén bajo control común dentro de un mismo grupo económico de la respectiva sociedad; y para sus miembros del órgano de administración, del órgano de fiscalización, síndicos, consejeros de vigilancia, gerentes, socios, accionistas, empleados, administradores, apoderados y representantes. Asimismo, los parientes de éstos por consanguinidad en línea recta y colateral hasta el segundo grado inclusive, por afinidad en línea recta y colateral hasta el segundo grado inclusive, al cónyuge o las personas con análoga relación de afectividad. (Ver CRI48) (Ver CRI59)

@@ -41,6 +41,8 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), Definición sustituida: “Inversor Calificado” | modifica parcialmente | RG 1145/2026 | 2° | 11/06/2026 |
 | art. 2° (Secc. II), Términos incorporados: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes”, “Régimen de Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen General de FF” | modifica parcialmente | RG 1146/2026 | 1° | 11/06/2026 |
 | art. 2° (Secc. II), Términos incorporados: “AAPIC”, “TRD” | modifica parcialmente | RG 1150/2026 | 1° | 11/06/2026 |
+| art. 2° (Secc. II), Término incorporado: “Sujeto Restringido” | modifica parcialmente | RG 1151/2026 | 1° | 11/06/2026 |
+| art. 2° (Secc. II), Definición sustituida: “FGS” | modifica parcialmente | RG 1151/2026 | 2° | 11/06/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -303,6 +305,9 @@ Archivo: `vigente/titulo-VI/capitulo-V.md`
 | art. 72 → 34 | renumera | RG 1090/2025 | 5° | 14/11/2025 |
 | Secc. XVIII → X | renumera | RG 1090/2025 | 3° | 14/11/2025 |
 | Secc. XIX → XI | renumera | RG 1090/2025 | 3° | 14/11/2025 |
+| art. 2° (Secc. II) | sustituye | RG 1151/2026 | 3° | 11/06/2026 |
+| art. 3° (Secc. II) | sustituye | RG 1151/2026 | 3° | 11/06/2026 |
+| art. 6° (Secc. III) | sustituye | RG 1151/2026 | 4° | 11/06/2026 |
 
 ## Título VI, Capítulo VI
 Archivo: `vigente/titulo-VI/capitulo-VI.md`

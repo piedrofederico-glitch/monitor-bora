@@ -1,5 +1,5 @@
 # Título VI — Capítulo V: NEGOCIACIÓN SECUNDARIA. OPERACIONES
-Última modificación: RG 1090/2025 (BO 14/11/2025)
+Última modificación: RG 1151/2026 (BO 11/06/2026)
 Fuente: PDF base, págs. 555–586.
 
 ### SECCIÓN I — RUEDAS DE NEGOCIACIÓN.
@@ -10,12 +10,30 @@ ARTÍCULO 1°. - En cumplimiento de lo dispuesto en el artículo 39 de la Ley N�
 ### SECCIÓN II — OPERACIONES GARANTIZADAS. REGLA GENERAL.
 
 REGLA GENERAL.
-ARTÍCULO 2°. - Como regla general, todas las operaciones se realizarán a través de los Sistemas Informáticos de Negociación autorizados por la Comisión, bajo segmentos que aseguren la prioridad precio tiempo y por interferencia de ofertas, y serán garantizadas por el Mercado y por la Cámara Compensadora en su caso.
+ARTÍCULO 2°.- Como regla general, todas las operaciones se realizarán a través de los Sistemas Informáticos de Negociación autorizados por la Comisión, bajo segmentos que aseguren la prioridad precio tiempo y por interferencia de ofertas, y serán garantizadas por el Mercado y por la Cámara Compensadora en su caso.
+
+Los Agentes sólo podrán dar curso a operaciones instruidas por los Sujetos Restringidos bajo los mencionados segmentos de negociación de los Mercados, no pudiendo ingresar ofertas en las ruedas de negociación regular de los Mercados, durante los primeros y los últimos 30 minutos de cada jornada de negociación.
+
+Asimismo, en forma previa a dar curso a tales operaciones, los Agentes deberán observar y constatar las siguientes condiciones por Sujeto Restringido:
+
+(i) el volumen total operado diario por especie no podrá exceder el 25% del volumen promedio diario de las cinco (5) jornadas inmediatas anteriores; y
+
+(ii) respecto de los valores negociables de renta fija públicos, el volumen operado por jornada no podrá superar el 5% del saldo en circulación de la respectiva especie.
+
+Las exigencias previstas en el presente artículo resultan aplicables para cada subcuenta comitente y para el conjunto de subcuentas comitentes de las que fuera titular o cotitular un mismo Sujeto Restringido. Será responsabilidad de los Agentes observar y constatar el cumplimiento de la totalidad de los requisitos previstos en los párrafos precedentes, conservando la documentación respaldatoria en los respectivos legajos.
 
 Los Agentes habilitados para su actuación como hacedores de mercado sólo podrán desarrollar sus compromisos en segmentos de negociación por interferencia de ofertas con prioridad precio tiempo. Asimismo, aquellas instrucciones de operaciones tendientes a proveer liquidez que fueran impartidas por determinados clientes habilitados por dichos agentes, de conformidad con lo previsto en el presente Título de estas Normas, también deberán cursarse, sin excepción, en segmentos de negociación por interferencia de ofertas con prioridad precio tiempo.
 
+[Artículo sustituido por art. 3° de la RG 1151/2026, BO 11/06/2026, vigente desde 11/06/2026]
+
 EXCEPCIÓN.
-ARTÍCULO 3°. -En forma excepcional la Comisión podrá permitir a los Mercados organizar segmentos para la negociación bilateral no garantizada de valores negociables de renta fija públicos y/o privados, entre agentes de su cartera propia, o entre agentes e inversores calificados. Los Mercados no podrán establecer para dicho segmento precios de referencia vinculados a los precios registrados en la rueda de negociación a través de los Sistemas Informáticos de Negociación autorizados por la Comisión con prioridad precio tiempo y por interferencia de ofertas. Los Mercados deberán fijar adicionalmente, en base a un criterio debidamente fundado, los montos mínimos a partir de los cuales se permitirá la negociación en este segmento y determinar la banda o rango de precios, respecto del último cierre o último precio del segmento bilateral, dentro de los cuales se podrán registrar operaciones y los casos en los cuales los Mercados podrán autorizar excepcionalmente el registro de operaciones por encima o por debajo de dicho rango y el porcentaje de variación que se admitirá en tales excepciones
+ARTÍCULO 3°.- En forma excepcional, la Comisión podrá permitir a los Mercados organizar segmentos para la negociación bilateral no garantizada de valores negociables sean de renta fija (públicos o privados), entre agentes de su cartera propia o entre agentes e Inversores Calificados, en la medida que cualquiera de éstos últimos no revista el carácter de Sujeto Restringido.
+
+Los Mercados no podrán establecer para dicho segmento precios de referencia vinculados a los precios registrados en la rueda de negociación a través de los Sistemas Informáticos de Negociación autorizados por la Comisión con prioridad precio tiempo y por interferencia de ofertas.
+
+Los Mercados deberán fijar adicionalmente, en base a un criterio debidamente fundado, los montos mínimos a partir de los cuales se permitirá la negociación en este segmento y determinar la banda o rango de precios, respecto del último cierre o último precio del segmento bilateral, dentro de los cuales se podrán registrar operaciones y los casos en los cuales los Mercados podrán autorizar excepcionalmente el registro de operaciones por encima o por debajo de dicho rango y el porcentaje de variación que se admitirá en tales excepciones
+
+[Artículo sustituido por art. 3° de la RG 1151/2026, BO 11/06/2026, vigente desde 11/06/2026]
 
 COMISIONES Y COSTOS DE INTERMEDIACIÓN.
 ARTÍCULO 4°.- Las comisiones y otros costos de intermediación correspondientes a las operaciones realizadas a través de los Sistemas Informáticos de Negociación, deberán ser explícitas en la documentación que extiendan los agentes.
@@ -28,7 +46,17 @@ Toda modificación a una orden ingresada dará lugar a la baja de la orden origi
 ### SECCIÓN III — CARTERA PROPIA.
 
 DEFINICIÓN.
-ARTÍCULO 6º.- Se entiende que el concepto de cartera propia comprende las operaciones realizadas por los agentes para sí o para sus sociedades controladas, las controlantes o las que estén bajo control común dentro de un mismo grupo económico de la respectiva sociedad; y para sus miembros del órgano de administración, del órgano de fiscalización, síndicos, consejeros de vigilancia, gerentes, socios, accionistas, empleados, administradores, apoderados y representantes. Asimismo, los parientes de éstos por consanguinidad en línea recta y colateral hasta el segundo grado inclusive, por afinidad en línea recta y colateral hasta el segundo grado inclusive, al cónyuge o las personas con análoga relación de afectividad. (Ver CRI48) (Ver CRI59)
+ARTÍCULO 6º.- Se entiende que el concepto de cartera propia comprende las operaciones realizadas por los ALyC y/o AN para: (i) sí; (ii) sus sociedades controladas, las controlantes o las que estén bajo control común dentro de un mismo grupo económico del respectivo agente; (iii) cualquiera de los miembros de su órgano de administración, fiscalización, síndicos, consejeros de vigilancia y gerentes, en este último caso, conforme el alcance asignado a dicho término por el artículo 3° del Capítulo II del Título I de las Normas; (iv) cualquiera de sus empleados, representantes y apoderados que integren la estructura organizativa, operativa y de control vinculada a las actividades desarrolladas por los ALyC y/o AN en el marco de su actuación y funciones asignadas a los mismos dentro del mercado de capitales; (v) sus socios, accionistas, administradores, apoderados y representantes; o (vi) respecto de cualquiera de los sujetos indicados en los puntos (iii) a (v), los parientes de éstos por consanguinidad en línea recta y colateral hasta el segundo grado inclusive, por afinidad en línea recta y colateral hasta el segundo grado inclusive, al cónyuge o las personas con análoga relación de afectividad.
+
+A los fines de lo aquí previsto, en el caso de aquellos ALyC y/o AN que voluntariamente ingresen dentro del régimen de oferta pública de acciones, se entenderá por grupo económico a aquel conformado por:
+
+a) Las personas humanas o jurídicas titulares de una fracción del capital social de otra persona jurídica tal que configure una situación de control o vinculación, según lo establece el art. 33 de la Ley General de Sociedades, ya en forma directa o por intermedio de otra sociedad a su vez controlada o vinculada.
+
+b) Las personas jurídicas a las cuales dicha persona jurídica controla o con las cuales se vincula, en los términos del art. 33 de la Ley General de Sociedades, en forma directa o por intermedio de otra sociedad a su vez controlada o vinculada, por ser titular de una fracción del capital social suficiente a tal efecto.
+
+c) Las personas humanas o jurídicas, que ejerzan una influencia dominante sobre dicha persona jurídica por los especiales vínculos existentes con ella, a cuyos efectos y con carácter enunciativo se considerarán como hechos reveladores, la: 1) unidad de domicilio social; 2) similitud o analogía de los giros por concomitancia o sucesividad; 3) utilización en común de implementos industriales; 4) identidad organizativa administrativa o comercial; 5) utilización de locales comunes; 6) identidad en la integración de los órganos de administración y fiscalización o de los mandatarios, referidas a alguno o algunos de sus miembros; 7) imposición de condiciones o lugar de comercialización de los productos o los servicios de manera de crear una situación real; u 8) unidad de decisión o el control patrimonial, que de hecho o de derecho, revele la existencia de una relación de control sobre la persona jurídica referida
+
+[Artículo sustituido por art. 4° de la RG 1151/2026, BO 11/06/2026, vigente desde 11/06/2026]
 
 ### SECCIÓN IV — EXPRESIÓN UNIFORME.
 

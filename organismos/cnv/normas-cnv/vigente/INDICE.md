@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1150/2026 (BO 11/06/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1151/2026 (BO 11/06/2026) |
 
 ## Título II — EMISORAS
 
@@ -63,7 +63,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-VI/capitulo-II.md`](titulo-VI/capitulo-II.md) | Título VI — Capítulo II: CÁMARAS COMPENSADORAS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VI/capitulo-III.md`](titulo-VI/capitulo-III.md) | Título VI — Capítulo III: LIQUIDACIÓN Y COMPENSACIÓN DE OPERACIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VI/capitulo-IV.md`](titulo-VI/capitulo-IV.md) | Título VI — Capítulo IV: COLOCACIÓN PRIMARIA. | RG 1119/2026 (BO 13/03/2026) |
-| [`titulo-VI/capitulo-V.md`](titulo-VI/capitulo-V.md) | Título VI — Capítulo V: NEGOCIACIÓN SECUNDARIA. OPERACIONES | RG 1090/2025 (BO 14/11/2025) |
+| [`titulo-VI/capitulo-V.md`](titulo-VI/capitulo-V.md) | Título VI — Capítulo V: NEGOCIACIÓN SECUNDARIA. OPERACIONES | RG 1151/2026 (BO 11/06/2026) |
 | [`titulo-VI/capitulo-VI.md`](titulo-VI/capitulo-VI.md) | Título VI — Capítulo VI: NEGOCIACIÓN SECUNDARIA DE VALORES NEGOCIABLES DE EMISION INDIVIDUAL QUE GOZAN DE OFERTA PÚBLICA. | RG 1107/2026 (BO 13/02/2026) |
 
 ## Título VII — AGENTE DE NEGOCIACIÓN. AGENTE DE LIQUIDACIÓN Y COMPENSACIÓN. AGENTE ASESOR GLOBAL DE INVERSIÓN. AGENTE PRODUCTOR. AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. DISPOSICIONES COMUNES

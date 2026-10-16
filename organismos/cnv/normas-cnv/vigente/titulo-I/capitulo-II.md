@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1150/2026 (BO 11/06/2026)
+Última modificación: RG 1151/2026 (BO 11/06/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -168,7 +168,7 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “FF” significa fideicomiso financiero.
 
-“FGS” significa Fondo de Garantía de Sustentabilidad.
+“FGS” significa Fondo de Garantía de Sustentabilidad del Sistema Integrado Previsional Argentino (FGS).
 
 “Financiamiento Colectivo” significa un sistema en el que muchos inversores aportan pequeñas cantidades de dinero a una Emisora bajo los lineamientos establecidos en el Capítulo V del Título II de estas Normas para el financiamiento de un proyecto en común participando como inversores.
 
@@ -380,6 +380,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Subasta” o “Licitación Pública” significa el mecanismo de colocación de valores negociables realizado en los términos previstos en el Capítulo IV del Título VI de estas Normas.
 
+“Sujeto Restringido” significa los siguientes sujetos: (i) entidades comprendidas en los incisos a) a d) del artículo 8° de la Ley N° 24.156 y sus modificatorias y los entes públicos no estatales; excepto por aquellas sociedades anónimas en las cuales el Estado nacional tenga participación mayoritaria en el capital o en la formación de las decisiones societarias cuyas acciones se negocien en Mercados bajo competencia de la CNV; (ii) entidades provinciales, municipales o de la Ciudad Autónoma de Buenos Aires que de haber sido nacionales hubieran estado comprendidas en el numeral anterior; y (iii) cajas previsionales y otras entidades que canalizan fondos previsionales obligatorios no estatales (aportes compulsivos administrados por entidades no integradas al sistema previsional estatal, con finalidad de otorgar prestaciones previsionales). Los sujetos incluidos en los numerales (i) y (ii) que constituyan entidades financieras regidas por la Ley de Entidades Financieras, así como también el FGS, están excluidos de esta definición.
+
 “Suplemento” o “Suplemento de Prospecto” significa un documento que forma parte, y debe leerse junto con el Prospecto del Programa, que contiene los términos y condiciones específicos de una clase o serie bajo un Programa Global o Programa y otra información complementaria del Prospecto y, en su caso, toda la actualización de la información no incluida en el Prospecto del Programa.
 
 “Suscripción de Acciones” significa el acto jurídico mediante el cual una persona se compromete a adquirir acciones de una Emisora, abonando un precio determinado de suscripción generalmente valor nominal más prima de emisión. Este acto se realiza en el marco de una emisión de acciones dispuesta por el órgano competente, confiriendo al suscriptor la calidad de accionista conforme a las disposiciones previstas en la Ley General de Sociedades y en estas Normas. La suscripción podrá ser en el marco de una IPO o en virtud de un aumento posterior de capital, y podrá ser mediante la integración en pesos o en especie, o mediante la capitalización de aportes irrevocables.
@@ -449,6 +451,10 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos incorporados: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes”, “Régimen de Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen General de FF” por art. 1° de la RG 1146/2026, BO 11/06/2026]
 
 [Términos incorporados: “AAPIC”, “TRD” por art. 1° de la RG 1150/2026, BO 11/06/2026]
+
+[Término incorporado: “Sujeto Restringido” por art. 1° de la RG 1151/2026, BO 11/06/2026, vigente desde 11/06/2026]
+
+[Definición sustituida: “FGS” por art. 2° de la RG 1151/2026, BO 11/06/2026, vigente desde 11/06/2026]
 
 ### SECCIÓN III — EXPRESIONES
 
