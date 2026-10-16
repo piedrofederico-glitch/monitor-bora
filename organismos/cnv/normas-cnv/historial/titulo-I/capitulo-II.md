@@ -2229,3 +2229,71 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 - Texto:
 
 > “Sujeto Restringido” significa los siguientes sujetos: (i) entidades comprendidas en los incisos a) a d) del artículo 8° de la Ley N° 24.156 y sus modificatorias y los entes públicos no estatales; excepto por aquellas sociedades anónimas en las cuales el Estado nacional tenga participación mayoritaria en el capital o en la formación de las decisiones societarias cuyas acciones se negocien en Mercados bajo competencia de la CNV; (ii) entidades provinciales, municipales o de la Ciudad Autónoma de Buenos Aires que de haber sido nacionales hubieran estado comprendidas en el numeral anterior; y (iii) cajas previsionales y otras entidades que canalizan fondos previsionales obligatorios no estatales (aportes compulsivos administrados por entidades no integradas al sistema previsional estatal, con finalidad de otorgar prestaciones previsionales). Los sujetos incluidos en los numerales (i) y (ii) que constituyan entidades financieras regidas por la Ley de Entidades Financieras, así como también el FGS, están excluidos de esta definición.
+
+## Artículo 2 (Sección II) — fragmento
+- Vigente desde: 13/07/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 06/08/2026
+- Sustituido/suprimido parcialmente por: RG 1159/2026, art. 1°
+- Texto:
+
+> “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto” significa el régimen de autorización automática previsto en las Secciones XXI y XXII del Capítulo IV del Título V de estas Normas.
+>
+> “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto” significa el régimen de autorización automática previsto en la Secciones XXI y XXIII del Capítulo IV del Título V de estas Normas.
+
+## Artículo 2 (Sección II) — fragmento
+- Vigente desde: 07/08/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 06/08/2026
+- Sustituido/suprimido parcialmente por: RG 1159/2026, art. 2°
+- Texto:
+
+> “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado” significa el régimen de autorización automática previsto en las Secciones XXI y XXIV del Capítulo IV del Título V de estas Normas.
+>
+> “Oferta Pública Inicial” o “IPO”, por su sigla en inglés, significa la operación mediante la cual una Emisora ofrece acciones en suscripción o sus accionistas venden por primera vez sus acciones en un Mercado autorizado por la CNV, cualquiera fuera que sucediere primero.
+>
+> “OPA de Retiro” es una OPA por retiro del régimen de oferta pública por acciones.
+>
+> “OPA” significa Oferta Pública de Adquisición de acciones.
+>
+> “Organizador” significa las personas humanas o jurídicas designadas por la Emisora para realizar actividades de coordinación de los participantes en la transacción, gestión de la oferta pública ante las autoridades correspondientes y diseño de la estructura financiera de la emisión, así como cualquier otra actividad que tenga por finalidad llevar adelante el ofrecimiento de valores negociables mediante el procedimiento de oferta pública, con arreglo a lo dispuesto en la Ley de Mercado de Capitales y su reglamentación.
+>
+> “Otras Ofertas Públicas con Autorización Automática” significa el régimen de autorización automática previsto en la Sección X del Título II de estas Normas.
+>
+> “Participantes Autorizados” significa, en el contexto de emisiones de CEVA o de FCIA ETF, los ALyC en las subcategorías de (i) ALyC Integral; o (ii) ALyC Propio, habilitados para solicitar la creación y cancelación de CEVA o de FCIA ETF, que cuentan con capacidad operativa, patrimonial y técnica suficiente.
+>
+> “PEN” significa Poder Ejecutivo Nacional.
+>
+> “PFC” significa Plataforma de Financiamiento Colectivo.
+>
+> “PIC” se refiere a Producto de Inversión Colectiva.
+>
+> “PLA/FT/FP” significa Prevención del lavado de activos, financiación del terrorismo y de la proliferación de armas de destrucción masiva.
+>
+> “Posición en Moneda Extranjera Bruta” tiene el significado atribuido en el artículo 36 del Capítulo II del Título VII de estas Normas.
+>
+> “Posición en Moneda Extranjera Neta” tiene el significado atribuido en el artículo 36 del Capítulo II del Título VII de estas Normas.
+>
+> “Precio Equitativo” significa el precio determinado de conformidad con lo establecido por la Ley de Mercado de Capitales y lo dispuesto en el Capítulo II del Título III de estas Normas.
+>
+> “Programa de CEDEAR o CEVA” significa cualquier emisión de CEDEAR o CEVA.
+>
+> “Programa Global” significa un marco general bajo el cual pueden emitirse o volver a emitirse clases o series de obligaciones negociables y valores fiduciarios hasta el monto máximo autorizado.
+>
+> “Programa” según el contexto en el que se escribe en el texto de la Normas significa Programa Global o Programa de CEDEAR o CEVA.
+>
+> “Prospecto del Programa” significa el Prospecto confeccionado bajo un Programa Global o respecto de una emisión de CEDEAR o CEVA.
+>
+> “PSAV” significa Proveedor de Servicios de Activos Virtuales.
+>
+> “PSP” significa Proveedor de Servicio de Pago.
+>
+> “PyME CNV Garantizada” significa la Emisora que califica como PyME y que emite Obligaciones Negociables conforme al régimen previsto en el Capítulo V del Título II de estas Normas, bajo el régimen de Oferta Pública de ON con Autorización Automática por su Bajo Impacto o que emitieron con anterioridad bajo el Régimen previsto en el Capítulo VI del Título II de estas Normas.
+>
+> “PyME CNV” significa (i) la Emisora que califica como PyME y que emite acciones u obligaciones negociables conforme al régimen establecido en el Capítulo VI del Título II o bajo el régimen de Oferta Pública de ON con Autorización Automática por su Bajo Impacto establecido en el Capítulo V del Título II de estas Normas, y (ii) en lo que respecta a los PIC, y en los términos de lo dispuesto para los FCI y para los FF respectivamente, aquellas entidades que cuenten con Certificado MiPymes vigente, en tanto no se encuentren alcanzadas por las restricciones previstas en el artículo 2° del Capítulo VI del Título II
+>
+> “PyME” significa Pequeña y Mediana Empresa.
+>
+> “Ratio del CEDEAR” o “Ratio de conversión” significa la proporción existente entre el CEDEAR y el valor negociable subyacente emitido en el extranjero.
+>
+> “Ratio del CEVA” o “Ratio de conversión” significa la proporción existente entre el CEVA y el valor negociable subyacente emitido en el país.
+>
+> “Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes” significa el régimen de autorización automática previsto en la Sección XXV del Capítulo IV del Título V de estas Normas.

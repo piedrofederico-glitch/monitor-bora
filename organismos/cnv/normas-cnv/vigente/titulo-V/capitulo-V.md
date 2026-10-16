@@ -1,5 +1,5 @@
 # Título V — Capítulo V: DISPOSICIONES COMUNES APLICABLES A LOS REGIMENES ESPECIALES DE PRODUCTOS DE INVERSIÓN COLECTIVA.
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1159/2026 (BO 06/08/2026)
 Fuente: PDF base, págs. 413–426.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -289,7 +289,9 @@ DESTINO DE LOS FONDOS.
 ARTÍCULO 38.- A los fines de dar cumplimiento con el objeto del presente régimen el activo subyacente deberá destinarse de manera directa o indirecta al financiamiento o refinanciamiento, ya sea en parte o en su totalidad, de proyectos o actividades nuevos o existentes con beneficios ambientales, sociales y/o sustentables. Asimismo, podrán, además, prever el cumplimiento de lo dispuesto en el artículo 37 mediante la inversión en vehículos cuyo objeto resulte consistente con lo establecido bajo el presente régimen. La divulgación acerca del destino de los fondos podrá realizarse siguiendo los estándares reconocidos en los “Lineamientos para la emisión de Valores Negociables Temáticos en Argentina” o los “Estándares de Impacto para Bonos y Fondos ODS de SDG Impact (PNUD)”.
 
 LISTADO EN PANEL O SEGMENTO ESPECIAL DE MERCADO.
-ARTÍCULO 39.- A los fines del presente régimen la Sociedad Gerente o el Fiduciario deberá solicitar, junto con la tramitación de la autorización de oferta pública, la autorización de listado en un Mercado que cuente con segmentos y/o paneles de negociación para valores negociables verdes, sociales y sustentables, y contar con su conformidad respecto a la citada calificación. Los fondos comunes de inversión cerrados o fideicomisos financieros de este régimen deberán estar listados en el segmento y/o panel del Mercado que haya prestado su conformidad.
+ARTÍCULO 39.- A los fines del presente régimen la Sociedad Gerente o el Fiduciario deberá solicitar la autorización de listado en un Mercado que cuente con segmentos y paneles de negociación para valores negociables verdes, sociales y sustentables, y contar con su conformidad respecto a la citada calificación. Los fondos comunes de inversión cerrados o fideicomisos financieros de este régimen deberán estar listados en el segmento y panel del Mercado que haya prestado su conformidad y acreditar dicha circunstancia a esta Comisión Nacional.
+
+[Artículo sustituido por art. 16 de la RG 1159/2026, BO 06/08/2026]
 
 REVISIÓN EXTERNA.
 ARTÍCULO 40.- Los fondos comunes de inversión cerrados o fideicomisos financieros deberán contar con una revisión externa elaborada por un tercero independiente, con experiencia en materia ambiental y/o social, y su informe deberá adecuarse a los requisitos que dispongan los reglamentos de listado de los Mercados que cuenten con segmentos o paneles específicos para estos valores negociables. Sin perjuicio de ello, a efectos de una adecuada divulgación de información al público inversor, el Prospecto o Suplemento de Prospecto deberá identificar al tercero independiente a cargo de la revisión externa indicando al menos su nombre o razón social, domicilio de su oficina y, asimismo, indicar su experiencia en la materia, a través de credenciales, certificaciones o cualquier otro elemento que permita evidenciar su idoneidad para llevar a cabo la revisión.

@@ -44,6 +44,8 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), Término incorporado: “Sujeto Restringido” | modifica parcialmente | RG 1151/2026 | 1° | 11/06/2026 |
 | art. 2° (Secc. II), Definición sustituida: “FGS” | modifica parcialmente | RG 1151/2026 | 2° | 11/06/2026 |
 | art. 2° (Secc. II), Definición sustituida: “Sujeto Restringido” | modifica parcialmente | RG 1154/2026 | 1° | 13/07/2026 |
+| art. 2° (Secc. II), Términos suprimidos: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto” | modifica parcialmente | RG 1159/2026 | 1° | 06/08/2026 |
+| art. 2° (Secc. II), Definiciones sustituidas: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes” | modifica parcialmente | RG 1159/2026 | 2° | 06/08/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -247,6 +249,35 @@ Archivo: `vigente/titulo-V/capitulo-IV.md`
 | art. 67 (Secc. XXIII) | sustituye | RG 1146/2026 | 8° | 11/06/2026 |
 | Secc. XXIV (completa) | sustituye | RG 1146/2026 | 9° | 11/06/2026 |
 | Secc. XXV (completa) | incorpora | RG 1146/2026 | 10 | 11/06/2026 |
+| Secc. VII (completa) | sustituye | RG 1159/2026 | 3° | 06/08/2026 |
+| Secc. VIII (completa) | sustituye | RG 1159/2026 | 4° | 06/08/2026 |
+| art. 11 (Secc. IX) | sustituye | RG 1159/2026 | 5° | 06/08/2026 |
+| art. 12 (Secc. IX) | sustituye | RG 1159/2026 | 5° | 06/08/2026 |
+| art. 13 (Secc. IX) | sustituye | RG 1159/2026 | 5° | 06/08/2026 |
+| art. 14 (Secc. IX) | sustituye | RG 1159/2026 | 5° | 06/08/2026 |
+| art. 15 (Secc. IX) | sustituye | RG 1159/2026 | 5° | 06/08/2026 |
+| art. 17 (Secc. IX) | sustituye | RG 1159/2026 | 6° | 06/08/2026 |
+| art. 20 (Secc. X) | sustituye | RG 1159/2026 | 7° | 06/08/2026 |
+| art. 21 (Secc. X) | sustituye | RG 1159/2026 | 7° | 06/08/2026 |
+| art. 21 BIS (Secc. X) | sustituye | RG 1159/2026 | 7° | 06/08/2026 |
+| art. 28 (Secc. XII) | sustituye | RG 1159/2026 | 8° | 06/08/2026 |
+| art. 40 (Secc. XVI) | sustituye | RG 1159/2026 | 9° | 06/08/2026 |
+| art. 42 (Secc. XVI) | sustituye | RG 1159/2026 | 10 | 06/08/2026 |
+| art. 45 (Secc. XVII) | sustituye | RG 1159/2026 | 11 | 06/08/2026 |
+| Secc. XX (completa) | sustituye | RG 1159/2026 | 12 | 06/08/2026 |
+| Secc. XXI (completa) | sustituye | RG 1159/2026 | 13 | 06/08/2026 |
+| Secc. XXII (completa) | sustituye | RG 1159/2026 | 14 | 06/08/2026 |
+| Secc. XXIII (completa) | deroga | RG 1159/2026 | 15 | 06/08/2026 |
+| Secc. XXIV (completa) | deroga | RG 1159/2026 | 15 | 06/08/2026 |
+| Secc. XXV (completa) | deroga | RG 1159/2026 | 15 | 06/08/2026 |
+| Anexo II | deroga | RG 1159/2026 | 15 | 06/08/2026 |
+
+## Título V, Capítulo V
+Archivo: `vigente/titulo-V/capitulo-V.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 39 (Secc. VI) | sustituye | RG 1159/2026 | 16 | 06/08/2026 |
 
 ## Título V, Capítulo VII
 Archivo: `vigente/titulo-V/capitulo-VII.md`
@@ -264,6 +295,16 @@ Archivo: `vigente/titulo-V/capitulo-VIII.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 8° BIS (Secc. II) | incorpora | RG 1105/2026 | 2° | 22/01/2026 |
+| art. 4° (Secc. I) | sustituye | RG 1159/2026 | 17 | 06/08/2026 |
+| art. 5° (Secc. I) | sustituye | RG 1159/2026 | 17 | 06/08/2026 |
+| art. 10 (Secc. IV) | sustituye | RG 1159/2026 | 18 | 06/08/2026 |
+| art. 13 (Secc. V) | sustituye | RG 1159/2026 | 19 | 06/08/2026 |
+| art. 14 (Secc. V) | sustituye | RG 1159/2026 | 19 | 06/08/2026 |
+| art. 17 (Secc. V) | sustituye | RG 1159/2026 | 20 | 06/08/2026 |
+| art. 18 (Secc. V) | sustituye | RG 1159/2026 | 20 | 06/08/2026 |
+| art. 19 (Secc. V) | sustituye | RG 1159/2026 | 20 | 06/08/2026 |
+| art. 20 (Secc. V) | deroga | RG 1159/2026 | 21 | 06/08/2026 |
+| Secc. VI (completa) | sustituye | RG 1159/2026 | 22 | 06/08/2026 |
 
 ## Título VI, Capítulo I
 Archivo: `vigente/titulo-VI/capitulo-I.md`
@@ -464,6 +505,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-II.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 3° | incorpora | RG 1146/2026 | 11 | 11/06/2026 |
+| art. 4° | incorpora | RG 1159/2026 | 23 | 06/08/2026 |
 
 ## Título XVIII, Capítulo III
 Archivo: `vigente/titulo-XVIII/capitulo-III.md`

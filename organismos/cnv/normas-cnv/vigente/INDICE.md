@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1154/2026 (BO 13/07/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1159/2026 (BO 06/08/2026) |
 
 ## Título II — EMISORAS
 
@@ -48,11 +48,11 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-V/capitulo-I.md`](titulo-V/capitulo-I.md) | Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN. | RG 1147/2026 (BO 11/06/2026) |
 | [`titulo-V/capitulo-II.md`](titulo-V/capitulo-II.md) | Título V — Capítulo II: FONDOS COMUNES DE INVERSIÓN ABIERTOS. | RG 1147/2026 (BO 11/06/2026) |
 | [`titulo-V/capitulo-III.md`](titulo-V/capitulo-III.md) | Título V — Capítulo III: FONDOS COMUNES DE INVERSIÓN CERRADOS. | RG 1148/2026 (BO 11/06/2026) |
-| [`titulo-V/capitulo-IV.md`](titulo-V/capitulo-IV.md) | Título V — Capítulo IV: FIDEICOMISOS FINANCIEROS | RG 1146/2026 (BO 11/06/2026) |
-| [`titulo-V/capitulo-V.md`](titulo-V/capitulo-V.md) | Título V — Capítulo V: DISPOSICIONES COMUNES APLICABLES A LOS REGIMENES ESPECIALES DE PRODUCTOS DE INVERSIÓN COLECTIVA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-V/capitulo-IV.md`](titulo-V/capitulo-IV.md) | Título V — Capítulo IV: FIDEICOMISOS FINANCIEROS | RG 1159/2026 (BO 06/08/2026) |
+| [`titulo-V/capitulo-V.md`](titulo-V/capitulo-V.md) | Título V — Capítulo V: DISPOSICIONES COMUNES APLICABLES A LOS REGIMENES ESPECIALES DE PRODUCTOS DE INVERSIÓN COLECTIVA. | RG 1159/2026 (BO 06/08/2026) |
 | [`titulo-V/capitulo-VI.md`](titulo-V/capitulo-VI.md) | Título V — Capítulo VI: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN CERRADOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-V/capitulo-VII.md`](titulo-V/capitulo-VII.md) | Título V — Capítulo VII: REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN ABIERTOS | RG 1147/2026 (BO 11/06/2026) |
-| [`titulo-V/capitulo-VIII.md`](titulo-V/capitulo-VIII.md) | Título V — Capítulo VIII: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FIDEICOMISOS FINANCIEROS. | RG 1105/2026 (BO 22/01/2026) |
+| [`titulo-V/capitulo-VIII.md`](titulo-V/capitulo-VIII.md) | Título V — Capítulo VIII: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FIDEICOMISOS FINANCIEROS. | RG 1159/2026 (BO 06/08/2026) |
 | [`titulo-V/capitulo-IX.md`](titulo-V/capitulo-IX.md) | Título V — Capítulo IX: PRODUCTOS DE INVERSIÓN COLECTIVA. TRATAMIENTO IMPOSITIVO DE REGÍMENES ESPECIALES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
 ## Título VI — MERCADOS Y CÁMARAS COMPENSADORAS
@@ -158,7 +158,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-XVIII/capitulo-I.md`](titulo-XVIII/capitulo-I.md) | Título XVIII — Capítulo I: EMISORAS | RG 1149/2026 (BO 11/06/2026) |
-| [`titulo-XVIII/capitulo-II.md`](titulo-XVIII/capitulo-II.md) | Título XVIII — Capítulo II: PRODUCTOS DE INVERSIÓN COLECTIVA. FIDEICOMISOS FINANCIEROS. | RG 1146/2026 (BO 11/06/2026) |
+| [`titulo-XVIII/capitulo-II.md`](titulo-XVIII/capitulo-II.md) | Título XVIII — Capítulo II: PRODUCTOS DE INVERSIÓN COLECTIVA. FIDEICOMISOS FINANCIEROS. | RG 1159/2026 (BO 06/08/2026) |
 | [`titulo-XVIII/capitulo-III.md`](titulo-XVIII/capitulo-III.md) | Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN. | RG 1153/2026 (BO 18/06/2026) |
 | [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1120/2026 (BO 13/03/2026) |
 | [`titulo-XVIII/capitulo-V.md`](titulo-XVIII/capitulo-V.md) | Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. | RG 1154/2026 (BO 13/07/2026) |
