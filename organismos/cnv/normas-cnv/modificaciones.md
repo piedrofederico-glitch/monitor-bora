@@ -457,6 +457,7 @@ Archivo: `vigente/titulo-XI/titulo-XI.md`
 | art. 3° (Secc. II), inc. 2., subinc. a) | modifica parcialmente | RG 1140/2026 | 1° | 21/05/2026 |
 | art. 3° (Secc. II), inc. 1 | modifica parcialmente | RG 1141/2026 | 1° | 27/05/2026 |
 | Secc. VI (completa) | incorpora | RG 1158/2026 | 1° | 30/07/2026 |
+| art. 3° (Secc. II) | sustituye | RG 1166/2026 | 1° | 15/09/2026 |
 
 ## Título XII, Capítulo I
 Archivo: `vigente/titulo-XII/capitulo-I.md`

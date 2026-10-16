@@ -280,3 +280,51 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > b) Pagos a clientes. Los cheques utilizados para pagar a clientes deberán ser librados a la orden del cliente “cruzados”, para ser depositados en cuenta o bien con cláusula “no a la orden”.
 >
 > c) Cuando los recibos o los pagos desde y hacia los clientes se realicen mediante el uso de cheques electrónicos, no se aplicarán limitaciones en materia de cantidad de endosos, debiendo garantizarse su trazabilidad tanto para la recepción como la entrega del instrumento.
+
+## Artículo 3 (Sección II)
+- Vigente desde: 23/05/2026
+- Vigente hasta: 14/09/2026
+- Sustituido por: RG 1166/2026, art. 1°
+- Texto:
+
+> ARTÍCULO 3°.– Los sujetos obligados registrados ante CNV, según corresponda, se ajustarán a lo siguiente en materia de recepción y entrega de fondos a clientes:
+>
+> 1. Cheques.
+>
+> a) Cheques físicos.
+>
+> I. Recibos de clientes. Deberán estar librados contra cuentas corrientes abiertas en entidades financieras del país autorizadas por el BCRA, de titularidad o cotitularidad del cliente. Asimismo, siempre que exista manifestación fehaciente del cliente en este sentido, los cheques podrán estar librados a favor del cliente, con endoso completo.
+>
+> II. Pagos a clientes. En la forma dispuesta en el subinciso c) del presente inciso 1.
+>
+> b) Cheques electrónicos.
+>
+> Cuando los recibos o los pagos desde y hacia los clientes se realicen mediante el uso de cheques electrónicos, no se aplicarán limitaciones en materia de cantidad de endosos, debiendo garantizarse su trazabilidad tanto para la recepción como la entrega del instrumento.
+>
+> c) En ambos casos, los sujetos mencionados no podrán efectuar más de DOS (2) pagos de fondos por día y por cliente ya sea mediante cheques físicos o electrónicos. Los cheques utilizados para pagar a clientes deberán ser librados a la orden del cliente o bien con cláusula “no a la orden” y “cruzados” para ser depositados en cuenta en el caso que exista esa opción.
+>
+> 2. Transferencias en el país.
+>
+> a) Recibos de clientes. Deberán efectuarse desde cuentas bancarias a la vista de titularidad o cotitularidad del cliente, abiertas en entidades del país autorizadas por el BCRA o desde la CVU de la CUIT del cliente, siempre que permita la identificación y trazabilidad de transferencias de fondos desde cuentas a la vista abiertas en entidades del país autorizadas por el BCRA pertenecientes a un PSP.
+>
+> Sin perjuicio de lo anterior, el ALyC I AGRO podrá recibir fondos de clientes, producto de las actividades de corretaje de granos, agropecuarias y agroindustriales en general o accesorias a éstas previstas en el artículo 5°, inciso d), del Capítulo II del Título VII de estas Normas, para su aplicación en el mercado de capitales, desde la cuenta bancaria de titularidad del ALyC I AGRO afectada a tales actividades, debiendo garantizarse la trazabilidad desde su origen, dándose cumplimiento a lo dispuesto en el inciso c) del artículo 24 del Capítulo II del Título VII de estas Normas y permitiendo la identificación del originador/beneficiario mediante CUIT, nombre y apellido de cada uno de los clientes involucrados.
+>
+> Asimismo, en aquellos casos en que el ALyC Integral haya celebrado un convenio para la liquidación y compensación de operaciones con un AN que desarrolle actividades de corretaje de granos, agropecuarias y agroindustriales en general o accesorias a éstas, previstas en el artículo 2° del Capítulo I del Título VII de estas Normas, el ALyC Integral podrá recibir los fondos pertenecientes a los clientes del AN para su aplicación en el mercado de capitales desde la cuenta bancaria específica de titularidad del AN afectada a las actividades mencionadas, debiendo garantizarse la trazabilidad desde su origen, dándose cumplimiento a lo dispuesto en el inciso c) del artículo 24 del Capítulo II del Título VII de estas Normas y permitiendo la identificación del originador/beneficiario de los fondos mediante CUIT, nombre y apellido de cada uno de los clientes del AN involucrados.
+>
+> b) Pagos a clientes. Deberán cursarse hacia cuentas bancarias a la vista de titularidad o cotitularidad del cliente, abiertas en entidades del país autorizadas por el BCRA o hacia la CVU de la CUIT del cliente, siempre que permita la identificación y trazabilidad de transferencias de fondos hacia cuentas a la vista abiertas en entidades del país autorizadas por el BCRA pertenecientes a un PSP.
+>
+> Este requisito deberá ser cumplido por los ALyC independientemente de sus respectivas subcategorías o modalidades operativas en el marco de las Normas dictadas por la CNV.
+>
+> Asimismo, los ALyC y las personas jurídicas registradas ante la CNV que intervengan en la colocación de FCI o de otros PIC autorizados por la Comisión, podrán realizar transferencias, por cuenta y orden de sus clientes, hacia cuentas bancarias a la vista de titularidad de otro de los sujetos antes mencionados, para ser acreditadas en la subcuenta que el mismo comitente emisor tenga abierta en el sujeto receptor de los fondos. Análogamente, el receptor de los fondos podrá acreditar dicha transferencia en la cuenta del cliente, cuando provengan de cuentas bancarias a la vista de titularidad de otro de los sujetos mencionados en el presente artículo y sea transferida por cuenta y orden del mismo cliente.
+>
+> Sin perjuicio de lo mencionado precedentemente, los inversores extranjeros sometidos a una debida diligencia especial, conforme lo dispuesto por la UIF en la normativa específica dictada en la materia, podrán:
+>
+> I. Recibir y enviar trasferencias bancarias desde y hacia entidades reguladas por el BCRA que actúen en calidad de custodio local de tales inversores. Para ello, dichos inversores extranjeros deberán entregar a los ALyC una instrucción específica o permanente con los datos de la cuenta abierta en el custodio local.
+>
+> II. Recibir y enviar trasferencias bancarias desde y hacia entidades reguladas por el BCRA, que actúen en calidad de custodio local de una entidad extranjera que participe como una “Entidad Financiera/Bancaria del Extranjero” de tales inversores, definida en la Resolución de la UIF específica en la materia. Para ello, dichos inversores extranjeros deberán entregar a los ALyC una instrucción específica o permanente con los datos de la cuenta abierta en un custodio local -entidad regulada por el BCRA- a nombre de la entidad extranjera que participe como una “Entidad Financiera/Bancaria del Extranjero” de tales inversores, definida en la Resolución de la UIF específica en la materia.
+>
+> En todos los casos, deberá observarse la normativa dictada por el BCRA en materia de liquidación de operaciones de compra/venta de títulos valores en moneda extranjera.
+>
+> [Subinciso a) del inciso 2. sustituido por art. 1° de la RG 1140/2026, BO 21/05/2026]
+>
+> [Inciso 1 sustituido por art. 1° de la RG 1141/2026, BO 27/05/2026, vigente desde 23/05/2026]
