@@ -1,5 +1,5 @@
 # Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA.
-Última modificación: RG 1140/2026 (BO 21/05/2026)
+Última modificación: RG 1141/2026 (BO 27/05/2026)
 Fuente: RG 1139/2026, art. 3°.
 
 ### SECCIÓN I — NORMATIVA APLICABLE Y SUJETOS ALCANZADOS.
@@ -66,11 +66,17 @@ ARTÍCULO 3°.– Los sujetos obligados registrados ante CNV, según corresponda
 
 1. Cheques.
 
-a) Recibos de clientes. Deberán estar librados contra cuentas corrientes abiertas en entidades financieras del país autorizadas por el BCRA, de titularidad o cotitularidad del cliente. Asimismo, siempre que exista manifestación fehaciente del cliente en este sentido, los cheques podrán estar librados a favor del cliente, con endoso completo.
+a) Cheques físicos.
 
-b) Pagos a clientes. Los cheques utilizados para pagar a clientes deberán ser librados a la orden del cliente “cruzados”, para ser depositados en cuenta o bien con cláusula “no a la orden”.
+I. Recibos de clientes. Deberán estar librados contra cuentas corrientes abiertas en entidades financieras del país autorizadas por el BCRA, de titularidad o cotitularidad del cliente. Asimismo, siempre que exista manifestación fehaciente del cliente en este sentido, los cheques podrán estar librados a favor del cliente, con endoso completo.
 
-c) Cuando los recibos o los pagos desde y hacia los clientes se realicen mediante el uso de cheques electrónicos, no se aplicarán limitaciones en materia de cantidad de endosos, debiendo garantizarse su trazabilidad tanto para la recepción como la entrega del instrumento.
+II. Pagos a clientes. En la forma dispuesta en el subinciso c) del presente inciso 1.
+
+b) Cheques electrónicos.
+
+Cuando los recibos o los pagos desde y hacia los clientes se realicen mediante el uso de cheques electrónicos, no se aplicarán limitaciones en materia de cantidad de endosos, debiendo garantizarse su trazabilidad tanto para la recepción como la entrega del instrumento.
+
+c) En ambos casos, los sujetos mencionados no podrán efectuar más de DOS (2) pagos de fondos por día y por cliente ya sea mediante cheques físicos o electrónicos. Los cheques utilizados para pagar a clientes deberán ser librados a la orden del cliente o bien con cláusula “no a la orden” y “cruzados” para ser depositados en cuenta en el caso que exista esa opción.
 
 2. Transferencias en el país.
 
@@ -95,6 +101,8 @@ II. Recibir y enviar trasferencias bancarias desde y hacia entidades reguladas p
 En todos los casos, deberá observarse la normativa dictada por el BCRA en materia de liquidación de operaciones de compra/venta de títulos valores en moneda extranjera.
 
 [Subinciso a) del inciso 2. sustituido por art. 1° de la RG 1140/2026, BO 21/05/2026]
+
+[Inciso 1 sustituido por art. 1° de la RG 1141/2026, BO 27/05/2026, vigente desde 23/05/2026]
 
 ARTÍCULO 4°.- Sin perjuicio del cumplimiento de las disposiciones establecidas en el artículo 3° precedente, el origen de los fondos aplicado a la operatoria en el mercado de capitales por subcuentas comitentes abiertas en el marco del régimen especial destinado a la operatoria de personas adolescentes a partir de los TRECE (13) años, deberá, asimismo, ajustarse a lo dispuesto en la Comunicación “A” 6700 y sus modificatorias, del BCRA.
 

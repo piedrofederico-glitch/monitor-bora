@@ -268,3 +268,15 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > Sin perjuicio de lo anterior, el ALyC I AGRO podrá recibir fondos de clientes, producto de las actividades de corretaje de granos, agropecuarias y agroindustriales en general o accesorias a éstas previstas en el artículo 5°, inciso d), del Capítulo II del Título VII de estas Normas, para su aplicación en el mercado de capitales, desde la cuenta bancaria de titularidad del ALyC afectada a tales actividades, debiendo garantizarse la trazabilidad desde su origen, dándose cumplimiento a lo dispuesto en el inciso c) del artículo 24 del Capítulo II del Título VII de estas Normas y permitiendo la identificación del originador/beneficiario mediante CUIT, nombre y apellido de cada uno de los clientes involucrados.
 >
 > Asimismo, en aquellos casos en que el ALyC I AGRO haya celebrado un convenio para la liquidación y compensación de operaciones con un AN que desarrolle actividades de corretaje de granos, agropecuarias y agroindustriales en general o accesorias a éstas, previstas en el artículo 2° del Capítulo I del Título VII de estas Normas, el ALyC I AGRO podrá recibir los fondos pertenecientes a los clientes del AN para su aplicación en el mercado de capitales desde la cuenta bancaria específica de titularidad del AN afectada a las actividades mencionadas, debiendo garantizarse la trazabilidad desde su origen, dándose cumplimiento a lo dispuesto en el inciso c) del artículo 24 del Capítulo II del Título VII de estas Normas y permitiendo la identificación del originador/beneficiario de los fondos mediante CUIT, nombre y apellido de cada uno de los clientes del AN involucrados.
+
+## Artículo 3 (Sección II) — fragmento
+- Vigente desde: 22/05/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 22/05/2026
+- Sustituido/suprimido parcialmente por: RG 1141/2026, art. 1°
+- Texto:
+
+> a) Recibos de clientes. Deberán estar librados contra cuentas corrientes abiertas en entidades financieras del país autorizadas por el BCRA, de titularidad o cotitularidad del cliente. Asimismo, siempre que exista manifestación fehaciente del cliente en este sentido, los cheques podrán estar librados a favor del cliente, con endoso completo.
+>
+> b) Pagos a clientes. Los cheques utilizados para pagar a clientes deberán ser librados a la orden del cliente “cruzados”, para ser depositados en cuenta o bien con cláusula “no a la orden”.
+>
+> c) Cuando los recibos o los pagos desde y hacia los clientes se realicen mediante el uso de cheques electrónicos, no se aplicarán limitaciones en materia de cantidad de endosos, debiendo garantizarse su trazabilidad tanto para la recepción como la entrega del instrumento.
