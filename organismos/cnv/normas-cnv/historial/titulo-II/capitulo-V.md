@@ -2402,3 +2402,49 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 - Ocurrencias reemplazadas en este archivo: 5
 - Ubicaciones: art. 73 (Secc. IX), art. 95 (Secc. XI), art. 108 (Secc. XII), art. 111 (Secc. XIII), art. 124 (Secc. XIII)
 - Texto anterior: idéntico al vigente salvo las expresiones reemplazadas («ACyDI» → «ACDI»; «ACyD» → «ACD»).
+
+## Artículo 82 (Sección XI)
+- Vigente desde: 07/03/2026
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1145/2026, art. 3°
+- Texto:
+
+> DEFINICIÓN.
+> ARTÍCULO 82.- Se considerará una oferta de valores negociables como Oferta Pública de ON con Autorización Automática por su Mediano Impacto, que tendrá autorización automática de oferta pública, cuando se cumplan todas las siguientes condiciones:
+>
+> 1. El Emisor debe ingresar al Régimen de Oferta Pública según el artículo 85 de la presente Sección o encontrarse ya en el mismo.
+>
+> 2. La oferta sea realizada por uno o más Emisores, pudiendo contar con la participación de una cantidad ilimitada de Agentes registrados que actúen como ACD.
+>
+> 3. Sólo podrán participar en la colocación primaria y en la negociación secundaria Inversores Calificados, sin limitación de número. No se admitirán inversores que no sean Inversores Calificados.
+>
+> Esta limitación no será aplicable a aquellas Emisoras que se encuentren autorizadas a la oferta pública bajo el Régimen General de Oferta Pública de ON o Acciones en tanto y en cuanto cumplan con el régimen informativo previsto en dicho régimen, por lo que podrán participar, en la colocación primaria y en la negociación secundaria, sin limitación de número, cualquier tipo de inversor (sea o no Inversor Calificado).
+>
+> 4. Los valores negociables deberán ser ON emitidas conforme a la Ley de Obligaciones Negociables, incluyendo los valores de corto plazo que se emitan mediante ON, en ambos casos, que no sean convertibles en Acciones.
+>
+> 5. La oferta podrá realizarse por cualquier medio incluido en la definición de oferta pública del artículo 2° de la Ley de Mercado de Capitales y de conformidad con estas Normas.
+>
+> 6. El Emisor podrá optar por realizar emisiones como clases o series autónomas, o emitir en el marco de programas globales (ya autorizados o no), incluso bajo el Régimen de EF.
+>
+> 7. Las condiciones establecidas en los artículos 83, 84, 88, inciso 1, 95 y 97 de la presente Sección.
+>
+> 8. Se cumplan las condiciones establecidas en los artículos 85, 87 y 88 de la presente Sección y las disposiciones establecidas en el Capítulo I del Título XII de estas Normas, en su caso.
+>
+> [Artículo sustituido por art. 4° de la RG 1117/2026, BO 06/03/2026]
+
+## Artículo 96 (Sección XI)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1145/2026, art. 4°
+- Texto:
+
+> RÉGIMEN PYME CNV.
+> ARTÍCULO 96.- Las PyMES que califiquen como PyMES CNV podrán:
+>
+> 1. Retirarse del Régimen PyME CNV (siempre que no tengan valores negociables emitidos en circulación bajo dicho régimen) y adherirse al Régimen de Oferta Pública con Autorización Automática por su Mediano Impacto, cumpliendo con todos los requisitos de esta Sección; o
+>
+> 2. Continuar bajo el Régimen PyME CNV y, asimismo, adherirse al Régimen de Oferta Pública de ON con Autorización Automática por su Mediano Impacto, cumpliendo con todos los requisitos de esta Sección, siendo ambos compatibles y no excluyentes.
+>
+> 3. En cualquier caso, quedarán exceptuadas del pago el arancel mencionado en el artículo 97 de la presente Sección.
+>
+> 4. No podrán emitirse bajo este Régimen Obligaciones Negociables PyME CNV GARANTIZADA, ni acceder al beneficio del monto ampliado del artículo 74 precedente previsto para aquellas.

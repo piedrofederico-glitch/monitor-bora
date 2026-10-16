@@ -1,5 +1,5 @@
 # Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA
-Última modificación: RG 1131/2026 (BO 29/04/2026)
+Última modificación: RG 1145/2026 (BO 11/06/2026)
 Fuente: RG 1095/2025, art. 2°.
 
 [Expresiones reemplazadas en este archivo (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”; 5 ocurrencias) por art. 7° de la RG 1131/2026, BO 29/04/2026]
@@ -807,27 +807,25 @@ Si se incumplen otros requisitos de esta Sección, el oferente podrá enfrentar 
 ### SECCIÓN XI — OFERTA PÚBLICA DE ON CON AUTORIZACIÓN AUTOMÁTICA POR SU MEDIANO IMPACTO (“OFERTAS PÚBLICA DE ON CON AUTORIZACIÓN AUTOMÁTICA POR SU MEDIANO IMPACTO”).
 
 DEFINICIÓN.
-ARTÍCULO 82.- Se considerará una oferta de valores negociables como Oferta Pública de ON con Autorización Automática por su Mediano Impacto, que tendrá autorización automática de oferta pública, cuando se cumplan todas las siguientes condiciones:
+ARTÍCULO 82.- Se considerará una oferta de valores negociables como Oferta Pública de ON con Autorización Automática por su Mediano Impacto, que tendrá autorización automática de oferta pública, cuando se cumplan las siguientes condiciones:
 
 1. El Emisor debe ingresar al Régimen de Oferta Pública según el artículo 85 de la presente Sección o encontrarse ya en el mismo.
 
-2. La oferta sea realizada por uno o más Emisores, pudiendo contar con la participación de una cantidad ilimitada de Agentes registrados que actúen como ACD.
+2. La oferta sea realizada por uno o más Emisores, pudiendo contar con la participación de una cantidad ilimitada de Agentes habilitados para actuar como Agentes colocadores.
 
 3. Sólo podrán participar en la colocación primaria y en la negociación secundaria Inversores Calificados, sin limitación de número. No se admitirán inversores que no sean Inversores Calificados.
 
-Esta limitación no será aplicable a aquellas Emisoras que se encuentren autorizadas a la oferta pública bajo el Régimen General de Oferta Pública de ON o Acciones en tanto y en cuanto cumplan con el régimen informativo previsto en dicho régimen, por lo que podrán participar, en la colocación primaria y en la negociación secundaria, sin limitación de número, cualquier tipo de inversor (sea o no Inversor Calificado).
+Sin embargo, en las emisiones a) PyME CNV Garantizada; b) otras emisiones que sean totalmente garantizadas por Entidades de Garantía; o c) Emisoras que se encuentren autorizadas a la oferta pública bajo el Régimen General, tanto para ON como para acciones, en tanto y en cuanto cumplan con el Régimen Informativo previsto en dichos regímenes; podrán participar en la colocación primaria y en la negociación secundaria, sin limitación de número, cualquier tipo de inversor (sean Inversores Calificados o Inversores no Calificados).
 
-4. Los valores negociables deberán ser ON emitidas conforme a la Ley de Obligaciones Negociables, incluyendo los valores de corto plazo que se emitan mediante ON, en ambos casos, que no sean convertibles en Acciones.
+4. Los valores negociables deberán ser ON emitidas conforme la Ley de Obligaciones Negociables, que no sean convertibles en acciones.
 
 5. La oferta podrá realizarse por cualquier medio incluido en la definición de oferta pública del artículo 2° de la Ley de Mercado de Capitales y de conformidad con estas Normas.
 
-6. El Emisor podrá optar por realizar emisiones como clases o series autónomas, o emitir en el marco de programas globales (ya autorizados o no), incluso bajo el Régimen de EF.
+6. El Emisor podrá optar por realizar emisiones como clases o series autónomas, o emitir en el marco de Programas Globales (ya autorizados o no), incluso bajo el Régimen de EF.
 
-7. Las condiciones establecidas en los artículos 83, 84, 88, inciso 1, 95 y 97 de la presente Sección.
+7. Las condiciones establecidas en los artículos 83, 84, 85, 87 y 88 de la presente Sección y las disposiciones establecidas en el Capítulo I del Título XII de estas Normas, en su caso.
 
-8. Se cumplan las condiciones establecidas en los artículos 85, 87 y 88 de la presente Sección y las disposiciones establecidas en el Capítulo I del Título XII de estas Normas, en su caso.
-
-[Artículo sustituido por art. 4° de la RG 1117/2026, BO 06/03/2026]
+[Artículo sustituido por art. 3° de la RG 1145/2026, BO 11/06/2026]
 
 MONTO. LÍMITE.
 ARTÍCULO 83.- El monto nominal máximo de los valores negociables emitidos al momento de efectuar el cálculo para la emisión de una nueva clase o serie, no deberá superar los UVA QUINCE MILLONES (15.000.000), o su equivalente al cierre del día anterior a la fecha de emisión de los valores negociables en pesos o en moneda extranjera, en este caso, calculado al Tipo de Cambio de Referencia Comunicación “A” 3500 del BCRA; o, si se trata de una moneda extranjera distinta al dólar estadounidense, al tipo de cambio vendedor divisa del BNA.
@@ -940,16 +938,17 @@ c) DDJJ de la Emisora con relación a que sus integrantes o sus Beneficiarios Fi
 
 2. Alternativamente, podrá obtener una DDJJ suscripta por cada inversor (incluso por medios electrónicos) que evidencie su conocimiento de la información mencionada.
 
-RÉGIMEN PYME CNV.
-ARTÍCULO 96.- Las PyMES que califiquen como PyMES CNV podrán:
+RÉGIMEN PyME CNV y PyME CNV GARANTIZADA.
 
-1. Retirarse del Régimen PyME CNV (siempre que no tengan valores negociables emitidos en circulación bajo dicho régimen) y adherirse al Régimen de Oferta Pública con Autorización Automática por su Mediano Impacto, cumpliendo con todos los requisitos de esta Sección; o
+ARTÍCULO 96.- Las PyMEs que califiquen como PyMEs CNV o PyME CNV Garantizada, podrán:
 
-2. Continuar bajo el Régimen PyME CNV y, asimismo, adherirse al Régimen de Oferta Pública de ON con Autorización Automática por su Mediano Impacto, cumpliendo con todos los requisitos de esta Sección, siendo ambos compatibles y no excluyentes.
+1. Retirarse del Régimen PyME CNV o PyME CNV Garantizada (siempre que no tengan valores negociables emitidos en circulación bajo dicho régimen) y emitir bajo los Regímenes de Oferta Pública con Autorización Automática de Valores Negociables por su Mediano Impacto, cumpliendo con todos los requisitos de la presente Sección; o
 
-3. En cualquier caso, quedarán exceptuadas del pago el arancel mencionado en el artículo 97 de la presente Sección.
+2. continuar bajo el Régimen PyME CNV o PyME CNV Garantizada y, asimismo, emitir bajo los Regímenes de Oferta Pública con Autorización Automática por su Mediano Impacto, cumpliendo con todos los requisitos de esta Sección; siendo ambos compatibles y no excluyentes.
 
-4. No podrán emitirse bajo este Régimen Obligaciones Negociables PyME CNV GARANTIZADA, ni acceder al beneficio del monto ampliado del artículo 74 precedente previsto para aquellas.
+3. En cualquier caso, quedarán exceptuadas del pago del arancel establecido en el artículo 97 de la presente Sección.
+
+[Artículo sustituido por art. 4° de la RG 1145/2026, BO 11/06/2026]
 
 ARANCEL.
 ARTÍCULO 97.- Las Ofertas Públicas de ON con Autorización Automática por su Mediano Impacto:
@@ -1418,6 +1417,48 @@ EXCEPCIÓN A LÍMITES DE EMISIÓN Y AGREGACIÓN.
 ARTÍCULO 152.- No aplicarán los límites de emisión ni el concepto de agregación previstos en los artículos 83, 84, 113 y 114 del presente Capítulo.
 
 [Sección incorporada por art. 4° de la RG 1125/2026, BO 07/04/2026]
+
+### SECCIÓN XVIII — OFERTA PÚBLICA CON AUTORIZACIÓN AUTOMÁTICA DE VALORES NEGOCIABLES POR SU MEDIANO IMPACTO AMPLIADO.
+
+DEFINICIÓN. RÉGIMEN APLICABLE.
+ARTÍCULO 153.- Se considerará que una oferta pública de valores negociables se encuentra comprendida en el Régimen de Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado, cuando se cumpla la totalidad de las condiciones previstas en las Secciones XI o XIII de este Capítulo para la Oferta Pública con Autorización Automática por su Mediano Impacto, según se trate de acciones u ON, con las particularidades previstas en la presente Sección y la excepción prevista en el último párrafo del artículo 1° del presente Capítulo.
+
+La limitación de acceso a los Regímenes de Autorización Automática aplicable a las Entidades Financieras previstas en las Secciones XI o XIII de este Capítulo no resultará de aplicación para las emisiones que se encuadren bajo la presente Sección, a condición de que la totalidad de los valores negociables emitidos sean ofrecidos en su colocación primaria y negociados en el mercado secundario de manera exclusiva entre Inversores Calificados.
+
+MONTO. LÍMITE. AGREGACIÓN.
+ARTÍCULO 154.- El límite de emisión admitido para las emisiones de acciones u ON, bajo esta Sección, será de UVA CIEN MILLONES (100.000.000), resultando aplicable el concepto de agregación previsto en los artículos 84 o 114 de este Capítulo.
+
+INVERSORES ADMITIDOS.
+ARTÍCULO 155.- Podrán participar, en la colocación primaria y en la negociación secundaria, sin limitación de número, cualquier tipo de inversor (sea o no Inversor Calificado), a excepción del supuesto previsto en el artículo siguiente.
+
+EMISIONES SIN LIMITE PARA INVERSORES CALIFICADOS.
+ARTÍCULO 156.- No aplicará el límite máximo de emisión previsto en el artículo 154 de la presente Sección cuando la oferta, tanto en la colocación primaria como en la negociación secundaria, se dirija exclusivamente a Inversores Calificados.
+
+RÉGIMEN INFORMATIVO PLENO.
+ARTÍCULO 157.- Excepto por lo expuesto en el párrafo siguiente, la Emisora deberá cumplir con el Régimen Informativo General y periódico establecido para las emisiones bajo el Régimen General, así como con el control societario que resulte aplicable.
+
+Las Emisoras incluidas en esta Sección, deberán cumplir con la preparación de EEFF confeccionados bajo NIIF, según lo dispuesto en los Capítulos I y III del Título IV de estas Normas, en un plazo que no exceda los CIENTO OCHENTA (180) días corridos desde la fecha de colocación efectiva de los valores negociables.
+
+No aplicará el Régimen Informativo Simplificado previsto en los artículos 90 y 119 del presente Capítulo, según se trate de ONs o acciones; ni la atenuación de hechos relevantes prevista en los artículos 91 y 120 de este Capítulo, según se trate de ONs o acciones.
+
+RÉGIMEN PyME CNV y PyME CNV GARANTIZADA. OTRAS EMISIONES GARANTIZADAS POR ENTIDADES DE GARANTÍA.
+
+ARTÍCULO 158.- Las PyMEs que califiquen como PyMEs CNV, las que emitan ON PyME CNV Garantizada, así como cualquier emisión de valores negociables totalmente garantizadas por una o más Entidades de Garantía, también podrán emitir bajo el régimen contemplado en esta Sección.
+
+Adicionalmente podrán en forma acumulativa (siendo estos regímenes compatibles y no excluyentes):
+
+1. Emitir bajo (i) el Régimen de Oferta Pública con Autorización Automática de Valores Negociables por su Bajo Impacto, o (ii) Régimen de Oferta Pública con Autorización Automática de Valores Negociables por su Mediano Impacto; cumpliendo, en ambos casos con los requisitos dispuestos en las Secciones IX, XI, XII y XIII de este Capítulo.
+
+2. En el caso de las PyMEs CNV, emitir bajo el Régimen PyME CNV del Capítulo VI del presente Título.
+
+3. Quedan exceptuadas las PyMEs que emitan bajo este régimen, de contar con comisión fiscalizadora y de la preparación de EEFF bajo NIIF, quienes deberán confeccionar sus EECC conforme lo establecido en el artículo 9° del Capítulo I del Título IV de estas Normas.
+
+No obstante, serán de aplicación las obligaciones aplicables al régimen más exigente de todos aquellos otros regímenes de oferta pública bajo los que se haya emitido.
+
+ARANCEL DE AUTORIZACIÓN Y TASA ANUAL DE FISCALIZACIÓN.
+ARTÍCULO 159.- Las Emisoras (califiquen o no como PyME) comprendidas en esta Sección quedarán sujetas a las obligaciones establecidas en el Capítulo I del Título XVII de estas Normas, no resultándoles aplicables la exención prevista en el artículo 11 del Capítulo I del Título XVII de estas Normas. El pago del arancel de autorización deberá ser efectivizado dentro de los CINCO (5) días hábiles posteriores al cierre del período de colocación de cada emisión respecto del monto efectivamente colocado.
+
+[Sección incorporada por art. 5° de la RG 1145/2026, BO 11/06/2026]
 
 ### ANEXO I
 

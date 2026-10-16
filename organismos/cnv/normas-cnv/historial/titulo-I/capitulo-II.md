@@ -1767,3 +1767,13 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > “Programa” según el contexto en el que se escribe en el texto de la Normas significa Programa Global o Programa de CEDEAR o CEVA.
 >
 > “Prospecto del Programa” significa el Prospecto confeccionado bajo un Programa Global o Programa de CEDEAR o CEVA.
+
+## Artículo 2 (Sección II) — fragmento
+- Vigente desde: 12/06/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 11/06/2026
+- Sustituido/suprimido parcialmente por: RG 1145/2026, art. 2°
+- Texto:
+
+> 13) Personas humanas residentes en la República Argentina o personas jurídicas constituidas en la República Argentina, distintas de las enunciadas en los incisos anteriores, que al momento de efectuar la inversión cuenten con inversiones en valores negociables y/o depósitos en entidades financieras, en ambos casos en la República Argentina o en el exterior, o en Activos Virtuales, por un monto equivalente a UVAS TRESCIENTAS CINCUENTA MIL (350.000).”
+>
+> 14) Personas jurídicas constituidas en el extranjero y personas humanas con domicilio real en el extranjero.

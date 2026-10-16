@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1144/2026 (BO 01/06/2026)
+Última modificación: RG 1145/2026 (BO 11/06/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -212,9 +212,11 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 12) Personas humanas que se encuentren inscriptas, con carácter definitivo, en el Registro de Idóneos a cargo de la CNV.
 
-13) Personas humanas residentes en la República Argentina o personas jurídicas constituidas en la República Argentina, distintas de las enunciadas en los incisos anteriores, que al momento de efectuar la inversión cuenten con inversiones en valores negociables y/o depósitos en entidades financieras, en ambos casos en la República Argentina o en el exterior, o en Activos Virtuales, por un monto equivalente a UVAS TRESCIENTAS CINCUENTA MIL (350.000).”
+13) Personas humanas residentes en la República Argentina o personas jurídicas constituidas en la República Argentina, distintas de las enunciadas en los incisos anteriores, que al momento de efectuar la inversión cuenten con inversiones en valores negociables y/o depósitos en entidades financieras, en ambos casos en la República Argentina o en el exterior, o en Activos Virtuales, por un monto equivalente a UVA DOSCIENTAS MIL (200.000).
 
 14) Personas jurídicas constituidas en el extranjero y personas humanas con domicilio real en el extranjero.
+
+Lo indicado precedentemente podrá acreditarse mediante DDJJ del inversor al momento de cada suscripción, sin perjuicio de la facultad de los Agentes registrados participantes en las respectivas operaciones de solicitar respaldo de la misma.
 
 “IOSCO” u “OICV” significa International Organization of Securities Commissions por sus siglas en inglés, u Organización Internacional de Comisiones de Valores en su traducción al español.
 
@@ -271,6 +273,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 “Oferta Pública de Valores Negociables con Autorización Automática por su Bajo Impacto - Financiamiento Colectivo” significa el régimen de autorización automática previsto en la Sección XVI del Capítulo V del Título II de estas Normas.
 
 “Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto - Financiamiento Colectivo” significa el régimen de autorización automática previsto en la Sección XVII del Capítulo V del Título II de estas Normas.
+
+“Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado” significa, en el contexto de una Emisora en la oferta pública, el Régimen de Autorización Automática previsto en la Sección XVIII del Capítulo V del Título II de estas Normas, por lo que incluye a ONs y acciones, pero no incluye a FFs ni FCIs.
 
 “Oferta Pública Inicial” o “IPO”, por su sigla en inglés, significa la operación mediante la cual una Emisora ofrece acciones en suscripción o sus accionistas venden por primera vez sus acciones en un Mercado autorizado por la CNV, cualquiera fuera que sucediere primero.
 
@@ -421,6 +425,10 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos incorporados: “ADR”, “ETF”, “ETP”, “Participantes Autorizados”; Definiciones sustituidas: “CEVA”, “IOSCO”, “Programa de CEDEAR o CEVA”, “Prospecto del Programa” por art. 1° de la RG 1142/2026, BO 01/06/2026]
 
 [Términos incorporados: “Posición en Moneda Extranjera Bruta”, “Posición en Moneda Extranjera Neta” por art. 1° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
+
+[Término incorporado: “Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado” por art. 1° de la RG 1145/2026, BO 11/06/2026]
+
+[Definición sustituida: “Inversor Calificado” por art. 2° de la RG 1145/2026, BO 11/06/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

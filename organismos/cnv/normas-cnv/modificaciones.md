@@ -37,6 +37,8 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), definición “PLAFTFP” → “PLA/FT/FP” | modifica parcialmente | RG 1139/2026 | 2° | 14/05/2026 |
 | art. 2° (Secc. II), Términos incorporados: “ADR”, “ETF”, “ETP”, “Participantes Autorizados”; Definiciones sustituidas: “CEVA”, “IOSCO”, “Programa de CEDEAR o CEVA”, “Prospecto del Programa” | modifica parcialmente | RG 1142/2026 | 1° | 01/06/2026 |
 | art. 2° (Secc. II), Términos incorporados: “Posición en Moneda Extranjera Bruta”, “Posición en Moneda Extranjera Neta” | modifica parcialmente | RG 1144/2026 | 1° | 01/06/2026 |
+| art. 2° (Secc. II), Término incorporado: “Oferta Pública de Valores Negociables con Autorización Automática por su Mediano Impacto Ampliado” | modifica parcialmente | RG 1145/2026 | 1° | 11/06/2026 |
+| art. 2° (Secc. II), Definición sustituida: “Inversor Calificado” | modifica parcialmente | RG 1145/2026 | 2° | 11/06/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -85,6 +87,9 @@ Archivo: `vigente/titulo-II/capitulo-V.md`
 | Secc. XVI (completa) | incorpora | RG 1125/2026 | 4° | 07/04/2026 |
 | Secc. XVII (completa) | incorpora | RG 1125/2026 | 4° | 07/04/2026 |
 | siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”: art. 73 (Secc. IX), art. 95 (Secc. XI), art. 108 (Secc. XII), art. 111 (Secc. XIII), art. 124 (Secc. XIII) | modifica parcialmente | RG 1131/2026 | 7° | 29/04/2026 |
+| art. 82 (Secc. XI) | sustituye | RG 1145/2026 | 3° | 11/06/2026 |
+| art. 96 (Secc. XI) | sustituye | RG 1145/2026 | 4° | 11/06/2026 |
+| Secc. XVIII (completa) | incorpora | RG 1145/2026 | 5° | 11/06/2026 |
 
 ## Título II, Capítulo VI
 Archivo: `vigente/titulo-II/capitulo-VI.md`
