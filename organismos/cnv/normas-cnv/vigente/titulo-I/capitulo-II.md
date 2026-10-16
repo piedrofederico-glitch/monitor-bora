@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1131/2026 (BO 29/04/2026)
+Última modificación: RG 1139/2026 (BO 14/05/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -45,6 +45,8 @@ ARTÍCULO 2º.- A los fines de las presentes Normas y de las notas, informes, di
 “AIF” significa Autopista de la Información Financiera.
 
 “ALyC” significa Agente de Liquidación y Compensación.
+
+“ALyC I AGRO” significa Agente de Liquidación y Compensación Integral – Agroindustrial.
 
 “AN” significa Agente de Negociación.
 
@@ -106,11 +108,15 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “CPCE” significa el Consejo Profesional de Ciencias Económicas.
 
+“CSNU” significa Consejo de Seguridad de las Naciones Unidas.
+
 “CUIL” significa Clave Única de Identificación Laboral.
 
 “CUIT” significa Clave Única de Identificación Tributaria.
 
 “Custodio de FCIs” o “Sociedad Depositaria”, significa Agente de Custodia de productos de inversión colectiva de FCIs.
+
+“CVU” significa Clave Virtual Uniforme.
 
 “DDJJ” significa declaración jurada.
 
@@ -270,11 +276,13 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Otras Ofertas Públicas con Autorización Automática” significa el régimen de autorización automática previsto en la Sección X del Título II de estas Normas.
 
+“PEN” significa Poder Ejecutivo Nacional.
+
 “PFC” significa Plataforma de Financiamiento Colectivo.
 
 “PIC” se refiere a Producto de Inversión Colectiva.
 
-“PLAFTFP” y significa Prevención de Lavado de Activos y Financiación del Terrorismo.
+“PLA/FT/FP” significa Prevención del lavado de activos, financiación del terrorismo y de la proliferación de armas de destrucción masiva.
 
 “Precio Equitativo” significa el precio determinado de conformidad con lo establecido por la Ley de Mercado de Capitales y lo dispuesto en el Capítulo II del Título III de estas Normas.
 
@@ -287,6 +295,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 “Prospecto del Programa” significa el Prospecto confeccionado bajo un Programa Global o Programa de CEDEAR o CEVA.
 
 “PSAV” significa Proveedor de Servicios de Activos Virtuales.
+
+“PSP” significa Proveedor de Servicio de Pago.
 
 “PyME CNV Garantizada” significa la Emisora que califica como PyME y que emite Obligaciones Negociables conforme al régimen previsto en el Capítulo V del Título II de estas Normas, bajo el régimen de Oferta Pública de ON con Autorización Automática por su Bajo Impacto o que emitieron con anterioridad bajo el Régimen previsto en el Capítulo VI del Título II de estas Normas.
 
@@ -391,6 +401,10 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos “ACyR”, “CABA”, “CPCCN”, “FCICI”, “RG” y “ROS” incorporados por art. 2° de la RG 1131/2026, BO 29/04/2026]
 
 [Definiciones “ACD” (antes “ACyD”), “ACDI” (antes “ACyDI”) y “LPA” sustituidas por art. 3° de la RG 1131/2026, BO 29/04/2026]
+
+[Términos “ALyC I AGRO”, “CSNU”, “CVU”, “PEN” y “PSP” incorporados por art. 1° de la RG 1139/2026, BO 14/05/2026]
+
+[Definición de “PLAFTFP” sustituida por “PLA/FT/FP” por art. 2° de la RG 1139/2026, BO 14/05/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

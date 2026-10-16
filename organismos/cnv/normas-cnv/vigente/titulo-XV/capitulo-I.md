@@ -1,5 +1,5 @@
 # Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV
-Última modificación: RG 1130/2026 (BO 28/04/2026)
+Última modificación: RG 1139/2026 (BO 14/05/2026)
 Fuente: PDF base, págs. 862–884.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -1732,6 +1732,30 @@ S) PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES:
 
 22) PSAV_018 - Acta Constitutiva y Estatuto vigente PSAV.
 
+T) SUJETOS OBLIGADOS PLA/FT/FP.
+
+1) LAV029 - Beneficiarios Finales.
+
+2) LAV006 - Oficiales de Cumplimiento.
+
+3) LAV005 - Identificación de la Sociedad y Acuerdos de Reciprocidad.
+
+4) LAV007 - Manual de Procedimientos para la PLA/FT/FP.
+
+5) LAV012 - Autoevaluación de Riesgo.
+
+6) LAV016 - Informe de Control Interno PLA/FT/FP.
+
+7) LAV014 - Declaración de Tolerancia al Riesgo.
+
+8) LAV025 - Calificación y Segmentación de Clientes.
+
+9) LAV026 - Monitoreo de la Operatoria.
+
+10) LAV027 - Personas Expuestas Políticamente
+
 [Subinciso 44) del inciso L) incorporado por art. 2° de la RG 1122/2026, BO 31/03/2026]
 
 [Subincisos 45), 46) y 47) del inciso L) incorporados por art. 4° de la RG 1130/2026, BO 28/04/2026]
+
+[Inciso T) incorporado por art. 4° de la RG 1139/2026, BO 14/05/2026]

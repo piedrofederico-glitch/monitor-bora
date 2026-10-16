@@ -33,6 +33,8 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), definiciones “ACD”, “ACDI” y “LPA” | modifica parcialmente | RG 1131/2026 | 3° | 29/04/2026 |
 | art. 3° (Secc. III), expresión “Agentes inscriptos...” | modifica parcialmente | RG 1131/2026 | 4° | 29/04/2026 |
 | art. 3° (Secc. III), 4 expresiones nuevas | modifica parcialmente | RG 1131/2026 | 5° | 29/04/2026 |
+| art. 2° (Secc. II), términos “ALyC I AGRO”, “CSNU”, “CVU”, “PEN” y “PSP” | modifica parcialmente | RG 1139/2026 | 1° | 14/05/2026 |
+| art. 2° (Secc. II), definición “PLAFTFP” → “PLA/FT/FP” | modifica parcialmente | RG 1139/2026 | 2° | 14/05/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -295,6 +297,7 @@ Archivo: `vigente/titulo-XI/titulo-XI.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | Secc. VI (completa) | incorpora | RG 1108/2026 | 2° | 20/02/2026 |
+| título completo | sustituye | RG 1139/2026 | 3° | 14/05/2026 |
 
 ## Título XII, Capítulo V
 Archivo: `vigente/titulo-XII/capitulo-V.md`
@@ -338,6 +341,7 @@ Archivo: `vigente/titulo-XV/capitulo-I.md`
 |---|---|---|---|---|
 | art. 11 (Secc. IV), inc. L), subinc. 44) | modifica parcialmente | RG 1122/2026 | 2° | 31/03/2026 |
 | art. 11 (Secc. IV), inc. L), subincs. 45) a 47) | modifica parcialmente | RG 1130/2026 | 4° | 28/04/2026 |
+| art. 11 (Secc. IV), inc. T) | modifica parcialmente | RG 1139/2026 | 4° | 14/05/2026 |
 
 ## Título XVI, Capítulo I
 Archivo: `vigente/titulo-XVI/capitulo-I.md`
@@ -405,6 +409,13 @@ Archivo: `vigente/titulo-XVIII/capitulo-V.md`
 | art. 25 | incorpora | RG 1130/2026 | 5° | 28/04/2026 |
 | art. 26 | incorpora | RG 1130/2026 | 5° | 28/04/2026 |
 | art. 27 | incorpora | RG 1130/2026 | 5° | 28/04/2026 |
+
+## Título XVIII, Capítulo X
+Archivo: `vigente/titulo-XVIII/capitulo-X.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1139/2026 | 5° | 14/05/2026 |
 
 ## Título XVIII, Capítulo XI
 Archivo: `vigente/titulo-XVIII/capitulo-XI.md`

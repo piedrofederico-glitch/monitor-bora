@@ -1,252 +1,242 @@
-# Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO (PLAyFT)
-Última modificación: RG 1108/2026 (BO 20/02/2026)
-Fuente: PDF base, págs. 755–764.
+# Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA.
+Última modificación: RG 1139/2026 (BO 14/05/2026)
+Fuente: RG 1139/2026, art. 3°.
 
 ### SECCIÓN I — NORMATIVA APLICABLE Y SUJETOS ALCANZADOS.
 
-ARTÍCULO 1°. – A partir de la entrada en vigencia del Decreto N° 891/2024, conforme las definiciones contenidas en la Ley N° 26.831 y en las reglamentaciones dictadas por este organismo, se entenderá que dentro de la categoría de sujetos obligados que actúan en el ámbito del mercado de capitales, mencionados en los incisos 7, 8, y 13 del artículo 20 de la Ley Nº 25.246, se encuentran comprendidos los siguientes:
+ARTÍCULO 1°.– Los sujetos obligados que actúan en el ámbito del mercado de capitales, mencionados en los incisos 7, 8, y 13 del artículo 20 de la Ley de Lavado, comprenden las siguientes categorías:
 
-a) Agentes de Negociación;
+1. AN;
 
-b) Agentes de Liquidación y Compensación y demás intermediarios que cumplan funciones equivalentes;
+2. ALyC y demás intermediarios que cumplan funciones equivalentes;
 
-c) Agentes de colocación y distribución que actúen en la colocación de Fondos Comunes de Inversión o de otros productos de inversión colectiva;
+3. ACD que actúen en la colocación de FCI o de otros PIC;
 
-d) Agentes Asesores Globales de Inversión y demás personas jurídicas a cargo de la apertura del legajo e identificación del perfil de riesgo del cliente en materia de prevención de lavado de activos, financiamiento del terrorismo y de la proliferación de armas de destrucción masiva;
+4. AAGI y demás personas jurídicas a cargo de la apertura del legajo e identificación del perfil de riesgo del cliente en materia de PLA/FT/FP;
 
-e) Fiduciarios financieros contemplados en el Capítulo 30 del Título IV del Libro Tercero del Código Civil y Comercial de la Nación y sus modificaciones, que actúen en ese carácter en fideicomisos financieros con oferta pública autorizada por la Comisión;
+5. Fiduciarios Financieros contemplados en el Capítulo 30 del Título IV del Libro Tercero del CCCN, que actúen en ese carácter en FF con oferta pública autorizada por la CNV;
 
-f) Plataformas de Financiamiento Colectivo y demás personas jurídicas autorizadas por la Comisión para actuar en el marco de sistemas de financiamiento colectivo a través del uso de portales web u otros medios análogos, con el objeto principal de poner en contacto, de manera profesional, a una pluralidad de personas humanas y/o jurídicas que actúan como inversores con personas humanas y/o jurídicas que solicitan financiación en calidad de emprendedores de financiamiento colectivo; y
+6. PFC y demás personas jurídicas autorizadas por la CNV para actuar en el marco de sistemas de financiamiento colectivo a través del uso de portales web u otros medios análogos, con el objeto principal de poner en contacto, de manera profesional, a una pluralidad de personas humanas o jurídicas que actúan como inversores con personas humanas o jurídicas que solicitan financiación en calidad de emprendedores de financiamiento colectivo; y
 
-g) Proveedores de Servicios de Activos Virtuales.
+7. PSAV.
 
-No se considerará como sujeto obligado a aquellos Agentes registrados ante la Comisión bajo la subcategoría de Agentes de Liquidación y Compensación –Participante Directo-, siempre que su actuación se limite exclusivamente a registrar operaciones en contratos de futuros y contratos de opciones sobre futuros, negociados en mercados bajo supervisión de esta Comisión, por cuenta propia y con fondos propios; y no ofrezcan servicios de intermediación, ni la apertura de cuentas operativas a terceros para cursar órdenes y operar los instrumentos señalados; ello en atención a lo dispuesto en el Título VII de las presentes Normas. Los sujetos obligados deberán observar lo establecido en la Ley Nº 25.246, en las normas reglamentarias y comunicaciones emitidas por la Unidad de Información Financiera (UIF) y en las presentes Normas. Ello incluye los decretos del Poder Ejecutivo Nacional (PEN) referidos a las decisiones adoptadas por el Consejo de Seguridad de las Naciones Unidas, en la lucha contra el terrorismo, y el cumplimiento de las Resoluciones (con sus Anexos) del Ministerio de Relaciones Exteriores y Culto (o la autoridad de aplicación que en el futuro resulte continuadora a todos sus efectos), y a aquellos en los cuales se remarca el compromiso asumido por la República Argentina en la lucha contra el terrorismo y su financiamiento, teniendo en cuenta para ello la creación del Registro Público de Personas y Entidades vinculadas a actos de Terrorismo y su Financiamiento (RePET) dispuesto por el Decreto Nº 489/2019.
+No se considerará como sujeto obligado a aquellos Agentes registrados ante la CNV bajo la subcategoría de ALyC –Participante Directo-, siempre que su actuación se limite exclusivamente a registrar operaciones en contratos de futuros y contratos de opciones sobre futuros, negociados en mercados bajo supervisión de la CNV, por cuenta propia y con fondos propios; y no ofrezcan servicios de intermediación, ni la apertura de cuentas operativas a terceros para cursar órdenes y operar los instrumentos señalados; ello en atención a lo dispuesto en el Título VII de estas Normas.
 
-Por otra parte, en virtud de la condición de sujeto obligado de la Comisión Nacional de Valores conforme lo dispuesto en el artículo 20, inciso 20) de la Ley Nº 25.246, de acuerdo con lo exigido en el artículo 21, inciso a) de la citada ley y en el marco de las reglamentaciones dictadas por la UIF aplicables a este organismo, las emisoras deberán presentar a la Comisión la documentación respaldatoria a fin de verificar el origen lícito de los fondos involucrados en aportes de capital, aportes irrevocables a cuenta de futuras emisiones de acciones o préstamos significativos que reciban, como así también la identidad de los sujetos involucrados en dichas operaciones.
+Los sujetos obligados deberán observar lo establecido en la Ley de Lavado, en las normas reglamentarias y comunicaciones emitidas por la UIF y en estas Normas. Ello incluye los decretos del PEN referidos a las decisiones adoptadas por el CSNU, en la lucha contra el financiamiento del terrorismo y la proliferación de armas de destrucción masiva, y el cumplimiento de las Resoluciones (con sus Anexos) del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto (o la autoridad de aplicación que en el futuro resulte continuadora a todos sus efectos), y a aquellos en los cuales se remarca el compromiso asumido por la República Argentina en la lucha contra el terrorismo, la proliferación de armas de destrucción masiva y su financiamiento, teniendo en cuenta para ello el RePET dispuesto por el Decreto Nº 489/2019.
 
-ARTÍCULO 2°. – Los sujetos obligados mencionados en el artículo anterior, deberán remitir por medio de la Autopista de la Información Financiera, en los términos del contenido de los Formularios que se identifican para cada caso en el Anexo I del presente Título, la siguiente información y documentación:
+Por otra parte, en virtud de la condición de sujeto obligado de la CNV conforme lo dispuesto en el artículo 20, inciso 20) de la Ley de Lavado, de acuerdo con lo exigido en el artículo 21, inciso a) de la citada ley y en el marco de las reglamentaciones dictadas por la UIF aplicables a la Comisión, las Emisoras deberán presentar a la CNV la documentación respaldatoria a fin de verificar el origen lícito de los fondos involucrados en aportes de capital, aportes irrevocables a cuenta de futuras emisiones de acciones o préstamos significativos que reciban, como así también la identidad de los sujetos involucrados en dichas operaciones.
 
-1) Comité de PLAyFT (artículo 14 de la Resolución UIF N° 21/2018 y mod.).
+ARTÍCULO 2°.– Los sujetos obligados mencionados en el artículo anterior, deberán remitir por medio de la AIF, en los términos del contenido de los Formularios que se identifican para cada caso en el Anexo I del presente Título, la siguiente información y documentación:
 
-2) Comité de Riesgo PLAyFT (segundo párrafo del artículo 14 de la Resolución UIF N° 21/2018 y mod.).
+1. Beneficiarios Finales (conforme artículo 2° de la Resolución UIF N° 112/2021).
 
-3) Estructura Societaria de PLAyFT (artículo 9° de la Resolución UIF N° 21/2018 y mod.).
+2. Oficiales de Cumplimiento (conforme artículo 11 de la Resolución UIF N° 78/2023 o, en su caso, de la Resolución UIF N° 49/2024), siendo válidas las notificaciones realizadas al correo electrónico declarado en el formulario correspondiente.
 
-4) Identificación de la Sociedad y Acuerdos de Reciprocidad (artículo 21 de la Resolución UIF N° 21/2018 y mod.).
+3. Acuerdos de Reciprocidad (conforme artículo 13 de la Resolución UIF N° 78/2023 o, en su caso, de la Resolución UIF N° 49/2024).
 
-5) Oficiales de Cumplimiento (artículo 11 de la Resolución UIF N° 21/2018 y mod.).
+4. Manual de PLA/FT/FP (conforme artículo 9° de la Resolución UIF N° 78/2023 o, en su caso, de la Resolución UIF N° 49/2024).
 
-6) Manual de Procedimientos para la PLAyFT (artículo 8° de la Resolución UIF N° 21/2018 y mod.).
+5. Informe Técnico de Autoevaluación de Riesgo (conforme artículo 5° de la Resolución UIF N° 78/2023 o, en su caso, de la Resolución UIF N° 49/2024).
 
-7) Código de Conducta para la PLAyFT (artículo 20 de la Resolución UIF N° 21/2018 y mod.).
+6. Informe de Control Interno de PLA/FT/FP (conforme inciso b) del artículo 19 de la Resolución UIF N° 78/2023 o, en su caso, la Resolución UIF N° 49/2024).
 
-8) Cursada de la Capacitación (inciso 2 del artículo 18 y, artículo 26 de la Resolución UIF N° 21/2018 y mod.).
+7. Declaración de Tolerancia al Riesgo (conforme artículo 6 de la Resolución UIF N° 78/2023 o, en su caso, la Resolución UIF N° 49/2024).
 
-9) Programa Anual de Capacitaciones Internas (inciso o) del artículo 7° y artículo 18 de la Resolución UIF N° 21/2018 y mod.).
+8. Calificación y Segmentación de Clientes (conforme artículo 26 de la Resolución UIF N° 78/2023, o en su caso, de la Resolución UIF N° 49/2024).
 
-10) Autoevaluación de Riesgo (inciso d) del artículo 4° de la Resolución UIF N° 21/2018 y mod.).
+9. Monitoreo de la Operatoria (conforme artículo 34 de la Resolución UIF N° 78/2023 o, en su caso, de la Resolución UIF N° 49/2024).
 
-11) Debida Diligencia Previa de Otro SO en PLAyFT (artículo 13 de la Resolución UIF N° 21/2018 y mod.).
+10. Personas Expuestas Políticamente (PEP) (conforme Resolución UIF N° 35/2023 y sus modificatorias).
 
-12) Externalización de Tareas de PLAyFT (artículo 16 de la Resolución UIF N° 21/2018 y mod.).
+La información comprendida en el inciso 1 del presente artículo, deberá ser actualizada ante toda modificación y/o cambio del/la Beneficiario/a Final en un plazo máximo de TREINTA (30) días corridos de ocurrido el mismo.
 
-13) Informe de Control Interno de PLAyFT (inciso b) del artículo 19 de la Resolución UIF N° 21/2018 y mod.).
+La información comprendida en el inciso 2 del presente artículo, deberá ser actualizada dentro de los 5 (CINCO) días posteriores a su inscripción en la UIF.
 
-14) Informe de Revisión Externa de PLAyFT (inciso a) del artículo 19 de la Resolución UIF N° 21/2018 y mod.).
+La información comprendida en los incisos 3, 8, 9 y 10 del presente artículo, deberá ser actualizada cada 6 (SEIS) meses.
 
-15) Perfiles Transaccionales (artículo 32 de la Resolución UIF N° 21/2018 y mod.).
+La información comprendida en el inciso 4 del presente artículo, deberá ser remitida en un plazo máximo de DIEZ (10) días corridos de ocurrida su actualización.
 
-16) Políticas de Parametrización de Matriz de Riesgo el (artículo 22 de la Resolución UIF N° 21/2018 y mod.).
+La información comprendida en los incisos 5 y 7, del presente artículo deberá ser actualizada anualmente, de acuerdo con lo establecido por la UIF.
 
-17) Procedimientos de Gestión de Alertas (inciso f) del artículo 36 de la Resolución UIF N° 21/2018 y mod.).
-
-18) Registro de Alertas (inciso e) del artículo 36 de la Resolución UIF N° 21/2018 y mod.).
-
-19) Sistemas Monitoreo Transaccional Análisis (artículo 36 de la Resolución UIF N° 21/2018 y mod.).
-
-La información comprendida en los incisos 1), 2), 3), 4), 6), 7), 9), 11), 12) 15), 16) 17) 18) y 19) deberá ser actualizada en oportunidad de eventuales modificaciones, dentro de los DIEZ (10) días hábiles de aprobadas por el órgano de administración del sujeto obligado.
-
-La información dispuesta en el inciso 5) deberá ser actualizada dentro de los DIEZ (10) días posteriores a su inscripción en la UIF.
-
-La información dispuesta en el inciso 8) deberá se actualizada dentro de los DIEZ (10) días posteriores al dictado de las capacitaciones.
-
-La información dispuesta en el inciso 10) deberá se actualizada anualmente hasta el día 30 de abril, de acuerdo a lo establecido por la UIF.
-
-La información dispuesta en el inciso 13) deberá ser actualizada dentro de los DIEZ (10) días de informada al oficial de cumplimiento y comité de PLAyFT.
-
-La información dispuesta en el inciso 14) deberá se actualizada anualmente hasta el día 28 de agosto, de acuerdo a los plazos establecidos por la UIF.
+La información comprendida en el inciso 6 del presente artículo, deberá ser actualizada dentro de los DIEZ (10) días corridos de informada al oficial de cumplimiento y al comité de PLA/FT/FP.
 
 ### SECCIÓN II — MODALIDADES DE PAGO Y PROCEDIMIENTOS DE CONTROL PARA LA RECEPCIÓN Y ENTREGA DE FONDOS DE Y HACIA CLIENTES.
 
-ARTÍCULO 3°. – Los Agentes de Liquidación y Compensación y las personas humanas y/o jurídicas registradas ante la Comisión que actúen en la colocación de Fondos Comunes de Inversión o de otros productos de inversión colectiva autorizados por el Organismo, se ajustarán a lo siguiente en materia de recepción y entrega de fondos a clientes:
+ARTÍCULO 3°.– Los sujetos obligados registrados ante CNV, según corresponda, se ajustarán a lo siguiente en materia de recepción y entrega de fondos a clientes:
 
-a) Efectivo.
+1. Cheques.
 
-i. Recibos de clientes. Sólo podrán recibir por cliente y por día en efectivo el valor en pesos, o su equivalente en moneda extranjera, establecido en el artículo 1º de la Ley Nº 25.345.
+a) Recibos de clientes. Deberán estar librados contra cuentas corrientes abiertas en entidades financieras del país autorizadas por el BCRA, de titularidad o cotitularidad del cliente. Asimismo, siempre que exista manifestación fehaciente del cliente en este sentido, los cheques podrán estar librados a favor del cliente, con endoso completo.
 
-ii. Pagos a clientes. Sólo podrán pagar por cliente y por día en efectivo el valor en pesos, o equivalente en moneda extranjera, establecido en el artículo 1º de la Ley Nº 25.345. Cuando por cliente y por día los fondos recibidos o pagados por los sujetos excedan el importe establecido por la citada normativa, la entrega por el cliente o el pago a éstos deberá ajustarse a alguna de las formas previstas a continuación:
+b) Pagos a clientes. Los cheques utilizados para pagar a clientes deberán ser librados a la orden del cliente “cruzados”, para ser depositados en cuenta o bien con cláusula “no a la orden”.
 
-b) Cheques.
+c) Cuando los recibos o los pagos desde y hacia los clientes se realicen mediante el uso de cheques electrónicos, no se aplicarán limitaciones en materia de cantidad de endosos, debiendo garantizarse su trazabilidad tanto para la recepción como la entrega del instrumento.
 
-i. Recibos de clientes. Deberán estar librados contra cuentas corrientes abiertas en entidades financieras del país autorizadas por el BCRA, de titularidad o cotitularidad del cliente. Asimismo, siempre que exista manifestación fehaciente del cliente en este sentido, los cheques podrán estar librados a favor del cliente, con endoso completo.
+2. Transferencias en el país.
 
-ii. Pagos a clientes. Los cheques utilizados para pagar a clientes deberán ser librados a la orden del cliente “cruzados”, para ser depositados en cuenta o bien con cláusula “no a la orden”. Para los apartados a) y b) conjuntamente, los sujetos mencionados no podrán efectuar más de DOS (2) pagos de fondos por día y por cliente.
+a) Recibos de clientes. Deberán efectuarse desde cuentas bancarias a la vista de titularidad o cotitularidad del cliente, abiertas en entidades del país autorizadas por el BCRA o desde la CVU de la CUIT del cliente, siempre que permita la identificación y trazabilidad de transferencias de fondos desde cuentas a la vista abiertas en entidades del país autorizadas por el BCRA pertenecientes a un PSP.
 
-c) Transferencias en el país.
+Sin perjuicio de lo anterior, el ALyC I AGRO podrá recibir fondos de clientes, producto de las actividades de corretaje de granos, agropecuarias y agroindustriales en general o accesorias a éstas previstas en el artículo 5°, inciso d), del Capítulo II del Título VII de estas Normas, para su aplicación en el mercado de capitales, desde la cuenta bancaria de titularidad del ALyC afectada a tales actividades, debiendo garantizarse la trazabilidad desde su origen, dándose cumplimiento a lo dispuesto en el inciso c) del artículo 24 del Capítulo II del Título VII de estas Normas y permitiendo la identificación del originador/beneficiario mediante CUIT, nombre y apellido de cada uno de los clientes involucrados.
 
-i. Recibos de clientes. Deberán efectuarse desde cuentas bancarias a la vista de titularidad o cotitularidad del cliente, abiertas en entidades del país autorizadas por el BCRA o desde la Clave Virtual Uniforme (CVU) de la Clave Única de Identificación Tributaria (CUIT) del cliente, siempre que permita la identificación y trazabilidad de transferencias de fondos desde cuentas a la vista abiertas en entidades del país autorizadas por el BCRA pertenecientes a un Proveedor de Servicios de Pago (PSP).
+Asimismo, en aquellos casos en que el ALyC I AGRO haya celebrado un convenio para la liquidación y compensación de operaciones con un AN que desarrolle actividades de corretaje de granos, agropecuarias y agroindustriales en general o accesorias a éstas, previstas en el artículo 2° del Capítulo I del Título VII de estas Normas, el ALyC I AGRO podrá recibir los fondos pertenecientes a los clientes del AN para su aplicación en el mercado de capitales desde la cuenta bancaria específica de titularidad del AN afectada a las actividades mencionadas, debiendo garantizarse la trazabilidad desde su origen, dándose cumplimiento a lo dispuesto en el inciso c) del artículo 24 del Capítulo II del Título VII de estas Normas y permitiendo la identificación del originador/beneficiario de los fondos mediante CUIT, nombre y apellido de cada uno de los clientes del AN involucrados.
 
-Sin perjuicio de lo anterior, el ALyC I AGRO podrá recibir fondos de clientes, producto de las actividades de corretaje de granos, agropecuarias y agroindustriales en general y/o accesorias a éstas previstas en el artículo 5°, inciso d), del Capítulo II del Título VII de las NORMAS (N.T. 2013 y mod.), para su aplicación en el mercado de capitales, desde la cuenta bancaria de titularidad del ALyC afectada a tales actividades, debiendo garantizarse la trazabilidad desde su origen, dándose cumplimiento a lo dispuesto en el inciso c) del artículo 24 del Capítulo II del Título VII de las NORMAS (N.T. 2013 y mod.) y permitiendo la identificación del originador/beneficiario mediante CUIT, nombre y apellido de cada uno de los clientes involucrados.
+b) Pagos a clientes. Deberán cursarse hacia cuentas bancarias a la vista de titularidad o cotitularidad del cliente, abiertas en entidades del país autorizadas por el BCRA o hacia la CVU de la CUIT del cliente, siempre que permita la identificación y trazabilidad de transferencias de fondos hacia cuentas a la vista abiertas en entidades del país autorizadas por el BCRA pertenecientes a un PSP.
 
-Asimismo, en aquellos casos en que el ALyC I haya celebrado un convenio para la liquidación y compensación de operaciones con un AN que desarrolle actividades de corretaje de granos, agropecuarias y agroindustriales en general y/o accesorias a éstas, previstas en el artículo 2° del Capítulo I del Título VII de las presentes Normas, el ALyC I podrá recibir los fondos pertenecientes a los clientes del AN para su aplicación en el mercado de capitales desde la cuenta bancaria específica de titularidad del AN afectada a las actividades mencionadas, debiendo garantizarse la trazabilidad desde su origen, dándose cumplimiento a lo dispuesto en el inciso c) del artículo 24 del Capítulo II del Título VII de las NORMAS (N.T. 2013 y mod.) y permitiendo la identificación del originador/beneficiario de los fondos mediante CUIT, nombre y apellido de cada uno de los clientes del AN involucrados.
+Este requisito deberá ser cumplido por los ALyC independientemente de sus respectivas subcategorías o modalidades operativas en el marco de las Normas dictadas por la CNV.
 
-ii. Pagos a clientes. Deberán cursarse hacia cuentas bancarias a la vista de titularidad o cotitularidad del cliente, abiertas en entidades del país autorizadas por el BCRA o hacia la CVU de la CUIT del cliente, siempre que permita la identificación y trazabilidad de transferencias de fondos hacia cuentas a la vista abiertas en entidades del país autorizadas por el BCRA pertenecientes a un Proveedor de Servicios de Pago (PSP).
-
-Este requisito deberá ser cumplimentado por los ALyC independientemente de sus respectivas subcategorías y/o modalidades operativas en el marco de las Normas dictadas por el Organismo. Asimismo, los ALyC y las personas humanas y/o jurídicas registradas ante la Comisión que intervengan en la colocación de Fondos Comunes de Inversión o de otros productos de inversión colectiva autorizados por la Comisión, podrán realizar transferencias, por cuenta y orden de sus clientes, hacia cuentas bancarias a la vista de titularidad de otro de los sujetos antes mencionados, para ser acreditadas en la subcuenta que el mismo comitente emisor tenga abierta en el sujeto receptor de los fondos. Análogamente, el receptor de los fondos, podrá acreditar dicha transferencia en la cuenta del cliente, cuando provengan de cuentas bancarias a la vista de titularidad de otro de los sujetos mencionados en el presente artículo y sea transferida por cuenta y orden del mismo cliente.
+Asimismo, los ALyC y las personas jurídicas registradas ante la CNV que intervengan en la colocación de FCI o de otros PIC autorizados por la Comisión, podrán realizar transferencias, por cuenta y orden de sus clientes, hacia cuentas bancarias a la vista de titularidad de otro de los sujetos antes mencionados, para ser acreditadas en la subcuenta que el mismo comitente emisor tenga abierta en el sujeto receptor de los fondos. Análogamente, el receptor de los fondos podrá acreditar dicha transferencia en la cuenta del cliente, cuando provengan de cuentas bancarias a la vista de titularidad de otro de los sujetos mencionados en el presente artículo y sea transferida por cuenta y orden del mismo cliente.
 
 Sin perjuicio de lo mencionado precedentemente, los inversores extranjeros sometidos a una debida diligencia especial, conforme lo dispuesto por la UIF en la normativa específica dictada en la materia, podrán:
 
-a) Recibir y enviar trasferencias bancarias desde y hacia entidades reguladas por el BCRA que actúen en calidad de custodio local de tales inversores. Para ello, dichos inversores extranjeros deberán entregar a los ALyC una instrucción específica o permanente con los datos de la cuenta abierta en el custodio local.
+I. Recibir y enviar trasferencias bancarias desde y hacia entidades reguladas por el BCRA que actúen en calidad de custodio local de tales inversores. Para ello, dichos inversores extranjeros deberán entregar a los ALyC una instrucción específica o permanente con los datos de la cuenta abierta en el custodio local.
 
-b) Recibir y enviar trasferencias bancarias desde y hacia entidades reguladas por el BCRA, que actúen en calidad de custodio local de una entidad extranjera que participe como una “Entidad Financiera/Bancaria Del Extranjero” de tales inversores, definida en la Resolución de la UIF específica dictada en la materia. Para ello, dichos inversores extranjeros deberán entregar a los ALyC una instrucción específica o permanente con los datos de la cuenta abierta en un custodio local –entidad regulada por el BCRA- a nombre de la entidad extranjera que participe como una “Entidad Financiera/Bancaria Del Extranjero” de tales inversores, definida en la Resolución de la UIF específica dictada en la materia.
+II. Recibir y enviar trasferencias bancarias desde y hacia entidades reguladas por el BCRA, que actúen en calidad de custodio local de una entidad extranjera que participe como una “Entidad Financiera/Bancaria del Extranjero” de tales inversores, definida en la Resolución de la UIF específica en la materia. Para ello, dichos inversores extranjeros deberán entregar a los ALyC una instrucción específica o permanente con los datos de la cuenta abierta en un custodio local -entidad regulada por el BCRA- a nombre de la entidad extranjera que participe como una “Entidad Financiera/Bancaria del Extranjero” de tales inversores, definida en la Resolución de la UIF específica en la materia.
 
-En todos los casos, deberá observarse la normativa dictada por el BCRA en materia de liquidación de operaciones de compra /venta de títulos valores en moneda extranjera.
+En todos los casos, deberá observarse la normativa dictada por el BCRA en materia de liquidación de operaciones de compra/venta de títulos valores en moneda extranjera.
 
-ARTÍCULO 3° BIS. - Sin perjuicio del cumplimiento de las disposiciones establecidas en el artículo 3° precedente, el origen de los fondos aplicado a la operatoria en el mercado de capitales por subcuentas comitentes abiertas en el marco del régimen especial destinado a la operatoria de personas adolescentes a partir de los 13 años, deberá asimismo, ajustarse a lo dispuesto en la COMUNICACIÓN “A” 6700 y sus modificatorias del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA.
+ARTÍCULO 4°.- Sin perjuicio del cumplimiento de las disposiciones establecidas en el artículo 3° precedente, el origen de los fondos aplicado a la operatoria en el mercado de capitales por subcuentas comitentes abiertas en el marco del régimen especial destinado a la operatoria de personas adolescentes a partir de los TRECE (13) años, deberá, asimismo, ajustarse a lo dispuesto en la Comunicación “A” 6700 y sus modificatorias, del BCRA.
 
 ### SECCIÓN III — OPERACIONES REALIZADAS POR INVERSORES EXTRANJEROS.
 
-ARTÍCULO 4°.- Los sujetos obligados contemplados en los incisos 7, 8 y 13 del artículo 20 de la Ley N° 25.246 y mod., sólo podrán dar curso a operaciones en el ámbito de la oferta pública de valores negociables, contratos a término, futuros u opciones de cualquier naturaleza y otros instrumentos y productos financieros, cuando sean efectuadas u ordenadas por sujetos constituidos, domiciliados o que residan en dominios, jurisdicciones, territorios o Estados asociados que no se encuentren incluidos en el listado de jurisdicciones no cooperantes a los fines de la transparencia fiscal, en los términos del artículo 24 del Anexo Integrante del Decreto N° 862/2019 y sus modificatorias y/o que sean considerados como de Alto Riesgo por el GRUPO DE ACCION FINANCIERA INTERNACIONAL (GAFI).
+ARTÍCULO 5°.- Los sujetos obligados contemplados en los incisos 7, 8 y 13 del artículo 20 de la Ley de Lavado:
 
-Los sujetos comprendidos en los incisos 7, 8 y 13 del artículo 20 de la Ley Nº 25.246 y mod. podrán aplicar medidas de debida diligencia especial de identificación a inversores extranjeros en la República Argentina al momento de la apertura a distancia de las cuentas especiales de inversión, de acuerdo con lo dispuesto en la Resolución de la UIF específica dictada en la materia.
+1. Sólo podrán dar curso a operaciones en el ámbito de la oferta pública de valores negociables, contratos a término, futuros u opciones de cualquier naturaleza y otros instrumentos y productos financieros, cuando sean efectuadas u ordenadas por sujetos constituidos, domiciliados o que residan en dominios, jurisdicciones, territorios o Estados asociados que no se encuentren incluidos en el listado de jurisdicciones no cooperantes a los fines de la transparencia fiscal, en los términos del artículo 24 del Anexo integrante del Decreto N° 862/2019 y sus modificatorias o que sean considerados como de Alto Riesgo por el GAFI.
+
+2. Podrán aplicar medidas de debida diligencia especial de identificación a inversores extranjeros en la República Argentina al momento de la apertura a distancia de las cuentas especiales de inversión, de acuerdo con lo dispuesto en la Resolución de la UIF específica en la materia.
 
 ### SECCIÓN IV — REQUISITOS DE IDONEIDAD, INTEGRIDAD Y SOLVENCIA.
 
-ARTÍCULO 5°. – Las presentes disposiciones resultarán aplicables a todas las personas humanas, físicas, jurídicas, u otros entes asimilables, que aspiren a obtener la inscripción en los registros que lleva esta Comisión, para funcionar en alguna de las categorías de Agentes previstas en las NORMAS (N.T. 2013 y mod.) con la finalidad de llevar a cabo actividades correspondientes al desarrollo del mercado de capitales. Asimismo, serán aplicables a las compañías que requieran autorización para funcionar como mercados y cámaras compensadoras.
+ARTÍCULO 6°.– Las presentes disposiciones resultarán aplicables a todas las personas humanas, jurídicas, u otros entes asimilables, que aspiren a obtener la inscripción en los registros que lleva la CNV, para funcionar en alguna de las categorías de Agentes previstas en estas Normas con la finalidad de llevar a cabo actividades correspondientes al desarrollo del mercado de capitales. Asimismo, serán aplicables a las compañías que requieran autorización para funcionar como Mercados y Cámaras Compensadoras, y a los PSAV con las excepciones estipuladas en cada caso.
 
-ARTÍCULO 6º.- Con el fin de promover el adecuado funcionamiento del mercado de capitales, y con miras a proteger a su público inversor, la Comisión evaluará la idoneidad, integridad y solvencia de las personas humanas, jurídicas, u otros entes asimilables, que requieran autorización para realizar las actividades mencionadas en el artículo anterior. Este régimen principalmente cumple la función de garantizar que los aspirantes cuentan con la idoneidad, integridad y solvencia requerida para el desarrollo adecuado de las actividades correspondientes al mercado de capitales.
+ARTÍCULO 7º.- Con el fin de promover el adecuado funcionamiento del mercado de capitales, y con miras a proteger al público inversor, la CNV evaluará la idoneidad, integridad y solvencia de las personas humanas, jurídicas, u otros entes asimilables, que requieran autorización para realizar las actividades mencionadas en el artículo anterior. Este régimen principalmente cumple la función de garantizar que los aspirantes cuentan con la idoneidad, integridad y solvencia requerida para el desarrollo adecuado de las actividades correspondientes al mercado de capitales.
 
-ARTÍCULO 7º.- La inscripción y registro por parte de la Comisión procederá, únicamente, respecto de aquellas personas humanas, jurídicas, u otros entes asimilables, que a juicio de la Comisión reúnan, entre otras, las condiciones de idoneidad, integridad y solvencia que se establecen en el presente Capítulo.
+ARTÍCULO 8º.- La inscripción y registro por parte de la CNV procederá, únicamente, respecto de aquellas personas humanas, jurídicas, u otros entes asimilables, que a juicio de la CNV reúnan, entre otras, las condiciones de idoneidad, integridad y solvencia que se establecen en el presente Capítulo.
 
-ARTÍCULO 8º.- En el supuesto de que se trate de personas jurídicas u otros entes asimilables, la evaluación se hará respecto de cada una de las personas humanas que se desempeñen como administradores, directores, gerentes y todas aquellas que desempeñen funciones directivas dentro de la entidad.
+ARTÍCULO 9º.- En el supuesto de que se trate de personas jurídicas u otros entes asimilables, la evaluación se hará respecto de cada una de las personas humanas que se desempeñen como administradores, directores y todas aquellas que desempeñen funciones directivas dentro de la entidad.
 
-Con respecto a los beneficiarios finales, la evaluación mencionada se realizará únicamente con respecto al cumplimiento del requisito de integridad.
+Con respecto a los Beneficiarios Finales, la evaluación mencionada se realizará únicamente con respecto al cumplimiento del requisito de integridad.
 
-Se entiende como Beneficiario/a Final a la/s persona/s humana/s que posea/n como mínimo el DIEZ POR CIENTO (10 %) del capital o de los derechos de voto de una persona jurídica, un fideicomiso, un fondo de inversión, un patrimonio de afectación y/o de cualquier otra estructura jurídica; y/o a la/s persona/s humana/s que por otros medios ejerza/n el control final, directo o indirecto, de las mismas, conforme lo dispuesto por el artículo 2° de la Resolución UIF N° 112/2021 y/o aquellas que en adelante la modifiquen, complementen o sustituyan.
+Se entiende como Beneficiario Final a la/s persona/s humana/s que posea/n como mínimo el DIEZ POR CIENTO (10%) del capital o de los derechos de voto de una persona jurídica, un fideicomiso, un fondo de inversión, un patrimonio de afectación o de cualquier otra estructura jurídica; o a la/s persona/s humana/s que por otros medios ejerza/n el control final, directo o indirecto, de las mismas, conforme lo dispuesto por el artículo 2° de la Resolución UIF N° 112/2021 o aquellas que en adelante la modifiquen, complementen o sustituyan.
 
-ARTÍCULO 9°. – Cualquier designación de administradores, directores, gerentes o personas con funciones directivas, que la entidad efectúe con posterioridad a la autorización, deberá ser notificada a la Comisión para que lleve a cabo la referida evaluación. De igual forma deberá notificarse respecto de los beneficiarios finales.
+ARTÍCULO 10.- Cualquier designación de administradores, directores o personas con funciones directivas, que la entidad efectúe con posterioridad a la autorización, deberá ser notificada a la CNV para que lleve a cabo la referida evaluación. De igual forma deberá notificarse respecto de los Beneficiarios Finales.
 
-ARTÍCULO 10.- La evaluación se realizará con atención a las características particulares de la actividad regulada de la que se trate, y será llevada a cabo tanto al momento del otorgamiento de la autorización para funcionar o del registro, como en momentos posteriores, ante la ocurrencia de nuevas designaciones en los cargos o funciones.
+ARTÍCULO 11.- La evaluación se realizará con atención a las características particulares de la actividad regulada de la que se trate, y será llevada a cabo tanto al momento del otorgamiento de la autorización para funcionar o del registro, como en momentos posteriores, ante la ocurrencia de nuevas designaciones en los cargos o funciones.
 
-A tal efecto, la Comisión considerará especialmente la idoneidad, integridad y solvencia de los sujetos, conforme se detalla a continuación:
+A tal efecto, la CNV considerará especialmente la idoneidad, integridad y solvencia de los sujetos, conforme se detalla a continuación:
 
-a) Idoneidad: Las personas humanas, jurídicas, u otros entes asimilables requirentes deberán demostrar que cuentan con las aptitudes y conocimientos necesarios para el adecuado ejercicio de la actividad respectiva, incluyendo, cuando resulte relevante, el conocimiento detallado de la estructura, propósito y riesgos de los productos asociados con su actividad. El sujeto requirente deberá actuar con pericia y de manera profesional y eficiente, dando cumplimiento a la normativa vigente. La naturaleza y grado de idoneidad requerida dependerá de los servicios que brinde el sujeto.
+1. Idoneidad: Las personas humanas, jurídicas, u otros entes asimilables requirentes deberán demostrar que cuentan con las aptitudes y conocimientos necesarios para el adecuado ejercicio de la actividad respectiva, incluyendo, cuando resulte relevante, el conocimiento detallado de la estructura, propósito y riesgos de los productos asociados con su actividad. El sujeto requirente deberá actuar con pericia y de manera profesional y eficiente, dando cumplimiento a la normativa vigente. Para la determinación de la idoneidad de los sujetos requirentes, éstos deberán presentar la documentación necesaria para que la CNV pueda valorar, como mínimo, los siguientes aspectos:
 
-En la determinación de la idoneidad de los sujetos requirentes, la Comisión valorará, como mínimo, los siguientes aspectos:
+a) Personas humanas: si el sujeto tiene experiencia o antecedentes satisfactorios en relación con el desarrollo de las actividades respectivas del mercado de capitales, o si tiene un apropiado nivel de especialización y conocimiento técnico que permita su autorización en el registro; lo cual se tendrá por acreditado, sin perjuicio de cualquier otra documentación pertinente a esos efectos, por alguno de los requisitos que se mencionan a continuación:
 
-1. Personas humanas: Si el sujeto tiene experiencia o antecedentes satisfactorios en relación con el desarrollo de las actividades respectivas del mercado de capitales, y/o si el sujeto tiene un apropiado nivel de especialización y conocimiento técnico que permita su autorización en el registro; lo cual se tendrá por acreditado, sin perjuicio de cualquier otra documentación pertinente a esos efectos, por alguno de los requisitos que se mencionan a continuación:
+1) Capacitación recibida o experiencia laboral;
 
-i) Capacitación recibida y/o Experiencia Laboral;
-
-ii) La constatación de su inscripción en el Registro de Idóneos de esta Comisión.
+2) La constatación de su inscripción en el Registro de Idóneos de la CNV.
 
 Se tendrá en cuenta también, para la acreditación de la idoneidad, si el solicitante proviene de una entidad financiera fiscalizada por el BCRA, valorándose el cargo o función ejercida en la misma, debiendo acompañarse la documentación que lo acredite.
 
-Los requisitos indicados en los apartados i) y ii) deberán ser acreditados con la documentación respectiva.
+Los requisitos indicados en los incisos 1) y 2) deberán ser acreditados con la documentación respectiva.
 
-2. Personas jurídicas: Aquéllos requirentes de inscripción que sean personas jurídicas deberán acreditar de forma fehaciente los extremos exigidos a las personas humanas en los términos descriptos en el apartado a) 1. respecto de, al menos, uno de los miembros del órgano de administración.
+b) Personas jurídicas: Aquellos requirentes de inscripción que sean personas jurídicas deberán acreditar de forma fehaciente los extremos exigidos a las personas humanas en los términos descriptos en el inciso 1. subinciso a) del presente artículo respecto de, al menos, uno de los miembros titulares del órgano de administración.
 
-b) Integridad: Las personas humanas, jurídicas, u otros entes asimilables requirentes, deberán contar con un adecuado estándar de integridad para poder desarrollar las actividades reguladas. A los fines de determinar si se cuenta con el nivel de integridad necesario para recibir autorización para funcionar u obtener el registro, la Comisión considerará:
+2. Integridad: Las personas humanas, jurídicas, u otros entes asimilables requirentes y sus Beneficiarios Finales, deberán contar con un adecuado estándar de integridad para poder desarrollar las actividades reguladas.
 
-i) Si ha sido condenado o procesado por algún delito doloso, particularmente por lavado de activos y/o financiación del terrorismo, o algún delito de naturaleza económica.
+Con respecto a las personas humanas, solicitantes y respecto de los miembros del órgano de administración y de los Beneficiarios Finales, cuando el solicitante se tratare de una persona jurídica, la CNV, a los fines de determinar si se cuenta con el nivel de integridad necesario para recibir autorización para funcionar u obtener el registro, considerará:
+
+a) Si ha sido condenado o procesado por algún delito doloso, particularmente por lavado de activos, financiación del terrorismo y de la proliferación de armas de destrucción masiva, o algún delito de naturaleza económica.
 
 A los fines de acreditar el cumplimiento de este requisito se deberá presentar:
 
-- Declaración Jurada y;
+1) DDJJ en relación a la PLA/FT/FP y;
 
-- Certificado de Antecedentes Penales correspondiente.
+2) Certificado de antecedentes penales actualizado.
 
-ii) Asimismo, se constatará que el sujeto no se encuentre mencionado en las listas de terroristas elaboradas por el Consejo de Seguridad de las Naciones Unidas, y aquéllas organizaciones terroristas consideradas por el Estado Nacional, teniendo en cuenta para ello la creación del Registro Público de Personas y Entidades vinculadas a actos de Terrorismo y su Financiamiento (RePET) dispuesto por el Decreto Nº 489/2019 (B.O. 17-7-19).
+3) DDJJ sobre la condición de PEP, que deberá ajustarse a los lineamientos formales que establece la UIF.
 
-Salvo en el supuesto de encontrarse incluido en las listas referidas, la Comisión analizará estos aspectos en base a una valoración “caso por caso”, teniendo en cuenta la seriedad y las circunstancias que rodearon la comisión del delito, el descargo o defensa esgrimida, la relación entre el delito y la actividad que aspira desarrollar, el transcurso del tiempo desde la comisión del delito y la evidencia existente acerca de su rehabilitación. La Comisión ponderará, además, si la persona ha transgredido normas o estuvo vinculada a prácticas comerciales deshonestas. La Comisión considerará tales antecedentes como indicadores para evaluar si la persona es apta o adecuada para proceder a su inscripción en el registro.
+b) Asimismo, se constatará que el sujeto no se encuentre mencionado en las listas elaboradas por el CSNU, y aquellas organizaciones terroristas consideradas por el Estado Nacional, teniendo en cuenta el RePET.
 
-c) Solvencia: Se analizará si el sujeto cuenta con antecedentes comerciales negativos, de manera que se pueda determinar su prudencia para la administración financiera. En este sentido, se evaluará si se registran antecedentes de mora injustificada en el vencimiento de sus obligaciones comerciales o crediticias, si ha recibido condenas en pleitos económicos o vinculados al cobro de deudas, si ha sido declarado en quiebra o recibido reiterados secuestros o embargos de bienes. Para la acreditación del cumplimiento de este requisito, el solicitante deberá presentar un informe de antecedentes comerciales actualizado.
+3. Solvencia: se analizará si el sujeto cuenta con antecedentes comerciales negativos, de manera que se pueda determinar su prudencia para la administración financiera. En este sentido, se evaluará si se registran antecedentes de mora injustificada en el vencimiento de sus obligaciones comerciales o crediticias, si ha recibido condenas en pleitos económicos o vinculados al cobro de deudas, si ha sido declarado en quiebra o recibido reiterados secuestros o embargos de bienes.
 
-ARTÍCULO 11.- Las personas autorizadas por la Comisión para realizar las actividades mencionadas en el artículo 5º de este Título, deberán conservar las condiciones de idoneidad, integridad y solvencia por las que han sido registradas o autorizadas a funcionar.
+Para la acreditación del cumplimiento de este requisito, la CNV verificará los antecedentes comerciales en bases de datos públicas y privadas para el caso de solicitantes que posean un CUIL, CUIT o CDI. En su defecto, el solicitante deberá presentar un informe de antecedentes comerciales actualizado.
 
-El incumplimiento de este deber, cuando resulte relevante, de acuerdo a los parámetros establecidos en este Título, podrá importar la caducidad de la inscripción en el registro de esta Comisión.
+ARTÍCULO 12.- Las personas autorizadas por la CNV para realizar las actividades mencionadas en el artículo 6º de este Título, deberán conservar las condiciones de idoneidad, integridad y solvencia por las que han sido registradas o autorizadas a funcionar.
 
-A los efectos de evaluar si la persona conserva la idoneidad e integridad necesarias para el desarrollo de la actividad respectiva, serán especialmente valoradas las comunicaciones que la UIF remita a la Comisión Nacional de Valores, en relación con las sanciones que aquella aplique por violación a las obligaciones emanadas de sus resoluciones y/o de la normativa vigente en materia de prevención y lucha contra el lavado de activos y financiación del terrorismo.
+El incumplimiento de este deber, de acuerdo con los parámetros establecidos en este Título, importará la caducidad de la inscripción en el registro de la CNV.
+
+A los efectos de evaluar si la persona conserva la idoneidad e integridad necesarias para el desarrollo de la actividad respectiva, serán especialmente valoradas las comunicaciones que la UIF remita a la CNV, en relación con las sanciones que aplique por violación a las obligaciones emanadas de sus resoluciones o de la normativa vigente en materia de PLA/FT/FP.
 
 EMISORAS.
-ARTÍCULO 12.- La Comisión no autorizará la oferta pública de valores en los supuestos en que una entidad emisora y/o sus beneficiarios finales, registren condenas por delitos de lavado de activos y/o financiamiento del terrorismo y/o figuren en las listas de terroristas y organizaciones terroristas emitidas por el Consejo de Seguridad de las Naciones Unidas, teniendo en cuenta para ello la creación del Registro Público de Personas y Entidades vinculadas a actos de Terrorismo y su Financiamiento (RePET) dispuesta por el Decreto Nº 489/2019 (B.O. 17-7-19).
+ARTÍCULO 13.- La CNV no autorizará la oferta pública de valores en los supuestos en que una entidad Emisora o sus Beneficiarios Finales, registren condenas por delitos de lavado de activos, financiación del terrorismo y de la proliferación de armas de destrucción masiva o figuren en las listas de terroristas y organizaciones terroristas emitidas por el CSNU, teniendo en cuenta para ello RePET.
 
-### SECCIÓN V — DIFUSIÓN DE COMUNICADOS DE CARÁCTER PREVENTIVO.
+### SECCIÓN V — REGLAMENTACIÓN DEL RÉGIMEN DE DDJJ SIMPLIFICADA PARA EL IMPUESTO A LAS GANANCIAS.
 
-ARTÍCULO 13.- A los fines de fortalecer los mecanismos de protección y prevención de abusos y riesgos en materia de PLAyFT contra el público inversor la Comisión publicará y difundirá a través de su sitio de internet www.cnv.gob.ar:
+ARTÍCULO 14.- El siguiente será el régimen aplicable al ingreso de fondos y/o activos al sistema financiero de aquellas personas humanas o sucesiones indivisas residentes en el país (los “Clientes”) que se encuentren adheridos al “Régimen de DDJJ Simplificada para el Impuesto a las Ganancias”, establecido en el marco de las disposiciones de la Ley de Régimen Penal Tributario, del Decreto N° 93/2026 y de la Resolución General N° 5820 de ARCA, en los términos dispuestos por dicha normativa.
 
-a) Las sanciones que aplique la UIF en materia de prevención del lavado de activos y de la financiación del terrorismo, respecto de los sujetos que actúen bajo la órbita de la competencia de la Comisión;
-
-b) Los comunicados que emita la Comisión donde alerte acerca de:
-
-i. riesgos y posibles prácticas abusivas y defraudatorias relacionadas con el mercado de capitales;
-
-ii. tipologías de lavado de activos y financiación del terrorismo relacionadas con el mercado de capitales y los productos y servicios ofrecidos por los distintos actores del mismo;
-
-iii. sanciones aplicadas por infracciones a la normativa vigente en materia de prevención del lavado de activos y de la financiación del terrorismo.
-
-### SECCIÓN VI — REGLAMENTACIÓN DEL RÉGIMEN DE DDJJ SIMPLIFICADA PARA EL IMPUESTO A LAS GANANCIAS.
-
-ARTÍCULO 14.- El siguiente será el régimen aplicable al ingreso de fondos y/o activos al sistema financiero de aquellas personas humanas o sucesiones indivisas residentes en el país (los “Clientes”) que se encuentren adheridas al “Régimen de Declaración Jurada Simplificada para el Impuesto a las Ganancias”, establecido en el marco de las disposiciones de la Ley de Régimen penal Tributario, del Decreto N° 93/2026 y de la Resolución General N° 5820 de ARCA, en los términos dispuestos por dicha normativa.
-
-ARTÍCULO 15.- No serán de aplicación las limitaciones de monto a los depósitos en efectivo dispuestas por el artículo 3° de la Sección II del Título XI de estas Normas, a los Clientes que realicen depósitos en efectivo en las cuentas bancarias de los sujetos obligados indicados en el artículo 1° del presente Título (colectivamente, los “Sujetos”), abiertas en entidades financieras del país autorizadas por el BCRA, siempre que actúen en la entrega y recepción de fondos y que cumplan con los requisitos del artículo 17 de la presente Sección.
+ARTÍCULO 15.- Los clientes que se encuentren adheridos al “Régimen de DDJJ Simplificada para el Impuesto a las Ganancias”, podrán realizar depósitos en efectivo en las cuentas bancarias de los sujetos obligados indicados en el artículo 1° del presente Título (colectivamente, los “Sujetos”), abiertas en entidades financieras del país autorizadas por el BCRA, siempre que actúen en la entrega y recepción de fondos y que cumplan con los requisitos del artículo 17 de la presente Sección.
 
 ARTÍCULO 16.- Los Sujetos podrán recibir fondos y/o activos de los Clientes que adhieran al Régimen de DDJJ Simplificada para el Impuesto a las Ganancias y que cumplan con el artículo 17 de la presente Sección, de las siguientes maneras:
 
 1. Depósitos en efectivo.
 
-2. Transferencia de valores negociables desde y hacia subcuentas comitentes abiertas bajo su titularidad o cotitularidad en los agentes intervinientes en la colocación de FCI o en los ALyC.
+2. Transferencia de valores negociables desde y hacia subcuentas comitentes abiertas bajo su titularidad o cotitularidad en los Agentes intervinientes en la colocación de FCI o en los ALyC.
 
 3. Transferencia de Activos Virtuales desde y hacia cuentas abiertas bajo su titularidad o cotitularidad en los PSAV inscriptos en la CNV.
 
-En los casos de los incisos 2 y 3, las jurisdicciones de origen de las subcuentas comitentes o cuentas mencionadas, según sea el caso, no deberán pertenecer al listado de jurisdicciones no cooperantes a los fines de la transparencia fiscal - en los términos del artículo 24 del Anexo integrante del Decreto N° 862/2019- ni ser consideradas jurisdicciones de Alto Riesgo por el GAFI.
+En los casos de los incisos 2 y 3 precedentes, las jurisdicciones de origen de las subcuentas comitentes o cuentas mencionadas, según sea el caso, no deberán pertenecer al listado de jurisdicciones no cooperantes a los fines de la transparencia fiscal -en los términos del artículo 24 del Anexo integrante del Decreto N° 862/2019- ni ser consideradas jurisdicciones de Alto Riesgo por el GAFI.
 
 ARTÍCULO 17.- A fin de que resulten aplicables los artículos 15 y 16 de la presente Sección, los Clientes deberán cumplir con los requisitos que se indican a continuación:
 
-1. En todos los casos de ingreso de fondos y/o activos que se indican en el artículo 16 precedente, el Cliente deberá encontrarse adherido al “Régimen de DDJJ Simplificada para el Impuesto a las Ganancias”.
+1. En todos los casos de ingreso de fondos y/o activos que se indican en el artículo precedente, el Cliente deberá encontrarse adherido al “Régimen de DDJJ Simplificada para el Impuesto a las Ganancias”.
 
-2. En todos los casos de ingreso de fondos y/o activos que se indican en el artículo 16 de la presente Sección, el Cliente deberá ser titular o cotitular de -al menos- una cuenta comitente o una cuenta abierta en la entidad a la cual le realizará el depósito de efectivo, la transferencia de valores negociables o la transferencia de Activos Virtuales.
+2. En todos los casos de ingreso de fondos y/o activos que se indican en el artículo precedente, el Cliente deberá ser titular o cotitular de -al menos- una cuenta comitente o una cuenta abierta en el Sujeto en cuya cuenta se le realizará el depósito de efectivo, o al cual se le realizará la transferencia de valores negociables o la transferencia de Activos Virtuales.
 
-3. En los casos de ingreso de activos mediante la transferencia de valores negociables el Cliente deberá ser titular o cotitular de -al menos- una cuenta comitente en el ALyC o agentes intervinientes en la colocación de FCI al cual le transferirá los valores negociables.
+3. En los casos de ingreso de activos mediante la transferencia de valores negociables el Cliente deberá ser titular o cotitular de -al menos- una cuenta comitente en el ALyC o Agentes intervinientes en la colocación de FCI al cual le transferirá los valores negociables.
 
-4. En los casos de ingreso de activos mediante la transferencia de activos virtuales, el Cliente deberá ser titular o cotitular de -al menos- una cuenta abierta en el PSAV inscripto en la CNV al cual le transferirá los Activos Virtuales.
+4. En los casos de ingreso de activos mediante la transferencia de Activos Virtuales, el Cliente deberá ser titular o cotitular de -al menos- una cuenta abierta en el PSAV inscripto en la CNV al cual le transferirá los Activos Virtuales.
 
-Sin perjuicio de las disposiciones precedentes, deberá observarse en todo momento la normativa dictada por la UIF en materia de PLAFTFP y por la CNV en materia de suscripción de cuotapartes de FCI en moneda y en valores negociables y de segregación de cuentas propias como de terceros ya sea de fondos y/o de activos
+Sin perjuicio de las disposiciones precedentes, deberá observarse en todo momento la normativa dictada por la UIF en materia de PLA/FT/FP y por la CNV en materia de suscripción de cuotapartes de FCI en moneda y en valores negociables y de segregación de cuentas propias como de terceros ya sea de fondos y/o de activos.
 
-[Sección incorporada por art. 2° de la RG 1108/2026, BO 20/02/2026]
+### ANEXO I
 
-### ANEXO I FORMULARIOS PARA REMISIÓN DE INFORMACIÓN A TRAVÉS DE LA AUTOPISTA DE INFORMACIÓN FINANCIERA.
+FORMULARIOS PARA REMISIÓN DE INFORMACIÓN A TRAVÉS DE LA AIF.
 
 ```
-Artículo 2°, Formulario                              NOMBRE
- incisos:     Número:
-     1          464     Comité de PLAyFT
-      2        462      Comité de Riesgo PLAyFT
-      3        497      Estructura Societaria de PLAyFT
-      4        461      Identificación de la Sociedad y Acuerdos de Reciprocidad
-      5        300      Oficiales de Cumplimiento
-      6        465      Manual de Procedimientos para la PLAyFT
-      7        529      Código de Conducta para la PLAyFT
-      8        443      Cursada de la Capacitación
-      9        474      Programa Anual de Capacitaciones Internas
-      10       441      Autoevaluación de Riesgo
-      11       444      Debida Diligencia Previa de Otro SO PLAyFT
-      12       447      Externalización de Tareas PLAyFT
-      13       476      Informe de Control Interno PLAyFT
-      14       450      Informe de Revisión Externa de PLAyFT
-      15       507      Perfiles Transaccionales
-      16       511      Políticas de Parametrización de Matriz de Riesgo
-      17       451      Procedimientos de Gestión de Alarmas
-      18       516      Registro de Alertas
-      19       526      Sistemas de Monitoreo Transaccional Análisis
+ARTÍCULO             2°, FORMULARIO
+                                               NOMBRE
+incisos                  NÚMERO
+
+
+1                       LAV029                 Beneficiarios Finales
+
+
+2                       LAV006                 Oficiales de Cumplimiento
+
+
+                                               Identificación de la Sociedad y Acuerdos de
+3                       LAV005
+                                               Reciprocidad
+
+
+                                               Manual de        Procedimientos      para   la
+4                       LAV007
+                                               PLA/PL/FP
+
+
+5                       LAV012                 Autoevaluación de Riesgo
+
+
+6                       LAV016                 Informe de Control Interno PLA/FT/FP
+
+
+7                       LAV014                 Declaración de Tolerancia al Riesgo
+
+
+8                       LAV025                 Calificación y Segmentación de Clientes
+
+
+9                       LAV026                 Monitoreo de la Operatoria
+
+
+10                      LAV027                 Personas Expuestas Políticamente
 ```
+
+[Título sustituido por art. 3° de la RG 1139/2026, BO 14/05/2026]

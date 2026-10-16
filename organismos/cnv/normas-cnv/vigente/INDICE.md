@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1131/2026 (BO 29/04/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1139/2026 (BO 14/05/2026) |
 
 ## Título II — EMISORAS
 
@@ -99,11 +99,11 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 |---|---|---|
 | [`titulo-X/titulo-X.md`](titulo-X/titulo-X.md) | Título X — DEL REGISTRO DE MERCADOS, CÁMARAS COMPENSADORAS Y AGENTES BAJO COMPETENCIA DE LA GERENCIA DE AGENTES Y MERCADOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
-## Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO (PLAyFT)
+## Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XI/titulo-XI.md`](titulo-XI/titulo-XI.md) | Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO (PLAyFT) | RG 1108/2026 (BO 20/02/2026) |
+| [`titulo-XI/titulo-XI.md`](titulo-XI/titulo-XI.md) | Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA. | RG 1139/2026 (BO 14/05/2026) |
 
 ## Título XII — TRANSPARENCIA EN EL ÁMBITO DE LA OFERTA PÚBLICA
 
@@ -136,7 +136,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XV/capitulo-I.md`](titulo-XV/capitulo-I.md) | Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV | RG 1130/2026 (BO 28/04/2026) |
+| [`titulo-XV/capitulo-I.md`](titulo-XV/capitulo-I.md) | Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV | RG 1139/2026 (BO 14/05/2026) |
 | [`titulo-XV/capitulo-II.md`](titulo-XV/capitulo-II.md) | Título XV — Capítulo II: AGENTES DE ADMINISTRACIÓN DE PRODUCTOS DE INVERSIÓN COLECTIVA – FIDUCIARIOS FINANCIEROS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XV/capitulo-III.md`](titulo-XV/capitulo-III.md) | Título XV — Capítulo III: EMISORAS – OBLIGACIONES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
@@ -166,7 +166,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVIII/capitulo-VII.md`](titulo-XVIII/capitulo-VII.md) | Título XVIII — Capítulo VII: AGENTES DE CALIFICACIÓN DE RIESGOS (ACR). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-VIII.md`](titulo-XVIII/capitulo-VIII.md) | Título XVIII — Capítulo VIII: BOLSAS DE COMERCIO CON Y SIN MERCADO DE VALORES ADHERIDO. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-IX.md`](titulo-XVIII/capitulo-IX.md) | Título XVIII — Capítulo IX: DE LAS DENUNCIAS PENALES Y QUERELLAS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVIII/capitulo-X.md`](titulo-XVIII/capitulo-X.md) | Título XVIII — Capítulo X: PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIAMIENTO DEL TERRORISMO | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XVIII/capitulo-X.md`](titulo-XVIII/capitulo-X.md) | Título XVIII — Capítulo X: PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIAMIENTO DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA | RG 1139/2026 (BO 14/05/2026) |
 | [`titulo-XVIII/capitulo-XI.md`](titulo-XVIII/capitulo-XI.md) | Título XVIII — Capítulo XI: AGENTE DE CUSTODIA, REGISTRO Y PAGO | RG 1107/2026 (BO 13/02/2026) |
 | [`titulo-XVIII/capitulo-XII.md`](titulo-XVIII/capitulo-XII.md) | Título XVIII — Capítulo XII: MEDIDAS EN EL MARCO DEL AISLAMIENTO SOCIAL, PREVENTIVO Y OBLIGATORIO COVID-19 | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-XIII.md`](titulo-XVIII/capitulo-XIII.md) | Título XVIII — Capítulo XIII: AUDITORES EXTERNOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
