@@ -208,6 +208,13 @@ Archivo: `vigente/titulo-V/capitulo-IV.md`
 |---|---|---|---|---|
 | art. 18 (Secc. IX) | sustituye | RG 1116/2026 | 1° | 06/03/2026 |
 
+## Título V, Capítulo VII
+Archivo: `vigente/titulo-V/capitulo-VII.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| Secc. VII (completa) | incorpora | RG 1143/2026 | 1° | 01/06/2026 |
+
 ## Título V, Capítulo VIII
 Archivo: `vigente/titulo-V/capitulo-VIII.md`
 

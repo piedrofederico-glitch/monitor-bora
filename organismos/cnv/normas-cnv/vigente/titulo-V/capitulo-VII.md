@@ -1,5 +1,5 @@
 # Título V — Capítulo VII: REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN ABIERTOS
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1143/2026 (BO 01/06/2026)
 Fuente: PDF base, págs. 431–436.
 
 ### SECCIÓN I — APLICACIÓN SUPLETORIA.
@@ -141,3 +141,200 @@ ARTÍCULO 15.- El reglamento de gestión deberá contener un acápite especial d
 
 RESCATES. LIQUIDACIÓN Y CANCELACIÓN.
 ARTÍCULO 16.- En atención a la naturaleza de estos FCI, el reglamento de gestión deberá indicar el procedimiento aplicable a la liquidación y cancelación del FCI, debiendo resguardar en todo momento los derechos de los empleadores y trabajadores.
+
+### SECCIÓN VII — FONDOS COMUNES DE INVERSIÓN ABIERTOS ETF (ARTÍCULO 1°, PÁRRAFO TERCERO DE LA LEY DE FONDOS COMUNES DE INVERSIÓN).
+
+ALCANCE.
+ARTÍCULO 17.- Los fondos comunes de inversión abiertos destinados exclusivamente a replicar, mediante una gestión pasiva, el comportamiento de un determinado índice bursátil o financiero o de una canasta de activos, cuyas cuotapartes cuenten con oferta pública y su negociación secundaria se encuentre admitida en Mercados autorizados por la CNV, se regirán por el régimen especial establecido en la presente Sección y, supletoriamente, por las disposiciones aplicables en general para los FCIA.
+
+ÍNDICE DE REFERENCIA.
+ARTÍCULO 18.- A los efectos de la presente Sección, se entiende por índice de referencia el índice financiero, bursátil o que represente una determinada canasta de activos cuya replicación o seguimiento, con sus ajustes, constituya la política de inversión del ETF.
+
+ARTÍCULO 19.- La Sociedad Gerente deberá verificar que el índice de referencia cumpla con los siguientes criterios:
+
+1. Su metodología general de cálculo se encuentre disponible de forma gratuita y en sitios web de fácil acceso. Se entiende por metodología general aquella que indique con claridad las reglas de composición, los criterios de rebalanceo y su frecuencia, criterios generales de ponderación de componentes y de capitalización de mercado, en caso de corresponder, y, en general, demás parámetros relevantes a los fines de alcanzar una adecuada transparencia del índice. La gratuidad referida no implica la utilización gratuita por parte del FCIA ETF de la marca comercial del proveedor del índice.
+
+2. Su metodología de cálculo se sustente en reglas predeterminadas y criterios objetivos de selección de activos.
+
+3. La frecuencia de rebalanceo del índice debe permitir que los inversores puedan replicarlo.
+
+4. No puede estar sujeto a ajustes retroactivos sobre valores ya publicados.
+
+5. Debe representar un objetivo de inversión claro y único, sin condicionantes. Se entiende por condicionantes cualquier cláusula o regla que implique que, en determinadas circunstancias, el desempeño del índice no refleje el retorno de la cartera teórica de activos.
+
+6. Si el proveedor del índice fuera parte relacionada de los órganos del FCIA, deberá prever y divulgar los mecanismos de mitigación de riesgos de conflictos de interés.
+
+7. El desempeño del índice debe ser público y gratuito, contar con amplia divulgación y de fácil acceso para el público inversor.
+
+8. Excepto que el FCIA se encuentre destinado exclusivamente a inversores calificados, dejándose constancia de dicho extremo en el reglamento de gestión y en el Prospecto, no podrán utilizarse índices que representen múltiplos (apalancados) de otros índices, el inverso de dichos índices o múltiplos de su inverso.
+
+La Sociedad Gerente deberá divulgar adecuadamente las métricas que permitan comparar las trayectorias del FCIA y del índice de referencia, a fin de detectar errores de seguimiento (tracking error).
+
+DENOMINACIÓN DEL FONDO.
+ARTÍCULO 20.- La denominación del FCIA deberá incluir la expresión “FCIA ETF” y la identificación del índice de referencia.
+
+Para el caso en el que el FCIA ETF busque replicar un índice sujeto al régimen de propiedad intelectual, la Sociedad Gerente será responsable de obtener de la entidad que lo publica cualquier autorización para utilizarlo comercialmente en la denominación del FCIA que pudiera corresponder.
+
+Cualquier diferendo, entre participantes del mercado de capitales, respecto del uso y/o destino de la mencionada información, así como su distribución y/o redistribución, quedarán reservados al ámbito privado.
+
+PARTICIPANTES.
+ARTÍCULO 21.- Además de la Sociedad Gerente y la Sociedad Depositaria, pero sin revestir el carácter de órganos de los FCIA ETF, serán participantes necesarios de estos FCIA, los siguientes:
+
+1. PARTICIPANTE AUTORIZADO:
+
+Son los Agentes definidos en el artículo 2° de la Sección II del Capítulo II del Título I de estas Normas que hayan celebrado un convenio a tal efecto con la Sociedad Gerente del FCIA. La suscripción y rescate de las cuotapartes de los FCIA ETF sólo podrá ser realizada por los Participantes Autorizados.
+
+Podrán intervenir uno o más Participantes Autorizados en cada FCIA, siempre que hubiesen celebrado el correspondiente convenio con la Sociedad Gerente.
+
+No podrán desempeñarse como Participantes Autorizados aquellos ALyC que estuvieren registrados al mismo tiempo como Sociedades Gerentes.
+
+No resultará aplicable a la actuación de los Participantes Autorizados la restricción prevista en el último párrafo del artículo 4° de la Ley de Fondos Comunes de Inversión, siempre que las operaciones se realicen en condiciones de mercado, se encuentren sujetas a políticas de gestión de conflictos de interés, cuenten con aprobación interna independiente y dicha circunstancia sea debidamente informada al inversor.
+
+Los convenios con los Participantes Autorizados deberán quedar a disposición de la Comisión y deberán ser presentados a requerimiento de ésta.
+
+2. HACEDOR DE MERCADO (MARKET MAKER):
+
+Son los Agentes regulados en la Sección XI, Capítulo V, Título VI de estas Normas, con los alcances allí previstos, que hayan celebrado un convenio al efecto con la Sociedad Gerente. Su función será proveer de liquidez a las cuotapartes que se negocien en el o los Mercados autorizados en las que coticen y siempre que aquellos se encuentren previamente autorizados por éstos últimos para cumplir dicho rol.
+
+El o los Participantes Autorizados definidos en el inciso 1 precedente podrán desempeñarse, asimismo, como Hacedores de Mercado.
+
+OBJETO. EXCLUSIONES.
+ARTÍCULO 22.- Los FCIA ETF deberán replicar, mediante la gestión pasiva, el comportamiento de un determinado índice bursátil o financiero o de una canasta de activos, los que podrán representar activos de renta fija o variable. La replicación o seguimiento del índice deberá realizarse mediante la adquisición de activos que cuenten con autorización de oferta pública en la República Argentina y/o la concertación de operaciones realizadas en Mercados autorizados por la CNV, y podrá efectuarse en forma física (completa o por muestreo), sintética o mixta.
+
+No podrán constituirse FCIA bajo el presente régimen que repliquen múltiplos de otros índices (apalancados), el inverso de dichos índices o múltiplos de su inverso. Dicha prohibición no resultará de aplicación cuando el FCIA se encuentre destinado exclusivamente a Inversores Calificados, dejándose constancia de dicho extremo en el reglamento de gestión y en el Prospecto.
+
+Sin perjuicio de lo establecido en el párrafo anterior, la CNV podrá determinar, en ocasión de la autorización de cada FCIA ETF y en función de las particularidades que cada uno de ellos presente, que estos sean destinados únicamente a Inversores Calificados.
+
+Los FCIA ETF no podrán invertir en, ni estar constituidos por, cuotapartes de otros FCIA ETF, CEVA ETP o CEDEAR.
+
+Se admitirá la inversión transitoria de hasta un cinco por ciento (5%) del patrimonio neto del FCIA ETF en cuotapartes de Fondos Comunes de Dinero encuadrados bajo las previsiones del inciso b) del artículo 15, Sección II, Capítulo II, Título V de estas Normas.
+
+No resultará de aplicación lo dispuesto en los artículos 7º, 8º primer párrafo, 9º, 10, 11 y 13 de la Sección II, Capítulo II del presente Título, en la medida que la realización de tales operaciones sea necesaria para asegurar una adecuada replicación o seguimiento del índice de referencia.
+
+La Sociedad Gerente deberá, en función de su experiencia y pericia técnica, verificar que los valores negociables que compongan la cartera de activos del FCIA ETF cuenten con la liquidez suficiente para permitir el correcto funcionamiento del mecanismo de suscripción y rescate de cuotapartes por parte de los Participantes Autorizados.
+
+PRÉSTAMO DE VALORES.
+ARTÍCULO 23.- Resultará admisible el préstamo de los valores negociables en cartera por hasta el TREINTA POR CIENTO (30%) del patrimonio neto del FCIA ETF.
+
+COLOCACIÓN PRIMARIA DE LAS CUOTAPARTES.
+ARTÍCULO 24.- La Sociedad Gerente determinará las condiciones de integración en dinero y/o en especie que deberán cumplir los Participantes Autorizados a fin de suscribir las cuotapartes en la colocación primaria.
+
+Las operaciones de suscripción y rescate deberán efectuarse en dinero o en especie, mediante la entrega de valores negociables u otros activos admitidos como integrantes del patrimonio del FCIA, de acuerdo con lo requerido por la Sociedad Gerente y en virtud de la política de inversión de aquel.
+
+A los efectos de ajustar la cantidad de cuotapartes en circulación a la demanda del mercado y a la convergencia entre el precio de negociación de las cuotapartes y el valor del patrimonio neto del FCIA, los Participantes Autorizados podrán asumir el compromiso de suscribir o rescatar cuotapartes, de conformidad a lo establecido en el reglamento de gestión y en los convenios particulares que la Sociedad Gerente hubiese celebrado con cada uno de ellos.
+
+No resultará de aplicación lo dispuesto en el artículo 36 de la Sección III, del Capítulo II del presente Título.
+
+REGLAMENTO DE GESTIÓN.
+ARTÍCULO 25.- El FCIA ETF deberá utilizar el reglamento de gestión tipo establecido en el Anexo II del Capítulo III del Título V de estas Normas, en tanto no se contraponga con las disposiciones específicas de la presente Sección.
+
+Sin perjuicio de lo indicado, el reglamento de gestión deberá adaptar particularmente el contenido de los Capítulos 2, 3, 4, 5, 7 y 11 e incorporar la información requerida en el artículo siguiente.
+
+ARTÍCULO 26.- Adicionalmente a lo indicado en el artículo anterior, el reglamento de gestión deberá incluir lo siguiente:
+
+1. identificación del índice de referencia objeto de replicación o seguimiento;
+
+2. en su caso, identificación del o los Participantes Autorizados y Hacedores de Mercado; y
+
+3. cláusulas que expliciten que el ingreso y egreso de los inversores al FCIA se dará exclusivamente por las operaciones de compra y venta en los mercados donde se negocien las cuotapartes.
+
+En el caso de no existir la identificación requerida en el inciso 2, la Sociedad Gerente deberá publicar en la AIF, a través del Acceso “Hecho Relevante”, el detalle actualizado de los Participantes Autorizados y Hacedores de Mercado actuantes, durante la vigencia del FCIA.
+
+PROSPECTO DE EMISIÓN.
+ARTÍCULO 27.- La Sociedad Gerente deberá presentar, junto con la solicitud de autorización de oferta pública, un Prospecto de emisión preliminar para su aprobación por la Comisión, con el siguiente contenido mínimo:
+
+1. Portada:
+
+a) denominación del ETF;
+
+b) identificación de la Sociedad Gerente y Sociedad Depositaria;
+
+c) identificación del o los Participantes Autorizados y Hacedores de Mercado, en su caso;
+
+d) leyenda de inserción obligatoria: “Oferta Pública autorizada por Resolución Nº… de fecha… de la Comisión Nacional de Valores. Esta autorización sólo significa que se ha cumplido con los requisitos establecidos en materia de información. La Comisión Nacional de Valores no ha emitido juicio sobre los datos contenidos en el Prospecto. La veracidad de la información suministrada en el presente Prospecto es responsabilidad de los miembros de los órganos de administración y fiscalización de la Sociedad Gerente y de la Sociedad Depositaria, respectivamente, y demás responsables contemplados en los artículos 119 y 120 de la Ley de Mercado de Capitales. Los auditores, en lo que les atañe, serán responsables en cuanto a sus respectivos informes sobre los estados contables que se acompañan. Los órganos de administración manifiestan, con carácter de declaración jurada, que el presente prospecto contiene a la fecha de su publicación información veraz y suficiente sobre todo Hecho Relevante y de toda aquella que deba ser de conocimiento del público inversor con relación a la presente emisión, conforme las normas vigentes”.
+
+e) Deberá informarse expresamente que, pese a que las cuotapartes cuenten con negociación en los Mercados autorizados, el FCIA ETF no constituye un Fondo Común de Inversión Cerrado, por lo que carece de plazo de duración y monto máximo de emisión.
+
+2. Advertencias. Entre otras cuestiones, dicha Sección deberá indicar en forma destacada que únicamente un Participante Autorizado podrá solicitar el canje de las cuotapartes por los activos subyacentes y que el ingreso y egreso de los inversores al FCIA se dará exclusivamente por las operaciones de compra y venta en los mercados donde se negocien las cuotapartes.
+
+3. Consideraciones de riesgo de la inversión. Como mínimo, deberá informarse expresamente en el Prospecto de Emisión:
+
+a) aquellos riesgos de carácter relevante relacionados a los activos subyacentes del FCIA ETF (tales como su liquidez; diferencias entre el valor neto del patrimonio del FCIA ETF y el valor de negociación de los activos subyacentes por cuestiones de arbitraje; diferencias cambiarias, etc.);
+
+b) riesgo de mercado;
+
+c) riesgo de réplica y tracking;
+
+d) riesgo de liquidez;
+
+e) riesgo cambiario;
+
+f) riesgo regulatorio;
+
+g) riesgo de cancelación;
+
+h) riesgo de contraparte, para el caso de utilizarse estrategias de replicación sintética o mixta; e
+
+i) todo otro riesgo aplicable al instrumento o a los activos subyacentes.
+
+4. Resumen de los términos y condiciones del FCIA:
+
+a) denominación del FCIA;
+
+b) moneda del FCIA;
+
+c) identificación de los Participantes previstos en el artículo 21 de la presente Sección;
+
+d) identificación del índice de referencia objeto de replicación o seguimiento;
+
+e) relaciones económicas y jurídicas entre los órganos del FCIA ETF y los Participantes. En su caso, descripción de las actuales o potenciales situaciones de conflicto de interés y de los mecanismos preventivos y/o de mitigación establecidos al efecto.
+
+f) descripción de clases de cuotapartes:
+
+1) derechos económicos que otorgan;
+
+2) denominación mínima y unidad mínima de negociación;
+
+3) ámbito de negociación de las cuotapartes;
+
+g) normativa aplicable para la suscripción e integración de las cuotapartes con fondos provenientes del exterior;
+
+h) normativa aplicable en materia de prevención del lavado de activos y el financiamiento del terrorismo;
+
+i) de corresponder, calificación de riesgo indicando denominación social del ACR, fecha del informe de calificación y nota de calificación asignada.
+
+5. Descripción de la Sociedad Gerente, de la Sociedad Depositaria y de los Participantes previstos en el artículo 21 de la presente Sección:
+
+a) denominación social, CUIT, domicilio, teléfono y dirección de correo electrónico;
+
+b) datos de la respectiva inscripción en el Registro Público. En caso de tratarse de entidades financieras, detalle de las respectivas autorizaciones; y
+
+c) respecto de los estados contables y la nómina de los integrantes de los órganos de administración y fiscalización, deberá incluirse una leyenda que indique que la información se encuentra disponible en el sitio web de la CNV.
+
+6. Leyenda que indique que la información relevante relativa a las Emisoras de los valores negociables en cartera se encuentra disponible en el sitio web de la CNV y en los Mercados autorizados en los que se encuentran listados.
+
+7. Explicación detallada del índice de referencia y de su metodología de cálculo, así como también una indicación precisa acerca de dónde puede ser consultada su composición y variación.
+
+8. Estrategia de replicación o seguimiento del índice de referencia.
+
+9. Descripción del procedimiento de colocación primaria de las cuotapartes y de formación de precios en la negociación secundaria.
+
+10. Tratamiento impositivo aplicable.
+
+11. Régimen de honorarios, comisiones y gastos.
+
+12. Manifestación de que los potenciales inversores deben analizar por sí mismos la información contenida en el Prospecto.
+
+13. Deberá describirse el tratamiento previsto y los riesgos asociados en caso de suspensión, interrupción o restricción de la negociación de uno o más valores negociables que conformen el patrimonio del FCIA ETF. En tal sentido, también deberá advertirse respecto a las diferentes medidas que, en tales supuestos, los Mercados autorizados donde se negocien las cuotapartes y/o los activos subyacentes que integran el patrimonio del FCIA ETF podrán adoptar, tales como la suspensión de la negociación de la cuotaparte, la sustitución del valor negociable afectado o cualquier otro mecanismo que deberá quedar expresamente explicitado en el Prospecto, a fin de preservar el adecuado funcionamiento del instrumento y la protección de los inversores.
+
+14. Política relativa a las utilidades o dividendos.
+
+15. Cualquier otra información que le sea requerida por esta CNV, de acuerdo con la naturaleza y características del objeto de inversión.
+
+PUBLICACIÓN DIARIA DE LAS CARTERAS.
+ARTÍCULO 28.- Sin perjuicio del régimen de información semanal previsto en el inciso 4 del artículo 25, Sección VII, Capítulo I, Título V de estas Normas, la Sociedad Gerente del FCIA ETF deberá publicar diariamente en su sitio web la composición de la cartera con el alcance y el detalle allí establecido.
+
+REPRESENTACIÓN DIGITAL DE LAS CUOTAPARTES.
+ARTÍCULO 29.- Las cuotapartes del FCIA ETF podrán ser representadas digitalmente en los términos del Título XXII de las presentes Normas.
+
+[Sección incorporada por art. 1° de la RG 1143/2026, BO 01/06/2026]
