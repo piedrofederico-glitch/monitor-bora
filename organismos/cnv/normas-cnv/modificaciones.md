@@ -298,6 +298,7 @@ Archivo: `vigente/titulo-XI/titulo-XI.md`
 |---|---|---|---|---|
 | Secc. VI (completa) | incorpora | RG 1108/2026 | 2° | 20/02/2026 |
 | título completo | sustituye | RG 1139/2026 | 3° | 14/05/2026 |
+| art. 3° (Secc. II), inc. 2., subinc. a) | modifica parcialmente | RG 1140/2026 | 1° | 21/05/2026 |
 
 ## Título XII, Capítulo V
 Archivo: `vigente/titulo-XII/capitulo-V.md`
@@ -360,6 +361,7 @@ Archivo: `vigente/titulo-XVI/capitulo-II.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1112/2026 | 2° | 26/02/2026 |
+| Anexo IV | sustituye | RG 1140/2026 | 2° | 21/05/2026 |
 
 ## Título XVII, Capítulo I
 Archivo: `vigente/titulo-XVII/capitulo-I.md`

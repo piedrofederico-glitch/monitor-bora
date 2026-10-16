@@ -103,7 +103,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XI/titulo-XI.md`](titulo-XI/titulo-XI.md) | Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA. | RG 1139/2026 (BO 14/05/2026) |
+| [`titulo-XI/titulo-XI.md`](titulo-XI/titulo-XI.md) | Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA. | RG 1140/2026 (BO 21/05/2026) |
 
 ## Título XII — TRANSPARENCIA EN EL ÁMBITO DE LA OFERTA PÚBLICA
 
@@ -145,7 +145,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-XVI/capitulo-I.md`](titulo-XVI/capitulo-I.md) | Título XVI — Capítulo I: NOTIFICACIONES. OTRAS DISPOSICIONES. | RG 1127/2026 (BO 09/04/2026) |
-| [`titulo-XVI/capitulo-II.md`](titulo-XVI/capitulo-II.md) | Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS. | RG 1112/2026 (BO 26/02/2026) |
+| [`titulo-XVI/capitulo-II.md`](titulo-XVI/capitulo-II.md) | Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS. | RG 1140/2026 (BO 21/05/2026) |
 
 ## Título XVII — TASAS DE FISCALIZACIÓN Y CONTROL- ARANCELES DE AUTORIZACIÓN
 

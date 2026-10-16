@@ -178,3 +178,35 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > 1.- Autorizar el envío a la UNIDAD DE INFORMACIÓN FINANCIERA (UIF) de la totalidad de los informes y documentación requerida, a efectos de cumplir con el deber de colaboración que recae sobre esta Comisión, conforme el Anexo I de la Resolución UIF N° 155/2018 y/o las que en el futuro la modifiquen y/o sustituyan.
 >
 > 2.- Aplicación de Advertencias a los Sujetos Obligados sometidos a su fiscalización, por nota dirigida al órgano de administración o su máximo responsable y al Oficial de Cumplimiento, y por única vez respecto de cada infracción en cuestión, por incumplimiento del Régimen informativo previsto en el artículo 2° del Título XI de las NORMAS (N.T. 2013 y mod.), o falta de cumplimiento inmediato de intimación para la adecuación de cuestiones que le fueron observadas.
+
+## Anexo IV
+- Vigente desde: 27/02/2026
+- Vigente hasta: 21/05/2026
+- Sustituido por: RG 1140/2026, art. 2°
+- Texto:
+
+> ### ANEXO IV.
+>
+> FACULTADES DELEGADAS EN LA GERENCIA DE REGISTRO Y CONTROL.
+>
+> 1.- Aplicación de advertencias a los sujetos sometidos a su fiscalización, por nota dirigida a los órganos de administración y de fiscalización y, por única vez, respecto de cada infracción en cuestión, por incumplimientos de tipo formal, o falta de cumplimiento inmediato de intimación para la adecuación de cuestiones que le fueron observadas.
+>
+> 2.- Inscripción y cancelación del Registro de Auditores Externos y de Asociaciones de Profesionales Auditores.
+>
+> 3.- Inscripción en el Registro de PSAV.
+>
+> 4.- Cancelación del Registro de PSAV.
+>
+> Facultades delegadas en la Gerencia y Subgerencia de Control Societario:
+>
+> 1.- Conformidad administrativa respecto de reformas de estatuto por cambio de denominación social.
+>
+> 2.- Conformidad administrativa respecto de reformas de estatuto por modificación del lapso de duración de la Sociedad.
+>
+> 3.- Conformidad administrativa respecto de reformas de estatuto por modificación de la fecha de cierre de ejercicio.
+>
+> 4.- Conformidad administrativa respecto de reformas de estatuto por cambio de domicilio de la Sociedad.
+>
+> Facultades delegadas en la Gerencia y Subgerencia de Control Contable:
+>
+> 1.- Autorización para la utilización de Registros Digitales en los términos del artículo 61 de la Ley General de Sociedades.

@@ -1,5 +1,5 @@
 # Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS.
-Última modificación: RG 1112/2026 (BO 26/02/2026)
+Última modificación: RG 1140/2026 (BO 21/05/2026)
 Fuente: RG 1112/2026, art. 2°.
 
 EMISORAS.
@@ -121,17 +121,15 @@ b) modificaciones de los términos y condiciones esenciales de emisión que impl
 
 c) modificación de los activos fideicomitidos o cuando no se verifique una estricta identidad de los patrimonios fideicomitidos.
 
-### ANEXO IV.
+### ANEXO IV
 
 FACULTADES DELEGADAS EN LA GERENCIA DE REGISTRO Y CONTROL.
 
 1.- Aplicación de advertencias a los sujetos sometidos a su fiscalización, por nota dirigida a los órganos de administración y de fiscalización y, por única vez, respecto de cada infracción en cuestión, por incumplimientos de tipo formal, o falta de cumplimiento inmediato de intimación para la adecuación de cuestiones que le fueron observadas.
 
-2.- Inscripción y cancelación del Registro de Auditores Externos y de Asociaciones de Profesionales Auditores.
+2.- Inscripción en el Registro de PSAV.
 
-3.- Inscripción en el Registro de PSAV.
-
-4.- Cancelación del Registro de PSAV.
+3.- Cancelación del Registro de PSAV.
 
 Facultades delegadas en la Gerencia y Subgerencia de Control Societario:
 
@@ -146,6 +144,12 @@ Facultades delegadas en la Gerencia y Subgerencia de Control Societario:
 Facultades delegadas en la Gerencia y Subgerencia de Control Contable:
 
 1.- Autorización para la utilización de Registros Digitales en los términos del artículo 61 de la Ley General de Sociedades.
+
+Facultades delegadas en la Gerencia y Subgerencia de Control de Auditores:
+
+1.- Inscripción y cancelación del Registro de Auditores Externos y de Asociaciones de Profesionales Auditores.
+
+[Anexo sustituido por art. 2° de la RG 1140/2026, BO 21/05/2026]
 
 ### ANEXO V.
 
