@@ -16,55 +16,44 @@ Leé `runs/<AAAAMMDD>.json`. Si `total_avisos` es 0 después de esperar (feriado
 
 ## 2. Commitear
 
+Trabajá sobre `main` (la sesión puede arrancar en otra rama):
+
 ```bash
+git checkout main && git pull --rebase origin main
 git add organismos temas runs && git commit -m "corrida: <AAAAMMDD> descarga" && git push origin main
 ```
 
-## 3. Repartir
+Si el push a `main` se rechaza, reintentá con `git pull --rebase` (hasta 4 veces). Si sigue rechazado, explicalo en el resumen final.
 
-Con los IDs de `config/sesiones.json`, mandá un mensaje con la herramienta **`mcp__claude-code-remote__send_message`** (`session_id` + `message`) a los destinatarios de abajo. `SendMessage` es otro canal y no llega a esas sesiones.
+## 3. Análisis por subagentes
 
-**Plan B, si `mcp__claude-code-remote__send_message` no está disponible:** lanzá un subagente (herramienta `Agent`) por cada destinatario, con el mismo mensaje y la instrucción de leer `CLAUDE.md` y su doc de rol (`docs/especialista.md` o `docs/analista-temas.md`). La memoria está en el repo, así que el resultado es equivalente. Aclaralo en el resumen final.
+Las sesiones de la tarea programada **no tienen** la herramienta para escribirles a las sesiones especialistas. El análisis diario lo hacen **subagentes** (herramienta `Agent`), uno por destinatario, **en paralelo**. Cada subagente cumple el rol y escribe en el repo. La memoria vive en el repo (dossiers, informes y Normas consolidadas), así que las sesiones especialistas persistentes, que el usuario usa para consultas, la leen con `git pull`.
 
 Destinatarios:
 
-- cada especialista de organismo que tenga normas nuevas en `runs/<AAAAMMDD>.json` → `organismos.<slug>`;
-- el Analista de Temas, si `temas_candidatos` no está vacío.
+- un subagente por cada organismo con normas nuevas en `runs/<AAAAMMDD>.json`;
+- un subagente para el Analista de Temas, si `temas_candidatos` no está vacío;
+- un subagente Especialista CNV aunque no haya RG nuevas, si `organismos/cnv/normas-cnv/vigencias.md` tiene líneas `- [ ]` con fecha igual o anterior a hoy, o `pendientes.md` tiene líneas `- [ ]` de tipo `infoleg`.
 
-Formato del mensaje:
-
-```
-Corrida <AAAAMMDD>. Normas nuevas de <slug>:
-- <titulo> — <archivo>
-Seguí docs/especialista.md (o docs/analista-temas.md).
-```
-
-No mandes mensaje a quien no tiene novedades, con una excepción: el Especialista CNV.
-
-### Especialista CNV: vigencias y pendientes
-
-Revisá también:
-
-- `organismos/cnv/normas-cnv/vigencias.md`: líneas `- [ ]` con fecha **igual o anterior a hoy** (entradas en vigencia que corresponden a hoy o quedaron atrasadas).
-- `organismos/cnv/normas-cnv/pendientes.md`: líneas `- [ ]` de tipo `infoleg`.
-
-Si hay alguna, agregalas al mensaje del Especialista CNV, o mandale uno aunque no haya RG nuevas:
+Prompt de cada subagente (completá los datos):
 
 ```
-Corrida <AAAAMMDD>.
-Entra en vigencia hoy: <una línea por entrada de vigencias.md>
-Pendientes InfoLEG abiertos: <una línea por ítem>
-Activá las vigencias con scripts/normas/activar_vigencias.py ANTES de escribir el informe y seguí docs/especialista.md.
+Trabajás en /home/user/monitor-bora (rama main). Sos el <Especialista de organismo <slug> | Analista de Temas> del Monitor BORA.
+Leé CLAUDE.md y <docs/especialista.md | docs/analista-temas.md> y seguilos al pie de la letra para la corrida <AAAAMMDD>.
+Normas nuevas: <una línea por norma: título — archivo>   (Analista: candidatos en temas/candidatos/<AAAAMMDD>.md)
+[Solo CNV, si corresponde] Entra en vigencia hoy: <líneas de vigencias.md>. Activalas con scripts/normas/activar_vigencias.py ANTES del informe.
+[Solo CNV, si corresponde] Pendientes InfoLEG abiertos: <líneas>.
+Prioridad: informes/<AAAAMMDD>/<slug>.md commiteado y pusheado a main antes de las 07:10 (hora Argentina). Después, dossier y consolidación.
+Usá git pull --rebase antes de cada push: otros subagentes escriben en paralelo.
+Al terminar, respondé en 3 líneas qué escribiste.
 ```
 
-Si hay vigencias del día, esperá el informe `cnv` en el paso 4 aunque no haya RG nuevas: el especialista lo escribe con la sección "Entra en vigencia hoy". Si solo hay pendientes InfoLEG, no lo esperes.
+Si un subagente falla o no termina a tiempo, seguí con el mail y marcá esa parte como "sin análisis del especialista".
 
-## 4. Esperar los informes
-
-Corré en segundo plano (`run_in_background`), con los slugs a los que escribiste (`temas` para el Analista):
+## 4. Verificar los informes
 
 ```bash
-python3 scripts/esperar_informes.py <AAAAMMDD> cnv bcra temas --minutos 45 --hasta 07:15
+git pull --rebase origin main && ls informes/<AAAAMMDD>/
 ```
 
 ## 5. Enviar el mail

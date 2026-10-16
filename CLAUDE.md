@@ -8,7 +8,7 @@ Monitoreo diario de la primera sección del Boletín Oficial de la República Ar
   - normas de los organismos de `config/organismos.json` → `organismos/<slug>/normas/`
   - candidatos por palabras clave de `config/temas.json` → `temas/textos/` y `temas/candidatos/<AAAAMMDD>.md`
   - resumen de la corrida → `runs/<AAAAMMDD>.json`
-- `config/sesiones.json`: IDs de las sesiones especialistas (una por organismo + Analista de Temas).
+- `config/sesiones.json`: IDs de las sesiones especialistas persistentes (consultas del usuario). El análisis diario lo hacen subagentes de la corrida; ambos comparten la memoria del repo.
 - `informes/<AAAAMMDD>/<slug>.md`: informe del día de cada especialista.
 - `organismos/<slug>/dossier.md` y `temas/<tema>/dossier.md`: memoria acumulada de cada especialista.
 
