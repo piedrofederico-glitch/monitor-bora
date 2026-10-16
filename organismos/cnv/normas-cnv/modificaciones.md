@@ -50,6 +50,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), Término incorporado: “RNR” | modifica parcialmente | RG 1164/2026 | 1° | 04/09/2026 |
 | art. 3° (Secc. III), Término incorporado: “Calificación Pública” | modifica parcialmente | RG 1164/2026 | 2° | 04/09/2026 |
 | art. 2° (Secc. II), Término incorporado: “Matriz de Compatibilidades” | modifica parcialmente | RG 1165/2026 | 1° | 07/09/2026 |
+| art. 2° (Secc. II), Términos incorporados: “Cuenta Individual del Empleador”, “Decreto Reglamentario FAL”, “EH”, “FAL”, “FCIA FAL”, “FF FAL”, “Ficha FAL”, “ID FAL”, “Ley de Modernización Laboral”, “PIC FAL”, “Resolución MECON FAL” | modifica parcialmente | RG 1167/2026 | 1° | 17/09/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -329,6 +330,13 @@ Archivo: `vigente/titulo-V/capitulo-VIII.md`
 | art. 20 (Secc. V) | deroga | RG 1159/2026 | 21 | 06/08/2026 |
 | Secc. VI (completa) | sustituye | RG 1159/2026 | 22 | 06/08/2026 |
 
+## Título V, Capítulo X
+Archivo: `vigente/titulo-V/capitulo-X.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | incorpora | RG 1167/2026 | 2° | 17/09/2026 |
+
 ## Título VI, Capítulo I
 Archivo: `vigente/titulo-VI/capitulo-I.md`
 
@@ -458,6 +466,7 @@ Archivo: `vigente/titulo-XI/titulo-XI.md`
 | art. 3° (Secc. II), inc. 1 | modifica parcialmente | RG 1141/2026 | 1° | 27/05/2026 |
 | Secc. VI (completa) | incorpora | RG 1158/2026 | 1° | 30/07/2026 |
 | art. 3° (Secc. II) | sustituye | RG 1166/2026 | 1° | 15/09/2026 |
+| Secc. VII (completa) | incorpora | RG 1167/2026 | 3° | 17/09/2026 |
 
 ## Título XII, Capítulo I
 Archivo: `vigente/titulo-XII/capitulo-I.md`

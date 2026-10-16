@@ -1,5 +1,5 @@
 # Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA.
-Última modificación: RG 1166/2026 (BO 15/09/2026)
+Última modificación: RG 1167/2026 (BO 17/09/2026)
 Fuente: RG 1139/2026, art. 3°.
 
 ### SECCIÓN I — NORMATIVA APLICABLE Y SUJETOS ALCANZADOS.
@@ -202,6 +202,12 @@ ARTICULO 19.- Los Oficiales de Cumplimiento de los Sujetos Obligados ante la UIF
 La cuenta de usuario de la plataforma TAD será considerada el domicilio especial electrónico constituido para dar respuesta a los requerimientos que se realicen por la Gerencia de Prevención del Lavado de Dinero.
 
 [Sección incorporada por art. 1° de la RG 1158/2026, BO 30/07/2026, vigente desde 10/08/2026]
+
+### SECCIÓN VII — REGÍMEN DE PIC PARA FAL. EXCEPCIÓN PROCEDIMIENTO DE ENTREGA DE FONDOS A CLIENTES.
+
+ARTÍCULO 20.- Las EH para administrar los PIC FAL deberán efectuar el pago correspondiente al trabajador que su cliente indique, ante los distintos supuestos de extinción de la relación laboral previstos en el artículo 58 de la Ley de Modernización Laboral, exceptuándose en este único caso la aplicación del procedimiento de entrega de fondos a clientes establecido en el artículo 3° de la Sección II del Título XI de estas Normas.
+
+[Sección incorporada por art. 3° de la RG 1167/2026, BO 17/09/2026]
 
 ### ANEXO I
 

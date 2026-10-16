@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1165/2026 (BO 07/09/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1167/2026 (BO 17/09/2026) |
 
 ## Título II — EMISORAS
 
@@ -54,6 +54,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-V/capitulo-VII.md`](titulo-V/capitulo-VII.md) | Título V — Capítulo VII: REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN ABIERTOS | RG 1163/2026 (BO 20/08/2026) |
 | [`titulo-V/capitulo-VIII.md`](titulo-V/capitulo-VIII.md) | Título V — Capítulo VIII: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FIDEICOMISOS FINANCIEROS. | RG 1159/2026 (BO 06/08/2026) |
 | [`titulo-V/capitulo-IX.md`](titulo-V/capitulo-IX.md) | Título V — Capítulo IX: PRODUCTOS DE INVERSIÓN COLECTIVA. TRATAMIENTO IMPOSITIVO DE REGÍMENES ESPECIALES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-V/capitulo-X.md`](titulo-V/capitulo-X.md) | Título V — Capítulo X: PRODUCTOS DE INVERSIÓN COLECTIVA DE FONDOS DE ASISTENCIA LABORAL | RG 1167/2026 (BO 17/09/2026) |
 
 ## Título VI — MERCADOS Y CÁMARAS COMPENSADORAS
 
@@ -104,7 +105,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XI/titulo-XI.md`](titulo-XI/titulo-XI.md) | Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA. | RG 1166/2026 (BO 15/09/2026) |
+| [`titulo-XI/titulo-XI.md`](titulo-XI/titulo-XI.md) | Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA. | RG 1167/2026 (BO 17/09/2026) |
 
 ## Título XII — TRANSPARENCIA EN EL ÁMBITO DE LA OFERTA PÚBLICA
 

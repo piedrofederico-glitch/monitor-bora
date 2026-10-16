@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1165/2026 (BO 07/09/2026)
+Última modificación: RG 1167/2026 (BO 17/09/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -114,6 +114,8 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “CSNU” significa Consejo de Seguridad de las Naciones Unidas.
 
+“Cuenta Individual del Empleador” tiene el significado que se le atribuye en el artículo 49 de la Sección VIII del Capítulo V del Título V de estas Normas.
+
 “CUIL” significa Clave Única de Identificación Laboral.
 
 “CUIT” significa Clave Única de Identificación Tributaria.
@@ -123,6 +125,8 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 “CVU” significa Clave Virtual Uniforme.
 
 “DDJJ” significa declaración jurada.
+
+“Decreto Reglamentario FAL” significa el Decreto Reglamentario N° 408/2026.
 
 “Dividendo en Efectivo” significa el pago en dinero de la utilidad del ejercicio proporcional a la participación en el capital social.
 
@@ -144,6 +148,8 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “EF” significa Emisor Frecuente.
 
+“EH” significa Entidad Habilitada FAL.
+
 “Emisor” o “Emisora” significa aquella entidad (sociedad por acciones, sociedad de responsabilidad limitada, cooperativa o asociación civil o cualquier otra estructura o figura contemplada o que pueda ser habilitada en el marco de la Ley de Obligaciones Negociables que se encuentre autorizada para efectuar oferta pública de sus valores negociables y a los Emisores de FFs, CEDEAR y CEVA.
 
 “Entidades de Garantía” significa las entidades admitidas en el Capítulo VII del Título II de estas Normas o las que en el futuro se establezcan.
@@ -156,11 +162,15 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “FACPCE” significa Federación Argentina de Consejos Profesionales de Ciencias Económicas.
 
+“FAL” significa Fondo de Asistencia Laboral.
+
 “FCE MiPyMEs” significa facturas de crédito eElectrónicas MiPyMEs conforme a lo previsto en el Título I de la Ley de Financiamiento Productivo.
 
 “FCI” significa fondo común de inversión.
 
 “FCIA” significa “Fondo/s Común/es de Inversión Abierto/s”.
+
+“FCIA FAL” significa FAL constituido como FCIA.
 
 “FCIC” significa “Fondo/s Común/es de Inversión Cerrado/s”.
 
@@ -168,7 +178,11 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “FF” significa fideicomiso financiero.
 
+“FF FAL” significa FAL constituido como FF.
+
 “FGS” significa Fondo de Garantía de Sustentabilidad del Sistema Integrado Previsional Argentino (FGS).
+
+“Ficha FAL” significa la Ficha FAL.
 
 “Financiamiento Colectivo” significa un sistema en el que muchos inversores aportan pequeñas cantidades de dinero a una Emisora bajo los lineamientos establecidos en el Capítulo V del Título II de estas Normas para el financiamiento de un proyecto en común participando como inversores.
 
@@ -181,6 +195,8 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 “GDE” significa el Sistema de Gestión Documental Electrónica.
 
 “Hecho Relevante” o “HR” significa todo hecho o situación que, por su importancia, sea apto para afectar en forma sustancial la colocación de los valores negociables, el curso de su negociación, o el desenvolvimiento de la actividad propia de cada sujeto alcanzado, que debe ser informado en los términos previstos en el artículo 99 de la Ley de Mercado de Capitales y Título XII de estas Normas.
+
+“ID FAL” significa el ID FAL previsto en el artículo 8° del Decreto Reglamentario FAL.
 
 “IGJ” significa Inspección General de Justicia.
 
@@ -235,6 +251,8 @@ Lo indicado precedentemente podrá acreditarse mediante DDJJ del inversor al mom
 “Ley de Lavado” significa Ley de Encubrimiento y Lavado de Activos de Origen Delictivo N° 25.246.
 
 “Ley de Mercado de Capitales” significa Ley N° 26.831.
+
+“Ley de Modernización Laboral” significa la Ley N° 27.802.
 
 “Ley de Nominatividad de Títulos Valores Privados” significa Ley N° 24.587.
 
@@ -300,6 +318,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “PIC” se refiere a Producto de Inversión Colectiva.
 
+“PIC FAL” significa “Productos de Inversión Colectiva que son Fondos de Asistencia Laboral.
+
 “PLA/FT/FP” significa Prevención del lavado de activos, financiación del terrorismo y de la proliferación de armas de destrucción masiva.
 
 “Posición en Moneda Extranjera Bruta” tiene el significado atribuido en el artículo 36 del Capítulo II del Título VII de estas Normas.
@@ -355,6 +375,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 “RePET” significa Registro Público de Personas y Entidades vinculadas a actos de Terrorismo y su Financiamiento.
 
 “Representación Digital” significa la forma de representación adicional de ciertos valores negociables prevista en el Capítulo I del Título XXII de estas Normas.
+
+“Resolución MECON FAL” significa la Resolución Ministerial RESOL-2026-1276-APN-MEC del Ministerio de Economía.
 
 “Resolución Técnica” o “RT” significa Resolución Técnica emitida por la Federación Argentina de Consejos Profesionales de Ciencias Económicas.
 
@@ -469,6 +491,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Término incorporado: “RNR” por art. 1° de la RG 1164/2026, BO 04/09/2026, vigente desde 04/09/2026]
 
 [Término incorporado: “Matriz de Compatibilidades” por art. 1° de la RG 1165/2026, BO 07/09/2026]
+
+[Términos incorporados: “Cuenta Individual del Empleador”, “Decreto Reglamentario FAL”, “EH”, “FAL”, “FCIA FAL”, “FF FAL”, “Ficha FAL”, “ID FAL”, “Ley de Modernización Laboral”, “PIC FAL”, “Resolución MECON FAL” por art. 1° de la RG 1167/2026, BO 17/09/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

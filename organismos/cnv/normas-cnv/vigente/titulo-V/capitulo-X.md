@@ -1,0 +1,293 @@
+# Título V — Capítulo X: PRODUCTOS DE INVERSIÓN COLECTIVA DE FONDOS DE ASISTENCIA LABORAL
+Última modificación: RG 1167/2026 (BO 17/09/2026)
+Fuente: RG 1167/2026, art. 2°.
+
+### SECCIÓN I — DISPOSICIONES COMUNES A LOS PIC FAL.
+
+OBJETO.
+ARTÍCULO 1°.- En los términos y con el alcance previsto en el Título II de la Ley de Modernización Laboral y el Decreto Reglamentario FAL, se considerarán PIC FAL a los FCIA y a los FF que se constituyan en los términos de lo dispuesto en el presente Capítulo.
+
+EH FAL.
+ARTÍCULO 2°.- Podrán actuar como EH, en los términos de la Ley de Modernización Laboral y el Decreto Reglamentario FAL aquellos AAPIC que cumplan con los siguientes requisitos:
+
+1. Fiduciarios Financieros que, a la fecha de entrada en vigencia de la RG N° 1167, se encuentren inscriptos y tengan vigente, al menos, UN (1) FF con oferta pública. No serán exigibles los requisitos mencionados cuando la EH: a) revista el carácter de Entidad Financiera; b) sea una entidad controlada por una Entidad Financiera en los términos del artículo 33 de la Ley General de Sociedades; o c) sea una entidad controlada, directa o indirectamente, por el Estado Nacional o uno provincial o la CABA.
+
+Aquellos Fiduciarios Financieros que no cumplan con los requisitos indicados en el párrafo que antecede, y no se encuentren comprendidos en las excepciones mencionadas, deberán tener para comenzar a actuar como EH al menos CINCO (5) FF con oferta pública de valores fiduciarios y registrar como mínimo un monto en circulación agregado de valores fiduciarios equivalente a UVA DIEZ MILLONES (10.000.000) para poder actuar como EH.
+
+2. Sociedades Gerentes de FCI que se encuentren inscriptas a la fecha de entrada en vigencia de la RG N° 1167, y que tengan vigente, al menos, UN (1) FCI.
+
+Aquellas Sociedades Gerentes que no cumplan con los requisitos indicados en el párrafo que antecede, deberán poseer para comenzar a actuar como EH al menos CINCO (5) FCI bajo su administración con un patrimonio mínimo agregado equivalente a UVA DIEZ MILLONES (10.000.000) para poder actuar como EH.
+
+Aquellas EH que opten por actuar en tal carácter deberán presentar, a través de la AIF, el formulario correspondiente con la DDJJ respecto del cumplimiento de las condiciones mencionadas.
+
+CONSTITUCIÓN DE PIC FAL.
+ARTÍCULO 3°.- En los términos de lo dispuesto en el artículo 7° del Decreto Reglamentario FAL, se admitirá la constitución de PIC FAL con las siguientes características:
+
+1. Destinado a un empleador alcanzado por el régimen del FAL en forma individual, o sociedades vinculadas, controlantes, controladas o bajo control común del empleador, conforme definiciones legales aplicables.
+
+2. Destinado a una multiplicidad de empleadores en forma conjunta.
+
+IDENTIFICACIÓN ESPECIAL.
+ARTÍCULO 4°.- Los PIC FAL que se constituyan en los términos del presente Capítulo deberán incluir en su denominación la identificación especial relativa al régimen bajo el cual se constituyen con la distinción de si se trata de un FCIA FAL o un FF FAL.
+
+NATURALEZA JURÍDICA.
+ARTÍCULO 5°.- Las cuentas a las que hace referencia el artículo 59 de la Ley de Modernización Laboral deberán ser constituidas en el marco de un PIC FAL administrado por una EH conforme se detalla en el artículo 2° de la presente Sección y gozarán de los atributos indicados en la referida Ley y el Decreto Reglamentario FAL.
+
+CUENTA INDIVIDUAL DEL EMPLEADOR.
+ARTÍCULO 6°.- La Cuenta Individual del Empleador prevista en los artículos 59 y 62 de la Ley de Modernización Laboral y en los artículos 3°, inciso b) y 8° del Decreto Reglamentario FAL, con los alcances y en los términos allí establecidos se compone conjuntamente de: 1. El PIC FAL elegido por el empleador; más 2. Una cuenta cuotapartista FAL, o cuenta certificados de participación FAL o cuenta comitente, en la que se registrarán exclusivamente las cuotapartes o certificados de participación, representativos de la tenencia del empleador en el patrimonio del vehículo.
+
+Conforme lo previsto en la Ley de Modernización Laboral y el Decreto Reglamentario FAL, la Cuenta Individual del Empleador conformará un patrimonio separado, de afectación específica, independiente, inenajenable e inembargable, que no será individualizable por cada trabajador dentro del vehículo elegido.
+
+ID FAL.
+ARTICULO 7°.- En todos los casos, la EH asignará a la Cuenta Individual del Empleador un identificador único en concepto de ID FAL e informará el mismo junto con la cuenta bancaria del vehículo de inversión colectiva al empleador, para la recepción de las contribuciones.
+
+Se denomina ID FAL al número de registro unívoco que identificará y vinculará a cada empresa con el vehículo seleccionado o asignado de oficio, según sea el caso, a los fines de individualizar los aportes correspondientes. La información que deberá contener el ID FAL será la siguiente: la CUIT del empleador, la clave bancaria uniforme (CBU) del PIC FAL y el número de registro FAL que será asignado de forma automática en la AIF. Será responsabilidad de la EH que el ID FAL contenga la información válida necesaria para vincular indubitablemente al empleador de que se trate con el PIC FAL al cual se debe realizar el aporte.
+
+Será exclusiva responsabilidad de la EH informar el alta o la baja de un empleador, una vez perfeccionado el acto de apertura o cierre, según corresponda, de la Cuenta Individual del Empleador. A tales efectos, la EH deberá contar con la documentación respaldatoria que indubitablemente acredite la voluntad del empleador.
+
+A los fines de que los importes correspondientes a las contribuciones mensuales sean imputados el mes siguiente al de la asignación del ID FAL, la EH deberá informar a la CNV -para su posterior remisión a la ARCA-: 1. En oportunidad de la creación del vehículo, la CBU del instrumento; y 2. A más tardar hasta las 17 horas del día DIEZ (10) de cada mes o el día hábil inmediato siguiente, cuando aquel resultare inhábil, la CUIT de las empresas que lo integran.
+
+Los importes que correspondan a las CUIT informadas con posterioridad a dicho plazo serán imputados al PIC FAL correspondiente al mes subsiguiente.
+
+En el supuesto de que más de una EH informe la misma CUIT, a los fines de determinar la correspondencia entre el empleador y el PIC FAL, se requerirá a las EH involucradas que, en un plazo no mayor a TRES (3) días hábiles, informen a la CNV la fecha y hora en que se haya perfeccionado el vínculo contractual con el respectivo empleador, a fin de asignar el PIC FAL a la última EH que hubiera perfeccionado dicho vínculo. A tales fines, las EH deberán contar con la documentación respaldatoria que acredite lo informado y mantenerla a disposición de la CNV.
+
+En caso de que ninguna de las EH proporcione la información requerida dentro del plazo establecido, la CUIT será asignada al último PIC FAL que hubiera reportado la CUIT a través del sistema. Si solo una de las EH involucradas proporciona la información requerida dentro del plazo establecido, el PIC FAL será asignado a dicha entidad.
+
+ASIGNACIÓN DE OFICIO.
+ARTÍCULO 8°.- En los términos de lo dispuesto por el artículo 9°, inciso d), del Decreto Reglamentario FAL, la CNV procederá a la asignación de oficio de un vehículo PIC FAL elegible a aquellos empleadores que no hubieran informado un ID FAL válido, de conformidad con la información suministrada por la ARCA.
+
+A los fines de resultar elegible para la asignación de oficio, cualquier EH deberá manifestar expresamente su voluntad de recibir a los empleadores que le sean adjudicados en virtud de los procedimientos dispuestos a tales fines en uno o más PIC FAL que especialmente identifique a dichos efectos. Dicha manifestación podrá ser dejada sin efecto en cualquier momento a opción de la EH.
+
+En relación a los criterios para llevar a cabo la asignación, la CNV adjudicará las CUIT remitidas por la ARCA a los PIC FAL constituidos siguiendo el orden cronológico de creación del vehículo.
+
+La recepción de las asignaciones efectuadas por la CNV será obligatoria y no podrá ser rechazada, salvo que se configure la situación descripta en el último párrafo del artículo 9° de la presente Sección o existan razones objetivas, debidamente fundadas, que lo justifiquen, las que en ningún caso podrán sustentarse en motivos comerciales.
+
+Ante el supuesto de rechazo, la EH deberá comunicarlo a la CNV en forma inmediata, indicando y acreditando las razones que lo fundamentan. La CNV dispondrá una nueva asignación a otro PIC FAL habilitado.
+
+La CNV podrá disponer la baja del PIC FAL de la modalidad de asignación de oficio en caso de que se produzcan rechazos reiterados o, a su juicio, no justificados de las asignaciones efectuadas.
+
+Una vez efectuada la asignación de oficio y en un plazo que no podrá exceder de CINCO (5) días hábiles, la EH procederá a la apertura de la cuenta cuotapartista FAL, o cuenta certificados de participación FAL o cuenta comitente sin necesidad de contar con el consentimiento del empleador toda vez que el procedimiento se corresponde con lo indicado en el Decreto Reglamentario FAL.
+
+POLÍTICAS DE INVERSIÓN.
+ARTÍCULO 9°.- En los términos del artículo 61, inciso b), de la Ley de Modernización Laboral y del artículo 11 del Decreto Reglamentario FAL, exclusivamente se admitirán inversiones en los instrumentos previstos en el artículo 2° de la Resolución MECON FAL, las que deberán ajustarse a las condiciones, límites y alcances establecidos en sus artículos 3° a 9° y 11.
+
+Los PIC FAL deberán ceñirse exclusivamente a las reglas de diversificación y liquidez previstas en la Resolución MECON FAL, no resultando aplicables las normas vigentes en la materia para los FCIA.
+
+A los fines de lo dispuesto en el artículo 3º, inciso a) de la Resolución MECON FAL los instrumentos elegibles consignados en el artículo 2º, inciso b), de dicha Resolución se considerarán comprendidos en los términos establecidos en el artículo 83 de la Ley de Mercado de Capitales.
+
+Se considerarán comprendidas en el artículo 2°, inciso d), de la Resolución MECON FAL, todas las ON emitidas en los términos del artículo 1° de la Ley de Obligaciones Negociables incluyendo aquellas ON emitidas por Entidades Financieras controladas, directa o indirectamente, por el Estado Nacional, las provincias o la CABA, o títulos de deuda emitidos por aquellas asimilables por sus características a las ON.
+
+En los términos de lo establecido en el artículo 4° de la Resolución MECON FAL, se considerarán comprendidos en el concepto de Cláusula de Ajuste Capitalizable por el CER los instrumentos cuyo rendimiento esté determinado en UVA.
+
+La política de inversión del PIC FAL deberá ser consistente con lo previsto en el presente artículo y deberá observar los principios establecidos en el artículo 1º de la citada Resolución.
+
+Particularmente, la política de liquidez será definida por cada PIC FAL, en los términos del artículo 8° de la Resolución MECON FAL, y de acuerdo con las características de su estrategia de inversión y de los activos que integren su cartera.
+
+En ningún caso la EH podrá realizar operaciones financieras que requieran la constitución de prendas o gravámenes sobre el activo de los PIC FAL.
+
+Cuando se trate de un PIC FAL constituido en los términos del artículo 7°, incisos a) o b), del Decreto Reglamentario FAL, no podrán adquirirse valores negociables o instrumentos financieros emitidos por o destinados al financiamiento de empleadores que revistan la calidad de cuotapartistas o fiduciantes del respectivo vehículo.
+
+No obstante, dicha limitación no resultará aplicable cuando, en forma concurrente: 1. La participación del empleador cuotapartista o fiduciante en el patrimonio total del PIC FAL sea igual o inferior al DIEZ POR CIENTO (10%); y 2. La inversión en valores negociables o instrumentos financieros emitidos por, o destinados al financiamiento de dicho empleador no represente más del DIEZ POR CIENTO (10%) del patrimonio neto del PIC FAL.
+
+OPERACIONES CON VALORES NEGOCIABLES.
+ARTÍCULO 10.- Las operaciones que se realicen por cuenta de los PIC FAL con valores negociables bajo el Régimen de Oferta Pública, deberán ser efectuadas exclusivamente en Mercados autorizados, a través de sistemas de concurrencia que aseguren la prioridad precio-tiempo y con plazo de liquidación en 24 horas (T+1). Asimismo, se admitirá la participación en colocaciones primarias siempre que no se cobre una comisión por la participación en la misma.
+
+RECURSOS DE LOS PIC FAL.
+ARTÍCULO 11.- Los fondos que correspondan a la suscripción de cuotapartes de los FCI FAL o de los certificados de participación de los FF FAL deberán provenir exclusivamente de los conceptos establecidos por el artículo 61 de la Ley de Modernización Laboral.
+
+UTILIZACIÓN DE RECURSOS.
+ARTÍCULO 12.- Con excepción de la finalidad prevista por el artículo 64 de la Ley de Modernización Laboral y, en atención a la naturaleza de los vehículos, no se admiten rescates ni pagos de cuotapartes o de certificados de participación. En consecuencia, la totalidad de los recursos acumulados de conformidad con el artículo 61 de la Ley de Modernización Laboral en la Cuenta Individual del Empleador sólo podrán destinarse al pago total o parcial de las obligaciones y montos previstos en el artículo 58 de la citada ley.
+
+Lo dispuesto en el presente artículo no será de aplicación a los supuestos especiales contemplados en el artículo 72 de la Ley de Modernización Laboral.
+
+PROCEDIMIENTO DE VERIFICACIÓN Y PAGO.
+ARTÍCULO 13.- De conformidad con lo dispuesto en la Ley de Modernización Laboral y el Decreto Reglamentario FAL, el reglamento de gestión o el contrato de fideicomiso deberán indicar el procedimiento aplicable al pago de las sumas que correspondan al trabajador.
+
+OTROS PARTICIPANTES.
+ARTÍCULO 14.- Podrán participar como asesores de inversiones de PIC FAL: los AAPIC, ALyC, AN y AAGI. En todos los casos, la intervención de estos Agentes no limitará ni desplazará la responsabilidad que corresponda a la EH por los actos realizados en el ejercicio de sus funciones, de conformidad con la normativa aplicable.
+
+Por su parte, podrán participar en la comercialización de los PIC FAL los ACD, ACDI, ALyC, AN y AP en los términos dispuestos en el Capítulo V del Título VII de estas Normas.
+
+TOPE DE HONORARIOS, COMISIONES Y GASTOS.
+ARTÍCULO 15.- El tope anual máximo establecido por el artículo 71 de la Ley de Modernización Laboral y el artículo 20 del Decreto Reglamentario FAL es de carácter global e integral, inclusivo del IVA de corresponder, y comprende la totalidad de las contraprestaciones que perciban las EH y demás intervinientes cuya participación resulte necesaria para la estructuración y funcionamiento del PIC FAL, calculado en forma anual sobre el total de los activos administrados conforme las reglas contenidas en los artículos 39, 40 y 42 de la Sección III del Capítulo II del Título V de estas Normas.
+
+El referido tope comprenderá la contraprestación de los distintos sujetos intervinientes en la operatoria tales como, la Sociedad Depositaria, así como los distintos sujetos intervinientes en el asesoramiento financiero o en la comercialización conforme al artículo anterior.
+
+Asimismo, todos los gastos, costos, comisiones, honorarios profesionales ordinarios y cualquier otra erogación inherente a la administración ordinaria del PIC FAL deberán encontrarse comprendidos dentro del límite máximo del UNO POR CIENTO (1%) de la Ley de Modernización Laboral y el Decreto Reglamentario FAL.
+
+A los efectos del cómputo de dicho límite, no se considerarán las comisiones y gastos transaccionales directamente vinculados con la ejecución de las operaciones de inversión realizadas por los PIC FAL, ni las tasas de fiscalización y control de la CNV, ni los gastos extraordinarios, tales como aquellos derivados de contingencias legales o vinculados con el recupero judicial de activos en situación de incumplimiento, sin que la enunciación anterior resulte taxativa.
+
+PORTABILIDAD.
+ARTÍCULO 16.- En los términos de lo dispuesto por el artículo 14 del Decreto Reglamentario FAL, los inversores podrán solicitar la reasignación de sus inversiones a otro PIC FAL, sea este administrado por la misma EH o por una distinta, siempre que el vehículo de destino admita la correspondiente transferencia.
+
+A tal efecto, los reglamentos de gestión o los contratos de fideicomiso deberán prever la metodología de la reasignación. En caso de que no exista previsión al respecto se entenderá que la misma será realizada en especie - de ser posible-, debiendo tenerse presente lo dispuesto por el artículo 27, inciso 1) de la Sección III del Capítulo II del Título V de estas Normas.
+
+El traspaso de los activos, los registros correspondientes, los antecedentes operativos relevantes y la información recibida oportunamente desde la ARCA entre PIC FAL, deberá realizarse dentro del plazo máximo de DIEZ (10) días hábiles contados desde la solicitud presentada por el empleador ante la EH en la que posea su Cuenta Individual. La EH deberá verificar, previo al perfeccionamiento de la transferencia, que no existen obligaciones pendientes de pago en los términos del inciso b) del artículo 14 del Decreto Reglamentario FAL.
+
+En el caso de tratarse de PIC FAL administrados por distintas EH, el traspaso no podrá ser efectuado con una periodicidad menor a SEIS (6) meses. Al respecto los reglamentos de gestión o los contratos de fideicomiso, según corresponda, podrán contemplar un mecanismo de preaviso en un plazo que no podrá exceder los TREINTA (30) días corridos. Las épocas para ejercer la portabilidad entre distintas EH se limitarán a los meses de junio y diciembre.
+
+En caso de tratarse de PIC FAL administrados por la misma EH, el reglamento de gestión o el contrato de fideicomiso podrá disponer libremente las épocas para ejercer la portabilidad, así como los supuestos contemplados en el párrafo que antecede.
+
+No resultará de aplicación el plazo de SEIS (6) meses indicado precedentemente cuando se trate de una asignación de oficio, en los términos del artículo 9º, inciso d) del Decreto Reglamentario FAL.
+
+En caso de que la EH resuelva la liquidación del PIC FAL, los empleadores existentes en el vehículo podrán ejercer la portabilidad en los términos del presente artículo. A dichos efectos la EH deberá notificar la decisión con una antelación no inferior a TRES (3) meses.
+
+CONTENIDO COMÚN AL REGLAMENTO DE GESTIÓN Y AL CONTRATO DE FIDEICOMISO.
+ARTÍCULO 17.- En oportunidad de la creación de cada PIC FAL se deberá publicar el reglamento de gestión o el contrato de fideicomiso, los que deberán contener, como mínimo, la siguiente información:
+
+1. La política de inversión, conforme lo establecido por el artículo 9° de la presente Sección.
+
+2. Metodología aplicable en los supuestos de los incisos c), d) y e) del artículo 61 de la Ley de Modernización Laboral.
+
+3. Funcionamiento del vehículo ante los distintos supuestos de extinción de la relación laboral previstos en el artículo 58 de la Ley de Modernización Laboral.
+
+4. Mecanismo de pago de las indemnizaciones en los términos del Decreto Reglamentario FAL.
+
+5. Previsiones respecto de la portabilidad.
+
+6. En su caso, cláusulas que dispongan las delegaciones efectuadas con relación a tareas operativas que correspondan al flujo operacional del PIC FAL. En el supuesto en que al momento de constitución del PIC FAL no exista una delegación efectiva, se deberá incorporar la posibilidad en el reglamento de gestión o en el contrato del instrumento y, una vez efectivizada la misma, informarla a través de la AIF como HR. En ningún caso la delegación indicada limitará ni desplazará la responsabilidad que corresponda a la EH por los actos realizados en el ejercicio de sus funciones, de conformidad con la normativa aplicable.
+
+7. El procedimiento aplicable a la liquidación y cancelación del vehículo. En el caso de los FF deberán constar los mecanismos de continuidad operativa conforme lo dispuesto en el artículo 6° del Decreto Reglamentario FAL.
+
+8. Leyenda especial que disponga: “La Oferta Pública de los PIC FAL es automática y efectuada en los términos de la Ley de Mercado de Capitales y del Capítulo X del Título V de las NORMAS (N.T. 2013 y mod.) de la CNV. Esta autorización importa la constitución del vehículo de que se trate en los términos de la Ley de Modernización Laboral N° 27.802 y del Decreto reglamentario N° 408/2026. Dicha circunstancia implica que la CNV no ha emitido juicio ni ha efectuado control alguno sobre los documentos. La veracidad de la información suministrada es exclusiva responsabilidad de la Entidad Habilitada y, cuando corresponda, de los demás responsables contemplados en los artículos 119 y 120 de la Ley de Mercado de Capitales. La Entidad Habilitada manifiesta, con carácter de declaración jurada, que los documentos en los cuales se instrumentan los PIC FAL contienen información veraz, suficiente y actualizada”.
+
+OFERTA PÚBLICA AUTOMÁTICA.
+ARTÍCULO 18.– Los PIC FAL que se constituyan en los términos de la presente Sección:
+
+1. Contarán con autorización automática de oferta pública por parte de la CNV; y
+
+2. serán consideradas ofertas públicas autorizadas y regulares en los términos de lo dispuesto en el Decreto Reglamentario FAL.
+
+SOCIEDADES VINCULADAS.
+ARTÍCULO 19.- A los efectos de la interpretación y verificación del concepto de vinculación directa o indirecta entre el empleador y la EH, previsto en los artículos 62 y 75 de la Ley de Modernización Laboral y en el artículo 12 del Decreto Reglamentario FAL, se entenderá que existe tal vinculación cuando una Sociedad participe, directa o indirectamente, en más del DIEZ POR CIENTO (10%) del capital social de la otra. No configurará por sí solo el supuesto de vinculación referido el hecho de que el empleador y la EH se encuentren bajo control común de un tercero, compartan accionistas, socios o beneficiarios finales, sean calificadas como afiliadas o sociedades relacionadas, o integren un mismo grupo económico o estructura de control indirecto, en tanto no se verifique entre ellas la participación accionaria o en cuotas que supere el umbral indicado.
+
+FICHA FAL.
+ARTÍCULO 20.- Por cada PIC FAL, la EH deberá elaborar una Ficha FAL, que deberá ajustarse a las pautas que a continuación se indican. Asimismo, en las estrategias comerciales aplicadas para el ofrecimiento de los PIC FAL deberán encontrarse plasmados los principios y lineamientos generales emanados del presente artículo.
+
+La Ficha FAL deberá ser difundida en el sitio web de la EH dentro de los primeros DIEZ (10) días hábiles de cada mes, y la información en ella contenida deberá corresponder al último día hábil del mes calendario inmediato anterior al de su publicación. Ante modificaciones en el reglamento de gestión o en el contrato de fideicomiso, la actualización de la Ficha FAL deberá cumplirse junto con la difusión de la modificación respectiva.
+
+Los Agentes que intervengan en la comercialización de las cuotapartes o de los certificados de participación deberán incluir en los distintos canales utilizados un link de acceso al sitio web de la EH donde se encuentre disponible la Ficha FAL.
+
+Toda la información detallada en la Ficha FAL deberá reflejar la situación actual del PIC FAL y redactarse en un lenguaje claro y no técnico conteniendo, como mínimo, la siguiente información:
+
+1. Descripción del PIC FAL. Objetivo y política de inversión.
+
+2. Información del PIC FAL:
+
+a) Denominación completa del PIC FAL y fecha del reporte.
+
+b) Identificación de la EH y, en el caso de FCI, de la Sociedad Depositaria.
+
+c) Patrimonio neto.
+
+d) Correo electrónico de contacto.
+
+e) Calificación de riesgo, de corresponder.
+
+3. Composición de la cartera a nivel de subclase (tipo de activo) y tenencias principales.
+
+4. Rendimiento histórico del PIC FAL:
+
+a) Variación del valor de la cuotaparte, o del certificado de participación, con corte mensual, del año en curso, de los últimos NOVENTA (90) días, de los últimos CIENTO OCHENTA (180) días y de los últimos DOCE (12) meses. En todos los casos, el cálculo deberá ser efectuado neto de los honorarios.
+
+b) Gráfico con la evolución de la cuotaparte, o del certificado de participación, de los últimos DOCE (12) meses netos de honorarios.
+
+REPRESENTACIÓN DIGITAL.
+ARTÍCULO 21.- Las cuotapartes de los FCI FAL y los certificados de participación de los FF FAL no podrán ser representados digitalmente en los términos de lo dispuesto en el Capítulo I del Título XXII de estas Normas.
+
+COEXISTENCIA DE PIC FAL Y SISTEMA DE CESE LABORAL.
+ARTÍCULO 22.- En el supuesto de que, en los términos del artículo 51 de la Ley de Modernización Laboral, coexistan respecto de un mismo empleador un sistema de Cese Laboral y un PIC FAL, la EH y la Sociedad Gerente o el Fiduciario Financiero que intervenga en el PIC de Cese Laboral deberán arbitrar los medios necesarios para posibilitar la adecuada integración, coordinación y funcionamiento de ambos vehículos.
+
+### SECCIÓN II — FCIA DE ASISTENCIA LABORAL.
+
+ARTÍCULO 23.- La constitución y funcionamiento de los FCIA FAL, se regirán por el presente régimen y, supletoriamente, por las disposiciones aplicables en general para los FCIA.
+
+REGLAMENTO DE GESTIÓN.
+ARTÍCULO 24.- No se exigirá a los FCIA FAL la utilización del reglamento de gestión tipo, establecido por el Anexo II del Capítulo III del presente Título, debiendo las EH elaborar un documento adaptado a las particularidades del caso.
+
+OBJETIVO Y POLÍTICA DE INVERSIÓN. ACTIVOS AUTORIZADOS.
+ARTÍCULO 25.- Los FCIA FAL solo podrán invertir en los activos identificados en el artículo 9° de la Sección I del presente Capítulo.
+
+El reglamento de gestión deberá establecer el objetivo y la política de inversión de cada FCIA FAL.
+
+No resultarán aplicables las disposiciones de los incisos a) o b) del artículo 15 de la Sección II del Capítulo II del presente Título.
+
+COMERCIALIZACIÓN DE FCIA FAL.
+ARTÍCULO 26.- Conforme lo dispuesto en el artículo 14 del presente Capítulo podrán actuar en la comercialización de los FCIA FAL los sujetos allí mencionados, desempeñando exclusivamente las funciones propias de los ACD, conforme lo dispuesto en la Sección V del Capítulo I del Título V de estas Normas.
+
+SOCIEDADES DEPOSITARIAS.
+ARTÍCULO 27.- En atención a que por imperio de la Ley de Fondos Comunes de Inversión se requiere la actuación de una entidad que se desempeñe como Sociedad Depositaria, las funciones asignadas por la Ley de Modernización Laboral relativas a los FCIA FAL en materia de resguardo de activos y pago de obligaciones, serán ejercidas por dicha entidad en el marco de sus competencias específicas.
+
+### SECCIÓN III — FF DE ASISTENCIA LABORAL.
+
+ARTÍCULO 28.- La constitución de FF FAL, se regirá por el presente régimen y, cuando corresponda, por lo dispuesto en el Capítulo IV del Título V de estas Normas.
+
+VALORES FIDUCIARIOS.
+ARTÍCULO 29.- Los FF FAL que se constituyan en los términos de la presente Sección sólo podrán emitir certificados de participación.
+
+Conforme a las particularidades del presente régimen, no resultará exigible la determinación de un monto máximo de emisión. En consecuencia, los FF FAL tendrán oferta pública automática sin necesidad de contar con un monto de emisión previamente determinado.
+
+REGISTRO DE CERTIFICADOS DE PARTICIPACIÓN.
+ARTÍCULO 30.- El registro de los certificados de participación emitidos por los FF FAL, deberá ser llevado por el Fiduciario por sí, o por un ADCVN autorizado, en los términos y condiciones establecidos en el contrato de fideicomiso.
+
+El registro de los certificados de participación por parte del Fiduciario únicamente será admisible en caso de que se emitan en forma escritural. En este supuesto, el Fiduciario deberá llevar el libro de registro de certificados de participación, el que podrá llevarse mediante sistemas de registración digital.
+
+El registro deberá permitir la identificación individual de los certificados de participación por cada clase emitida y de sus respectivos titulares, permitiendo conocer en todo momento los registros históricos de aportes y movimientos, el saldo actual y otras características intrínsecas que indubitablemente identifiquen al certificado de participación.
+
+El Fiduciario deberá mantener el registro actualizado, garantizando la inalterabilidad, integridad y trazabilidad, dejando constancia de la fecha y hora de cada asiento y de los antecedentes que le dieron origen.
+
+El Fiduciario deberá emitir, a solicitud de los titulares o de la CNV, las constancias o comprobantes correspondientes respecto de los saldos y movimientos registrados en los términos del artículo 129 de la Ley de Mercado de Capitales.
+
+En el caso de que los certificados de participación sean representados mediante certificados globales deberán ser depositados en un ADCVN, no resultando exigible la individualización del monto de emisión, conforme lo requerido por los artículos 30 y 31 de la Sección XIII del Capítulo IV del Título V de estas Normas.
+
+INCORPORACIÓN DE FIDUCIANTES. CUENTAS SEGREGADAS.
+ARTÍCULO 31.- En cada oportunidad de adhesión de un empleador al FF FAL en su carácter de Fiduciante se emitirán certificados de participación y podrá ser individualizada una cuenta separada para sus aportes.
+
+Los FF FAL multiempresa podrán emitir distintas clases de certificados de participación y mantener cuentas de inversión segregadas asociadas a cada empleador destinadas exclusivamente a la inversión de los recursos correspondientes a cada Cuenta Individual del Empleador. En caso de que se constituyan cuentas segregadas dentro de un mismo FF FAL, la Ficha FAL deberá ser elaborada individualmente por cada una de ellas.
+
+PROSPECTO.
+ARTÍCULO 32.- Atento a las particularidades de los FF FAL no se exigirá la confección ni publicación de un Prospecto, Suplemento de Prospecto o Documento de Oferta alguno.
+
+OBJETIVO Y POLÍTICAS DE INVERSIÓN. ACTIVOS AUTORIZADOS.
+ARTÍCULO 33.- Los FF FAL constituidos para una multiplicidad de empleadores que mantengan cuentas de inversión segregadas podrán prever políticas de inversión diferenciadas, siempre que las políticas respeten los límites de inversión, activos elegibles y demás requisitos previstos en la Resolución MECON FAL y el artículo 9° de la Sección I del presente Capítulo.
+
+TOPE DE HONORARIOS, COMISIONES Y GASTOS.
+ARTÍCULO 34.- En relación a los FF FAL el tope anual máximo previsto en los artículos 71 de la Ley de Modernización Laboral y 20 del Decreto Reglamentario FAL tendrá carácter global e integral, inclusivo del IVA de corresponder, y comprenderá la totalidad de las contraprestaciones previstas en el artículo 15 de la Sección I del presente Capítulo . Dicho tope se calculará en forma anual sobre el total de los activos administrados, conforme las reglas establecidas en los artículos 39, 40 y 42 de la Sección III del Capítulo II del Título V de estas Normas.
+
+INFORME DE VALUACIÓN.
+ARTÍCULO 35.- Se deberá elaborar un informe mensual de valuación del activo subyacente, el cual deberá contener el detalle de la valuación diaria de las inversiones realizadas, de conformidad con los criterios de valuación aplicables a los FCIA.
+
+Por su parte, se deberá publicar mensualmente en el sitio web de la CNV, a través de la AIF, la composición del activo subyacente al último día hábil del mes y el valor diario de los certificados de participación, en un plazo que no podrá exceder de los VEINTE (20) días hábiles luego del cierre de cada mes que se trate.
+
+Los Fiduciantes podrán solicitar a la EH, en cualquier momento, la valuación de sus respectivas participaciones, debiendo fundar su solicitud en razones objetivas que la justifiquen.
+
+RÉGIMEN INFORMATIVO.
+ARTÍCULO 36.– Las EH FF FAL deberán dar cumplimiento al siguiente régimen informativo:
+
+1. Al momento de constitución de cada FF FAL, publicar a través de la AIF:
+
+a) Los datos estructurados de acuerdo con lo requerido en las pantallas de acceso al sistema de FF.
+
+b) El contrato de fideicomiso con identificación de los firmantes y fecha cierta de celebración.
+
+2. En simultáneo, presentar a la CNV a través de la plataforma TAD:
+
+a) Copia de la resolución social o instrumento suficiente del Fiduciario por el cual se aprueba la constitución del FF FAL.
+
+b) Contrato de Fideicomiso.
+
+3. Durante la vigencia del FF FAL, publicar a través de la AIF:
+
+a) Mensualmente, el informe de valuación de activos en los términos del artículo 35 de la presente Sección.
+
+b) Los EECC anuales indicados en el artículo 32 de la Sección XIV del Capítulo IV del Título V de estas Normas.
+
+AGENTE DE CONTROL Y REVISIÓN.
+ARTÍCULO 37.- En atención a las características del presente régimen, no será de aplicación lo dispuesto en los artículos 27, 28 y 29 de la Sección XII del Capítulo IV del Título V de estas Normas.
+
+COLOCACIÓN PRIMARIA Y LISTADO.
+ARTÍCULO 38.- Conforme las particularidades de los instrumentos a ser constituidos en los términos de lo dispuesto en el artículo 7° del Decreto Reglamentario FAL, los FF FAL prescindirán de la colocación primaria de valores negociables a través del mecanismo previsto en el artículo 1° de la Sección I del Capítulo IV del Título VI de estas Normas, y de su listado y negociación en un mercado autorizado.
+
+No serán de aplicación las disposiciones establecidas en el artículo 3° de la Sección I del Capítulo IV del Título VI de estas Normas, no siendo necesaria la acreditación de esfuerzos de colocación
+
+[Capítulo incorporado por art. 2° de la RG 1167/2026, BO 17/09/2026]
