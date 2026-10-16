@@ -1,5 +1,5 @@
 # Título XII — Capítulo V: REGISTRO DE IDÓNEOS
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1138/2026 (BO 08/05/2026)
 Fuente: PDF base, págs. 781–785.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -124,7 +124,11 @@ f) Maestría en Finanzas con orientación en Finanzas Corporativas, Mercado de C
 
 g) Maestría en Finanzas de la UNIVERSIDAD NACIONAL DE ROSARIO de rendir los Módulos N° 4, 5 y 6 del examen para acreditar idoneidad ante esta CNV, debiendo en consecuencia rendir los interesados los Módulos N° 1, 2 y 3.
 
+h) Maestría en Dirección de Finanzas y Control, con orientación en Finanzas de Empresas y Mercado de Capitales de la UNIVERSIDAD ARGENTINA DE LA EMPRESA (UADE) de rendir los Módulos N° 4, 5 y 6 del examen para acreditar idoneidad ante esta CNV, debiendo en consecuencia rendir los interesados los Módulos N° 1, 2 y 3.
+
 Para su alta en el registro de idóneos se deberá dar cumplimiento a los requisitos establecidos en el presente Capítulo.
+
+[Inciso h) incorporado por art. 1° de la RG 1138/2026, BO 08/05/2026]
 
 BAJAS, ALTAS Y MODIFICACIONES EN EL REGISTRO DE IDÓNEOS.
 ARTÍCULO 11°.- El Agente deberá informar de forma inmediata cualquier alta, baja o modificación del listado de sus idóneos que fueron registrados por esta Comisión.

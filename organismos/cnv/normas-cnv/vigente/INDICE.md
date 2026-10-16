@@ -113,7 +113,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XII/capitulo-II.md`](titulo-XII/capitulo-II.md) | Título XII — Capítulo II: OBLIGACIONES DE LOS PARTICIPANTES EN EL ÁMBITO DE LA OFERTA PÚBLICA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XII/capitulo-III.md`](titulo-XII/capitulo-III.md) | Título XII — Capítulo III: CONDUCTAS CONTRARIAS A LA TRANSPARENCIA EN EL ÁMBITO DE LA OFERTA PÚBLICA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XII/capitulo-IV.md`](titulo-XII/capitulo-IV.md) | Título XII — Capítulo IV: PROCEDIMIENTO APLICABLE ANTE INCUMPLIMIENTOS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XII/capitulo-V.md`](titulo-XII/capitulo-V.md) | Título XII — Capítulo V: REGISTRO DE IDÓNEOS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XII/capitulo-V.md`](titulo-XII/capitulo-V.md) | Título XII — Capítulo V: REGISTRO DE IDÓNEOS | RG 1138/2026 (BO 08/05/2026) |
 | [`titulo-XII/capitulo-VI.md`](titulo-XII/capitulo-VI.md) | Título XII — Capítulo VI: DERECHOS, ARANCELES Y COMISIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
 ## Título XIII — PROCEDIMIENTO DE INVESTIGACIONES. PROCEDIMIENTO SUMARIAL. PUBLICIDAD
