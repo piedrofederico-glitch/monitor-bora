@@ -7,4 +7,4 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 - Reemplazado por: RG 1131/2026, art. 7°
 - Ocurrencias reemplazadas en este archivo: 2
 - Ubicaciones: art. 1°
-- Texto anterior: idéntico al vigente salvo las expresiones reemplazadas («\bACyDI\b» → «ACDI»; «\bACyD\b» → «ACD»).
+- Texto anterior: idéntico al vigente salvo las expresiones reemplazadas («ACyDI» → «ACDI»; «ACyD» → «ACD»).
