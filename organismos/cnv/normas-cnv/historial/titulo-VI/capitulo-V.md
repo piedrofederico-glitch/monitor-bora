@@ -474,3 +474,26 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 
 > DEFINICIÓN.
 > ARTÍCULO 6º.- Se entiende que el concepto de cartera propia comprende las operaciones realizadas por los agentes para sí o para sus sociedades controladas, las controlantes o las que estén bajo control común dentro de un mismo grupo económico de la respectiva sociedad; y para sus miembros del órgano de administración, del órgano de fiscalización, síndicos, consejeros de vigilancia, gerentes, socios, accionistas, empleados, administradores, apoderados y representantes. Asimismo, los parientes de éstos por consanguinidad en línea recta y colateral hasta el segundo grado inclusive, por afinidad en línea recta y colateral hasta el segundo grado inclusive, al cónyuge o las personas con análoga relación de afectividad. (Ver CRI48) (Ver CRI59)
+
+## Artículo 2 (Sección II)
+- Vigente desde: 11/06/2026
+- Vigente hasta: 12/07/2026
+- Sustituido por: RG 1154/2026, art. 2°
+- Texto:
+
+> REGLA GENERAL.
+> ARTÍCULO 2°.- Como regla general, todas las operaciones se realizarán a través de los Sistemas Informáticos de Negociación autorizados por la Comisión, bajo segmentos que aseguren la prioridad precio tiempo y por interferencia de ofertas, y serán garantizadas por el Mercado y por la Cámara Compensadora en su caso.
+>
+> Los Agentes sólo podrán dar curso a operaciones instruidas por los Sujetos Restringidos bajo los mencionados segmentos de negociación de los Mercados, no pudiendo ingresar ofertas en las ruedas de negociación regular de los Mercados, durante los primeros y los últimos 30 minutos de cada jornada de negociación.
+>
+> Asimismo, en forma previa a dar curso a tales operaciones, los Agentes deberán observar y constatar las siguientes condiciones por Sujeto Restringido:
+>
+> (i) el volumen total operado diario por especie no podrá exceder el 25% del volumen promedio diario de las cinco (5) jornadas inmediatas anteriores; y
+>
+> (ii) respecto de los valores negociables de renta fija públicos, el volumen operado por jornada no podrá superar el 5% del saldo en circulación de la respectiva especie.
+>
+> Las exigencias previstas en el presente artículo resultan aplicables para cada subcuenta comitente y para el conjunto de subcuentas comitentes de las que fuera titular o cotitular un mismo Sujeto Restringido. Será responsabilidad de los Agentes observar y constatar el cumplimiento de la totalidad de los requisitos previstos en los párrafos precedentes, conservando la documentación respaldatoria en los respectivos legajos.
+>
+> Los Agentes habilitados para su actuación como hacedores de mercado sólo podrán desarrollar sus compromisos en segmentos de negociación por interferencia de ofertas con prioridad precio tiempo. Asimismo, aquellas instrucciones de operaciones tendientes a proveer liquidez que fueran impartidas por determinados clientes habilitados por dichos agentes, de conformidad con lo previsto en el presente Título de estas Normas, también deberán cursarse, sin excepción, en segmentos de negociación por interferencia de ofertas con prioridad precio tiempo.
+>
+> [Artículo sustituido por art. 3° de la RG 1151/2026, BO 11/06/2026, vigente desde 11/06/2026]

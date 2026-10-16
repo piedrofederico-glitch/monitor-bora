@@ -2221,3 +2221,11 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 - Texto:
 
 > “FGS” significa Fondo de Garantía de Sustentabilidad.
+
+## Artículo 2 (Sección II) — fragmento
+- Vigente desde: 11/06/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 12/07/2026
+- Sustituido/suprimido parcialmente por: RG 1154/2026, art. 1°
+- Texto:
+
+> “Sujeto Restringido” significa los siguientes sujetos: (i) entidades comprendidas en los incisos a) a d) del artículo 8° de la Ley N° 24.156 y sus modificatorias y los entes públicos no estatales; excepto por aquellas sociedades anónimas en las cuales el Estado nacional tenga participación mayoritaria en el capital o en la formación de las decisiones societarias cuyas acciones se negocien en Mercados bajo competencia de la CNV; (ii) entidades provinciales, municipales o de la Ciudad Autónoma de Buenos Aires que de haber sido nacionales hubieran estado comprendidas en el numeral anterior; y (iii) cajas previsionales y otras entidades que canalizan fondos previsionales obligatorios no estatales (aportes compulsivos administrados por entidades no integradas al sistema previsional estatal, con finalidad de otorgar prestaciones previsionales). Los sujetos incluidos en los numerales (i) y (ii) que constituyan entidades financieras regidas por la Ley de Entidades Financieras, así como también el FGS, están excluidos de esta definición.

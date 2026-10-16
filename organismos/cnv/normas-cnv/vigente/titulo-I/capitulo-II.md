@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1151/2026 (BO 11/06/2026)
+Última modificación: RG 1154/2026 (BO 13/07/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -380,7 +380,7 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Subasta” o “Licitación Pública” significa el mecanismo de colocación de valores negociables realizado en los términos previstos en el Capítulo IV del Título VI de estas Normas.
 
-“Sujeto Restringido” significa los siguientes sujetos: (i) entidades comprendidas en los incisos a) a d) del artículo 8° de la Ley N° 24.156 y sus modificatorias y los entes públicos no estatales; excepto por aquellas sociedades anónimas en las cuales el Estado nacional tenga participación mayoritaria en el capital o en la formación de las decisiones societarias cuyas acciones se negocien en Mercados bajo competencia de la CNV; (ii) entidades provinciales, municipales o de la Ciudad Autónoma de Buenos Aires que de haber sido nacionales hubieran estado comprendidas en el numeral anterior; y (iii) cajas previsionales y otras entidades que canalizan fondos previsionales obligatorios no estatales (aportes compulsivos administrados por entidades no integradas al sistema previsional estatal, con finalidad de otorgar prestaciones previsionales). Los sujetos incluidos en los numerales (i) y (ii) que constituyan entidades financieras regidas por la Ley de Entidades Financieras, así como también el FGS, están excluidos de esta definición.
+“Sujeto Restringido” significa los siguientes sujetos: (i) entidades comprendidas en los incisos a) a d) del artículo 8° de la Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional y los entes públicos no estatales; excepto por el Tesoro Nacional, el FGS y las sociedades anónimas en las cuales el Estado Nacional tenga participación mayoritaria en el capital o en la formación de las decisiones societarias y cuyas acciones se negocien en Mercados bajo competencia de la CNV, incluidas sus sociedades controladas, directa o indirectamente; (ii) entidades provinciales, municipales o de la CABA que de haber sido nacionales hubieran estado comprendidas en el numeral anterior; y (iii) cajas previsionales y otras entidades que canalizan fondos previsionales obligatorios no estatales (aportes compulsivos administrados por entidades no integradas al sistema previsional estatal, con finalidad de otorgar prestaciones previsionales). Se encuentran excluidos de esta definición, los sujetos contemplados en los numerales (i) y (ii) que constituyan entidades financieras regidas por la Ley de Entidades Financieras, así como también las sociedades - constituidas bajo cualquiera de los tipos societarios previstos en la Ley General de Sociedades- controladas, directa o indirectamente, por dichas entidades financieras, en la medida en que tales sociedades se encuentren sujetas a regímenes regulatorios especiales y su actividad principal consista en la prestación de servicios financieros, incluidos los: (a) servicios de administración profesional de patrimonios privados, fondos o activos de terceros, y/o (b) servicios bursátiles, fiduciarios, seguros o reaseguros (excepto aquellos que abarquen las actividades previstas en el numeral (iii) precedente), leasing y los servicios de gestión de pagos, tecnológicos o de cualquier otra naturaleza desarrollados en mercados abiertos y competitivos.
 
 “Suplemento” o “Suplemento de Prospecto” significa un documento que forma parte, y debe leerse junto con el Prospecto del Programa, que contiene los términos y condiciones específicos de una clase o serie bajo un Programa Global o Programa y otra información complementaria del Prospecto y, en su caso, toda la actualización de la información no incluida en el Prospecto del Programa.
 
@@ -455,6 +455,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Término incorporado: “Sujeto Restringido” por art. 1° de la RG 1151/2026, BO 11/06/2026, vigente desde 11/06/2026]
 
 [Definición sustituida: “FGS” por art. 2° de la RG 1151/2026, BO 11/06/2026, vigente desde 11/06/2026]
+
+[Definición sustituida: “Sujeto Restringido” por art. 1° de la RG 1154/2026, BO 13/07/2026, vigente desde 13/07/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES.
-Última modificación: RG 1152/2026 (BO 18/06/2026)
+Última modificación: RG 1154/2026 (BO 13/07/2026)
 Fuente: PDF base, págs. 928–935.
 
 ADECUACIÓN PATRIMONIO NETO MÍNIMO AN, ALYC Y AAGI.
@@ -323,3 +323,10 @@ ARTÍCULO 28.- Los ALyC y AN, alcanzados por las disposiciones del artículo 2°
 A partir de la entrada en vigencia de la Resolución General N° 1152, el referido régimen informativo comenzará con la remisión de la información correspondiente al mes de julio de 2026 con vencimiento a más tardar el 10° día hábil de agosto de 2026
 
 [Artículo incorporado por art. 4° de la RG 1152/2026, BO 18/06/2026, vigente desde 18/06/2026]
+
+CUMPLIMIENTO VOLÚMENES OPERADOS Y LÍMITES - RG N° 1154.
+ARTÍCULO 29.- Los requisitos relativos al volumen operado y límites dispuestos en el artículo 2°, incisos (i) y (ii), de la Sección II del Capítulo V del Título VI de estas Normas, no resultan aplicables respecto de los valores negociables en cartera adquiridos previo a la entrada en vigencia de la RG N° 1154.
+
+Para dar curso a operaciones sobre dichos valores negociables rigen las restantes condiciones previstas en el mencionado artículo 2°
+
+[Artículo incorporado por art. 3° de la RG 1154/2026, BO 13/07/2026, vigente desde 13/07/2026]

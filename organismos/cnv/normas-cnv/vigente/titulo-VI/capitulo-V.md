@@ -1,5 +1,5 @@
 # Título VI — Capítulo V: NEGOCIACIÓN SECUNDARIA. OPERACIONES
-Última modificación: RG 1151/2026 (BO 11/06/2026)
+Última modificación: RG 1154/2026 (BO 13/07/2026)
 Fuente: PDF base, págs. 555–586.
 
 ### SECCIÓN I — RUEDAS DE NEGOCIACIÓN.
@@ -16,15 +16,23 @@ Los Agentes sólo podrán dar curso a operaciones instruidas por los Sujetos Res
 
 Asimismo, en forma previa a dar curso a tales operaciones, los Agentes deberán observar y constatar las siguientes condiciones por Sujeto Restringido:
 
-(i) el volumen total operado diario por especie no podrá exceder el 25% del volumen promedio diario de las cinco (5) jornadas inmediatas anteriores; y
+(i) el volumen nominal total operado diario por especie no podrá exceder:
 
-(ii) respecto de los valores negociables de renta fija públicos, el volumen operado por jornada no podrá superar el 5% del saldo en circulación de la respectiva especie.
+a) el 25% del volumen promedio diario de las CINCO (5) jornadas anteriores en las que se registró negociación en la respectiva especie; o
 
-Las exigencias previstas en el presente artículo resultan aplicables para cada subcuenta comitente y para el conjunto de subcuentas comitentes de las que fuera titular o cotitular un mismo Sujeto Restringido. Será responsabilidad de los Agentes observar y constatar el cumplimiento de la totalidad de los requisitos previstos en los párrafos precedentes, conservando la documentación respaldatoria en los respectivos legajos.
+b) si no se pudiere verificar el volumen nominal requerido en el punto a) que antecede, el 5% del saldo en circulación de dicho valor negociable; y
 
-Los Agentes habilitados para su actuación como hacedores de mercado sólo podrán desarrollar sus compromisos en segmentos de negociación por interferencia de ofertas con prioridad precio tiempo. Asimismo, aquellas instrucciones de operaciones tendientes a proveer liquidez que fueran impartidas por determinados clientes habilitados por dichos agentes, de conformidad con lo previsto en el presente Título de estas Normas, también deberán cursarse, sin excepción, en segmentos de negociación por interferencia de ofertas con prioridad precio tiempo.
+(ii) respecto de los valores negociables de renta fija públicos, el volumen nominal operado por jornada no podrá superar el 5% del saldo en circulación de la respectiva especie.
 
-[Artículo sustituido por art. 3° de la RG 1151/2026, BO 11/06/2026, vigente desde 11/06/2026]
+El volumen nominal total operado y el límite mencionado en el inciso (i) precedente deberán ser computados y calculados por Mercado conforme el volumen operado individualmente en la respectiva especie en cada uno de ellos.
+
+El volumen nominal total operado podrá ser computado conforme el volumen operado en el conjunto de los Mercados en los cuales la especie tenga negociación habilitada, en cuyo caso deberá respetarse el referido límite del 25% del inciso (i) calculado sobre dicho volumen nominal conjunto y operarse en el Mercado con el mayor volumen en la respectiva especie en las últimas CINCO (5) jornadas.
+
+Las exigencias previstas en el presente artículo resultan aplicables para cada subcuenta comitente y para el conjunto de subcuentas comitentes de las que fuera titular o cotitular un mismo Sujeto Restringido. Será responsabilidad de los Agentes observar y constatar el cumplimiento de la totalidad de los requisitos previstos en los párrafos precedentes, conservando la documentación respaldatoria en los respectivos legajos. Los Agentes podrán requerir y basarse en una DDJJ del Sujeto Restringido respecto de su operatoria con otros Agentes.
+
+Los Agentes habilitados para su actuación como hacedores de mercado sólo podrán desarrollar sus compromisos en segmentos de negociación por interferencia de ofertas con prioridad precio tiempo. Asimismo, aquellas instrucciones de operaciones tendientes a proveer liquidez que fueran impartidas por determinados clientes habilitados por dichos agentes, de conformidad con lo previsto en el presente Título de estas Normas, también deberán cursarse, sin excepción, en segmentos de negociación por interferencia de ofertas con prioridad precio tiempo
+
+[Artículo sustituido por art. 2° de la RG 1154/2026, BO 13/07/2026, vigente desde 13/07/2026]
 
 EXCEPCIÓN.
 ARTÍCULO 3°.- En forma excepcional, la Comisión podrá permitir a los Mercados organizar segmentos para la negociación bilateral no garantizada de valores negociables sean de renta fija (públicos o privados), entre agentes de su cartera propia o entre agentes e Inversores Calificados, en la medida que cualquiera de éstos últimos no revista el carácter de Sujeto Restringido.
