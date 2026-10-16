@@ -468,6 +468,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-III.md`
 | Secc. X (completa) | incorpora | RG 1121/2026 | 4° | 27/03/2026 |
 | Secc. XI (completa) | incorpora | RG 1147/2026 | 8° | 11/06/2026 |
 | Secc. XII (completa) | incorpora | RG 1148/2026 | 4° | 11/06/2026 |
+| Secc. XIII (completa) | incorpora | RG 1153/2026 | 1° | 18/06/2026 |
 
 ## Título XVIII, Capítulo IV
 Archivo: `vigente/titulo-XVIII/capitulo-IV.md`

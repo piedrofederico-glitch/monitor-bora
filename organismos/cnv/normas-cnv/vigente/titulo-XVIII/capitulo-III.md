@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN.
-Última modificación: RG 1148/2026 (BO 11/06/2026)
+Última modificación: RG 1153/2026 (BO 18/06/2026)
 Fuente: PDF base, págs. 921–926.
 
 ### SECCIÓN I — RÉGIMEN DE SINCERAMIENTO FISCAL LEY N° 27.260.
@@ -106,3 +106,13 @@ ARTÍCULO 25.- Con excepción de los FCIA ETF, los trámites de autorización de
 ARTÍCULO 26.- Los trámites de autorización iniciados en forma previa a la entrada en vigencia de la RG N° 1148 que opten por continuar bajo el régimen de autorización automática en los términos de la Sección III del Capítulo III del Título V de las NORMAS (N.T. 2013 y mod.) quedarán sin efecto, sin perjuicio de lo dispuesto en el artículo siguiente, con la publicación del Prospecto y reglamento de gestión directamente en la AIF bajo responsabilidad exclusiva de las Sociedades Gerente y Depositaria.
 
 [Sección incorporada por art. 4° de la RG 1148/2026, BO 11/06/2026]
+
+### SECCIÓN XIII — RESOLUCIÓN GENERAL N°: 1153. FCIA PARA INVERSORES CALIFICADOS CON INVERSIONES EN ACTIVOS DEL EXTERIOR. SUSPENSIÓN TRANSITORIA. CONSTITUCIÓN DE NUEVOS FCIA Y NUEVAS SUSCRIPCIONES.
+
+ARTÍCULO 27.- Se suspenden las operaciones de suscripción de cuotapartes de los FCIA constituidos en los términos de la Sección XI del Capítulo II del Título V de las NORMAS (N.T. 2013 y mod.) que prevean en su reglamento de gestión la inversión en activos emitidos y negociados en el exterior en un porcentaje mayor al VEINTICINCO POR CIENTO (25%) de su patrimonio neto.
+
+ARTÍCULO 28.- Se suspende la autorización y constitución de nuevos FCIA que cumplan con las condiciones indicadas en el artículo precedente.
+
+ARTÍCULO 29.- Se suspenden las reformas de reglamentos de gestión de FCIA previstas en los artículos 75 y 75 BIS de la Sección VI del Capítulo II del Título V de las NORMAS (N.T. 2013 y mod.) que tengan por objetivo que el FCIA cumpla con las condiciones indicadas en el artículo 27 de la presente Sección
+
+[Sección incorporada por art. 1° de la RG 1153/2026, BO 18/06/2026, vigente desde 18/06/2026]
