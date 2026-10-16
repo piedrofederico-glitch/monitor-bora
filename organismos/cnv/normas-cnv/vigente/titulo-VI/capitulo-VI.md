@@ -1,5 +1,5 @@
 # Título VI — Capítulo VI: NEGOCIACIÓN SECUNDARIA DE VALORES NEGOCIABLES DE EMISION INDIVIDUAL QUE GOZAN DE OFERTA PÚBLICA.
-Última modificación: RG 1107/2026 (BO 13/02/2026)
+Última modificación: RG 1170/2026 (BO 02/10/2026)
 Fuente: RG 1090/2025, art. 6°.
 
 ### SECCIÓN I — DISPOSICIONES COMUNES APLICABLES A LA NEGOCIACIÓN SECUNDARIA DE LOS VALORES NEGOCIABLES DE EMISION INDIVIDUAL
@@ -75,9 +75,13 @@ La información contenida en la plataforma deberá resguardar los derechos de lo
 
 El ACRyP deberá adoptar las medidas de seguridad tendientes a mitigar cualquier riesgo de acceso no autorizado, alteración, destrucción o pérdida de la información. Asimismo, deberá establecer los sistemas, procedimientos y pautas aplicables a la custodia y almacenamiento de la información, así como las especificaciones técnicas y de seguridad mínimas de los sistemas para registrar y almacenar los datos a los fines de velar por el resguardo, confidencialidad, integridad e inalterabilidad de la información, incluyendo los planes de contingencia que se aplicarán en caso de ocurrir situaciones fortuitas y/o extraordinarias.
 
-ARTICULO 7°.- El ACRyP deberá entregar, a solicitud del depositante, el documento habilitante para la ejecución del valor negociable de emisión individual de que se trate cuando: no hubiera recibido el pago por parte del obligado al vencimiento del plazo, o la presentación del valor negociable de emisión individual al cobro, y, además, no hubiere recibido una instrucción del Agente para efectuar un canje en las condiciones previstas en el artículo 5° del presente Capítulo, , excepto por los cheques de pago diferido (a menos que cualquier normativa de jerarquía superior aplicable lo habilite o exija expresamente).
+ARTÍCULO 7°.- El ACRyP deberá entregar, a solicitud del depositante, el documento habilitante para la ejecución del VNEI de que se trate cuando: no hubiera recibido el pago por parte del obligado al vencimiento del plazo o la presentación del VNEI al cobro, y, además, no hubiere recibido una instrucción del agente para efectuar un canje en las condiciones dispuestas en el artículo 5° del presente Capítulo, excepto por los cheques de pago diferido (a menos que cualquier normativa de jerarquía superior aplicable lo habilite o exija expresamente).
 
-Asimismo, los ACRyP deberán desarrollar un mecanismo de comunicación con los Mercados en los que se negocien los valores negociables de emisión individual, al que deberán notificar en forma inmediata dicha situación.
+El ACRyP deberá desarrollar un mecanismo de comunicación con los Mercados en los que se negocien los VNEI, al que deberán notificar en forma inmediata dicha situación.
+
+Asimismo, en los términos dispuestos en el artículo 2° de la Sección I del Capítulo II del Título VIII de estas Normas, el ACRyP podrá desarrollar y ofrecer -como actividad afín o complementaria- el servicio de registración de transferencias de VNEI, previamente negociados en un Mercado autorizado por la CNV, que se encuentren vencidos e impagos y bajo custodia del ACRyP
+
+[Artículo sustituido por art. 1° de la RG 1170/2026, BO 02/10/2026]
 
 ### SECCIÓN III — DISPOSICIONES APLICABLES A LOS MERCADOS.
 
@@ -179,23 +183,19 @@ ARTÍCULO 16.- Los certificados de depósito de plazo fijo deberán estar consti
 
 ARTICULO 17.- Los Agentes no podrán ser emisores o libradores de VNEI, excepto cuando:
 
-1. se encuentren inscriptos bajo alguna de las siguientes categorías:
+1. Se encuentren inscriptos bajo alguna de las siguientes categorías:
 
-a) ALYC Participante Directo;
+a. ALyC Participante Directo;
 
-b) ALyC Integral-Agroindustrial;
+b. ALyC I AGRO, incluido el ALyC I AGRO que simultáneamente sea ACDI;
 
-c) AN RUCA; o
-
-d) ALYC que sean bancos que estén autorizados bajo la Ley de Entidades Financieras; o
+c. AN RUCA; o d. ALyC que sean bancos que estén autorizados bajo la Ley de Entidades Financieras; o
 
 2. se trate de:
 
-a) FCE MiPyMEs; o
+a. FCE MiPyMEs; o b. VNEI que se negocien en el segmento avalado
 
-b) VNEI que se negocien en el segmento avalado
-
-[Artículo sustituido por art. 2° de la RG 1107/2026, BO 13/02/2026]
+[Artículo sustituido por art. 2° de la RG 1170/2026, BO 02/10/2026]
 
 ARTICULO 18.- Los Agentes que participen como vendedores de valores negociables de emisión individual deberán conocer a sus clientes, requiriendo a sus comitentes, emisores, libradores o beneficiarios de tales valores, la información patrimonial y financiera acorde y necesaria, conforme su naturaleza lo permita.
 

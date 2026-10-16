@@ -401,6 +401,8 @@ Archivo: `vigente/titulo-VI/capitulo-VI.md`
 |---|---|---|---|---|
 | capítulo completo | incorpora | RG 1090/2025 | 6° | 14/11/2025 |
 | art. 17 (Secc. X) | sustituye | RG 1107/2026 | 2° | 13/02/2026 |
+| art. 7° (Secc. II) | sustituye | RG 1170/2026 | 1° | 02/10/2026 |
+| art. 17 (Secc. X) | sustituye | RG 1170/2026 | 2° | 02/10/2026 |
 
 ## Título VII, Capítulo I
 Archivo: `vigente/titulo-VII/capitulo-I.md`
@@ -444,6 +446,14 @@ Archivo: `vigente/titulo-VIII/capitulo-I.md`
 | art. 7° (Secc. II) | sustituye | RG 1165/2026 | 2° | 07/09/2026 |
 | art. 10 (Secc. IV) | sustituye | RG 1165/2026 | 3° | 07/09/2026 |
 | art. 12 (Secc. IV) | sustituye | RG 1165/2026 | 4° | 07/09/2026 |
+
+## Título VIII, Capítulo II
+Archivo: `vigente/titulo-VIII/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 2° (Secc. I) | sustituye | RG 1170/2026 | 3° | 02/10/2026 |
+| art. 13 (Secc. IV) | sustituye | RG 1170/2026 | 4° | 02/10/2026 |
 
 ## Título IX, Capítulo I
 Archivo: `vigente/titulo-IX/capitulo-I.md`

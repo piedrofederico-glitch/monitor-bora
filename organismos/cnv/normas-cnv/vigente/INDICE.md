@@ -65,7 +65,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-VI/capitulo-III.md`](titulo-VI/capitulo-III.md) | Título VI — Capítulo III: LIQUIDACIÓN Y COMPENSACIÓN DE OPERACIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VI/capitulo-IV.md`](titulo-VI/capitulo-IV.md) | Título VI — Capítulo IV: COLOCACIÓN PRIMARIA. | RG 1169/2026 (BO 23/09/2026) |
 | [`titulo-VI/capitulo-V.md`](titulo-VI/capitulo-V.md) | Título VI — Capítulo V: NEGOCIACIÓN SECUNDARIA. OPERACIONES | RG 1154/2026 (BO 13/07/2026) |
-| [`titulo-VI/capitulo-VI.md`](titulo-VI/capitulo-VI.md) | Título VI — Capítulo VI: NEGOCIACIÓN SECUNDARIA DE VALORES NEGOCIABLES DE EMISION INDIVIDUAL QUE GOZAN DE OFERTA PÚBLICA. | RG 1107/2026 (BO 13/02/2026) |
+| [`titulo-VI/capitulo-VI.md`](titulo-VI/capitulo-VI.md) | Título VI — Capítulo VI: NEGOCIACIÓN SECUNDARIA DE VALORES NEGOCIABLES DE EMISION INDIVIDUAL QUE GOZAN DE OFERTA PÚBLICA. | RG 1170/2026 (BO 02/10/2026) |
 
 ## Título VII — AGENTE DE NEGOCIACIÓN. AGENTE DE LIQUIDACIÓN Y COMPENSACIÓN. AGENTE ASESOR GLOBAL DE INVERSIÓN. AGENTE PRODUCTOR. AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. DISPOSICIONES COMUNES
 
@@ -85,7 +85,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 |---|---|---|
 | [`titulo-VIII/capitulo-preliminar.md`](titulo-VIII/capitulo-preliminar.md) | Título VIII — Capítulo Preliminar | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VIII/capitulo-I.md`](titulo-VIII/capitulo-I.md) | Título VIII — Capítulo I: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | RG 1165/2026 (BO 07/09/2026) |
-| [`titulo-VIII/capitulo-II.md`](titulo-VIII/capitulo-II.md) | Título VIII — Capítulo II: AGENTES DE CUSTODIA, REGISTRO Y PAGO (ACRYP). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-VIII/capitulo-II.md`](titulo-VIII/capitulo-II.md) | Título VIII — Capítulo II: AGENTES DE CUSTODIA, REGISTRO Y PAGO (ACRYP). | RG 1170/2026 (BO 02/10/2026) |
 
 ## Título IX — AGENTES DE CALIFICACIÓN DE RIESGOS (ACR)
 
