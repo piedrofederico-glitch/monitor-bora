@@ -288,6 +288,10 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “LPA” significa Ley de Procedimiento Administrativo N° 19.549.
 
+“Mercado de Capitales”, “Oferta Pública”, “Valores Negociables”, “Productos de Inversión Colectiva”, “Mercados” y “Agentes Registrados” tienen el alcance previsto en el artículo 2º de la Ley Nº 26.831.
+
+[Párrafo restituido el 16/10/2026: se había suprimido por error al consolidar el art. 3° de la RG 1131/2026, que no lo modifica (verificado contra el texto de la RG y contra InfoLEG)]
+
 “Matriz de Compatibilidades” tiene el significado atribuido en el artículo 9° de la Sección III del Capítulo I del Título XVI de las Normas.
 
 “NCPA” significa las Normas Contables Profesionales Argentinas.
@@ -535,6 +539,10 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 ARTÍCULO 3º.- Las siguientes expresiones, aun cuando no aparecieran en mayúscula, tendrán los siguientes significados a los fines de su interpretación (dichos significados serán igualmente aplicables tanto en la forma singular como plural de los términos definidos):
 
 “Agentes inscriptos en el registro a cargo de la CNV” o “Agentes Registrados”: las definiciones y menciones en estas Normas de las distintas categorías de Agentes, se refieren a Agentes definidos en la Ley de Mercado de Capitales, inscriptos en el registro a cargo de la CNV, lo que incluye a los ADCVN, ACVN, ACRyP, entre otros, pero excluye a los Mercados y las Cámaras Compensadoras.
+
+“Aportes irrevocables”, “Aportes irrevocables a cuenta de futuras suscripciones de acciones”, “Adelantos irrevocables a cuenta de futuras suscripciones de acciones”, “Aportes irrevocables a cuenta de futuras emisiones de acciones”, y cualquier otra denominación que sea utilizada y esté referida a idéntico concepto, a los efectos de estas Normas serán entendidos como sinónimos.
+
+[Párrafo restituido el 16/10/2026: se había suprimido por error al consolidar el art. 4° de la RG 1131/2026, que no lo modifica (verificado contra el texto de la RG y contra InfoLEG)]
 
 “Aportes irrevocables a cuenta de futuras suscripciones de acciones” significa las sumas de dinero recibidas por una Emisora de parte de accionistas o terceros, con el compromiso irrevocable de ser destinadas a la futura integración de un aumento de capital social mediante la suscripción de nuevas acciones. Su carácter es transitorio y, si bien incrementan temporalmente el patrimonio neto, están sujetos a la aprobación posterior de la Asamblea de Accionistas para su efectiva capitalización dentro del plazo y condiciones establecidos en estas Normas y en la Ley General de Sociedades.
 

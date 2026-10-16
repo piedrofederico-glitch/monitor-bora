@@ -1020,6 +1020,7 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 - Vigente desde: 30/04/2026 o antes (fecha de la última modificación registrada en el artículo)
 - Vigente hasta: 29/04/2026
 - Sustituido/suprimido parcialmente por: RG 1131/2026, art. 3°
+- Corrección (16/10/2026): el párrafo que empieza con “Mercado de Capitales”, “Oferta Públic… no lo modifica la RG; quedó acá por error de consolidación y se restituyó en vigente/.
 - Texto:
 
 > “ACyD” significa Agente de Colocación y Distribución.
@@ -1232,6 +1233,7 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 - Vigente desde: 21/02/2026 o antes (fecha de la última modificación registrada en el artículo)
 - Vigente hasta: 29/04/2026
 - Sustituido/suprimido parcialmente por: RG 1131/2026, art. 4°
+- Corrección (16/10/2026): el párrafo que empieza con “Aportes irrevocables”, “Aportes irrev… no lo modifica la RG; quedó acá por error de consolidación y se restituyó en vigente/.
 - Texto:
 
 > “Agentes inscriptos en el registro a cargo de la CNV”: Las definiciones y menciones en estas Normas de las distintas categorías de Agentes, se refieren a Agentes inscriptos en el registro a cargo de la CNV.
