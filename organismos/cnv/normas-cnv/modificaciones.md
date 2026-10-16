@@ -434,6 +434,7 @@ Archivo: `vigente/titulo-XVI/capitulo-II.md`
 | Anexo IV | sustituye | RG 1140/2026 | 2° | 21/05/2026 |
 | Anexo II | sustituye | RG 1148/2026 | 3° | 11/06/2026 |
 | Anexo I | sustituye | RG 1149/2026 | 11 | 11/06/2026 |
+| Anexo V | sustituye | RG 1155/2026 | 1° | 13/07/2026 |
 
 ## Título XVII, Capítulo I
 Archivo: `vigente/titulo-XVII/capitulo-I.md`

@@ -1,5 +1,5 @@
 # Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS.
-Última modificación: RG 1149/2026 (BO 11/06/2026)
+Última modificación: RG 1155/2026 (BO 13/07/2026)
 Fuente: RG 1112/2026, art. 2°.
 
 EMISORAS.
@@ -133,31 +133,37 @@ Facultades delegadas en la Gerencia y Subgerencia de Control de Auditores:
 
 [Anexo sustituido por art. 2° de la RG 1140/2026, BO 21/05/2026]
 
-### ANEXO V.
+### ANEXO V
 
 FACULTADES DELEGADAS EN LA GERENCIA DE AGENTES Y MERCADOS.
 
-1.- Aplicación de advertencias a los sujetos sometidos a su fiscalización, por nota dirigida a los órganos de administración y de fiscalización y, por única vez, respecto de cada infracción en cuestión, por incumplimientos de tipo formal, o falta de cumplimiento inmediato de intimación para la adecuación de cuestiones que le fueron observadas.
+1. Aplicación de advertencias a los sujetos sometidos a su fiscalización, por nota dirigida a los órganos de administración y de fiscalización y, por única vez, respecto de cada infracción en cuestión, por incumplimientos de tipo formal, o falta de cumplimiento inmediato de intimación para la adecuación de cuestiones que le fueron observadas.
 
-2.- Aplicación de advertencias a los sujetos sometidos a su fiscalización, por nota dirigida a los órganos de administración y de fiscalización, por falta de cumplimiento de intimación para la adecuación de incumplimientos al correspondiente Régimen Informativo Permanente y, consecuente, incumplimiento al deber de abstención de funcionamiento, requiriendo que, en forma inmediata y hasta tanto esta Comisión constate la subsanación de tales incumplimientos, conforme su categoría de inscripción, se abstenga de continuar funcionando como tal en los términos de lo dispuesto en las presentes Normas, sin perjuicio de la eventual aplicación de las sanciones previstas en el artículo 132 de la Ley de Mercado de Capitales.
+2. Aplicación de advertencias a los sujetos sometidos a su fiscalización, por nota dirigida a los órganos de administración y de fiscalización, por falta de cumplimiento de intimación para la adecuación de incumplimientos al correspondiente Régimen Informativo Permanente y, consecuente, incumplimiento al deber de abstención de funcionamiento, requiriendo que, en forma inmediata y hasta tanto la CNV constate la subsanación de tales incumplimientos, conforme su categoría de inscripción, se abstenga de continuar funcionando como tal en los términos de lo dispuesto en las presentes Normas, sin perjuicio de la eventual aplicación de las sanciones previstas en el artículo 132 de la Ley de Mercado de Capitales.
 
-Asimismo, según corresponda conforme la respectiva categoría de inscripción del Agente, informar a los Mercados las advertencias aplicadas en los términos del párrafo precedente, solicitando que adopten las medidas precautorias y/o preventivas de índole operativa contempladas en sus respectivos reglamentos, debiendo comunicar a esta Comisión en forma inmediata la adopción de las mismas.
+Asimismo, según corresponda conforme la respectiva categoría de inscripción del Agente, informar a los Mercados las advertencias aplicadas en los términos del párrafo precedente, solicitando que adopten las medidas precautorias y/o preventivas de índole operativa contempladas en sus respectivos reglamentos, debiendo comunicar a la CNV en forma inmediata la adopción de las mismas.
 
-3.- Declaración de caducidad de la inscripción registral de los Agentes Productores, en los términos dispuestos en la Sección VII del Título X de estas Normas.
+3. Declaración de caducidad de la inscripción registral de los AP, en los términos dispuestos en la Sección VII del Título X de estas Normas.
 
 Facultades delegadas en la Gerencia de Agentes y Mercados y en la Subgerencia de Registro:
 
-1.- Autorización para funcionar e inscripción en el Registro de Agentes como Agente Productor.
+1. Autorización para funcionar e inscripción en el Registro de Agentes como AP.
 
-2.- Cancelación de inscripción de los Agentes Productores en el registro que lleva la CNV.
+2. Cancelación de inscripción de los AP en el registro que lleva la CNV.
 
-3.- Ordenar la toma de nota del cambio de denominación de los Agentes registrados ante la CNV.
+3. Ordenar la toma de nota del cambio de denominación de los Agentes registrados ante la CNV.
+
+4. Autorización para funcionar e inscripción en el Registro de Agentes como ACD y ACDI.
+
+5. Cancelación de inscripción de los ACD y ACDI en el registro que lleva la CNV.
 
 Facultades delegadas en la Gerencia de Agentes y Mercados y en la Subgerencia de Supervisión de Agentes:
 
-1.- Registración de la modificación de las metodologías de los ACR.
+1. Registración de la modificación de las metodologías de los ACR.
 
-2.- Registración de los miembros del Consejo de Calificación de los ACR.
+2. Registración de los miembros del consejo de calificación de los ACR
+
+[Anexo sustituido por art. 1° de la RG 1155/2026, BO 13/07/2026]
 
 ### ANEXO VI.
 
