@@ -1,5 +1,5 @@
 # Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN.
-Última modificación: RG 1131/2026 (BO 29/04/2026)
+Última modificación: RG 1147/2026 (BO 11/06/2026)
 Fuente: PDF base, págs. 314–331.
 
 [Expresiones reemplazadas en este archivo (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”; 51 ocurrencias) por art. 7° de la RG 1131/2026, BO 29/04/2026]
@@ -86,7 +86,7 @@ Dicho monto deberá ser cumplido de manera permanente y acreditado en los Estado
 FUNCIONES DE LA GERENTE.
 ARTÍCULO 6°. - Compete a la Sociedad Gerente el ejercicio de las siguientes funciones:
 
-1. Administración: administrar discrecionalmente, pero bajo las pautas establecidas en el presente Título y en el reglamento de gestión, el patrimonio neto del FCI, realizando todas las operaciones permitidas por la legislación aplicable y el reglamento, ejecutando la política de inversión del FCI. Sin perjuicio de la responsabilidad indelegable de la Sociedad Gerente, ésta podrá contratar a su costo a uno o más asesores de inversión cuando las características del objeto o la política de inversión del FCI así lo justifiquen sin que su opinión sea vinculante, ni implique el desplazamiento de su responsabilidad.
+1. Administración: administrar discrecionalmente, pero bajo las pautas establecidas en el presente Título y en el reglamento de gestión, el patrimonio neto del FCI, realizando todas las operaciones permitidas por la legislación aplicable y el reglamento, ejecutando la política de inversión del FCI. Sin perjuicio de la responsabilidad indelegable de la Sociedad Gerente, ésta podrá contratar a su costo a uno o más asesores de inversión cuando las características del objeto o la política de inversión del FCI así lo justifiquen sin que su opinión sea vinculante, ni implique el desplazamiento de su responsabilidad, remitiendo el formulario respectivo a través de la AIF.
 
 2. Representación: representar judicial o extrajudicialmente a los cuotapartistas por cualquier asunto concerniente a sus intereses respecto del patrimonio neto del FCI. A tal fin, la Sociedad Gerente podrá designar apoderados con facultades suficientes para tomar las decisiones que, a su criterio, sean conducentes a la mejor protección de los intereses colectivos o derechos de los cuotapartistas.
 
@@ -97,6 +97,8 @@ ARTÍCULO 6°. - Compete a la Sociedad Gerente el ejercicio de las siguientes fu
 5. Sustitución de la Sociedad Depositaria: proponer a la CNV la designación de un sustituto para el caso en que la Sociedad Depositaria cese por cualquier causa en sus funciones, atendiendo temporariamente las solicitudes de rescate. Mientras no exista designación de una nueva Sociedad Depositaria aprobada por la CNV no se podrán aceptar suscripciones.
 
 6. Liquidación: actuar como liquidador del FCI juntamente con la Sociedad Depositaria, cada una desempeñando sus funciones específicas.
+
+[Inciso 1 sustituido por art. 1° de la RG 1147/2026, BO 11/06/2026]
 
 FUNCIONES ADICIONALES.
 ARTÍCULO 7°. - La Sociedad Gerente podrá desempeñar funciones adicionales a la administración de fondos comunes de inversión que tengan por objeto la administración de inversiones, incluyendo servicios de:

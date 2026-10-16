@@ -69,3 +69,11 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 - Ocurrencias reemplazadas en este archivo: 51
 - Ubicaciones: art. 2° (Secc. I), art. 4° (Secc. I), art. 7° (Secc. II), art. 8° (Secc. II), art. 17 (Secc. V), art. 18 (Secc. V), art. 19 (Secc. V), art. 19 (Secc. VI), art. 20 (Secc. VI), art. 21 (Secc. VI), art. 22 (Secc. VI), art. 23 (Secc. VI), art. 25 (Secc. VII), art. 27 (Secc. VII), art. 28 (Secc. VII), art. 29 (Secc. VII), art. 30 (Secc. VII), art. 31 (Secc. VII), art. 32 (Secc. VIII), art. 33 (Secc. VIII), art. 38 (Secc. VIII)
 - Texto anterior: idéntico al vigente salvo las expresiones reemplazadas («ACyDI» → «ACDI»; «ACyD» → «ACD»).
+
+## Artículo 6 (Sección II) — fragmento
+- Vigente desde: anterior a la base
+- Vigente hasta: 11/06/2026
+- Sustituido/suprimido parcialmente por: RG 1147/2026, art. 1°
+- Texto:
+
+> 1. Administración: administrar discrecionalmente, pero bajo las pautas establecidas en el presente Título y en el reglamento de gestión, el patrimonio neto del FCI, realizando todas las operaciones permitidas por la legislación aplicable y el reglamento, ejecutando la política de inversión del FCI. Sin perjuicio de la responsabilidad indelegable de la Sociedad Gerente, ésta podrá contratar a su costo a uno o más asesores de inversión cuando las características del objeto o la política de inversión del FCI así lo justifiquen sin que su opinión sea vinculante, ni implique el desplazamiento de su responsabilidad.

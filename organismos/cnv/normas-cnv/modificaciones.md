@@ -191,6 +191,7 @@ Archivo: `vigente/titulo-V/capitulo-I.md`
 | art. 20 (Secc. VI), primer párrafo | modifica parcialmente | RG 1102/2025 | 4° | 31/12/2025 |
 | art. 31 BIS (Secc. VII) | incorpora | RG 1121/2026 | 2° | 27/03/2026 |
 | siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”: art. 2° (Secc. I), art. 4° (Secc. I), art. 7° (Secc. II), art. 8° (Secc. II), art. 17 (Secc. V), art. 18 (Secc. V), art. 19 (Secc. V), art. 19 (Secc. VI), art. 20 (Secc. VI), art. 21 (Secc. VI), art. 22 (Secc. VI), art. 23 (Secc. VI), art. 25 (Secc. VII), art. 27 (Secc. VII), art. 28 (Secc. VII), art. 29 (Secc. VII), art. 30 (Secc. VII), art. 31 (Secc. VII), art. 32 (Secc. VIII), art. 33 (Secc. VIII), art. 38 (Secc. VIII) | modifica parcialmente | RG 1131/2026 | 7° | 29/04/2026 |
+| art. 6° (Secc. II), inc. 1 | modifica parcialmente | RG 1147/2026 | 1° | 11/06/2026 |
 
 ## Título V, Capítulo II
 Archivo: `vigente/titulo-V/capitulo-II.md`
@@ -200,6 +201,10 @@ Archivo: `vigente/titulo-V/capitulo-II.md`
 | art. 15 (Secc. II), inc. b.1) | modifica parcialmente | RG 1096/2025 | 1° | 24/12/2025 |
 | art. 15 (Secc. II), inc. b) | modifica parcialmente | RG 1126/2026 | 1° | 09/04/2026 |
 | siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”: art. 15 (Secc. II), art. 16 (Secc. II), art. 27 (Secc. III), art. 33 (Secc. III), art. 48 (Secc. III), art. 49 (Secc. III), art. 88 (Secc. IX), art. 92 (Secc. IX) | modifica parcialmente | RG 1131/2026 | 7° | 29/04/2026 |
+| Secc. I (completa) | sustituye | RG 1147/2026 | 2° | 11/06/2026 |
+| art. 38 (Secc. III) | sustituye | RG 1147/2026 | 3° | 11/06/2026 |
+| Secc. VI (completa) | sustituye | RG 1147/2026 | 4° | 11/06/2026 |
+| Secc. VII (completa) | deroga | RG 1147/2026 | 5° | 11/06/2026 |
 
 ## Título V, Capítulo III
 Archivo: `vigente/titulo-V/capitulo-III.md`
@@ -232,6 +237,9 @@ Archivo: `vigente/titulo-V/capitulo-VII.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | Secc. VII (completa) | incorpora | RG 1143/2026 | 1° | 01/06/2026 |
+| art. 27 BIS (Secc. VII) | incorpora | RG 1147/2026 | 6° | 11/06/2026 |
+| art. 27 TER (Secc. VII) | incorpora | RG 1147/2026 | 6° | 11/06/2026 |
+| art. 27 QUATER (Secc. VII) | incorpora | RG 1147/2026 | 6° | 11/06/2026 |
 
 ## Título V, Capítulo VIII
 Archivo: `vigente/titulo-V/capitulo-VIII.md`
@@ -393,6 +401,7 @@ Archivo: `vigente/titulo-XVI/capitulo-I.md`
 | Secc. III → II | renumera | RG 1097/2025 | 3° | 24/12/2025 |
 | capítulo completo | sustituye | RG 1112/2026 | 2° | 26/02/2026 |
 | art. 1° (Secc. I) | sustituye | RG 1127/2026 | 5° | 09/04/2026 |
+| art. 7° (Secc. II), apartado 5 | modifica parcialmente | RG 1147/2026 | 7° | 11/06/2026 |
 
 ## Título XVI, Capítulo II
 Archivo: `vigente/titulo-XVI/capitulo-II.md`
@@ -434,6 +443,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-III.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | Secc. X (completa) | incorpora | RG 1121/2026 | 4° | 27/03/2026 |
+| Secc. XI (completa) | incorpora | RG 1147/2026 | 8° | 11/06/2026 |
 
 ## Título XVIII, Capítulo IV
 Archivo: `vigente/titulo-XVIII/capitulo-IV.md`

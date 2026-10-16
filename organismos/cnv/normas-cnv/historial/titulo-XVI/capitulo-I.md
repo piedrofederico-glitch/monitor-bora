@@ -386,3 +386,13 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 
 > PRINCIPIO GENERAL.
 > ARTÍCULO 1º.- Las notificaciones de los actos administrativos emitidos por la CNV se rigen por lo dispuesto en el RLPA.
+
+## Artículo 7 (Sección II) — fragmento
+- Vigente desde: 27/02/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 11/06/2026
+- Sustituido/suprimido parcialmente por: RG 1147/2026, art. 7°
+- Texto:
+
+> 9) Procedimiento para distribución de utilidades de fondo común de inversión.
+>
+> 10) Fusión de fondos comunes de inversión abiertos.

@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN.
-Última modificación: RG 1121/2026 (BO 27/03/2026)
+Última modificación: RG 1147/2026 (BO 11/06/2026)
 Fuente: PDF base, págs. 921–926.
 
 ### SECCIÓN I — RÉGIMEN DE SINCERAMIENTO FISCAL LEY N° 27.260.
@@ -92,3 +92,11 @@ ARTÍCULO 23°. – Las Sociedades que desarrollen funciones de Agente de Coloca
 ARTÍCULO 24.- Las Sociedades Gerentes de FCI dispondrán de un plazo de TREINTA (30) días hábiles respecto de los Fondos Comunes de Dinero, y de SESENTA (60) días hábiles respecto del resto de los FCI, contados a partir de la entrada en vigencia de la presente Resolución General a fin de implementar la publicación de la Ficha Única requerida el artículo 31 BIS de la Sección VII del Capítulo I del Título V de estas Normas
 
 [Sección incorporada por art. 4° de la RG 1121/2026, BO 27/03/2026]
+
+### SECCIÓN XI
+
+RESOLUCIÓN GENERAL No 1147.
+
+ARTÍCULO 25.- Con excepción de los FCIA ETF, los trámites de autorización de nuevos FCIA, de modificación de reglamentos de gestión de FCIA y de procedimientos para la distribución de utilidades iniciados en forma previa a la entrada en vigencia de la RG No 1147 quedarán sin efecto sin necesidad de efectuar solicitud de desistimiento alguna, procediéndose, sin más trámite, al archivo de las actuaciones, debiendo estarse a los procedimientos automáticos dispuestos para cada caso
+
+[Sección incorporada por art. 8° de la RG 1147/2026, BO 11/06/2026]

@@ -1,5 +1,5 @@
 # Título XVI — Capítulo I: NOTIFICACIONES. OTRAS DISPOSICIONES.
-Última modificación: RG 1127/2026 (BO 09/04/2026)
+Última modificación: RG 1147/2026 (BO 11/06/2026)
 Fuente: RG 1112/2026, art. 2°.
 
 ### SECCIÓN I — NOTIFICACIONES.
@@ -273,9 +273,7 @@ b) Fondos Comunes de Inversión – Autorización:
 
 8) Pago de rescates en especies.
 
-9) Procedimiento para distribución de utilidades de fondo común de inversión.
-
-10) Fusión de fondos comunes de inversión abiertos.
+9) Fusión de fondos comunes de inversión abiertos.
 
 6. REGISTRO Y CONTROL:
 
@@ -304,6 +302,8 @@ j) Proveedores de Servicios de Activos Virtuales – Solicitud de cancelación.
 a) Instituciones educativas - Programas para eximir examen idóneo CNV.
 
 b) Examen de idóneos - Reimputación de pago.
+
+[Apartado 5 sustituido por art. 7° de la RG 1147/2026, BO 11/06/2026]
 
 NOTIFICACIÓN AL DEUDOR CEDIDO.
 ARTÍCULO 8°.- En los términos de lo dispuesto por los artículos 70 a 72 de la Ley para el Financiamiento de la Vivienda y la Construcción”, la publicación en el sitio web de la CNV a través de la AIF, deberá contener la individualización del deudor cedido, documento de identidad o CUIT u otro medio de identificación fehaciente que permita indubitablemente al deudor su identificación, y la especificación de la operación. Todo ello deberá realizarse conforme el modelo establecido en el Anexo I del presente Capítulo. La publicación indicada constituirá medio de notificación fehaciente al deudor cedido siempre que la cesión tenga la finalidad prevista en el artículo 70 de la Ley para el Financiamiento de la Vivienda y la Construcción” y los valores negociables se encuentren autorizados a la oferta pública por la CNV.

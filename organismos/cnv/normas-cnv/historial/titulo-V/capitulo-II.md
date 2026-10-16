@@ -133,3 +133,147 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 - Ocurrencias reemplazadas en este archivo: 12
 - Ubicaciones: art. 15 (Secc. II), art. 16 (Secc. II), art. 27 (Secc. III), art. 33 (Secc. III), art. 48 (Secc. III), art. 49 (Secc. III), art. 88 (Secc. IX), art. 92 (Secc. IX)
 - Texto anterior: idéntico al vigente salvo las expresiones reemplazadas («ACyDI» → «ACDI»; «ACyD» → «ACD»).
+
+## Sección I (completa)
+- Vigente desde: anterior a la base
+- Vigente hasta: 11/06/2026
+- Sustituida por: RG 1147/2026, art. 2°
+- Texto:
+
+> ### SECCIÓN I — AUTORIZACIÓN DE FONDOS COMUNES DE INVERSIÓN ABIERTOS.
+>
+> DOCUMENTACIÓN INICIAL.
+> ARTÍCULO 1°. - La Sociedad Gerente deberá presentar, junto con las actas de directorio aprobatorias del FCI, el reglamento de gestión de acuerdo con el contenido mínimo dispuesto en el Anexo II del presente Título y detalle, en su caso, de los asesores de inversión contratados a su costo y de la implementación de registros computarizados en los términos del artículo 16 de la Sección IV del Capítulo I del presente Título.
+>
+> Las actas respectivas podrán incluir la delegación de sus facultades en uno o más de los integrantes del órgano de administración, o en uno o más gerentes designados en los términos del artículo 270 de la Ley General de Sociedades.
+>
+> La delegación no podrá eximir al órgano de administración de su responsabilidad por el ejercicio de las facultades delegadas.
+>
+> DENOMINACIÓN DE LOS FONDOS COMUNES DE INVERSIÓN.
+> ARTÍCULO 2°. - En la denominación de los FCI no podrán utilizarse términos que identifiquen genéricamente a los activos integrantes del patrimonio neto del FCI respectivo, sin incluir referencias identificatorias suficientes que aseguren una adecuada individualización de cada uno de los fondos comunes de inversión. Las entidades financieras deberán cumplir con lo dispuesto en el artículo 31 de la Sección VII del Capítulo I del Título V de estas Normas.
+>
+> FONDOS COMUNES DE INVERSIÓN ESPECIALIZADOS.
+> ARTÍCULO 3°. - Cuando se trate de fondos comunes de inversión especializados o cuando la denominación del FCI incluya una referencia a cierta categoría de activos, el SETENTA Y CINCO POR CIENTO (75%) del patrimonio neto del FCI deberá invertirse (como mínimo) en activos que compongan el objeto especial de inversión o en aquellos a los que hiciera referencia la denominación del FCI.
+>
+> REGLAMENTO DE GESTIÓN.
+> ARTÍCULO 4°. - Las normas contractuales que regirán las relaciones entre los órganos del FCI y los cuotapartistas –con el alcance y en los términos previstos por el artículo 11 de la Ley de Fondos Comunes de Inversión- se encontrarán plasmadas en el reglamento de gestión, el cual deberá adoptar el orden expositivo descripto en el Anexo II del presente Título.
+>
+> Adicionalmente, deberá incorporar en forma legible y destacada una leyenda indicando que: “el resultado de la inversión en fondos comunes de inversión no está garantizado ni por la Sociedad Gerente ni por la Sociedad Depositaria. Los importes o valores entregados por los cuotapartistas para suscribir cuotapartes del FCI no son depósitos u otras obligaciones de la Sociedad Depositaria, ni de sus sociedades controlantes o controladas. El resultado de la inversión en el FCI puede fluctuar en razón a la evolución del valor de los activos autorizados, pudiendo los cuotapartistas no lograr sus objetivos de rentabilidad”.
+>
+> DOCUMENTACIÓN DEFINITIVA.
+> ARTÍCULO 5°. - Una vez autorizado el fondo común de inversión y antes de comenzar a operar, la Sociedad Gerente, deberá dentro del plazo de TREINTA (30) días corridos contados a partir de la autorización otorgada por el Organismo:
+>
+> 1. Tener a disposición del Organismo, de los cuotapartistas y de terceros en las sedes de la Sociedad Gerente y/o Sociedad Depositaria, testimonio de la reducción a escritura pública o instrumento privado suscripto conforme al artículo 11 de la Ley de Fondos Comunes de Inversión, del texto aprobado del reglamento de gestión y de la adenda, en su caso.
+>
+> 2. Proceder a la publicación del texto aprobado del reglamento de gestión a través del acceso “Reglamento de Gestión” de la AIF.
+>
+> La Sociedad Gerente deberá informar a través del acceso Hechos Relevantes de la AIF la fecha de inicio de la actividad del FCI con una antelación de CINCO (5) días hábiles.
+>
+> POLÍTICA DE INVERSIÓN ESPECÍFICA.
+> ARTÍCULO 6°. - Las Sociedades Gerentes podrán adoptar una política de inversión específica para los fondos comunes de inversión bajo su administración, la cual deberá encuadrarse dentro de lo previsto en el texto del reglamento de gestión oportunamente aprobado por la CNV, acotando y/o restringiendo lo allí establecido.
+>
+> Dicha política de inversión específica de ningún modo podrá desnaturalizar la política de inversión fijada para el FCI y deberá adecuarse a la normativa vigente y aplicable en la materia. Las Sociedades Gerentes deberán publicar en sus páginas web, y remitir a través del acceso correspondiente de la AIF, el acta de directorio en la que se resuelva la adopción de una política de inversión específica para un determinado FCI, e informar tal decisión por medio de Hecho Relevante, debiendo en tal aviso detallarse la resolución social antes referida.
+
+## Artículo 38 (Sección III)
+- Vigente desde: anterior a la base
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1147/2026, art. 3°
+- Texto:
+
+> DISTRIBUCIÓN DE UTILIDADES
+> ARTÍCULO 38°. - En los casos que la Sociedad Gerente así lo determine y siempre que se encuentre contemplado en el reglamento de gestión, los beneficios derivados de la gestión del patrimonio del FCI (utilidades, renta, etc.) podrán ser distribuidos entre los cuotapartistas de acuerdo con el procedimiento dispuesto por la Sociedad Gerente y aprobado por la Comisión.
+
+## Sección VI (completa)
+- Vigente desde: anterior a la base
+- Vigente hasta: 11/06/2026
+- Sustituida por: RG 1147/2026, art. 4°
+- Texto:
+
+> ### SECCIÓN VI — MODIFICACIÓN DE REGLAMENTOS DE GESTIÓN.
+>
+> PROCEDIMIENTO.
+> ARTÍCULO 75°. - La reforma del reglamento estará sujeta al presente procedimiento y deberá ser publicada a través del acceso Reglamento de Gestión de la AIF. El reglamento podrá modificarse en todas sus partes mediante el acuerdo de la Sociedad Gerente y la Sociedad Depositaria, sin que sea requerido el consentimiento de los cuotapartistas, y sin perjuicio de las atribuciones que legalmente le corresponden a la CNV. Cuando la reforma tenga por objeto la sustitución de la Sociedad Gerente o la Sociedad Depositaria, o modificar los objetivos y políticas de inversión, o la moneda del FCI, o aumentar el tope de honorarios y gastos o las comisiones previstas, o incluir la cláusula de rescate automático prevista en el presente Capítulo, se aplicarán las siguientes reglas:
+>
+> 1. No se cobrará a los cuotapartistas durante un plazo de QUINCE (15) días corridos desde la publicación del texto de la reforma, la comisión de rescate que pudiere corresponder.
+>
+> 2. Las modificaciones aprobadas por la CNV no serán aplicadas hasta transcurridos QUINCE (15) días corridos desde la publicación del texto de la adenda aprobado, a través del acceso Reglamento de Gestión de la AIF.
+>
+> Simultáneamente, la Sociedad Gerente deberá publicar el aviso pertinente por el acceso Hechos Relevantes de la AIF y, en su caso, el Agente que intervenga en la colocación de las cuotapartes, deberá proceder a su remisión al domicilio postal o se dejará a disposición en el domicilio electrónico del cuotapartista.
+>
+> Adicionalmente, dicho aviso deberá estar publicado en el sitio web de la Sociedad Gerente. La reforma de otros aspectos del reglamento estará sujeta a las formalidades establecidas en el artículo 11 de la Ley de Fondos Comunes de Inversión, siendo oponible a terceros a los CINCO (5) días hábiles de la publicación del texto de la adenda aprobado, a través del acceso Reglamento de Gestión de la AIF, y del aviso correspondiente por el acceso Hecho Relevante.
+>
+> En los supuestos de modificación no alcanzados por el procedimiento de autorización automática, los órganos del FCI presentarán la siguiente documentación:
+>
+> I. Detalle de las modificaciones introducidas.
+>
+> II. Texto de la adenda relativa a la parte pertinente del reglamento de gestión que resulte modificada, debiendo incluir aquellas cláusulas que requieran una actualización a las disposiciones legales y reglamentarias vigentes.
+>
+> III. Actas de los órganos de administración de la Sociedad Gerente y la Sociedad Depositaria, aprobando la modificación.
+>
+> Una vez autorizado el texto de la adenda, la Sociedad Gerente deberá publicarlo a través del acceso Reglamento de Gestión de la AIF junto con un texto ordenado del reglamento de gestión (que incluya la reforma aprobada), con manifestación expresa al pie del documento, en carácter de declaración jurada, de que la incorporación de los cambios autorizados se ha efectuado sobre el texto vigente. Deberá dar cumplimiento a los recaudos del artículo 5°, inciso 1 de la Sección I del Capítulo II del Título V de estas Normas.
+>
+> SUSTITUCIÓN DE LOS ÓRGANOS DEL FCI.
+> ARTÍCULO 76°. - La Sociedad Gerente y/o la Sociedad Depositaria podrán renunciar a su función sustituyendo su mandato en otra sociedad habilitada para actuar en su carácter. Deberá presentar preaviso a la Sociedad Gerente y/o la Sociedad Depositaria, según corresponda, con no menos de NOVENTA (90) días corridos a la fecha de efectivización de la renuncia, la que no entrará en vigor hasta tanto el nuevo Agente esté autorizado para actuar en tal carácter por la CNV. A fin de proceder a la sustitución de los órganos del FCI (Sociedad Gerente y/o Sociedad Depositaria, según sea el caso), los interesados deberán presentar:
+>
+> 1. Actas de directorio correspondiente a cada uno de los sujetos involucrados, de donde surja la renuncia, la designación y la aceptación de la Sociedad Gerente y/o Sociedad Depositaria, a través del acceso en la AIF.
+>
+> 2. Texto de la adenda del reglamento de gestión del FCI.
+>
+> 3. Una vez aprobada la sustitución de los órganos del FCI por parte de esta CNV, dentro de los NOVENTA (90) días hábiles de notificada la resolución aprobatoria, deberá:
+>
+> a) Informar a través del acceso Hechos Relevantes de la AIF la fecha en que se realizará la efectiva sustitución, la que deberá operar junto con la publicación del texto de la adenda aprobado.
+>
+> b) Remitir el texto aprobado de la adenda a través del acceso Reglamento de Gestión de la AIF.
+>
+> c) Tener a disposición del Organismo, de los cuotapartistas y de terceros en las sedes de las sociedades involucradas, testimonio de la reducción a escritura pública del texto de la adenda o instrumento privado del mismo suscripto conforme al artículo 11 de la Ley de Fondos Comunes de Inversión.
+>
+> En caso de sustitución de la Sociedad Gerente, el subinciso a) deberá ser cumplido por la Sociedad sustituida, mientras que los subincisos b) y c) serán cumplidos por la sociedad sustituta. No se cobrará a los cuotapartistas durante un plazo de QUINCE (15) días corridos desde la publicación del texto de la adenda la comisión de rescate que pudiere corresponder.
+
+## Sección VII (completa)
+- Vigente desde: anterior a la base
+- Vigente hasta: 11/06/2026
+- Derogada por: RG 1147/2026, art. 5°
+- Texto:
+
+> ### SECCIÓN VII — PROCEDIMIENTO DE AUTORIZACIÓN AUTOMÁTICA.
+>
+> PROCEDIMIENTO DE AUTORIZACIÓN AUTOMÁTICA DE OFERTA PÚBLICA DE FONDOS COMUNES DE INVERSIÓN ABIERTOS.
+> ARTÍCULO 77°. - La constitución de fondos comunes de inversión abiertos que cumplan con los requisitos establecidos en el siguiente artículo deberá solicitarse a través del procedimiento de autorización automática establecido en la presente Sección.
+>
+> ALCANCE.
+> ARTÍCULO 78°. - El presente procedimiento de autorización automática será aplicable únicamente en los siguientes casos:
+>
+> 1. El FCI a constituirse deberá contar con identidad de denominación y de objetivos y políticas de inversión o, en su caso, estar encuadrado bajo el mismo régimen especial, respecto a otros FCI ya autorizados por la CNV y constituidos por la misma Sociedad Gerente.
+>
+> 2. Para distinguir los FCI entre sí, se utilizará una denominación secuencial numérica ascendente. El FCI a constituirse podrá diferir de los aprobados con anterioridad, entre otros aspectos, en su moneda de denominación, en los activos elegibles, en las clases de cuotapartes a emitir, en los Mercados en los que realizarán sus inversiones y, en general, en cualquier otro elemento que no implique una modificación respecto de los establecidos en el inciso 1. del presente artículo.
+>
+> NOTIFICACIÓN DE CONSTITUCIÓN DE FCI A CNV.
+> ARTÍCULO 79°. - La Sociedad Gerente deberá remitir, a través de TAD, la notificación relativa a la constitución del FCI.
+>
+> Cumplida dicha notificación, la CNV le otorgará el número de registro correspondiente al FCI y procederá a notificar de ello a la Sociedad Gerente.
+>
+> REGLAMENTO DE GESTIÓN.
+> ARTÍCULO 80°. - El reglamento de gestión contará con autorización automática sin necesidad de revisión ni aprobación por parte de la CNV, sin perjuicio de sus facultades de fiscalización. No obstante, su publicación será obligatoria y deberá realizarse a través de la AIF de manera previa al inicio de su funcionamiento.
+>
+> Asimismo, deberá especificarse en la portada o en el encabezado del reglamento de gestión que el FCI se encuadra bajo el presente régimen, indicando expresamente que el texto del reglamento no ha sido objeto de revisión por parte de la CNV.
+>
+> PUBLICIDAD.
+> ARTÍCULO 81°. - Una vez notificado el número de registro correspondiente, la Sociedad Gerente procederá, dentro del plazo dispuesto en el artículo 5° de la Sección I del Capítulo II del Título V de las presentes Normas, a publicar a través de la AIF:
+>
+> 1. El reglamento de gestión;
+>
+> 2. las resoluciones sociales de los órganos que dispusieron la emisión respectiva; y
+>
+> 3. el Hecho Relevante informando su lanzamiento, en su oportunidad.
+>
+> ADENDA AL REGLAMENTO DE GESTIÓN.
+> ARTÍCULO 82°. - Cuando se realicen modificaciones al reglamento de gestión de un FCI, y estas no impliquen un cambio en los objetivos, política de inversión, régimen especial, denominación del FCI, ni la sustitución de ambos o alguno de sus órganos, los textos de las adendas correspondientes, junto con el texto ordenado, deberán ser remitidos directamente a través del acceso pertinente en la AIF. El texto de la adenda deberá indicar expresamente que no ha sido objeto de revisión por parte de la CNV.
+>
+> RÉGIMEN INFORMATIVO.
+> ARTÍCULO 83°. - La Sociedad Gerente y demás Agentes intervinientes en su operatoria deberán dar cumplimiento con el régimen informativo aplicable a los fondos comunes de inversión abiertos en los términos de lo dispuesto en el presente Título.
+>
+> APLICACIÓN SUPLETORIA.
+> ARTÍCULO 84°. - Supletoriamente, respecto a las cuestiones no contempladas en esta Sección, serán de aplicación las disposiciones establecidas en general para los fondos comunes de inversión abiertos.
+>
+> TRANSPARENCIA.
+> ARTÍCULO 85°. - La admisión al Régimen de Autorización Automática de Oferta Pública no exime a los órganos del FCI de cumplir en todo momento con el régimen de transparencia del artículo 117 y concordantes de la Ley de Mercado de Capitales y de estas Normas.
