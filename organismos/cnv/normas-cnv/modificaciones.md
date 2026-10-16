@@ -36,6 +36,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), términos “ALyC I AGRO”, “CSNU”, “CVU”, “PEN” y “PSP” | modifica parcialmente | RG 1139/2026 | 1° | 14/05/2026 |
 | art. 2° (Secc. II), definición “PLAFTFP” → “PLA/FT/FP” | modifica parcialmente | RG 1139/2026 | 2° | 14/05/2026 |
 | art. 2° (Secc. II), Términos incorporados: “ADR”, “ETF”, “ETP”, “Participantes Autorizados”; Definiciones sustituidas: “CEVA”, “IOSCO”, “Programa de CEDEAR o CEVA”, “Prospecto del Programa” | modifica parcialmente | RG 1142/2026 | 1° | 01/06/2026 |
+| art. 2° (Secc. II), Términos incorporados: “Posición en Moneda Extranjera Bruta”, “Posición en Moneda Extranjera Neta” | modifica parcialmente | RG 1144/2026 | 1° | 01/06/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -297,6 +298,11 @@ Archivo: `vigente/titulo-VII/capitulo-II.md`
 | art. 39 | incorpora | RG 1130/2026 | 3° | 28/04/2026 |
 | art. 40 | incorpora | RG 1130/2026 | 3° | 28/04/2026 |
 | art. 41 | incorpora | RG 1130/2026 | 3° | 28/04/2026 |
+| art. 36 | sustituye | RG 1144/2026 | 2° | 01/06/2026 |
+| art. 37 | sustituye | RG 1144/2026 | 2° | 01/06/2026 |
+| art. 38 | sustituye | RG 1144/2026 | 2° | 01/06/2026 |
+| art. 39 | sustituye | RG 1144/2026 | 2° | 01/06/2026 |
+| art. 41 | sustituye | RG 1144/2026 | 3° | 01/06/2026 |
 
 ## Título VIII, Capítulo I
 Archivo: `vigente/titulo-VIII/capitulo-I.md`
@@ -427,6 +433,10 @@ Archivo: `vigente/titulo-XVIII/capitulo-V.md`
 | art. 25 | incorpora | RG 1130/2026 | 5° | 28/04/2026 |
 | art. 26 | incorpora | RG 1130/2026 | 5° | 28/04/2026 |
 | art. 27 | incorpora | RG 1130/2026 | 5° | 28/04/2026 |
+| art. 23 | sustituye | RG 1144/2026 | 4° | 01/06/2026 |
+| art. 24 | sustituye | RG 1144/2026 | 4° | 01/06/2026 |
+| art. 25 | sustituye | RG 1144/2026 | 4° | 01/06/2026 |
+| art. 26 | sustituye | RG 1144/2026 | 4° | 01/06/2026 |
 
 ## Título XVIII, Capítulo X
 Archivo: `vigente/titulo-XVIII/capitulo-X.md`

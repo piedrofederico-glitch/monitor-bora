@@ -1,4 +1,4 @@
-Estado: construcción en curso (última RG aplicada: 1143/2026)
+Estado: construcción en curso (última RG aplicada: 1144/2026)
 
 # Base del texto consolidado de las Normas CNV (N.T. 2013 y mod.)
 

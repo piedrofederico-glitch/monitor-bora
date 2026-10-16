@@ -1,5 +1,5 @@
 # Título VII — Capítulo II: AGENTE DE LIQUIDACIÓN Y COMPENSACIÓN
-Última modificación: RG 1130/2026 (BO 28/04/2026)
+Última modificación: RG 1144/2026 (BO 01/06/2026)
 Fuente: PDF base, págs. 598–615.
 
 ÁMBITO DE APLICACIÓN.
@@ -434,18 +434,34 @@ La información deberá:
 
 1. Expresarse en valores diarios, indicando el saldo al cierre de cada jornada.
 
-2. Incluir la totalidad de las posiciones en moneda extranjera, ya sea en depósitos en el país o en el exterior, efectivo no bancarizado o instrumentos denominados y pagaderos en moneda extranjera o cuyos activos subyacentes se encuentren denominados y pagaderos en moneda extranjera, los que deberán ser tomados conforme su cotización en moneda extranjera o, de no tenerla, la conversión de su cotización en otras monedas, utilizando los criterios establecidos en el artículo 39 del presente Capítulo.
+2. Incluir la totalidad de las posiciones en moneda extranjera, ya sea en depósitos en el país o en el exterior, efectivo no bancarizado o instrumentos denominados y pagaderos en moneda extranjera o cuyos activos subyacentes se encuentren denominados y pagaderos en moneda extranjera, los que deberán ser tomados conforme su cotización en dólares estadounidenses o, de no tenerla, la conversión de su cotización en otras monedas, utilizando los criterios establecidos en el artículo 39 del presente Capítulo.
 
-La obligación de informar, en los términos y con el alcance previsto en el presente artículo, no resulta aplicable respecto de las personas que por su vinculación con el ALyC se encuentren comprendidas en el concepto de cartera propia ampliada, dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas
+3. Ser expuesta utilizando el criterio de “concertación”.
 
-[Artículo incorporado por art. 3° de la RG 1130/2026, BO 28/04/2026]
+4. La información deberá ser remitida en campos separados conforme los siguientes lineamientos:
+
+a) “Posición en Moneda Extranjera Bruta”: la misma comprende:
+
+1) Los saldos de fondos propios en moneda extranjera bancarizados;
+
+2) los saldos de fondos en moneda extranjera no bancarizados;
+
+3) los valores negociables y/o instrumentos denominados y pagaderos en moneda extranjera; y
+
+4) los instrumentos cuyo subyacente sea denominado y pagadero en moneda extranjera, ya sea que los mismos se encuentren radicados en jurisdicción local y/o exterior.
+
+Respecto de los fondos propios, valores negociables e instrumentos referidos, en tanto se encuentren acreditados en cuentas de titularidad del ALyC o depositados en Mercados o Cámaras de Compensación, en garantía de operaciones de cartera propia del ALyC.
+
+b) “Posición en Moneda Extranjera Neta”: se deberá descontar de la Posición en Moneda Extranjera Bruta, los saldos correspondientes a los instrumentos enumerados en 2), 3) y 4) de la definición de Posición en Moneda Extranjera Bruta recibidos en concepto de préstamo, alquiler de valores o similar; siempre que estén afectados al circuito comercial de la cartera propia del ALyC y, se encuentren registrados en el pasivo del ALyC.
+
+La obligación de informar, en los términos y con el alcance previsto en el presente artículo, no resulta aplicable respecto de las personas que por su vinculación con el ALyC se encuentren comprendidas en el concepto de cartera propia ampliada, dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas.
+
+[Artículo sustituido por art. 2° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
 
 INDICADORES FINANCIEROS - AGENTES ALCANZADOS.
-ARTÍCULO 37.- Los ALyC, excepto aquellos que: (i) revistan la calidad de entidades financieras en el marco de la Ley de Entidades Financieras; o (ii) se encuentren inscriptos en la subcategoría de Participante Directo, deberán remitir mensualmente -dentro de los OCHO (8) días hábiles de finalizado cada mes calendario- la información relativa a los indicadores financieros conforme lo establecido en los artículos siguientes.
+ARTÍCULO 37.- Los ALyC, excepto aquellos que: 1. revistan la calidad de entidades financieras en el marco de la Ley de Entidades Financieras, o 2. se encuentren inscriptos en la subcategoría de Participante Directo; deberán remitir mensualmente -dentro de los OCHO (8) días hábiles de finalizado cada mes calendario - la información relativa a los indicadores financieros, y conforme lo establecido en los artículos siguientes.
 
-La información requerida deberá calcularse sobre la base de información contable con cierre mensual del mes calendario anterior de acuerdo con lo dispuesto por el artículo 39 del presente Capítulo.
-
-[Artículo incorporado por art. 3° de la RG 1130/2026, BO 28/04/2026]
+[Artículo sustituido por art. 2° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
 
 INDICADORES FINANCIEROS.
 ARTÍCULO 38.- Los Agentes deberán remitir, mediante el formulario habilitado a tal efecto en la AIF, la información relativa a los siguientes indicadores financieros que a continuación se detallan:
@@ -456,33 +472,45 @@ a) Índice de liquidez I: es el resultado del cociente entre el activo corriente
 
 Dicho índice, calculado individualmente para cada moneda y de forma consolidada, deberá ser en todo momento igual o mayor a UNO (1).
 
+Los Agentes deberán, remitir mensualmente a la Comisión, por medio de la AIF, dentro del plazo indicado en el artículo 37 precedente, el detalle diario de la referida información.
+
 b) Índice de liquidez II: es el resultado del cociente entre las sumas de las partidas correspondientes a disponibilidades e inversiones corrientes disponibles, sobre los saldos acreedores exigibles de comitentes.
 
-c) Índice de liquidez III: es el resultado del cociente entre las sumas de las partidas correspondientes a disponibilidades e inversiones corrientes disponibles, sobre (x) la suma de los saldos acreedores exigibles de comitentes, más (y) el pasivo por acuerdos de préstamo o alquiler de valores negociables, ya sea de (a) titularidad de terceros clientes del ALyC, o (b) cuentas comprendidas en el concepto de cartera propia, conforme lo establecido en el artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas.
+c) Índice de liquidez III: es el resultado del cociente entre las sumas de las partidas correspondientes a disponibilidades e inversiones corrientes disponibles, sobre (x) la suma de los saldos acreedores exigibles de comitentes, más (y) el pasivo por acuerdos de préstamo o alquiler de valores negociables, ya sea de 1) titularidad de terceros clientes del ALyC, o 2) cuentas comprendidas en el concepto de cartera propia, conforme lo establecido en el artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas.
 
-A los fines del cálculo de los índice de liquidez II y III, solo podrán considerarse los activos entregados por los Agentes a los Mercados y/o cámaras compensadoras en concepto de garantías, en la medida que sean de libre disponibilidad o no se encuentren afectadas a la operatoria de aquellos.
+A los fines del cálculo de los Índices de Liquidez II y III, solo podrán considerarse:
+
+I. Los activos entregados por los Agentes a los Mercados con funciones de Cámaras Compensadoras o Cámara Compensadoras en concepto de garantías, en la medida que sean de libre disponibilidad o no se encuentren afectadas a la operatoria de aquellos.
+
+II. Como disponibilidades o inversiones corrientes disponibles, los saldos disponibles a favor del ALyC mantenidos en Mercados con funciones de Cámara Compensadora y/o Cámaras Compensadoras, siempre y cuando éstos últimos utilicen sistemas de gestión de márgenes y garantías que permitan que las diferencias y resultados diarios impacten en forma directa en la cuenta corriente de los clientes.
+
+La información mensual relativa a los Índices de Liquidez II y III, a remitirse mediante la AIF dentro del plazo establecido en el artículo 37 del presente Capítulo, deberá confeccionarse sobre los datos correspondientes al último día hábil de cada mes.
 
 2. ÍNDICES DE APALANCAMIENTO. LÍMITE PRUDENCIAL DE APALANCAMIENTO.
 
-a) Índice de apalancamiento general: resultará del cociente entre (i) el Pasivo Financiero Total, de conformidad con las disposiciones del artículo 35 del presente Capítulo (lo que incluye los acuerdos de préstamo o alquiler de valores negociables), más los saldos acreedores exigibles de comitentes, y (ii) el Patrimonio Neto Total del Agente.
+a) Índice de apalancamiento general: resultará del cociente entre 1) el Pasivo Financiero Total, de conformidad con las disposiciones del artículo 35 del presente Capítulo (lo que incluye los acuerdos de préstamo o alquiler de valores negociables), más los saldos acreedores de comitentes, y 2) el Patrimonio Neto Total del Agente.
 
-b) Índice de apalancamiento computable: resultará del cociente entre (i) el Pasivo Financiero Total, de conformidad con las disposiciones del artículo 35 del presente Capítulo (lo que incluye los acuerdos de préstamo o alquiler de valores negociables), -pero sin incluir los saldos acreedores exigibles de comitentes - y (ii) el Patrimonio Neto Total del Agente, una vez descontado del mismo el patrimonio neto mínimo regulatorio requerido por la normativa vigente, conforme las subcategorías de inscripción.
+La información mensual relativa al presente índice deberá ser remitida mensualmente a la Comisión por medio de la AIF, dentro del plazo indicado en el artículo 37 precedente, la que deberá ser confeccionada sobre los datos correspondientes al último día hábil de cada mes.
+
+b) Índice de apalancamiento computable: resultará del cociente entre: 1) el Pasivo Financiero Total, de conformidad con las disposiciones del artículo 35 del presente Capítulo (lo que incluye los acuerdos de préstamo o alquiler de valores negociables), -pero sin incluir los saldos acreedores de comitentes-, y 2) el Patrimonio Neto Total del Agente, una vez descontado del mismo el patrimonio neto mínimo regulatorio requerido por la normativa vigente, conforme las subcategorías de inscripción.
 
 Dicho índice calculado individualmente para cada moneda y de forma consolidada, deberá mantener en todo momento un valor igual o inferior a CINCO (5).
+
+Los Agentes deberán, remitir mensualmente a la Comisión, por medio de la AIF, dentro del plazo indicado en el artículo 37 del presente Capítulo, el detalle diario de la referida información.
 
 3. CUMPLIMIENTO DE LOS ÍNDICES.
 
 Los límites prudenciales establecidos en el presente artículo deberán cumplirse en todo momento.
 
-En todos los casos, cuando el Agente exceda los límites prudenciales antes indicados, deberá informarlo por medio de la AIF con carácter privado dentro del plazo establecido, detallando el motivo del incumplimiento, así como las medidas ya adoptadas o por adoptarse para revertir dicha situación, no admitiéndose que sean reiterados, sistemáticos e injustificados.
+En todos los casos, cuando el Agente exceda los límites prudenciales indicados, deberá informarlo el día hábil inmediato posterior de producido el exceso de dichos límites por medio del acceso correspondiente habilitado en la AIF con carácter privado, detallando el motivo del incumplimiento, así como las medidas ya adoptadas o por adoptarse para revertir dicha situación, no admitiéndose que sean reiterados, sistemáticos e injustificados.
 
-En caso de que el Agente no subsane el incumplimiento dentro de los DOS (2) días hábiles, deberá abstenerse de funcionar de manera inmediata hasta su regularización, sin necesidad de intimación previa. Ello sin perjuicio de las medidas y sanciones que la CNV pueda disponer.
+El Agente deberá abstenerse de registrar nuevas operaciones para la cartera propia, cuando producido un exceso, este no fuese regularizado dentro de los DOS (2) días hábiles posteriores. Habiendo transcurrido el plazo mencionado en el párrafo anterior más otros DOS (2) días hábiles posteriores, de mantenerse el incumplimiento, deberá dar estricto cumplimiento a lo dispuesto en el artículo 12 del Capítulo VII del presente Título. Todo ello sin perjuicio de las medidas y sanciones que la CNV pueda disponer.
 
 Dicha información deberá ser remitida y mantenerse actualizada en la AIF.
 
-En todos los casos, los Agentes deberán conservar la documentación contable respaldatoria, papeles de trabajo y demás información relativa a los indicadores financieros de liquidez y apalancamiento, la cual deberá encontrarse a disposición de la CNV y de los Mercados y/o cámaras compensadoras en todo momento.
+En todos los casos, los Agentes deberán conservar la documentación contable respaldatoria, papeles de trabajo y demás información relativa a los indicadores financieros de liquidez y apalancamiento, la cual deberá encontrarse a disposición de la CNV, de los Mercados y/o Cámaras Compensadoras en todo momento.
 
-No obstante lo dispuesto precedentemente, en caso de verificarse un exceso respecto del límite establecido exclusivamente para el índice de apalancamiento, el ALyC podrá continuar operando únicamente (y solo deberá informarlo a la CNV en el informe mensual correspondiente sin propuesta de subsanación) exclusivamente en la medida en que el exceso verificado reúna en forma conjunta la totalidad de las siguientes condiciones:
+No obstante, lo dispuesto precedentemente, en caso de verificarse un exceso respecto del límite establecido exclusivamente para el índice de apalancamiento, el ALyC podrá continuar operando únicamente (y solo deberá informarlo a la CNV en el informe mensual correspondiente sin propuesta de subsanación) exclusivamente en la medida en que el exceso verificado reúna en forma conjunta la totalidad de las siguientes condiciones:
 
 a) Sea de carácter transitorio y tenga origen en la atención de operaciones de clientes, actuando la cartera propia del ALyC como contraparte de las mismas;
 
@@ -494,26 +522,28 @@ d) no exceda de CUATRO (4) instancias mensuales; y
 
 e) no implique en ningún caso superar un índice de apalancamiento computable, calculado individualmente para cada moneda y de forma consolidada, de un valor de SIETE (7).
 
-[Artículo incorporado por art. 3° de la RG 1130/2026, BO 28/04/2026]
+[Artículo sustituido por art. 2° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
 
 PARTIDAS A CONSIDERAR PARA EL CÁLCULO DE LOS ÍNDICES.
 ARTÍCULO 39.- Para el cálculo de los índices establecidos en el artículo precedente, se deberá considerar:
 
-1. Saldos acreedores exigibles de comitentes: para el cómputo de la presente partida deberá considerarse los saldos acreedores exigibles, utilizando criterio de “liquidación” (no por “concertación”). No podrán considerarse los saldos deudores para descontar del monto computable.
+1. Saldos acreedores de comitentes: para el cómputo de la presente partida deberán considerarse los saldos acreedores utilizando criterio de “concertación” para todos los indicadores requeridos; excepto respecto de los Índices de Liquidez II y III que deberán confeccionarse utilizando el criterio de “liquidación”, es decir utilizando los saldos exigibles de comitentes. No podrán considerarse los saldos deudores para descontar del monto computable ni netearse saldos entre comitentes.
 
-2. Disponibilidades: para el cómputo de este rubro, no se considerarán los saldos en efectivo, ya sea en moneda nacional o extranjera, que no se encuentren bancarizados; así como tampoco se computarán aquellos saldos resguardados en cajas de seguridad bancaria, aun cuando las mismas se encuentren registradas a nombre del Agente.
+2. Disponibilidades: para el cómputo de este rubro, solo se considerarán los montos bancarizados, ya sea en moneda nacional o extranjera. No se computarán los montos en efectivo ni los montos resguardados en cajas de seguridad, aun cuando las mismas se encuentren registradas a nombre del Agente.
 
-3. Inversiones corrientes disponibles: para el cómputo del presente rubro no se considerarán los cheques de pago diferido ni los pagarés no garantizados. En cambio, se computarán las demás posiciones que se encuentren depositadas en un ADCVN o en un ACRyP, así como las cuotapartes de FCIs, los depósitos a plazo fijo y otras colocaciones de naturaleza similar. Asimismo, se podrán considerar los activos entregados por los Agentes a los Mercados y/o cámaras compensadoras en concepto de garantías, siempre que sean de libre disponibilidad o no se encuentren afectadas a la operatoria de aquellos.
+3. Inversiones corrientes disponibles: para el cómputo de este rubro no se considerarán los cheques de pago diferido ni los pagarés no garantizados. En cambio, se computarán las demás posiciones que se encuentren depositadas en un ADCVN o en un ACRyP, así como las cuotapartes de los FCI, los depósitos a plazo fijo y otras colocaciones de naturaleza similar. Asimismo, se podrán considerar los activos entregados por los Agentes a los Mercados y/o Cámaras Compensadoras en concepto de garantías, siempre que sean de libre disponibilidad o no se encuentren afectadas a la operatoria de aquellos.
 
 4. Neteo de posiciones: Se admitirá que se utilicen las Cauciones Tomadoras Netas para el cálculo de los índices antes referidos.
 
-5. Todos los índices (no solo los que están sujetos a límites) deberán considerar por separado las variables en pesos, y las variables en moneda extranjera (la que deberá expresarse en dólares estadounidenses), así como un índice consolidado expresado en pesos convirtiendo la moneda extranjera, en su caso, conforme lo previsto en la Comunicación “A” 3500 del BCRA o, si se trata de una moneda extranjera distinta al dólar estadounidense, al tipo de cambio vendedor divisa del BNA al cierre del día anterior a la fecha de presentación de los indicadores referidos. Los activos denominados y pagaderos en moneda extranjera, o cuyos activos subyacentes se encuentren denominados y pagaderos en moneda extranjera, deberán tomarse en cuenta para los índices en moneda extranjera, aunque los mismos se negocien en pesos.
+5. Todos los índices (no sólo los que están sujetos a límites) deberán considerar por separado las variables en pesos, y las variables en moneda extranjera (la que deberá expresarse en dólares estadounidenses), así como un índice consolidado expresado en pesos convirtiendo la moneda extranjera, en su caso, conforme lo previsto en la Comunicación “A” 3500 del BCRA o, si se trata de una moneda extranjera distinta al dólar estadounidense, al tipo de cambio vendedor divisa del BNA, en ambos casos, al último día hábil del mes de la presentación de los indicadores referidos.
 
-6. El patrimonio neto resultante que se utiliza como denominador para el cálculo del índice de apalancamiento computable exclusivamente incluirá, en todos los casos (es decir para el cálculo en pesos, en moneda extranjera o consolidado), la totalidad de los activos, ya sean en pesos o en moneda extranjera.
+Los activos denominados y pagaderos en moneda extranjera, o cuyos activos subyacentes se encuentren denominados y pagaderos en moneda extranjera, deberán tomarse en cuenta para los índices en moneda extranjera, aunque los mismos se negocien en pesos.
 
-7. En el caso de los ALyC I AGRO, no se deberán considerar las disponibilidades que corresponden a la actividad agroindustrial.
+6. Exclusivamente para el cálculo de Índice de apalancamiento computable, el patrimonio neto a considerarse en el denominador será el total que surja de la contabilidad del ALyC, sin apertura por moneda. En consecuencia, para calcular el índice en dólares estadounidenses, deberá convertirse el monto total del patrimonio neto a dólares, conforme el inciso 5 precedente.
 
-[Artículo incorporado por art. 3° de la RG 1130/2026, BO 28/04/2026]
+7. En el caso de los ALyC I AGRO, no se deberán considerar las disponibilidades que corresponden a la actividad agroindustrial
+
+[Artículo sustituido por art. 2° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
 
 LÍMITES PRUDENCIALES. CONTROL INTERNO.
 ARTÍCULO 40.- Aun cuando no se encuentren implementados en su plan de cuentas contable, el Agente deberá contar en todo momento con los mecanismos, procedimientos y controles internos, así como sistemas de gestión necesarios para el cumplimiento del régimen informativo establecido en los artículos precedentes, conforme los lineamientos establecidos por el artículo 41 del presente Capítulo.
@@ -531,17 +561,15 @@ Los referidos saldos no pueden netearse por moneda, aún en el caso de un mismo 
 
 3. Activos propios en garantía en Mercados/Cámaras Compensadoras: establecer una cuenta del activo denominada “Garantías en Mercados/Cámaras Compensadoras”, con subcuentas diferenciando cada Mercado/Cámara Compensadora en el cual el Agente tiene membresía para operar. El Agente también podrá incluir subcuentas adicionales que le faciliten los controles internos y las conciliaciones con los Mercados/Cámaras Compensadoras.
 
-La valuación de los mencionados activos deberá encontrarse actualizada y conforme las normas contables profesionales vigentes.
+La valuación de los mencionados activos deberá encontrarse actualizada y conforme las NCPA vigentes.
 
-4. Financiación en el mercado de capitales: establecer una cuenta del pasivo denominada “Créditos a pagar en el MdCapitales (tomador)” y una cuenta del activo denominada “Créditos a cobrar en el MdCapitales (colocador)”.
-
-Ambas cuentas deberán tener subcuentas que permitan diferenciar: tipo de operatoria (ej.: cauciones, pases, etc.), Mercado interviniente y moneda de liquidación.
+4. Financiación en el mercado de capitales: establecer una cuenta del pasivo denominada “Créditos a pagar en el MdCapitales (tomador)” y una cuenta del activo denominada “Créditos a cobrar en el MdCapitales (colocador)”. Ambas cuentas deberán tener subcuentas que permitan diferenciar: tipo de operatoria (ej.: cauciones, pases, etc.), Mercado interviniente y moneda de liquidación.
 
 Las referidas cuentas y subcuentas no pueden netearse entre sí ni con otras cuentas, debiendo estar así expuestas durante la gestión contable diaria.
 
 5. Registro y exposición de otros tipos de financiación: establecer cuentas y subcuentas que reflejen por separado las deudas y créditos del Agente correspondientes a sociedades vinculadas, y a los directores o accionistas del propio ALyC o de dichas sociedades.
 
-Las referidas cuentas y subcuentas no pueden netearse entre sí ni con otras cuentas, debiendo estar así expuestas durante la gestión contable diaria. Asimismo, a los fines establecidos en el presente inciso, los Agentes deberán considerar que existe vinculación entre sociedades cuando una posee al menos el 10% del capital o los derechos de voto de otra Sociedad, o ambas forman parte del mismo grupo económico.
+Las referidas cuentas y subcuentas no pueden netearse entre sí ni con otras cuentas, debiendo estar así expuestas durante la gestión contable diaria. Asimismo, a los fines establecidos en el presente inciso, los Agentes deberán considerar que existe vinculación entre sociedades cuando una posee al menos el DIEZ POR CIENTO (10%) del capital o los derechos de voto de otra Sociedad, o ambas forman parte del mismo grupo económico.
 
 6. Registro y exposición de acuerdos de préstamo o alquiler de valores negociables, dentro o fuera del ámbito de los Mercados: establecer cuentas separadas para registrar los créditos y los pasivos generados en el marco de dichos acuerdos de préstamo o alquiler de valores negociables con terceros clientes, incluyendo personas jurídicas y/o humanas que por su vinculación con el Agente se encuentren comprendidas en el concepto de cartera propia ampliada dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas.
 
@@ -551,6 +579,12 @@ Las referidas cuentas no pueden netearse, debiendo encontrarse así expuestas du
 
 Asimismo, la custodia transitoria en el exterior de valores negociables de titularidad de clientes se considerará de libre disponibilidad, atento no encontrarse afectada a la actividad del ALyC.
 
-8. Los saldos acreedores exigibles de comitentes deben reflejarse en las cuentas contables del pasivo del Agente
+8. Los saldos acreedores exigibles o no de comitentes deben reflejarse en las cuentas contables del pasivo del Agente.
 
-[Artículo incorporado por art. 3° de la RG 1130/2026, BO 28/04/2026]
+9. A los fines del cálculo de los Índices de Apalancamiento General y Apalancamiento Computable, se podrá determinar el Patrimonio Neto Total por diferencia entre activos y pasivos en base al cierre contable mensual correspondiente al mes anterior que surja de la contabilidad interna del Agente o calcularlo diariamente, para dar cumplimiento al inciso ix) del artículo 25 del presente Capítulo.
+
+Por otra parte, el seguimiento de los límites prudenciales con fecha anterior al último día del mes en curso se realizará tomando como base el Patrimonio Neto Total y el Patrimonio Neto Mínimo calculado para el cierre del mes inmediato anterior.
+
+En su caso, podrá efectuarse el pertinente recálculo de los patrimonios así obtenidos, dentro del mes que se está informando, si se verificaran compromisos de socios o terceros relativos a aportes de capital o aportes irrevocables, a los fines de reflejar los datos patrimoniales tras dicho incremento. Los Agentes deberán conservar la documentación societaria y contable respaldatoria, la que deberá encontrarse a disposición de la Comisión para cuando así lo requiera
+
+[Artículo sustituido por art. 3° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]

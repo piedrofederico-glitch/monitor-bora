@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES.
-Última modificación: RG 1130/2026 (BO 28/04/2026)
+Última modificación: RG 1144/2026 (BO 01/06/2026)
 Fuente: PDF base, págs. 928–935.
 
 ADECUACIÓN PATRIMONIO NETO MÍNIMO AN, ALYC Y AAGI.
@@ -188,76 +188,88 @@ ARTÍCULO 22.- Los ALyC, en el marco de las disposiciones del artículo 35 del C
 [Artículo incorporado por art. 3° de la RG 1122/2026, BO 31/03/2026]
 
 CRONOGRAMA DE ADECUACIÓN. REMISIÓN DE INFORMACIÓN SOBRE TENENCIA EN MONEDA EXTRANJERA.
-ARTÍCULO 23.- Los ALyC, en el marco de las disposiciones del artículo 36 del Capítulo II del Título VII de estas Normas, deberán remitir a través de la AIF en forma mensual detalle de las tenencias diarias de moneda extranjera correspondientes a su cartera propia, relativas al mes de mayo de 2026 y los meses calendarios posteriores, dentro del plazo establecido en el artículo 36 del Capítulo II del Título VII de estas Normas.
+ARTÍCULO 23.- Los ALyC, en el marco de las disposiciones del artículo 36 del Capítulo II del Título VII de estas Normas, deberán remitir a través de la AIF en forma mensual detalle de las tenencias diarias de moneda extranjera correspondientes a su cartera propia, conforme el siguiente esquema:
 
-[Artículo incorporado por art. 5° de la RG 1130/2026, BO 28/04/2026]
+1. La información relativa a las tenencias correspondiente al mes de mayo de 2026 conforme lo establecido en el artículo 36 incorporado a estas Normas mediante la RG N° 1130.
 
-CRONOGRAMA DE ADECUACIÓN DEL LÍMITE MÍNIMO DE LIQUIDEZ. RG N° 1130.
-ARTÍCULO 24.- Los ALyC indicados en el artículo 37 del Capítulo II del Título VII de estas Normas, deberán observar en todo momento el límite mínimo de liquidez establecido en el subinciso a) del inciso 1. del artículo 38 del Capítulo II del Título VII de estas Normas.
+2. La información relativa a las tenencias correspondiente al mes de junio 2026 y siguientes, conforme lo establecido en el artículo 36 del Capítulo II del Título VII de estas Normas, en línea con las adecuaciones incorporadas mediante la RG N° 1144.
 
-A efectos de facilitar la adaptación de los sujetos alcanzados, el límite mínimo de liquidez será implementado de manera progresiva para los sujetos alcanzados que no cumplan los ratios mínimos admitidos, conforme el cronograma de adecuación aquí previsto.
+[Artículo sustituido por art. 4° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
 
-Los sujetos alcanzados deberán adoptar todas las medidas necesarias a los efectos de adecuar gradualmente su liquidez en cada etapa del proceso de implementación.
+CRONOGRAMA DE ADECUACIÓN DEL LÍMITE MÍNIMO DE LIQUIDEZ. RG N° 1144.
+ARTÍCULO 24.- Los ALyC indicados en el artículo 37 del Capítulo II del Título VII de estas Normas, deberán observar en todo momento el límite mínimo de liquidez establecido en el subinciso a) del inciso 1. del artículo 38 del mencionado Capítulo y Título.
 
-Durante dicho período, los sujetos alcanzados -que al momento de la entrada en vigencia de la RG N° 1130 se encuentren por debajo del límite de liquidez establecido-, deberán adecuarse al ratio mínimo admitido en cada etapa del cronograma.
+A efectos de facilitar la adecuada adaptación de los sujetos alcanzados, el límite mínimo de liquidez será implementado de manera progresiva para los sujetos alcanzados que no cumplan los ratios mínimos admitidos, conforme el cronograma de adecuación aquí previsto.
+
+Los sujetos alcanzados deberán adoptar todas las medidas necesarias para adecuar gradualmente su liquidez en cada etapa del proceso de implementación.
+
+Durante dicho período, los sujetos alcanzados -que al momento de la entrada en vigencia de la RG N° 1144 se encuentren por debajo del límite de liquidez establecido-, deberán adecuarse al ratio mínimo admitido en cada etapa del cronograma.
 
 En ninguna etapa del proceso de implementación, los sujetos obligados pueden disminuir su nivel de liquidez, excepto que estuvieran por sobre el límite establecido en el subinciso a) del inciso 1. del artículo 38 del Capítulo II del Título VII de estas Normas y hasta dicho límite.
 
 Cronograma de adecuación del límite mínimo de liquidez computable:
 
 ```
-Período de aplicación        Ratio mínimo admitido
+Período de aplicación                    Ratio mínimo admitido
 
 
-mayo                         0,85
+Mayo                                     0,85
 
 
-junio                        0,90
+Junio                                    0,90
 
 
-julio                        0,95
+Julio                                    0,95
 ```
 
-En caso de que el Agente no subsane el incumplimiento de dicho límite prudencial dentro del plazo indicado, deberá abstenerse de funcionar hasta su regularización, sin necesidad de intimación previa. Ello sin perjuicio de las medidas y sanciones que la CNV pueda disponer.
+El Agente deberá abstenerse de registrar nuevas operaciones para la cartera propia, cuando producido un exceso, este no fuese regularizado dentro de los DOS (2) días hábiles posteriores.
+
+Habiendo transcurrido el plazo mencionado en el párrafo anterior más otros DOS (2) días hábiles posteriores, de mantenerse el incumplimiento, deberá dar estricto cumplimiento a lo dispuesto en el artículo 12 del Capítulo VII del Título VII de estas Normas. Todo ello sin perjuicio de las medidas y sanciones que la CNV pueda disponer.
 
 CRONOGRAMA DE ADECUACIÓN DEL LÍMITE MÁXIMO DE APALANCAMIENTO COMPUTABLE.
 
-[Artículo incorporado por art. 5° de la RG 1130/2026, BO 28/04/2026]
+[Artículo sustituido por art. 4° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
 
-RG N° 1130.
-ARTÍCULO 25.- Los ALyC indicados en el artículo 37 del Capítulo II del Título VII de estas Normas, deberán observar en todo momento el límite máximo de apalancamiento computable establecido en el subinciso b) del inciso 2. del artículo 38 del Capítulo II del Título VII de estas Normas.
+RG N° 1144.
+ARTÍCULO 25.- Los ALyC indicados en el artículo 37 del Capítulo II del Título VII de estas Normas, deberán observar en todo momento el límite máximo de apalancamiento computable establecido en el subinciso b) del inciso 2. del artículo 38 del mencionado Capítulo y Título.
 
-A efectos de facilitar la adecuada adaptación de los sujetos alcanzados, el límite máximo de apalancamiento será implementado de manera progresiva para los sujetos alcanzados que no cumplan los ratios mínimos admitidos, conforme el cronograma de adecuación aquí previsto.
+A efectos de facilitar la adecuada adaptación de los sujetos alcanzados, el límite máximo de apalancamiento será implementado de manera progresiva para los sujetos alcanzados que no cumplan las ratios mínimas admitidas, conforme el cronograma de adecuación aquí previsto.
 
-Los sujetos alcanzados deberán adoptar las medidas necesarias a los efectos de adecuar gradualmente su apalancamiento en cada etapa del proceso de implementación.
+Los sujetos alcanzados deberán adoptar todas las medidas necesarias para adecuar gradualmente su apalancamiento en cada etapa del proceso de implementación.
 
-Durante dicho período, los sujetos alcanzados -que al momento de la entrada en vigencia de la RG N° 1130 se encuentren excedidos del límite de apalancamiento establecido-, deberán adecuarse a los límites máximos aplicables en cada etapa del cronograma.
+Durante dicho período, los sujetos alcanzados -que al momento de la entrada en vigencia de la RG N° 1144 se encuentren excedidos del límite de apalancamiento establecido-, deberán adecuarse a los límites máximos aplicables en cada etapa del cronograma.
 
 En ninguna etapa del proceso de implementación, los sujetos obligados pueden incrementar su nivel de apalancamiento, excepto que estuvieran por debajo del límite establecido en el subinciso b) del inciso 2. del artículo 38 del Capítulo II del Título VII de estas Normas hasta dicho límite.
 
 Cronograma de adecuación del límite máximo de apalancamiento computable:
 
 ```
-Período de aplicación        Ratio máximo admitido
+Período de aplicación                  Ratio máximo admitido
 
 
-mayo                         8 veces
+Mayo                                   8 veces
 
 
-junio                        7 veces
+Junio                                  7 veces
 
 
-julio                        6 veces
+Julio                                  6 veces
 ```
 
-En caso de que el Agente no subsane el incumplimiento de dicho límite prudencial dentro del plazo indicado, deberá abstenerse de funcionar hasta su regularización sin necesidad de intimación previa. Ello sin perjuicio de las medidas y sanciones que la CNV pueda disponer.
+El Agente deberá abstenerse de registrar nuevas operaciones para la cartera propia, cuando producido un exceso, este no fuese regularizado dentro de los DOS (2) días hábiles posteriores.
 
-[Artículo incorporado por art. 5° de la RG 1130/2026, BO 28/04/2026]
+Habiendo transcurrido el plazo mencionado en el párrafo anterior más otros DOS (2) días hábiles posteriores, de mantenerse el incumplimiento, deberá dar estricto cumplimiento a lo dispuesto en el artículo 12 del Capítulo VII del Título VII de estas Normas. Todo ello sin perjuicio de las medidas y sanciones que la CNV pueda disponer.
 
-REMISIÓN DE INFORMACIÓN DE INDICADORES FINANCIEROS. RG N° 1130.
-ARTÍCULO 26.– Los ALyC indicados en el artículo 37 del Capítulo II del Título VII de estas Normas, deberán calcular la información requerida en el artículo 38 del Capítulo II del Título VII de estas Normas comenzando a partir del mes de mayo de 2026. Dicha información deberá ser remitida a través de la AIF y con carácter de DDJJ en el plazo establecido en el artículo 37 del Capítulo II del Título VII de estas Normas.
+[Artículo sustituido por art. 4° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
 
-[Artículo incorporado por art. 5° de la RG 1130/2026, BO 28/04/2026]
+REMISIÓN DE INFORMACIÓN DE INDICADORES FINANCIEROS. RG N° 1130 Y RG N° 1144.
+ARTÍCULO 26.- Los ALyC, alcanzados por las disposiciones del artículo 37 del Capítulo II del Título VII de estas Normas, deberán remitir a través de la AIF en forma mensual, la información vinculada a los Indicadores Financieros conforme el siguiente esquema:
+
+1. Indicadores Financieros correspondientes al mes de mayo de 2026 conforme lo dispuesto en el artículo 38 incorporado a estas Normas mediante la RG N° 1130: Informe mensual con detalle mensual para todos los indicadores.
+
+2. Indicadores Financieros correspondientes al mes de junio de 2026 y siguientes con el detalle y frecuencia establecidos en el artículo 38 del Capítulo II del Título VII de estas Normas, incorporado mediante la RG N° 1144: Informe mensual con detalle diario para los indicadores con límites prudenciales e informe mensual con detalle mensual para el resto de los indicadores
+
+[Artículo sustituido por art. 4° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
 
 CRONOGRAMA DE ADECUACIÓN DE LOS SISTEMAS DE REGISTRACIÓN CONTABLE. RG N° 1130.
 ARTÍCULO 27.- Los ALyC indicados en el artículo 37 del Capítulo II del Título VII de estas Normas, deberán adecuar sus sistemas contables a los fines de dar cumplimiento con las disposiciones del artículo 41 del Capítulo II del Título VII de estas Normas, para los estados contables que cierren a partir del 1° de enero de 2027

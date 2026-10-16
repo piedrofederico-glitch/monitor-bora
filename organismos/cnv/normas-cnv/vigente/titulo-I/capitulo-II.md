@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1142/2026 (BO 01/06/2026)
+Última modificación: RG 1144/2026 (BO 01/06/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -292,6 +292,10 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “PLA/FT/FP” significa Prevención del lavado de activos, financiación del terrorismo y de la proliferación de armas de destrucción masiva.
 
+“Posición en Moneda Extranjera Bruta” tiene el significado atribuido en el artículo 36 del Capítulo II del Título VII de estas Normas.
+
+“Posición en Moneda Extranjera Neta” tiene el significado atribuido en el artículo 36 del Capítulo II del Título VII de estas Normas.
+
 “Precio Equitativo” significa el precio determinado de conformidad con lo establecido por la Ley de Mercado de Capitales y lo dispuesto en el Capítulo II del Título III de estas Normas.
 
 “Programa de CEDEAR o CEVA” significa cualquier emisión de CEDEAR o CEVA.
@@ -415,6 +419,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Definición de “PLAFTFP” sustituida por “PLA/FT/FP” por art. 2° de la RG 1139/2026, BO 14/05/2026]
 
 [Términos incorporados: “ADR”, “ETF”, “ETP”, “Participantes Autorizados”; Definiciones sustituidas: “CEVA”, “IOSCO”, “Programa de CEDEAR o CEVA”, “Prospecto del Programa” por art. 1° de la RG 1142/2026, BO 01/06/2026]
+
+[Términos incorporados: “Posición en Moneda Extranjera Bruta”, “Posición en Moneda Extranjera Neta” por art. 1° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
 
 ### SECCIÓN III — EXPRESIONES
 
