@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN.
-Última modificación: RG 1153/2026 (BO 18/06/2026)
+Última modificación: RG 1160/2026 (BO 06/08/2026)
 Fuente: PDF base, págs. 921–926.
 
 ### SECCIÓN I — RÉGIMEN DE SINCERAMIENTO FISCAL LEY N° 27.260.
@@ -103,7 +103,12 @@ ARTÍCULO 25.- Con excepción de los FCIA ETF, los trámites de autorización de
 
 ### SECCIÓN XII — RG N° 1148 PAUTAS DE ADECUACIÓN.
 
-ARTÍCULO 26.- Los trámites de autorización iniciados en forma previa a la entrada en vigencia de la RG N° 1148 que opten por continuar bajo el régimen de autorización automática en los términos de la Sección III del Capítulo III del Título V de las NORMAS (N.T. 2013 y mod.) quedarán sin efecto, sin perjuicio de lo dispuesto en el artículo siguiente, con la publicación del Prospecto y reglamento de gestión directamente en la AIF bajo responsabilidad exclusiva de las Sociedades Gerente y Depositaria.
+RG N° 1160
+ARTÍCULO 26.- Los trámites de autorización de nuevos FCIC iniciados con anterioridad a la entrada en vigencia de la RG Nº 1160 que queden comprendidos en el Régimen de Oferta Pública de Cuotapartes de FCIC con Autorización Automática por su Mediano Impacto Ampliado, podrán optar por continuar bajo el procedimiento general de autorización previa ante la CNV, en los términos de la Sección I del Capítulo III del Título V de estas Normas, o bien someterse al procedimiento automático dispuesto en la Sección II del citado Capítulo, procediéndose, en este último caso y sin más trámite, al archivo de las actuaciones”.
+
+Los trámites de autorización de modificación del Prospecto de emisión y del reglamento de gestión que fueran iniciados en forma previa a la entrada en vigencia de la RG N° 1160 y que fueran alcanzados por el procedimiento de Modificación Automática del artículo 36 de la Sección III del Capítulo III del Título V de estas Normas, quedarán sin efecto sin necesidad de efectuar solicitud de desistimiento alguna, procediéndose, sin más trámite, al archivo de las actuaciones, debiendo estarse al procedimiento automático dispuesto para dicho caso
+
+[Artículo sustituido por art. 9° de la RG 1160/2026, BO 06/08/2026]
 
 [Sección incorporada por art. 4° de la RG 1148/2026, BO 11/06/2026]
 

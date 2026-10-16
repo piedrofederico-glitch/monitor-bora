@@ -231,6 +231,16 @@ Archivo: `vigente/titulo-V/capitulo-III.md`
 | Anexo III | incorpora | RG 1121/2026 | 3° | 27/03/2026 |
 | art. 20 (Secc. I) | sustituye | RG 1148/2026 | 1° | 11/06/2026 |
 | Secc. III (completa) | sustituye | RG 1148/2026 | 2° | 11/06/2026 |
+| art. 1° (Secc. I) | sustituye | RG 1160/2026 | 1° | 06/08/2026 |
+| art. 2° (Secc. I) | sustituye | RG 1160/2026 | 1° | 06/08/2026 |
+| art. 4° (Secc. I), inc. 1, subinc. d), e inc. 3 | modifica parcialmente | RG 1160/2026 | 2° | 06/08/2026 |
+| art. 5° (Secc. I), inc. 1. | modifica parcialmente | RG 1160/2026 | 3° | 06/08/2026 |
+| art. 6° (Secc. I) | sustituye | RG 1160/2026 | 4° | 06/08/2026 |
+| art. 10 (Secc. I) | sustituye | RG 1160/2026 | 5° | 06/08/2026 |
+| art. 11 (Secc. I) | sustituye | RG 1160/2026 | 5° | 06/08/2026 |
+| art. 20 (Secc. I) | sustituye | RG 1160/2026 | 6° | 06/08/2026 |
+| art. 25 (Secc. II), último párrafo | modifica parcialmente | RG 1160/2026 | 7° | 06/08/2026 |
+| Secc. III (completa) | sustituye | RG 1160/2026 | 8° | 06/08/2026 |
 
 ## Título V, Capítulo IV
 Archivo: `vigente/titulo-V/capitulo-IV.md`
@@ -516,6 +526,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-III.md`
 | Secc. XI (completa) | incorpora | RG 1147/2026 | 8° | 11/06/2026 |
 | Secc. XII (completa) | incorpora | RG 1148/2026 | 4° | 11/06/2026 |
 | Secc. XIII (completa) | incorpora | RG 1153/2026 | 1° | 18/06/2026 |
+| art. 26 (Secc. XII) | sustituye | RG 1160/2026 | 9° | 06/08/2026 |
 
 ## Título XVIII, Capítulo IV
 Archivo: `vigente/titulo-XVIII/capitulo-IV.md`
