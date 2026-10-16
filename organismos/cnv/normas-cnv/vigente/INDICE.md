@@ -45,13 +45,13 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-V/capitulo-I.md`](titulo-V/capitulo-I.md) | Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN. | RG 1147/2026 (BO 11/06/2026) |
-| [`titulo-V/capitulo-II.md`](titulo-V/capitulo-II.md) | Título V — Capítulo II: FONDOS COMUNES DE INVERSIÓN ABIERTOS. | RG 1147/2026 (BO 11/06/2026) |
-| [`titulo-V/capitulo-III.md`](titulo-V/capitulo-III.md) | Título V — Capítulo III: FONDOS COMUNES DE INVERSIÓN CERRADOS. | RG 1160/2026 (BO 06/08/2026) |
+| [`titulo-V/capitulo-I.md`](titulo-V/capitulo-I.md) | Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN. | RG 1163/2026 (BO 20/08/2026) |
+| [`titulo-V/capitulo-II.md`](titulo-V/capitulo-II.md) | Título V — Capítulo II: FONDOS COMUNES DE INVERSIÓN ABIERTOS. | RG 1163/2026 (BO 20/08/2026) |
+| [`titulo-V/capitulo-III.md`](titulo-V/capitulo-III.md) | Título V — Capítulo III: FONDOS COMUNES DE INVERSIÓN CERRADOS. | RG 1163/2026 (BO 20/08/2026) |
 | [`titulo-V/capitulo-IV.md`](titulo-V/capitulo-IV.md) | Título V — Capítulo IV: FIDEICOMISOS FINANCIEROS | RG 1159/2026 (BO 06/08/2026) |
 | [`titulo-V/capitulo-V.md`](titulo-V/capitulo-V.md) | Título V — Capítulo V: DISPOSICIONES COMUNES APLICABLES A LOS REGIMENES ESPECIALES DE PRODUCTOS DE INVERSIÓN COLECTIVA. | RG 1159/2026 (BO 06/08/2026) |
 | [`titulo-V/capitulo-VI.md`](titulo-V/capitulo-VI.md) | Título V — Capítulo VI: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN CERRADOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-V/capitulo-VII.md`](titulo-V/capitulo-VII.md) | Título V — Capítulo VII: REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN ABIERTOS | RG 1147/2026 (BO 11/06/2026) |
+| [`titulo-V/capitulo-VII.md`](titulo-V/capitulo-VII.md) | Título V — Capítulo VII: REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN ABIERTOS | RG 1163/2026 (BO 20/08/2026) |
 | [`titulo-V/capitulo-VIII.md`](titulo-V/capitulo-VIII.md) | Título V — Capítulo VIII: DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FIDEICOMISOS FINANCIEROS. | RG 1159/2026 (BO 06/08/2026) |
 | [`titulo-V/capitulo-IX.md`](titulo-V/capitulo-IX.md) | Título V — Capítulo IX: PRODUCTOS DE INVERSIÓN COLECTIVA. TRATAMIENTO IMPOSITIVO DE REGÍMENES ESPECIALES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
@@ -136,7 +136,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XV/capitulo-I.md`](titulo-XV/capitulo-I.md) | Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV | RG 1152/2026 (BO 18/06/2026) |
+| [`titulo-XV/capitulo-I.md`](titulo-XV/capitulo-I.md) | Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV | RG 1163/2026 (BO 20/08/2026) |
 | [`titulo-XV/capitulo-II.md`](titulo-XV/capitulo-II.md) | Título XV — Capítulo II: AGENTES DE ADMINISTRACIÓN DE PRODUCTOS DE INVERSIÓN COLECTIVA – FIDUCIARIOS FINANCIEROS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XV/capitulo-III.md`](titulo-XV/capitulo-III.md) | Título XV — Capítulo III: EMISORAS – OBLIGACIONES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
