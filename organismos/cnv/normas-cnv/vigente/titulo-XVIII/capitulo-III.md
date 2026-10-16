@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN.
-Última modificación: RG 1147/2026 (BO 11/06/2026)
+Última modificación: RG 1148/2026 (BO 11/06/2026)
 Fuente: PDF base, págs. 921–926.
 
 ### SECCIÓN I — RÉGIMEN DE SINCERAMIENTO FISCAL LEY N° 27.260.
@@ -100,3 +100,9 @@ RESOLUCIÓN GENERAL No 1147.
 ARTÍCULO 25.- Con excepción de los FCIA ETF, los trámites de autorización de nuevos FCIA, de modificación de reglamentos de gestión de FCIA y de procedimientos para la distribución de utilidades iniciados en forma previa a la entrada en vigencia de la RG No 1147 quedarán sin efecto sin necesidad de efectuar solicitud de desistimiento alguna, procediéndose, sin más trámite, al archivo de las actuaciones, debiendo estarse a los procedimientos automáticos dispuestos para cada caso
 
 [Sección incorporada por art. 8° de la RG 1147/2026, BO 11/06/2026]
+
+### SECCIÓN XII — RG N° 1148 PAUTAS DE ADECUACIÓN.
+
+ARTÍCULO 26.- Los trámites de autorización iniciados en forma previa a la entrada en vigencia de la RG N° 1148 que opten por continuar bajo el régimen de autorización automática en los términos de la Sección III del Capítulo III del Título V de las NORMAS (N.T. 2013 y mod.) quedarán sin efecto, sin perjuicio de lo dispuesto en el artículo siguiente, con la publicación del Prospecto y reglamento de gestión directamente en la AIF bajo responsabilidad exclusiva de las Sociedades Gerente y Depositaria.
+
+[Sección incorporada por art. 4° de la RG 1148/2026, BO 11/06/2026]

@@ -212,6 +212,8 @@ Archivo: `vigente/titulo-V/capitulo-III.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | Anexo III | incorpora | RG 1121/2026 | 3° | 27/03/2026 |
+| art. 20 (Secc. I) | sustituye | RG 1148/2026 | 1° | 11/06/2026 |
+| Secc. III (completa) | sustituye | RG 1148/2026 | 2° | 11/06/2026 |
 
 ## Título V, Capítulo IV
 Archivo: `vigente/titulo-V/capitulo-IV.md`
@@ -410,6 +412,7 @@ Archivo: `vigente/titulo-XVI/capitulo-II.md`
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1112/2026 | 2° | 26/02/2026 |
 | Anexo IV | sustituye | RG 1140/2026 | 2° | 21/05/2026 |
+| Anexo II | sustituye | RG 1148/2026 | 3° | 11/06/2026 |
 
 ## Título XVII, Capítulo I
 Archivo: `vigente/titulo-XVII/capitulo-I.md`
@@ -444,6 +447,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-III.md`
 |---|---|---|---|---|
 | Secc. X (completa) | incorpora | RG 1121/2026 | 4° | 27/03/2026 |
 | Secc. XI (completa) | incorpora | RG 1147/2026 | 8° | 11/06/2026 |
+| Secc. XII (completa) | incorpora | RG 1148/2026 | 4° | 11/06/2026 |
 
 ## Título XVIII, Capítulo IV
 Archivo: `vigente/titulo-XVIII/capitulo-IV.md`

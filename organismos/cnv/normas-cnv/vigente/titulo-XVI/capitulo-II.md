@@ -1,5 +1,5 @@
 # Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS.
-Última modificación: RG 1140/2026 (BO 21/05/2026)
+Última modificación: RG 1148/2026 (BO 11/06/2026)
 Fuente: RG 1112/2026, art. 2°.
 
 EMISORAS.
@@ -77,7 +77,7 @@ Facultades delegadas en la Gerencia y en las Subgerencias de la Gerencia de Emis
 
 18.- Autorización para la impresión de láminas con firma facsimilar.
 
-### ANEXO II.
+### ANEXO II
 
 FACULTADES DELEGADAS EN LA GERENCIA DE FONDOS COMUNES DE INVERSIÓN.
 
@@ -85,15 +85,13 @@ FACULTADES DELEGADAS EN LA GERENCIA DE FONDOS COMUNES DE INVERSIÓN.
 
 Facultades delegadas en la Gerencia y en las Subgerencias de la Gerencia de FCI:
 
-1.- Aprobación de modificaciones a reglamentos de gestión de FCI abiertos, que no se encuentren alcanzadas por el procedimiento de autorización automática.
+1.- Autorización de rescates en especie de FCIA, en los términos indicados en la normativa vigente.
 
-2.- Aprobación de modificaciones a reglamentos de gestión y Prospectos de Emisión de FCI cerrados, exclusivamente por cambio de denominación del FCI cerrado, de la Sociedad Gerente o de la Sociedad Depositaria.
+2.- Cancelación parcial de oferta pública de cuotapartes de FCIC rescatadas con anterioridad al vencimiento del plazo de duración del FCI.
 
-3.- Aprobación de procedimientos para la distribución de utilidades de los FCI abiertos.
+3.- Cancelación de FCIA y FCIC cuyo lanzamiento o colocación no haya sido concretado.
 
-4.- Autorización de rescates en especies de FCI abiertos, en los términos indicados en la normativa vigente.
-
-5.- Cancelación parcial de oferta pública de cuotapartes de Fondos Comunes de Inversión Cerrados rescatadas con anterioridad al vencimiento del plazo de duración del Fondo.
+[Anexo sustituido por art. 3° de la RG 1148/2026, BO 11/06/2026]
 
 ### ANEXO III.
 

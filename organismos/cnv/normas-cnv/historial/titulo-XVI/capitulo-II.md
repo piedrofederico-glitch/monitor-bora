@@ -210,3 +210,27 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > Facultades delegadas en la Gerencia y Subgerencia de Control Contable:
 >
 > 1.- Autorización para la utilización de Registros Digitales en los términos del artículo 61 de la Ley General de Sociedades.
+
+## Anexo II
+- Vigente desde: 27/02/2026
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1148/2026, art. 3°
+- Texto:
+
+> ### ANEXO II.
+>
+> FACULTADES DELEGADAS EN LA GERENCIA DE FONDOS COMUNES DE INVERSIÓN.
+>
+> 1.- Aplicación de advertencias a los sujetos sometidos a su fiscalización, por nota dirigida a los órganos de administración y de fiscalización y, por única vez, respecto de cada infracción en cuestión, por incumplimientos de tipo formal, o falta de cumplimiento inmediato de intimación para la adecuación de cuestiones que le fueron observadas.
+>
+> Facultades delegadas en la Gerencia y en las Subgerencias de la Gerencia de FCI:
+>
+> 1.- Aprobación de modificaciones a reglamentos de gestión de FCI abiertos, que no se encuentren alcanzadas por el procedimiento de autorización automática.
+>
+> 2.- Aprobación de modificaciones a reglamentos de gestión y Prospectos de Emisión de FCI cerrados, exclusivamente por cambio de denominación del FCI cerrado, de la Sociedad Gerente o de la Sociedad Depositaria.
+>
+> 3.- Aprobación de procedimientos para la distribución de utilidades de los FCI abiertos.
+>
+> 4.- Autorización de rescates en especies de FCI abiertos, en los términos indicados en la normativa vigente.
+>
+> 5.- Cancelación parcial de oferta pública de cuotapartes de Fondos Comunes de Inversión Cerrados rescatadas con anterioridad al vencimiento del plazo de duración del Fondo.

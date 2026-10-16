@@ -1,5 +1,5 @@
 # Título V — Capítulo III: FONDOS COMUNES DE INVERSIÓN CERRADOS.
-Última modificación: RG 1121/2026 (BO 27/03/2026)
+Última modificación: RG 1148/2026 (BO 11/06/2026)
 Fuente: PDF base, págs. 358–374.
 
 ### SECCIÓN I — RÉGIMEN GENERAL.
@@ -327,23 +327,25 @@ ASAMBLEAS A DISTANCIA.
 ARTÍCULO 19°. - El reglamento de gestión podrá prever la posibilidad de celebrar asambleas a distancia, siendo de aplicación a dichos fines las disposiciones establecidas para las asambleas a distancia de las entidades Emisoras (Sección II del Capítulo II del Título II de estas Normas).
 
 MODIFICACIÓN DEL REGLAMENTO. PRÓRROGA DEL FCI. RESCATE ANTICIPADO.
-ARTÍCULO 20°. - Las condiciones del reglamento de gestión no podrán ser modificadas hasta que se cumpla el plan de inversión del FCI, salvo que la modificación sólo afecte cláusulas no sustanciales del plan de inversión y no sea perjudicial para el cuotapartista, o se cuente con la aprobación de la asamblea extraordinaria de cuotapartistas.
+ARTÍCULO 20.- Las condiciones del reglamento de gestión no podrán ser modificadas hasta que se cumpla el plan de inversión del FCI, salvo que la modificación sólo afecte cláusulas no sustanciales del plan de inversión y no sea perjudicial para el cuotapartista, o se cuente con la aprobación de la asamblea extraordinaria de cuotapartistas.
 
-En dichos supuestos, los órganos del FCI deberán presentar a la CNV:
+En el caso de modificación sustancial del reglamento de gestión, los órganos del FCI deberán presentar a la CNV:
 
 1. Escrito que fundamente la reforma;
 
 2. texto del reglamento de gestión y del Prospecto de emisión;
 
-3. actas de directorio de los órganos del FCI que aprueban la modificación;
+3. actas de directorio de los órganos del FCI que aprueben la modificación;
 
-4. en su caso, acta de asamblea extraordinaria o documentación que acredite la conformidad de los cuotapartistas.
+4. acta de asamblea extraordinaria o documentación que acredite la conformidad de los cuotapartistas.
 
-Los cuotapartistas disconformes con la modificación de las cláusulas sustanciales del reglamento de gestión o con la prórroga del plazo de duración del FCI, podrán solicitar el rescate anticipado de sus cuotapartes, mediante una comunicación fehaciente al domicilio de la Sociedad Gerente, dentro de los TREINTA (30) días corridos siguientes a la fecha de celebración de la asamblea. En caso de prórroga del FCI, el reintegro del valor de la participación será realizado en la fecha del vencimiento de vigencia del FCI o en el término máximo de UN (1) año, contado a partir de la fecha de celebración de la asamblea que resolvió la prórroga, el que resulte mayor.
+Los cuotapartistas disconformes con la modificación de las cláusulas sustanciales del reglamento de gestión o con la prórroga del plazo de duración del FCI, podrán solicitar el rescate anticipado de sus cuotapartes, mediante una comunicación fehaciente al domicilio de la Sociedad Gerente, dentro de los TREINTA (30) días corridos siguientes a la fecha de celebración de la asamblea.
 
-En el caso de modificación sustancial del reglamento de gestión, deberá contemplar el plazo para el reintegro del valor de la participación del cuotapartista disconforme, de acuerdo con la naturaleza de los activos del FCI, no pudiendo exceder el plazo de UN (1) año a partir de la aprobación de la modificación correspondiente por la CNV.
+En caso de prórroga del FCI, el reintegro del valor de la participación será realizado en la fecha del vencimiento de vigencia del FCI o en el término máximo de UN (1) año, contado a partir de la fecha de celebración de la asamblea que resolvió la prórroga, el que resulte mayor.
 
-A los fines de la determinación del valor de rescate de las cuotapartes, se utilizará el valor correspondiente, en base a la opinión de una (1) o más evaluadoras independientes, las que la Sociedad Gerente deberá publicar en el acceso correspondiente de la AIF, y en los sistemas habituales de difusión del Mercado donde se negocien las cuotapartes, a más tardar, el día de celebración de la asamblea o de la publicación del aviso de la implementación del mecanismo alternativo ante su prescindencia.
+En el caso de modificación sustancial del reglamento de gestión, se deberá contemplar el plazo para el reintegro del valor de la participación del cuotapartista disconforme, de acuerdo con la naturaleza de los activos del FCI, no pudiendo exceder el plazo de UN (1) año a partir de la aprobación de la modificación correspondiente por la CNV.
+
+A los fines de la determinación del valor de rescate de las cuotapartes, se utilizará el valor correspondiente, en base a la opinión de una (1) o más evaluadoras independientes, las que la Sociedad Gerente deberá poner a disposición de los cuotapartistas mediante la publicación en el acceso correspondiente de la AIF, y en los sistemas habituales de difusión del Mercado donde se negocien las cuotapartes, a más tardar, el día de celebración de la asamblea o de la publicación del aviso de la implementación del mecanismo alternativo ante su prescindencia.
 
 En el caso de FCI que publiquen valor diario de cuota, se utilizará el valor de la cuotaparte correspondiente al día de la solicitud de rescate.
 
@@ -352,6 +354,10 @@ En caso de que el FCI distribuyese utilidades durante el período entre el ejerc
 Salvo previsión en contrario del reglamento de gestión, este derecho de rescate anticipado podrá ser ejercido por cada cuotapartista en forma total o parcial. En caso de rescate parcial, la comunicación o la manifestación ejerciendo el derecho de rescate deberá expresar cuál es la cantidad de cuotapartes respecto de las cuales se ejerce el rescate anticipado.
 
 El reglamento de gestión podrá prever que, de alcanzarse determinado umbral de cuotapartes cuyo rescate anticipado haya sido comunicado a la Sociedad Gerente conforme este artículo, la Sociedad Gerente quede habilitada para resolver la liquidación anticipada del FCI.
+
+Las modificaciones de carácter no sustancial deberán cumplir el procedimiento de adenda automática establecido en la Sección III del presente Capítulo.
+
+[Artículo sustituido por art. 1° de la RG 1148/2026, BO 11/06/2026]
 
 RESCATE DE LAS CUOTAPARTES CON ANTERIORIDAD AL VENCIMIENTO DEL PLAZO DE DURACIÓN DEL FCI.
 ARTÍCULO 21°. - El reglamento de gestión podrá prever rescates parciales de las cuotapartes, una vez cumplida la respectiva adecuación del patrimonio neto en el activo específico y en la medida que no sea alterada la paridad de tratamiento entre los cuotapartistas, ni sea afectada la consecución de los objetivos y políticas de inversión y especificidad del FCI. A tal efecto, podrán establecerse épocas para su ejercicio y plazos para su pago.
@@ -404,56 +410,70 @@ V. análisis de los flujos de fondos esperados con periodicidad mensual (salvo e
 
 En tales casos, deberá acompañar, junto con la solicitud de autorización, un detalle de las condiciones de elegibilidad de la cartera de créditos seleccionada, mediante la presentación de un informe elaborado por un contador público independiente, inscripto en el Registro de Auditores Externos de la CNV, cuya firma esté legalizada por el respectivo Consejo Profesional.
 
-### SECCIÓN III — PROCEDIMIENTO DE AUTORIZACIÓN AUTOMÁTICA DE OFERTA PÚBLICA DE FONDOS COMUNES DE INVERSIÓN CERRADOS DE CRÉDITOS.
+### SECCIÓN III — PROCEDIMIENTO DE AUTORIZACIÓN AUTOMÁTICA DE OFERTA PÚBLICA DE FONDOS COMUNES DE INVERSIÓN CERRADOS.
 
-ARTÍCULO 26°. - Los Fondos Comunes de Inversión Cerrados de Créditos que se constituyan mediante el procedimiento de autorización automática de oferta pública, se regirán por el régimen especial establecido en la presente Sección y, supletoriamente, por las disposiciones aplicables para los Fondos Comunes de Inversión Cerrados de Créditos.
+ARTÍCULO 26.- Los FCIC que se constituyan mediante el procedimiento de autorización automática de oferta pública, se regirán por el régimen especial establecido en la presente Sección y por las disposiciones aplicables para los FCIC.
 
 INVERSORES CALIFICADOS.
-ARTÍCULO 27°. - Los valores negociables que se emitan bajo el presente régimen podrán ser adquiridos únicamente por Inversores Calificados definidos en el artículo 12 de la Sección I del Capítulo VI del Título II de estas Normas. Los Agentes que actúen en las respectivas operaciones de compraventa deberán verificar que la parte compradora reúna los requisitos previstos a fin de ser considerada dentro de dicha categoría.
+ARTÍCULO 27.- Los valores negociables que se emitan bajo el presente régimen podrán ser adquiridos únicamente por Inversores Calificados definidos en el artículo 2 de la Sección II del Capítulo II del Título I de estas Normas.
 
-MONTO. LÍMITE.
-ARTÍCULO 28°. - El monto nominal máximo no deberá superar el monto equivalente UVA SIETE MILLONES (7.000.000), o su equivalente en Pesos o moneda extranjera, calculado al tipo de cambio de referencia Comunicación “A” 3500 del BCRA o, si se trata de una moneda extranjera distinta al dólar estadounidense, al tipo de cambio vendedor divisa del BNA al cierre del día anterior a la fecha de aprobación de los términos y condiciones de emisión.
+Lo indicado precedentemente podrá acreditarse mediante DDJJ del inversor al momento de cada suscripción, sin perjuicio de la facultad de los Agentes Registrados participantes en las respectivas operaciones de solicitar su respaldo.
 
-PERÍODO DE CÁLCULO DE LOS MONTOS MÁXIMOS. AGREGACIÓN.
-ARTÍCULO 29°. - Para calcular el monto nominal máximo previsto en el artículo 28 de la presente Sección, se considerarán todas las emisiones realizadas por los mismos participantes: la Sociedad Gerente, la Sociedad Depositaria, y el originante de los créditos, bajo el presente régimen. La acumulación o agregación será por el período de DOCE (12) meses anteriores, contados a la fecha aprobación de los términos y condiciones de la emisión. Se podrá reemitir dentro de este monto máximo, una vez reintegradas total o parcialmente las cuotapartes.
+INVERSORES NO CALIFICADOS. MONTO. LÍMITE.
+ARTÍCULO 28.- Los valores negociables de este régimen podrán ofrecerse al público general siempre que el monto máximo de emisión no supere de UVA CIEN MILLONES (100.000.000), o su equivalente en moneda nacional o extranjera. Para la conversión, se utilizará el tipo de cambio de referencia Comunicación “A” 3500 del BCRA o, en caso de monedas distintas al dólar, el tipo de cambio vendedor divisa del BNA al cierre del día previo a la aprobación de los términos de emisión.
 
-PREVISIÓN REGLAMENTARIA. AUMENTO DE MONTO.
-ARTÍCULO 30°. - La previsión reglamentaria relativa al incremento de la cantidad de cuotapartes del FCI deberá contemplar, en su caso, el límite de monto y agregación de conformidad con lo dispuesto en los artículos 28 y 29 de la presente Sección.
+REGÍMENES EXCLUIDOS.
+ARTÍCULO 29.- Quedan excluidos de la opción de autorización bajo esta Sección los FCIC que se encuadren en alguno de los siguientes supuestos:
 
-PROSPECTO. NOTIFICACIÓN.
-ARTÍCULO 31°. - La Sociedad Gerente deberá remitir a través de TAD, con una antelación de DOS (2) días hábiles al inicio del período de difusión, el Prospecto de emisión y el reglamento de gestión del FCI.
+1. Se constituyan como FCIC de Infraestructura o FCIC de Capital Emprendedor (conforme a los Capítulos V y VI de este Título).
 
-El Prospecto de emisión deberá cumplir con el contenido mínimo establecido en el artículo 25 de la Sección II del presente Capítulo. Dicho documento, junto con el reglamento de gestión, no serán objeto de revisión ni aprobación por parte de esta CNV, pero deberán ser publicados al inicio del plazo de difusión a través de la AIF y en los sistemas de información de los Mercados autorizados donde listen y/o negocien las cuotapartes.
+2. Posean activos subyacentes consistentes en Activos Virtuales.
 
-Corresponderá incluir en el Prospecto de emisión una leyenda especial que disponga: “El presente documento refiere a la constitución de un fondo común de inversión cerrado de créditos bajo el procedimiento de autorización automática de oferta pública. Dicha circunstancia implica que la CNV no ha emitido juicio sobre el documento ni ha efectuado control alguno en relación al mismo. La veracidad de la información suministrada en el presente prospecto es responsabilidad de los miembros de los órganos de administración y fiscalización de la Sociedad Gerente y de la Sociedad Depositaria, respectivamente, y demás responsables contemplados en los artículos 119 y 120 de la Ley de Mercado de Capitales. Los auditores, en lo que les atañe, serán responsables en cuanto a sus respectivos informes sobre los Estados Contables que se acompañan. Los órganos de administración manifiestan, con carácter de declaración jurada, que el presente prospecto contiene, a la fecha de su publicación, información veraz y suficiente sobre todo Hecho Relevante y de toda aquella que deba ser de conocimiento del público inversor con relación a la presente emisión, conforme las normas vigentes”.
+3. Tengan como activo subyacente valores negociables convertibles en acciones o participaciones en vehículos comprendidos en los incisos anteriores.
+
+PROSPECTO Y REGLAMENTO DE GESTIÓN.
+ARTÍCULO 30.- Para acceder al régimen de esta Sección, la Sociedad Gerente deberá publicar en la AIF el Prospecto y el reglamento de gestión de la emisión. Ambos documentos deben consignar en su encabezado el número de registro asignado por el sistema al crear el instrumento en la AIF y cumplir con el contenido mínimo de la Sección I de este Capítulo.
+
+Dichos documentos no serán objeto de revisión ni aprobación por parte de la CNV, pero deberán ser publicados junto con el aviso de suscripción a más tardar el mismo día del comienzo del plazo de difusión a través de la AIF y en los sistemas de información de los Mercados autorizados donde listen y/o negocien las cuotapartes.
+
+Corresponderá incluir en el Prospecto de emisión y en el reglamento de gestión una leyenda especial que disponga: “El presente documento refiere a la constitución de un fondo común de inversión cerrado bajo el procedimiento de autorización automática de oferta pública. Dicha circunstancia implica que la CNV no ha emitido juicio sobre el documento ni ha efectuado control alguno con relación a este. La veracidad de la información suministrada en el presente Prospecto es responsabilidad de los miembros de los órganos de administración y fiscalización de la Sociedad Gerente y de la Sociedad Depositaria, respectivamente, y demás responsables contemplados en los artículos 119 y 120 de la Ley de Mercado de Capitales. Los auditores, en lo que les atañe, serán responsables en cuanto a sus respectivos informes sobre los Estados Contables que se acompañan. Los órganos de administración manifiestan, con carácter de declaración jurada, que el presente Prospecto contiene, a la fecha de su publicación, información veraz y suficiente sobre todo Hecho Relevante y sobre toda información que deba ser de conocimiento del público inversor con relación a la presente emisión, conforme las normas vigentes”.
 
 PUBLICIDAD.
-ARTÍCULO 32°. - Con la notificación dispuesta en el artículo 31 de la presente Sección, se producirá la registración del FCI ante la CNV, procediendo la Sociedad Gerente a publicar a través de la AIF:
-
-1. El reglamento de gestión y el Prospecto de emisión, precisando el período de difusión y licitación, y la fecha de liquidación y emisión de las cuotapartes;
-
-2. las resoluciones sociales de los órganos que dispusieron la emisión respectiva y sus términos y condiciones; y
-
-3. el informe de calificación de riesgo, en caso de corresponder.
+ARTÍCULO 31.- Al publicar el reglamento de gestión y el Prospecto, deberán precisarse los períodos de difusión y licitación, así como las fechas de emisión y liquidación de las cuotapartes. Asimismo, se deberán publicar en la AIF las resoluciones sociales que dispusieron la emisión con sus términos y condiciones y, de corresponder, el informe de calificación de riesgo.
 
 El mismo día del cierre de la colocación, se deberá publicar el aviso de resultado de colocación indicando el monto adjudicado y los saldos remanentes, así como la información relativa al cumplimiento de dispersión.
 
 COLOCACIÓN PRIMARIA. OBLIGATORIEDAD DE LISTADO.
-ARTÍCULO 33°. - Las cuotapartes emitidas bajo el presente régimen, deberán ser colocadas de acuerdo a las disposiciones aplicables a la colocación primaria establecidas en el Capítulo IV del Título VI de estas Normas y listadas en un Mercado autorizado por la CNV, en un panel específico determinado por dicho Mercado. Los Mercados no podrán establecer mayores requisitos para el listado y/o negociación de las cuotapartes a ser emitidas bajo este régimen.
+ARTÍCULO 32.- Las cuotapartes emitidas bajo el presente régimen, deberán ser colocadas de acuerdo con las disposiciones aplicables a la colocación primaria establecidas en el Capítulo IV del Título VI de estas Normas y listadas en un Mercado autorizado por la CNV, en un panel específico determinado por dicho Mercado. Los Mercados no podrán establecer mayores requisitos para el listado y/o negociación de las cuotapartes a ser emitidas bajo este régimen.
 
-En este sentido, deberán adecuar el ingreso a sus plataformas digitales a los lineamientos de la presente Sección de manera de no desvirtuar la simplicidad de emisión prevista por este procedimiento de autorización automática de oferta pública de Fondos Comunes de Inversión Cerrados de Créditos.
+En este sentido, deberán adecuar el ingreso a sus plataformas digitales a los lineamientos de la presente Sección de manera de no desvirtuar la simplicidad de emisión prevista por este procedimiento de autorización automática de oferta pública de Fondos Comunes de Inversión Cerrados.
 
 RÉGIMEN INFORMATIVO.
-ARTÍCULO 34°. - La Sociedad Gerente deberá remitir los estados contables anuales y trimestrales del FCI conforme lo dispuesto en el artículo 5° de la Sección I del presente Capítulo; publicar con periodicidad trimestral a través de la AIF el informe sobre el cobro del capital e interés previsto en el artículo 23 de la Sección II del presente Capítulo; y dar cumplimiento con el deber de informar cualquier afectación o desviación significativa en el cobro de los créditos, en los términos de lo dispuesto en artículo citado.
+ARTÍCULO 33.- La Sociedad Gerente deberá remitir los Estados Contables anuales y trimestrales del FCI conforme lo dispuesto en el artículo 5° de la Sección I del presente Capítulo y cumplir con el régimen informativo aplicable de acuerdo con el encuadre y características específicas del FCI.
+
+PROCEDIMIENTO DE ADENDA AUTOMÁTICA.
+ARTÍCULO 34.- Los FCIC que modifiquen su documentación conforme al artículo 20 de este Capítulo, siempre que mantengan las condiciones originales para el acceso a este régimen, deberán observar las siguientes pautas de autorización automática:
+
+1. Los textos de la adenda al Prospecto de emisión y al reglamento de gestión, junto con los textos ordenados respectivos, las actas de directorio de la Sociedad Gerente y de la Sociedad Depositaria y, en su caso, el acta de la asamblea de cuotapartistas aprobatoria de la modificación, deberán remitirse a través de los accesos pertinentes en la AIF. Este procedimiento no requerirá la sustanciación previa de un trámite ante la CNV.
+
+2. En la portada del texto de la adenda se deberá dejar constancia expresa de que su contenido no ha sido objeto de revisión por parte de la CNV. Asimismo, al pie del texto ordenado deberá constar manifestación expresa, en carácter de DDJJ, de que la incorporación de los cambios se ha efectuado sobre el texto vigente.
+
+3. Las sociedades involucradas deberán mantener en sus sedes sociales, a disposición del Organismo, de los cuotapartistas y de terceros, el texto de la adenda debidamente suscrito conforme a las exigencias del artículo 11 de la Ley de Fondos Comunes de Inversión.
+
+4. La Sociedad Gerente deberá mantener publicado y actualizado en su sitio web el texto vigente del reglamento de gestión y del Prospecto de emisión del FCIC. La modificación a las condiciones originales de acceso a este régimen deberá tramitarse vía TAD, conforme a lo dispuesto en el artículo 20 del presente Capítulo.
+
+Por su parte, la sustitución de los órganos del FCIC deberá tramitarse de conformidad con el procedimiento dispuesto en el artículo 76 de la Sección VI del Capítulo II de este Título. Adicionalmente a lo allí requerido, se deberá informar la publicación en la AIF del acta de asamblea o la conformidad obtenida de los cuotapartistas con relación a la sustitución.
 
 TRANSPARENCIA.
-ARTÍCULO 35°. - La admisión al Régimen de Autorización Automática de Oferta Pública no exime a los órganos del FCI ni a los participantes en la colocación primaria ni durante la vigencia de la emisión de cumplir en todo momento con el régimen de transparencia del artículo 117 y concordantes de la Ley de Mercado de Capitales y de estas Normas.
+ARTÍCULO 35.- La admisión al Régimen de Oferta Pública con Autorización Automática no exime a los órganos del FCI ni a los participantes en la colocación primaria ni durante la vigencia de la emisión de cumplir en todo momento con el régimen de transparencia del artículo 117 y concordantes de la Ley de Mercado de Capitales y de estas Normas.
 
 TASA DE FISCALIZACIÓN Y CONTROL.
-ARTÍCULO 36°. - Será aplicable el pago de la tasa de fiscalización y control, establecida en el Capítulo I del Título XVII de estas Normas, a los FCI cerrados constituidos bajo el presente régimen.
+ARTÍCULO 36.- Será aplicable el pago de la tasa de fiscalización y control, establecida en el Capítulo I del Título XVII de estas Normas, a los FCIC constituidos bajo el presente régimen.
 
 INCUMPLIMIENTOS.
-ARTÍCULO 37°. - La falta de pago de la tasa de fiscalización y control y los incumplimientos al contenido mínimo del prospecto y/o al régimen informativo aplicable en los términos del presente, implicará la prohibición para la Sociedad Gerente de constituir nuevas emisiones bajo el presente régimen.
+ARTÍCULO 37.- La falta de pago de la tasa de fiscalización y control y los incumplimientos al contenido mínimo del reglamento de gestión y Prospecto y/o al régimen informativo aplicable en los términos del presente, implicará la prohibición para la Sociedad Gerente de constituir nuevas emisiones bajo el presente régimen.
+
+[Sección sustituida por art. 2° de la RG 1148/2026, BO 11/06/2026]
 
 ### ANEXO I PLAN Y MANUAL DE CUENTAS DE FONDOS COMUNES DE INVERSIÓN.
 
