@@ -1,5 +1,5 @@
 # Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV
-Última modificación: RG 1122/2026 (BO 31/03/2026)
+Última modificación: RG 1130/2026 (BO 28/04/2026)
 Fuente: PDF base, págs. 862–884.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -1327,6 +1327,12 @@ L) AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN (ALyC):
 
 44) AGE_ 033–Pasivos Financieros – complementario
 
+45) MUG_036 – Indicadores Financieros y Límites Prudenciales de Liquidez y Apalancamiento.
+
+46) MUG_037 – Adecuación - Límites Prudenciales de Liquidez y Apalancamiento.
+
+47) MUG_038 – Tenencias de Moneda Extranjera
+
 M) AGENTES PRODUCTORES (AP):
 
 1) Requisitos generales para personas jurídicas:
@@ -1727,3 +1733,5 @@ S) PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES:
 22) PSAV_018 - Acta Constitutiva y Estatuto vigente PSAV.
 
 [Subinciso 44) del inciso L) incorporado por art. 2° de la RG 1122/2026, BO 31/03/2026]
+
+[Subincisos 45), 46) y 47) del inciso L) incorporados por art. 4° de la RG 1130/2026, BO 28/04/2026]

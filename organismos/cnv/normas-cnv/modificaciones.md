@@ -27,6 +27,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), “Inversor Calificado” inc. 13) y 5 términos nuevos | modifica parcialmente | RG 1125/2026 | 1° | 07/04/2026 |
 | art. 2° (Secc. II), término “LPA” | modifica parcialmente | RG 1127/2026 | 1° | 09/04/2026 |
 | art. 2° (Secc. II), 5 términos (documentos de oferta y regímenes automáticos) | modifica parcialmente | RG 1129/2026 | 1° | 16/04/2026 |
+| art. 2° (Secc. II), término “Cauciones Tomadoras Netas” | modifica parcialmente | RG 1130/2026 | 1° | 28/04/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -264,6 +265,13 @@ Archivo: `vigente/titulo-VII/capitulo-II.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 35 | sustituye | RG 1122/2026 | 1° | 31/03/2026 |
+| art. 25 | sustituye | RG 1130/2026 | 2° | 28/04/2026 |
+| art. 36 | incorpora | RG 1130/2026 | 3° | 28/04/2026 |
+| art. 37 | incorpora | RG 1130/2026 | 3° | 28/04/2026 |
+| art. 38 | incorpora | RG 1130/2026 | 3° | 28/04/2026 |
+| art. 39 | incorpora | RG 1130/2026 | 3° | 28/04/2026 |
+| art. 40 | incorpora | RG 1130/2026 | 3° | 28/04/2026 |
+| art. 41 | incorpora | RG 1130/2026 | 3° | 28/04/2026 |
 
 ## Título VIII, Capítulo I
 Archivo: `vigente/titulo-VIII/capitulo-I.md`
@@ -292,6 +300,7 @@ Archivo: `vigente/titulo-XV/capitulo-I.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 11 (Secc. IV), inc. L), subinc. 44) | modifica parcialmente | RG 1122/2026 | 2° | 31/03/2026 |
+| art. 11 (Secc. IV), inc. L), subincs. 45) a 47) | modifica parcialmente | RG 1130/2026 | 4° | 28/04/2026 |
 
 ## Título XVI, Capítulo I
 Archivo: `vigente/titulo-XVI/capitulo-I.md`
@@ -354,6 +363,11 @@ Archivo: `vigente/titulo-XVIII/capitulo-V.md`
 |---|---|---|---|---|
 | art. 22 | incorpora | RG 1122/2026 | 3° | 31/03/2026 |
 | art. 6° TER | sustituye | RG 1128/2026 | 1° | 10/04/2026 |
+| art. 23 | incorpora | RG 1130/2026 | 5° | 28/04/2026 |
+| art. 24 | incorpora | RG 1130/2026 | 5° | 28/04/2026 |
+| art. 25 | incorpora | RG 1130/2026 | 5° | 28/04/2026 |
+| art. 26 | incorpora | RG 1130/2026 | 5° | 28/04/2026 |
+| art. 27 | incorpora | RG 1130/2026 | 5° | 28/04/2026 |
 
 ## Título XVIII, Capítulo XI
 Archivo: `vigente/titulo-XVIII/capitulo-XI.md`

@@ -40,3 +40,30 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > En todos los casos, los Agentes deberán conservar en los respectivos legajos la documentación respaldatoria que acredite el pertinente consentimiento por parte de los clientes a la/s transferencia/s emisora/s de sus valores negociables hacia la cuenta custodia de titularidad del prestatario, debiendo encontrarse a disposición de la CNV y de los Mercados y/o Cámaras Compensadoras en todo momento.
 >
 > La información remitida a la CNV por los mencionados Agentes revestirá el carácter de declaración jurada.
+
+## Artículo 25
+- Vigente desde: anterior a la base
+- Vigente hasta: 28/04/2026
+- Sustituido por: RG 1130/2026, art. 2°
+- Texto:
+
+> RÉGIMEN INFORMATIVO.
+> ARTÍCULO 25.- El ALyC deberá dar cumplimiento al siguiente régimen informativo:
+>
+> i) Estados contables anuales dentro de los SETENTA (70) días corridos a contar desde el cierre del ejercicio con informe de auditoría suscripto por contador público independiente, cuya firma esté legalizada por el respectivo consejo profesional y acta del órgano de administración y órgano de fiscalización que los aprueba; asimismo acta de asamblea que los aprueba, dentro de los DIEZ (10) días hábiles de su celebración.
+>
+> ii) Estados contables semestrales, dentro de los CUARENTA Y DOS (42) días corridos de finalizado el semestre con informe de revisión limitada suscripto por contador público independiente, cuya firma esté legalizada por el respectivo consejo profesional.
+>
+> iii) Nómina de los Agentes registrados en el Organismo e Intermediarios y/o entidades del Exterior con los que hubiere suscripto convenio. Dentro de los DOS (2) días de suscriptos tales convenios deberá informar: fecha de suscripción, plazo de vigencia si existiere, identificación de las partes contratantes y modalidad de retribución a ser percibida. Asimismo, la rescisión de los convenios deberá ser informada como hecho relevante a través de la AIF.
+>
+> iv) Dentro de los DIEZ (10) días de finalizado cada trimestre, valorización –al último día de cada trimestre- de la suma total de la cartera administrada, propia y de terceros clientes, con detalle de su composición, a través del Formulario “AGE_007_Valorización de Cartera Administrada” en la Autopista de la Información Financiera.
+>
+> v) Dentro de los DIEZ (10) días de finalizado cada trimestre, cantidad de clientes con distinción de personas humanas y jurídicas, indicando país de residencia.
+>
+> vi) Detalle de los medios o modalidades de captación de órdenes a ser utilizados y ofrecidos a sus clientes.
+>
+> Adicionalmente, el ALyC remitirá a la Comisión, por medio de la Autopista de la Información Financiera, la información requerida en el artículo 11 inciso L) del Capítulo I del Título XV de estas Normas.
+>
+> vii) Con periodicidad mensual, dentro de los DIEZ (10) días hábiles de finalizado cada mes calendario, la información de inversiones de clientes con C.D.I. o C.I.E., en los términos exigidos por el artículo 6° de la Sección V del Capítulo I del Título XII de estas Normas. (Ver CRI67)
+>
+> viii) Con periodicidad mensual, dentro del tercer (3er) día hábil de finalizado cada mes, la información requerida en el artículo 35 del Capítulo II del presente Título.

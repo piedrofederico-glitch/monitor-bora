@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1129/2026 (BO 16/04/2026)
+Última modificación: RG 1130/2026 (BO 28/04/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -73,6 +73,8 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “Capitalización de Deuda” significa el mecanismo financiero y legal mediante el cual una Emisora cancela una obligación preexistente a su cargo (deuda) con su acreedor, emitiendo en contraprestación nuevas acciones u otros valores negociables que son suscriptos por dicho acreedor.
+
+“Cauciones Tomadoras Netas”: significa la posición en cauciones tomadoras en cada moneda, neta de la posición en dicha moneda, en (i) cauciones colocadoras; y (ii) operaciones de contado simultáneas -reguladas en las Secciones VII y VIII del Capítulo V del Título VI de estas Normas-, siempre que, en ambos casos, las mismas (a) hayan sido cursadas en segmentos de negociación que aseguren la prioridad precio tiempo y por interferencia de ofertas; (b) hayan sido garantizadas por un Mercado o una Cámara Compensadora; (c) pertenezcan al mismo titular; (d) sean coincidentes en el plazo de liquidación; y (e) sean de liquidación neta en los Mercados con las cauciones contra las que se netean.
 
 “CCCN” significa Código Civil y Comercial de la Nación.
 
@@ -371,6 +373,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Término “LPA” incorporado por art. 1° de la RG 1127/2026, BO 09/04/2026]
 
 [Términos “Documento de Oferta Preliminar”, “Documento de Oferta Definitivo” y de los Regímenes de Autorización Automática incorporados por art. 1° de la RG 1129/2026, BO 16/04/2026]
+
+[Término “Cauciones Tomadoras Netas” incorporado por art. 1° de la RG 1130/2026, BO 28/04/2026]
 
 ### SECCIÓN III — EXPRESIONES
 
