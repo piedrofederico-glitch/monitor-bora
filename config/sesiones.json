@@ -1,10 +1,10 @@
 {
-  "_nota": "IDs de sesiones Claude Code de cada especialista",
+  "_nota": "IDs de sesiones Claude Code de cada especialista (Sonnet 5.5)",
   "organismos": {
-    "cnv": "session_011kF92nzyAQn5qCmGynugzd",
-    "atep": "session_01VL63tjzaNpBmsfDJsQDKDe",
-    "bcra": "session_01QsSTGQK4TmTAgeDZBmjQtS",
-    "aaip": "session_01Apz6r7NJesBvEQ4pptm1Qk"
+    "cnv": "session_01R76E1cgrxA9QSNxyWP9pHX",
+    "atep": "session_01H5tGiCBDbccYx7MohW9K8v",
+    "bcra": "session_01AMkFfX2Nq7tAjDwBFjy9mg",
+    "aaip": "session_01Beb9x1WcLC9zXr4BgTvGLL"
   },
-  "temas": "session_01DR5ivcrkun5siXB3dibD7z"
+  "temas": "session_016q7fMVyFCRkMc2AjoErQMj"
 }
