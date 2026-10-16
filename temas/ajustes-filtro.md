@@ -1,3 +1,4 @@
 # Sugerencias de ajuste del filtro
 
 - **20261015 — `privatizaciones`: `transformacion de empresas publicas`** coincide con el nombre de la "Agencia de Transformación de Empresas Públicas". Cualquier acto de la Agencia (designaciones, licencias, compras) va a matchear. Se puede acotar a `dispositivo:transformacion de empresas publicas` o excluir los matches que solo aparecen en el encabezado del organismo. Por ahora generó un relevante, así que no hay urgencia.
+- **20261016 — `juegos_de_azar`: `juegos? de azar`** matcheó la denominación del sindicato ALEARA en la Disposición 684/2026 (DNRYRT, registro de acuerdo salarial). Los registros de CCT de la actividad (rubro `CONVENCIONES COLECTIVAS DE TRABAJO`) van a repetir el patrón. Se puede excluir ese rubro para este tema o ignorar los matches que solo aparecen dentro de la denominación de una entidad sindical o empleadora.
