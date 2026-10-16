@@ -103,7 +103,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XI/titulo-XI.md`](titulo-XI/titulo-XI.md) | Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA. | RG 1141/2026 (BO 27/05/2026) |
+| [`titulo-XI/titulo-XI.md`](titulo-XI/titulo-XI.md) | Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA. | RG 1158/2026 (BO 30/07/2026) |
 
 ## Título XII — TRANSPARENCIA EN EL ÁMBITO DE LA OFERTA PÚBLICA
 

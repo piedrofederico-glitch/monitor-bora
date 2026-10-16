@@ -1,5 +1,5 @@
 # Título XI — PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA.
-Última modificación: RG 1141/2026 (BO 27/05/2026)
+Última modificación: RG 1158/2026 (BO 30/07/2026)
 Fuente: RG 1139/2026, art. 3°.
 
 ### SECCIÓN I — NORMATIVA APLICABLE Y SUJETOS ALCANZADOS.
@@ -204,6 +204,19 @@ ARTÍCULO 17.- A fin de que resulten aplicables los artículos 15 y 16 de la pre
 4. En los casos de ingreso de activos mediante la transferencia de Activos Virtuales, el Cliente deberá ser titular o cotitular de -al menos- una cuenta abierta en el PSAV inscripto en la CNV al cual le transferirá los Activos Virtuales.
 
 Sin perjuicio de las disposiciones precedentes, deberá observarse en todo momento la normativa dictada por la UIF en materia de PLA/FT/FP y por la CNV en materia de suscripción de cuotapartes de FCI en moneda y en valores negociables y de segregación de cuentas propias como de terceros ya sea de fondos y/o de activos.
+
+### SECCIÓN VI
+
+ARTÍCULO 18.- Los requerimientos de información y/o documentación que, en el marco de una investigación o supervisión, emita la CNV en ejercicio de las facultades conferidas por el artículo 19 de la Ley de Mercado de Capitales, se rigen por lo dispuesto en la RLPA.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, dichos requerimientos podrán ser cursados por correo electrónico a los Oficiales de Cumplimiento de los Sujetos Obligados del ámbito del mercado de capitales y/o a los restantes sujetos registrados ante la CNV a los domicilios electrónicos declarados en la AIF.
+
+NOTIFICACIONES Y PRESENTACIONES A REALIZARSE EN LA GERENCIA DE PREVENCIÓN DEL LAVADO DE DINERO.
+ARTICULO 19.- Los Oficiales de Cumplimiento de los Sujetos Obligados ante la UIF del mercado de capitales y los restantes sujetos registrados ante la CNV deberán constituir un domicilio especial electrónico, en caso de que así fuera requerido, en el cual serán válidas las comunicaciones y notificaciones efectuadas a través de la plataforma TAD.
+
+La cuenta de usuario de la plataforma TAD será considerada el domicilio especial electrónico constituido para dar respuesta a los requerimientos que se realicen por la Gerencia de Prevención del Lavado de Dinero.
+
+[Sección incorporada por art. 1° de la RG 1158/2026, BO 30/07/2026, vigente desde 10/08/2026]
 
 ### ANEXO I
 
