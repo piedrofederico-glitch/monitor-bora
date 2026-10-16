@@ -1,6 +1,8 @@
 # Título VIII — Capítulo I: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES.
-Última modificación: RG 1102/2025 (BO 31/12/2025)
+Última modificación: RG 1131/2026 (BO 29/04/2026)
 Fuente: PDF base, págs. 643–670.
+
+[Expresiones reemplazadas en este archivo (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”; 1 ocurrencias) por art. 7° de la RG 1131/2026, BO 29/04/2026]
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
 
@@ -345,7 +347,7 @@ Los ADCVN deberán, sin excepción, proceder a la apertura de las cuentas deposi
 
 8. Los Agentes de custodia de productos de inversión colectiva registrados en la CNV.
 
-9. Los ACyD integral de FCI registrados en la CNV.
+9. Los ACD integral de FCI registrados en la CNV.
 
 10. Las compañías de seguros y de reaseguros.
 

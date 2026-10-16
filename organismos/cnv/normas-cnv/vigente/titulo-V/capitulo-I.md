@@ -1,6 +1,8 @@
 # Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN.
-Última modificación: RG 1121/2026 (BO 27/03/2026)
+Última modificación: RG 1131/2026 (BO 29/04/2026)
 Fuente: PDF base, págs. 314–331.
+
+[Expresiones reemplazadas en este archivo (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”; 51 ocurrencias) por art. 7° de la RG 1131/2026, BO 29/04/2026]
 
 ### SECCIÓN I — DISPOSICIONES COMUNES.
 
@@ -60,11 +62,11 @@ II. La Sociedad Depositaria deberá mantener a disposición de la CNV la documen
 INSCRIPCIÓN. OTROS AGENTES
 ARTÍCULO 2°. - Deberán presentar exclusivamente la documentación requerida en los incisos 9. y 10., del artículo 1° precedente, los sujetos registrados bajo las categorías:
 
-1. ALyC Propio o Integral - Agroindustrial que soliciten la inscripción en el Registro ACyD de FCI y/o ACyDI de FCI;
+1. ALyC Propio o Integral - Agroindustrial que soliciten la inscripción en el Registro ACD de FCI y/o ACDI de FCI;
 
-2. AN respecto de la inscripción como Sociedad Gerente y/o ACyD de FCI; y
+2. AN respecto de la inscripción como Sociedad Gerente y/o ACD de FCI; y
 
-3. Sociedades Gerentes de FCI en relación con la inscripción como ACyDI de FCI.
+3. Sociedades Gerentes de FCI en relación con la inscripción como ACDI de FCI.
 
 [Inciso 2 sustituido por art. 1° de la RG 1102/2025, BO 31/12/2025]
 
@@ -72,7 +74,7 @@ RÉGIMEN APLICABLE A AUTORIDADES DE SOCIEDAD GERENTE Y SOCIEDAD DEPOSITARIA.
 ARTÍCULO 3°. - De acuerdo con lo dispuesto en el artículo 4º de la Ley de Fondos Comunes de Inversión, los directores, síndicos, miembros del consejo de vigilancia y gerentes de ambas sociedades, deberán someterse al régimen informativo y a las restricciones establecidas en las presentes Normas para quienes desempeñan dichas funciones en las Emisoras que se encuentran en el Régimen de la Oferta Pública.
 
 REGISTRO DE IDÓNEOS.
-ARTÍCULO 4°. - Previo al inicio de actividades, el personal empleado en la actividad de las Sociedades Gerentes, de las Sociedades Depositarias, de los ACyD y ACyDI de FCI, que vendan, promocionen o presten cualquier tipo de asesoramiento, en el contacto con el público inversor relacionado con cuotapartes de fondos comunes de inversión, deberán encontrarse inscriptos en el Registro de Idóneos que lleva la CNV, conforme las pautas dispuestas en el Capítulo V, Título XII de estas Normas.
+ARTÍCULO 4°. - Previo al inicio de actividades, el personal empleado en la actividad de las Sociedades Gerentes, de las Sociedades Depositarias, de los ACD y ACDI de FCI, que vendan, promocionen o presten cualquier tipo de asesoramiento, en el contacto con el público inversor relacionado con cuotapartes de fondos comunes de inversión, deberán encontrarse inscriptos en el Registro de Idóneos que lleva la CNV, conforme las pautas dispuestas en el Capítulo V, Título XII de estas Normas.
 
 ### SECCIÓN II — SOCIEDADES GERENTES.
 
@@ -105,9 +107,9 @@ ARTÍCULO 7°. - La Sociedad Gerente podrá desempeñar funciones adicionales a 
 
 3. administración de carteras de inversión, contando para ello con mandato expreso, a nombre y en interés de sus clientes, así como la colocación y distribución de cuotapartes de los FCI bajo su administración y/o bajo la administración de otras Sociedades Gerentes, en los términos dispuestos en la presente Sección.
 
-La Sociedad Gerente podrá asimismo inscribirse como AN (excluyendo la subcategoría AN RUCA) y/o ALyC Propio o Integral o Integral – Agroindustrial y/o como ACyDI de fondos comunes de inversión.
+La Sociedad Gerente podrá asimismo inscribirse como AN (excluyendo la subcategoría AN RUCA) y/o ALyC Propio o Integral o Integral – Agroindustrial y/o como ACDI de fondos comunes de inversión.
 
-No obstante, la inscripción tanto bajo las categorías de ACyDI como AN resultarán incompatibles. De igual manera, aquellas Sociedades Gerentes que revistan la calidad de Entidad Financiera no podrán solicitar su inscripción bajo la categoría de AN.
+No obstante, la inscripción tanto bajo las categorías de ACDI como AN resultarán incompatibles. De igual manera, aquellas Sociedades Gerentes que revistan la calidad de Entidad Financiera no podrán solicitar su inscripción bajo la categoría de AN.
 
 [Inciso 3 sustituido por art. 2° de la RG 1102/2025, BO 31/12/2025]
 
@@ -116,9 +118,9 @@ ARTÍCULO 8°. - Adicionalmente a la colocación de cuotapartes de los fondos co
 
 En el marco de la referida función, las Sociedades Gerentes podrán:
 
-1. Desempeñarse dando cumplimiento a las formalidades y requisitos dispuestos en el artículo 18 de la Sección V del presente Capítulo, con prescindencia de los requisitos de autorización e inscripción para funcionar en el Registro de ACyD.
+1. Desempeñarse dando cumplimiento a las formalidades y requisitos dispuestos en el artículo 18 de la Sección V del presente Capítulo, con prescindencia de los requisitos de autorización e inscripción para funcionar en el Registro de ACD.
 
-2. Efectuar tareas de colocación y distribución de fondos comunes de inversión en los términos de lo dispuesto en la Sección VI del presente Capítulo, dando cumplimiento a todas las formalidades y requisitos dispuestos para el desempeño de los ACyDI de fondos comunes de inversión.
+2. Efectuar tareas de colocación y distribución de fondos comunes de inversión en los términos de lo dispuesto en la Sección VI del presente Capítulo, dando cumplimiento a todas las formalidades y requisitos dispuestos para el desempeño de los ACDI de fondos comunes de inversión.
 
 ADMINISTRACIÓN DE INVERSIONES.
 ARTÍCULO 9°. - A los fines del desarrollo de la actividad de administración de inversiones, las Sociedades Gerentes deberán dar cumplimiento a las formalidades y requisitos establecidos en los Capítulos IV y VII del Título VII de las presentes Normas, con excepción de los requisitos de autorización e inscripción establecidos en los artículos 18 y 19 del citado Capítulo IV.
@@ -202,44 +204,44 @@ En caso de verificarse operaciones y/o situaciones que eventualmente pudieran no
 
 ### SECCIÓN V
 
-AGENTES DE COLOCACIÓN Y DISTRIBUCIÓN DE FONDOS COMUNES DE INVERSIÓN (ACyD DE FCI).
+AGENTES DE COLOCACIÓN Y DISTRIBUCIÓN DE FONDOS COMUNES DE INVERSIÓN (ACD DE FCI).
 
 DESIGNACIÓN DE AGENTES DE COLOCACIÓN Y DISTRIBUCIÓN DE FONDOS COMUNES DE INVERSIÓN.
-ARTÍCULO 18°. - Sin perjuicio de la colocación directa que pueda realizarse por medio de la Sociedad Gerente y/o Sociedad Depositaria, los órganos activos de un fondo común de inversión podrán celebrar convenios particulares con un ACyD de FCI, sin que ello signifique desplazamiento de la responsabilidad que pudiera corresponderles.
+ARTÍCULO 18°. - Sin perjuicio de la colocación directa que pueda realizarse por medio de la Sociedad Gerente y/o Sociedad Depositaria, los órganos activos de un fondo común de inversión podrán celebrar convenios particulares con un ACD de FCI, sin que ello signifique desplazamiento de la responsabilidad que pudiera corresponderles.
 
-Podrán actuar como ACyD de FCI las personas jurídicas que cuenten con un patrimonio neto mínimo no inferior a UVA DIECISIETE MIL (17.000).
+Podrán actuar como ACD de FCI las personas jurídicas que cuenten con un patrimonio neto mínimo no inferior a UVA DIECISIETE MIL (17.000).
 
-Aquellos ACyD de FCI que se encuentren inscriptos en otras categorías de Agentes compatibles, conforme las disposiciones normativas vigentes, deberán computar en concepto de patrimonio neto mínimo requerido, la suma resultante del importe del patrimonio neto mínimo exigido para la categoría de mayor monto, y el CINCUENTA POR CIENTO (50%) de cada uno de los patrimonios netos mínimos exigidos para las categorías restantes.
+Aquellos ACD de FCI que se encuentren inscriptos en otras categorías de Agentes compatibles, conforme las disposiciones normativas vigentes, deberán computar en concepto de patrimonio neto mínimo requerido, la suma resultante del importe del patrimonio neto mínimo exigido para la categoría de mayor monto, y el CINCUENTA POR CIENTO (50%) de cada uno de los patrimonios netos mínimos exigidos para las categorías restantes.
 
 Dicho monto deberá ser cumplido de manera permanente y acreditado en los Estados Contables anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al cumplimiento del régimen informativo que resulte aplicable en cada caso.
 
-CONTENIDO DEL CONVENIO CON ACyD de FCI. RÉGIMEN INFORMATIVO.
+CONTENIDO DEL CONVENIO CON ACD de FCI. RÉGIMEN INFORMATIVO.
 
-ARTÍCULO 19°. - Los ACyD de FCI deberán suscribir el respectivo convenio de colocación con las Sociedades Gerente y Depositaria de los fondos comunes de inversión cuyas cuotapartes se pretenden colocar, el cual deberá estar a disposición de la CNV y contener un reglamento operativo, que contemple, como mínimo: las comisiones de suscripción y de rescate que percibirá el ACyD de FCI, las que deberán estar dentro de las máximas permitidas en el reglamento de gestión del FCI, y en su caso, detalle de la participación a percibir por el ACyD en los cargos al FCI (honorarios del Administrador y/o del Custodio y/o gastos generales). Los ACyD de FCI deberán tener permanentemente a disposición del público en sus oficinas y canales de comercialización de las cuotapartes, la información relativa a honorarios, comisiones y gastos del FCI.
+ARTÍCULO 19°. - Los ACD de FCI deberán suscribir el respectivo convenio de colocación con las Sociedades Gerente y Depositaria de los fondos comunes de inversión cuyas cuotapartes se pretenden colocar, el cual deberá estar a disposición de la CNV y contener un reglamento operativo, que contemple, como mínimo: las comisiones de suscripción y de rescate que percibirá el ACD de FCI, las que deberán estar dentro de las máximas permitidas en el reglamento de gestión del FCI, y en su caso, detalle de la participación a percibir por el ACD en los cargos al FCI (honorarios del Administrador y/o del Custodio y/o gastos generales). Los ACD de FCI deberán tener permanentemente a disposición del público en sus oficinas y canales de comercialización de las cuotapartes, la información relativa a honorarios, comisiones y gastos del FCI.
 
 ### SECCIÓN VI
 
-AGENTES DE COLOCACIÓN Y DISTRIBUCIÓN INTEGRAL DE FONDOS COMUNES DE INVERSIÓN (ACyDI DE FCI).
+AGENTES DE COLOCACIÓN Y DISTRIBUCIÓN INTEGRAL DE FONDOS COMUNES DE INVERSIÓN (ACDI DE FCI).
 
-ARTÍCULO 20.- Podrán actuar como ACyDI de FCI en los términos del artículo 2º de la Ley de Mercado de Capitales, las Sociedades Gerentes de FCI (siempre y cuando no se encuentren registradas bajo la categoría de AN), las entidades financieras autorizadas a actuar como tales, en los términos de la Ley de Entidades Financieras y los ALyC Propio o Integral o Integral-Agroindustrial.
+ARTÍCULO 20.- Podrán actuar como ACDI de FCI en los términos del artículo 2º de la Ley de Mercado de Capitales, las Sociedades Gerentes de FCI (siempre y cuando no se encuentren registradas bajo la categoría de AN), las entidades financieras autorizadas a actuar como tales, en los términos de la Ley de Entidades Financieras y los ALyC Propio o Integral o Integral-Agroindustrial.
 
-Sin perjuicio de la colocación de cuotapartes que puedan realizar la Sociedad Gerente y/o la Sociedad Depositaria podrán celebrar convenios particulares con ACyDI de FCI, sin que ello signifique desplazamiento de la responsabilidad que pudiera corresponderles.
+Sin perjuicio de la colocación de cuotapartes que puedan realizar la Sociedad Gerente y/o la Sociedad Depositaria podrán celebrar convenios particulares con ACDI de FCI, sin que ello signifique desplazamiento de la responsabilidad que pudiera corresponderles.
 
-No resultará necesaria la celebración de los convenios indicados precedentemente en los casos en que el ACyDI se encuentre inscripto adicionalmente bajo la categoría de ALyC Propio o Integral o Integral-Agroindustrial y cuente con membresía en el Mercado que haya suscripto un acuerdo marco de colocación integral de cuotapartes de fondos comunes de inversión con la Sociedad Gerente y la Sociedad Depositaria, o cuando el ACyDI adhiera a dicho acuerdo marco.
+No resultará necesaria la celebración de los convenios indicados precedentemente en los casos en que el ACDI se encuentre inscripto adicionalmente bajo la categoría de ALyC Propio o Integral o Integral-Agroindustrial y cuente con membresía en el Mercado que haya suscripto un acuerdo marco de colocación integral de cuotapartes de fondos comunes de inversión con la Sociedad Gerente y la Sociedad Depositaria, o cuando el ACDI adhiera a dicho acuerdo marco.
 
-Los acuerdos marco de colocación integral de cuotapartes de fondos comunes de inversión deberán encontrarse a disposición de la CNV y podrán prever que la actuación de un ACyDI requiera la aceptación expresa de la Sociedad Gerente y la Sociedad Depositaria y permitir que la Sociedad Gerente y la Sociedad Depositaria limiten los fondos comunes de inversión y clases de cuotapartes alcanzados por el acuerdo marco y/o la clase o tipo de inversores respecto de los cuales el ACyDI podrá realizar los esfuerzos de comercialización.
+Los acuerdos marco de colocación integral de cuotapartes de fondos comunes de inversión deberán encontrarse a disposición de la CNV y podrán prever que la actuación de un ACDI requiera la aceptación expresa de la Sociedad Gerente y la Sociedad Depositaria y permitir que la Sociedad Gerente y la Sociedad Depositaria limiten los fondos comunes de inversión y clases de cuotapartes alcanzados por el acuerdo marco y/o la clase o tipo de inversores respecto de los cuales el ACDI podrá realizar los esfuerzos de comercialización.
 
 En el caso de un Agente que revista el carácter de Sociedad Gerente de fondos comunes de inversión y/o ALyC Propio o Integral o Integral-Agroindustrial deberá contar con un patrimonio neto mínimo no inferior a UVA CIENTO SETENTA MIL (170.000).
 
 Como contrapartida, un mínimo del CINCUENTA POR CIENTO (50%) del importe del patrimonio neto mínimo deberá observar las exigencias previstas en el Anexo I del Capítulo I del Título VI de estas Normas.
 
-Aquellos ACyDI de FCI que se encuentren inscriptos en otras categorías de Agentes compatibles, conforme las disposiciones normativas vigentes, deberán computar en concepto de patrimonio neto mínimo requerido, la suma resultante del importe del patrimonio neto mínimo exigido para la categoría de mayor monto, y el CINCUENTA POR CIENTO (50%) de cada uno de los patrimonios netos mínimos exigidos para las categorías restantes.
+Aquellos ACDI de FCI que se encuentren inscriptos en otras categorías de Agentes compatibles, conforme las disposiciones normativas vigentes, deberán computar en concepto de patrimonio neto mínimo requerido, la suma resultante del importe del patrimonio neto mínimo exigido para la categoría de mayor monto, y el CINCUENTA POR CIENTO (50%) de cada uno de los patrimonios netos mínimos exigidos para las categorías restantes.
 
 Dicho monto deberá ser cumplido de manera permanente y acreditado en los Estados Contables anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al cumplimiento del régimen informativo que resulte aplicable en cada caso.
 
 [Primer párrafo sustituido por art. 4° de la RG 1102/2025, BO 31/12/2025]
 
-ARTÍCULO 21°. - El ACyDI de FCI, deberá tener a disposición de la CNV la siguiente documentación:
+ARTÍCULO 21°. - El ACDI de FCI, deberá tener a disposición de la CNV la siguiente documentación:
 
 1. Los Convenios de colocación suscriptos con las Sociedades Gerente y Depositaria de los fondos comunes de inversión cuyas cuotapartes se pretenden colocar, conteniendo las previsiones indicadas en el artículo 19 del presente Capítulo.
 
@@ -249,15 +251,15 @@ ARTÍCULO 21°. - El ACyDI de FCI, deberá tener a disposición de la CNV la sig
 
 4. Procedimiento de control interno diseñado para asegurar el cumplimiento de todas las leyes y regulaciones en contra del lavado de activos.
 
-ARTÍCULO 22°. - Corresponderá a los ACyDI de FCI la percepción del importe de las suscripciones y el pago de los rescates a sus clientes por cuenta de la Sociedad Depositaria, para lo cual deberán proceder a la apertura de una cuenta bancaria exclusiva y distinta de aquéllas que tengan abiertas en interés propio o de terceros, en entidades financieras autorizadas por el BCRA.
+ARTÍCULO 22°. - Corresponderá a los ACDI de FCI la percepción del importe de las suscripciones y el pago de los rescates a sus clientes por cuenta de la Sociedad Depositaria, para lo cual deberán proceder a la apertura de una cuenta bancaria exclusiva y distinta de aquéllas que tengan abiertas en interés propio o de terceros, en entidades financieras autorizadas por el BCRA.
 
-ARTÍCULO 23°. - Los ACyDI de FCI autorizados por la CNV serán registrados como cuotapartistas, en el Registro de cuotapartes llevado por la Sociedad Depositaria, del fondo común de inversión en cuya colocación intervengan.
+ARTÍCULO 23°. - Los ACDI de FCI autorizados por la CNV serán registrados como cuotapartistas, en el Registro de cuotapartes llevado por la Sociedad Depositaria, del fondo común de inversión en cuya colocación intervengan.
 
-A los fines del registro y la individualización de las tenencias correspondientes a los inversores, el ACyDI de FCI interviniente deberá utilizar el sistema vigente de cuentas depositantes y subcuentas comitentes en el ADCVN o en el ACRyP en el caso de haberse suscripto un acuerdo marco en los términos de lo dispuesto por el artículo 20 del presente Capítulo.
+A los fines del registro y la individualización de las tenencias correspondientes a los inversores, el ACDI de FCI interviniente deberá utilizar el sistema vigente de cuentas depositantes y subcuentas comitentes en el ADCVN o en el ACRyP en el caso de haberse suscripto un acuerdo marco en los términos de lo dispuesto por el artículo 20 del presente Capítulo.
 
-El ADCVN podrá actuar como Agente de pago de los rescates que los cuotapartistas titulares de subcuentas comitentes soliciten ACyDI de FCI en su carácter de titular de la cuenta depositante. En los casos en los que el pago de los rescates no se efectúe a través del ADCVN, la Sociedad Depositaria deberá garantizar a dicho Agente la comunicación inmediata a los efectos de la actualización del registro correspondiente.
+El ADCVN podrá actuar como Agente de pago de los rescates que los cuotapartistas titulares de subcuentas comitentes soliciten ACDI de FCI en su carácter de titular de la cuenta depositante. En los casos en los que el pago de los rescates no se efectúe a través del ADCVN, la Sociedad Depositaria deberá garantizar a dicho Agente la comunicación inmediata a los efectos de la actualización del registro correspondiente.
 
-Cuando se utilice el sistema de registro mediante ACRyP, éstos podrán intervenir como Agentes de cobro de suscripciones y Agentes de pago de rescates utilizando a tal fin las cuentas de liquidación que los ACyDI de FCI tengan abiertas en aquellas. En los casos en los que el pago de los rescates no se efectúe a través del ACRyP, la Sociedad Depositaria deberá garantizar a dicho Agente la comunicación inmediata a los efectos de la actualización del registro correspondiente.
+Cuando se utilice el sistema de registro mediante ACRyP, éstos podrán intervenir como Agentes de cobro de suscripciones y Agentes de pago de rescates utilizando a tal fin las cuentas de liquidación que los ACDI de FCI tengan abiertas en aquellas. En los casos en los que el pago de los rescates no se efectúe a través del ACRyP, la Sociedad Depositaria deberá garantizar a dicho Agente la comunicación inmediata a los efectos de la actualización del registro correspondiente.
 
 COLOCACIÓN DE CUOTAPARTES EN EL EXTERIOR.
 ARTÍCULO 24°. - A los efectos de la colocación de cuotapartes de fondos comunes de inversión en el exterior las Sociedades Gerentes y Depositarias podrán celebrar convenios con intermediarios y/o entidades radicadas en el exterior siempre que éstos se encuentren regulados por Comisiones de Valores u otros organismos de control que pertenezcan a los países cooperadores a los fines de la transparencia fiscal en los términos del artículo 23 del Decreto N° 862/2019; y se encuentren autorizados, regulados y supervisados en materia de Prevención de Lavado de Activos y Financiación del Terrorismo conforme las recomendaciones del GAFI en la jurisdicción de origen, siempre que esta no sea considerada como no cooperante ni de alto riesgo por este organismo; se hallen sujetos a autorización y/o fiscalización prudencial por parte de sus respectivos organismos de control específicos, y estos posean Convenios de Cooperación o Memorandos de Entendimiento vigentes suscriptos con la CNV.
@@ -361,7 +363,7 @@ d) Cuotapartistas personas jurídicas con sede social en el país, distinguiendo
 
 3) Inversores corporativos: todos aquellos sujetos que no se encuentren incluidos en las categorías enunciadas precedentemente.
 
-4) ACyDI de FCI.
+4) ACDI de FCI.
 
 e) Intermediarios y/o entidades radicadas en el exterior contemplados en el artículo 24 del presente Capítulo.
 
@@ -399,11 +401,11 @@ En el supuesto de que exista alguna dificultad o impedimento para ingresar en el
 Aquellos datos que revistan el carácter público por la reglamentación aplicable, podrán ser objeto de difusión en el sitio web de la CNV.
 
 IMPUESTO CEDULAR. DEBER DE INFORMAR.
-ARTÍCULO 27°. - En virtud de lo dispuesto por el artículo 242 del Anexo del Decreto N° 862/2019 reglamentario de la Ley de Impuesto a las Ganancias, las Sociedades Gerentes deberán suministrar por cada fondo común de inversión que administren, en forma inmediata, a las Sociedades Depositarias y, en su caso, a los ACyDI, la información relativa a la percepción de dividendos o utilidades asimilables a que hace referencia el artículo 49 de la Ley de Impuesto a las Ganancias, en el marco de lo establecido en el artículo 97 de la Ley de Impuesto a las Ganancias y el artículo 242 antes citado, indicando en cada caso la fecha de cobro, Emisora, monto pertinente y período fiscal al cual corresponden las utilidades distribuidas.
+ARTÍCULO 27°. - En virtud de lo dispuesto por el artículo 242 del Anexo del Decreto N° 862/2019 reglamentario de la Ley de Impuesto a las Ganancias, las Sociedades Gerentes deberán suministrar por cada fondo común de inversión que administren, en forma inmediata, a las Sociedades Depositarias y, en su caso, a los ACDI, la información relativa a la percepción de dividendos o utilidades asimilables a que hace referencia el artículo 49 de la Ley de Impuesto a las Ganancias, en el marco de lo establecido en el artículo 97 de la Ley de Impuesto a las Ganancias y el artículo 242 antes citado, indicando en cada caso la fecha de cobro, Emisora, monto pertinente y período fiscal al cual corresponden las utilidades distribuidas.
 
-RÉGIMEN INFORMATIVO ACyD Y ACyDI de FCI.
+RÉGIMEN INFORMATIVO ACD Y ACDI de FCI.
 
-ARTÍCULO 28°. - Los ACyD de FCI y los ACyDI de FCI, deberán dar cumplimiento al siguiente régimen informativo a través de los accesos respectivos de la AIF:
+ARTÍCULO 28°. - Los ACD de FCI y los ACDI de FCI, deberán dar cumplimiento al siguiente régimen informativo a través de los accesos respectivos de la AIF:
 
 1. Estados Contables anuales dentro de los SETENTA (70) días corridos, a contar desde el cierre del ejercicio, con informe de auditoría suscripto por contador público independiente, cuya firma esté legalizada por el respectivo Consejo Profesional y, el acta del órgano de administración y órgano de fiscalización que los aprueba.
 
@@ -416,7 +418,7 @@ ARTÍCULO 28°. - Los ACyD de FCI y los ACyDI de FCI, deberán dar cumplimiento 
 En el caso de los Agentes mencionados que se encuentren registrados bajo otras categorías ante la CNV, se tendrá por cumplimentada la obligación dispuesta en el inciso 2. precedente, con el envío de la información contable que estos sujetos efectúen en su carácter de Agentes registrados en las categorías pertinentes.
 
 INFORMACIÓN ADICIONAL DE AGENTES DE COLOCACIÓN Y DISTRIBUCIÓN INTEGRAL DE FONDOS COMUNES DE INVERSIÓN.
-ARTÍCULO 29°. - Adicionalmente, los ACyDI de FCI deberán remitir a través de la AIF detalle de la siguiente información por cada FCI, dentro de los TRES (3) días hábiles de finalizado cada mes calendario:
+ARTÍCULO 29°. - Adicionalmente, los ACDI de FCI deberán remitir a través de la AIF detalle de la siguiente información por cada FCI, dentro de los TRES (3) días hábiles de finalizado cada mes calendario:
 
 1. Cuotapartistas personas humanas con residencia en el país.
 
@@ -436,7 +438,7 @@ En todos los casos, deberá detallarse el monto total invertido distinguiendo la
 
 5. Cantidad de inversores y monto total por país de residencia.
 
-ARTÍCULO 30°. - Dentro de los TRES (3) días hábiles de finalizado cada mes calendario, los ACyDI de FCI deberán remitir a las Sociedades Gerentes correspondientes a los fondos comunes de inversión en cuya colocación intervengan, la siguiente información:
+ARTÍCULO 30°. - Dentro de los TRES (3) días hábiles de finalizado cada mes calendario, los ACDI de FCI deberán remitir a las Sociedades Gerentes correspondientes a los fondos comunes de inversión en cuya colocación intervengan, la siguiente información:
 
 1. Monto total invertido y cantidad de cuotapartistas personas humanas con residencia en el país.
 
@@ -447,7 +449,7 @@ ARTÍCULO 30°. - Dentro de los TRES (3) días hábiles de finalizado cada mes c
 4. Monto total invertido y cantidad de cuotapartistas personas jurídicas con residencia en el exterior. La información deberá ser provista por cada fondo común de inversión en cuya colocación intervenga.
 
 PUBLICIDAD E INFORMACIÓN VOLUNTARIA PROMOCIONAL.
-ARTÍCULO 31°. - En el marco del artículo 29 de la Ley de Fondos Comunes de Inversión, la Sociedad Gerente, la Sociedad Depositaria, los ACyD y los ACyDI de FCI, autorizados por la CNV, están facultados para realizar todas las actividades tendientes a la promoción y desarrollo de los FCI, incluyendo, enunciativamente, la realización de publicidades de los FCI por cualquier medio, cumpliendo con las siguientes pautas:
+ARTÍCULO 31°. - En el marco del artículo 29 de la Ley de Fondos Comunes de Inversión, la Sociedad Gerente, la Sociedad Depositaria, los ACD y los ACDI de FCI, autorizados por la CNV, están facultados para realizar todas las actividades tendientes a la promoción y desarrollo de los FCI, incluyendo, enunciativamente, la realización de publicidades de los FCI por cualquier medio, cumpliendo con las siguientes pautas:
 
 1. En ningún caso se puede asegurar ni garantizar el resultado de la inversión.
 
@@ -473,7 +475,7 @@ No se pueden utilizar palabras comunes o de la misma raíz, frases, abreviaturas
 
 Leyenda obligatoria: la leyenda requerida en el inciso anterior deberá incorporarse en toda la documentación y medios que se utilice en el funcionamiento, promoción y comercialización de los FCI, y asimismo exhibirse en forma destacada en todos los locales donde se promocionen y/o vendan cuotapartes.
 
-La publicidad a efectuar por los ACyD y los ACyDI de FCI relacionada con esa actividad deberá contar con la aprobación expresa de la Sociedad Gerente.
+La publicidad a efectuar por los ACD y los ACDI de FCI relacionada con esa actividad deberá contar con la aprobación expresa de la Sociedad Gerente.
 
 FICHA ÚNICA DE FCI ABIERTOS. DISPOSICIONES GENERALES. CONTENIDO.
 ARTÍCULO 31 BIS. - Por cada FCI abierto bajo su administración, exceptuando a los FCI abiertos destinados exclusivamente a Inversores Calificados conforme artículo 7 bis de la Ley de Fondos Comunes de Inversión, las Sociedades Gerentes deberán elaborar una Ficha Única, que deberá ajustarse a las pautas que a continuación se indican. Asimismo, en las estrategias comerciales aplicadas para el ofrecimiento de los FCI al público inversor deberán encontrarse plasmados los principios y lineamientos generales emanados del presente artículo.
@@ -545,7 +547,7 @@ d) Detalle de los gastos ordinarios de gestión -promedio últimos TRES (3) mese
 ### SECCIÓN VIII — COLOCACIÓN DE FONDOS COMUNES DE INVERSIÓN.
 
 MODALIDADES DE COLOCACIÓN DE CUOTAPARTES.
-ARTÍCULO 32°. - Las cuotapartes podrán ser colocadas directamente por los órganos del Fondo, por los ACyD y ACyDI de FCI registrados ante la CNV, a través de las modalidades de colocación acordadas por las partes.
+ARTÍCULO 32°. - Las cuotapartes podrán ser colocadas directamente por los órganos del Fondo, por los ACD y ACDI de FCI registrados ante la CNV, a través de las modalidades de colocación acordadas por las partes.
 
 Con carácter previo a la utilización de la modalidad de colocación a aplicarse, el Agente que implemente el mecanismo deberá actualizar la información remitida a través del formulario Datos de Colocación de Cuotapartes en la AIF, el cual deberá incluir, con excepción de la modalidad de colocación de cuotapartes en forma presencial, informe de idóneo informático respecto de la inalterabilidad de la información registrada, la seguridad del sistema, los procedimientos de copia de respaldo o back-up y contingencia, y demás funcionalidades de los sistemas informáticos utilizados respecto de la nueva modalidad implementada.
 
@@ -566,7 +568,7 @@ Por su parte, el Agente deberá poner a disposición del cliente al menos una mo
 El Agente deberá conservar toda la documentación referente a la colocación por el plazo mínimo de CINCO (5) años, debiendo implementar las medidas y acciones necesarias tendientes a proteger la documentación a fin de evitar su destrucción, extravío, uso indebido y divulgación de información confidencial.
 
 ACTUALIZACIÓN PERIÓDICA.
-ARTÍCULO 33°. - Dentro de los DIEZ (10) días hábiles de iniciado cada año calendario, las Sociedades Gerentes, las Sociedades Depositarias, los ACyD y ACyDI de FCI deberán remitir a través de la AIF el formulario Datos de Colocación de Cuotapartes, indicando si actúan o no en la colocación de cuotapartes de fondos comunes de inversión.
+ARTÍCULO 33°. - Dentro de los DIEZ (10) días hábiles de iniciado cada año calendario, las Sociedades Gerentes, las Sociedades Depositarias, los ACD y ACDI de FCI deberán remitir a través de la AIF el formulario Datos de Colocación de Cuotapartes, indicando si actúan o no en la colocación de cuotapartes de fondos comunes de inversión.
 
 En caso de no existir actualizaciones y/o modificaciones respecto del último informe de idóneo informático remitido en los términos del artículo 32 precedente, se deberá dejar constancia de dicho extremo mediante nota remitida con carácter de declaración jurada a través del formulario indicado en el párrafo precedente.
 
@@ -635,7 +637,7 @@ OTRAS MODALIDADES DE CAPTACIÓN DE SUSCRIPCIÓN Y RESCATES DE CUOTAPARTES.
 ARTÍCULO 37°. - En caso de tratarse de otras modalidades de captación de solicitudes de suscripción y rescates distintas a las establecidas precedentemente, se deberá dar cumplimiento a los requisitos dispuestos en la presente Sección, adaptados a las particularidades correspondientes al sistema a utilizarse.
 
 COLOCACIÓN DE FONDOS COMUNES DE INVERSIÓN A TRAVÉS DE TERCEROS.
-ARTÍCULO 38°. - Sin perjuicio de lo previsto en los artículos 18 y 20 del presente Capítulo, las Sociedades Gerentes, las Sociedades Depositarias, los ACyD y ACyDI de FCI podrán, dando debido cumplimiento a lo dispuesto en el artículo 35 y concordantes de la presente Sección, llevar adelante la colocación y/o distribución de fondos comunes de inversión a través de plataformas provistas por terceros, previa celebración del convenio pertinente, el cual deberá estar a disposición de la CNV.
+ARTÍCULO 38°. - Sin perjuicio de lo previsto en los artículos 18 y 20 del presente Capítulo, las Sociedades Gerentes, las Sociedades Depositarias, los ACD y ACDI de FCI podrán, dando debido cumplimiento a lo dispuesto en el artículo 35 y concordantes de la presente Sección, llevar adelante la colocación y/o distribución de fondos comunes de inversión a través de plataformas provistas por terceros, previa celebración del convenio pertinente, el cual deberá estar a disposición de la CNV.
 
 Dicho convenio podrá celebrarse únicamente con las siguientes entidades:
 

@@ -1,6 +1,8 @@
 # Título V — Capítulo II: FONDOS COMUNES DE INVERSIÓN ABIERTOS.
-Última modificación: RG 1126/2026 (BO 09/04/2026)
+Última modificación: RG 1131/2026 (BO 29/04/2026)
 Fuente: PDF base, págs. 331–358.
+
+[Expresiones reemplazadas en este archivo (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”; 12 ocurrencias) por art. 7° de la RG 1131/2026, BO 29/04/2026]
 
 ### SECCIÓN I — AUTORIZACIÓN DE FONDOS COMUNES DE INVERSIÓN ABIERTOS.
 
@@ -111,7 +113,7 @@ Para el cálculo de la vida promedio ponderada de la cartera integrada por activ
 
 La participación de los cuotapartistas al momento de efectuar la suscripción no podrá superar el VEINTE POR CIENTO (20%) del patrimonio neto del FCI. En el caso de nuevos fondos comunes de inversión, este límite se aplicará a partir de los NOVENTA (90) días corridos desde su lanzamiento.
 
-En el caso de la participación de ACyDI de FCI deberá considerarse el número de inversores que haya suscripto cuotapartes del respectivo FCI a través de dichos Agentes.
+En el caso de la participación de ACDI de FCI deberá considerarse el número de inversores que haya suscripto cuotapartes del respectivo FCI a través de dichos Agentes.
 
 El límite antedicho resultará aplicable tanto a la suscripción inicial como a suscripciones sucesivas que pudieren producirse.
 
@@ -164,7 +166,7 @@ ARTÍCULO 16°. - La Sociedad Gerente deberá, respecto de cada categoría de in
 
 3. Grado de vinculación económica entre los distintos inversores del FCI.
 
-En caso de que la Sociedad Gerente optara por la colocación de cuotapartes a través de ACyDI de FCI, aquella deberá requerir al colocador que informe sobre los niveles de concentración de inversores, teniendo en cuenta los parámetros mencionados en el párrafo precedente.
+En caso de que la Sociedad Gerente optara por la colocación de cuotapartes a través de ACDI de FCI, aquella deberá requerir al colocador que informe sobre los niveles de concentración de inversores, teniendo en cuenta los parámetros mencionados en el párrafo precedente.
 
 GESTIÓN DE PRUEBAS DE RESISTENCIA.
 ARTÍCULO 17°. - La Sociedad Gerente deberá desarrollar para cada Fondo Común de Dinero administrado, pruebas de resistencia que permitan estimar las pérdidas potenciales, bajo distintos escenarios, incluyendo riesgos de liquidez, mercado, concentración y crédito. Para dichas pruebas, la Sociedad Gerente deberá disponer de herramientas cuantitativas y modelos de valuación, consistentes y verificables por la CNV, a fin de medir todos los riesgos relevantes de forma adecuada, pudiendo utilizarse técnicas matemático-estadísticas, entre las cuales deberá considerarse el método del valor al riesgo, como mínimo, bajo las siguientes especificaciones: I. Un nivel de confianza del 95%.
@@ -239,11 +241,11 @@ Exceptuando el supuesto de colocación de cuotapartes a través de intermediario
 
 En el supuesto de colocación de cuotapartes a través de intermediarios y/o entidades radicadas en el exterior contemplado en el artículo 24 de la Sección VI del Capítulo I del Título V de estas Normas, la suscripción de las cuotas se considerará realizada con la aceptación por parte de la Sociedad Gerente de una orden irrevocable de suscripción, debiendo producirse la disponibilidad efectiva de los fondos correspondientes, dentro de las SETENTA Y DOS (72) horas de aceptada dicha orden. En todos los casos, el procedimiento de colocación deberá respetar los principios de igualdad de trato entre cuotapartistas y de transparencia.
 
-Recibida la solicitud de suscripción por la Sociedad Depositaria y/o los ACyD y ACyDI de FCI, éstos la comunicarán de inmediato a la Sociedad Gerente para que esta se expida, considerando el interés del FCI, sobre la aceptación o no de la solicitud dentro de las VEINTICUATRO (24) horas de recibida. En caso de ser aceptada, la Sociedad Gerente informará a la Sociedad Depositaria, quien procederá a efectuar la respectiva inscripción en el Registro de cuotapartes escriturales (el “Registro”) y, en su caso, en el registro que lleve la Sociedad Gerente.
+Recibida la solicitud de suscripción por la Sociedad Depositaria y/o los ACD y ACDI de FCI, éstos la comunicarán de inmediato a la Sociedad Gerente para que esta se expida, considerando el interés del FCI, sobre la aceptación o no de la solicitud dentro de las VEINTICUATRO (24) horas de recibida. En caso de ser aceptada, la Sociedad Gerente informará a la Sociedad Depositaria, quien procederá a efectuar la respectiva inscripción en el Registro de cuotapartes escriturales (el “Registro”) y, en su caso, en el registro que lleve la Sociedad Gerente.
 
 La falta de la notificación del rechazo implicará la aceptación de la suscripción.
 
-La Sociedad Depositaria y/o el ACyDI de FCI, según corresponda, emitirá la liquidación correspondiente, en la que constará la cantidad de cuotapartes suscriptas. En caso de que la suscripción sea rechazada, la Sociedad Gerente comunicará tal circunstancia a la Sociedad Depositaria y/o el ACyDI de FCI o sujeto autorizado por la CNV, quien deberá poner a disposición del interesado el total del importe por él abonado en la misma especie recibida y dentro de las VEINTICUATRO (24) horas de producido el rechazo.
+La Sociedad Depositaria y/o el ACDI de FCI, según corresponda, emitirá la liquidación correspondiente, en la que constará la cantidad de cuotapartes suscriptas. En caso de que la suscripción sea rechazada, la Sociedad Gerente comunicará tal circunstancia a la Sociedad Depositaria y/o el ACDI de FCI o sujeto autorizado por la CNV, quien deberá poner a disposición del interesado el total del importe por él abonado en la misma especie recibida y dentro de las VEINTICUATRO (24) horas de producido el rechazo.
 
 En ningún caso el rechazo de la solicitud podrá ser arbitrario. No se devengarán intereses ni se generará otro tipo de compensación a favor del inversor cuya solicitud de suscripción sea rechazada.
 
@@ -271,7 +273,7 @@ EGRESO DEL FCI. RESCATES.
 ARTÍCULO 32°. - El rescate de las cuotapartes es el medio legalmente previsto para dotar de liquidez a las inversiones en el FCI. El cuotapartista podrá rescatar su inversión de manera total o parcial.
 
 TRÁMITE DE LOS RESCATES.
-ARTÍCULO 33°. - Los cuotapartistas podrán rescatar sus cuotapartes mediante la presentación de la solicitud correspondiente al ACyD de FCI ante el agente interviniente en la colocación. Recibida la solicitud de rescate, el Agente respectivo la comunicará inmediatamente a la Sociedad Gerente, quien deberá poner a disposición de los cuotapartistas las sumas de dinero correspondientes dentro del plazo máximo previsto en el reglamento de gestión.
+ARTÍCULO 33°. - Los cuotapartistas podrán rescatar sus cuotapartes mediante la presentación de la solicitud correspondiente al ACD de FCI ante el agente interviniente en la colocación. Recibida la solicitud de rescate, el Agente respectivo la comunicará inmediatamente a la Sociedad Gerente, quien deberá poner a disposición de los cuotapartistas las sumas de dinero correspondientes dentro del plazo máximo previsto en el reglamento de gestión.
 
 Para solicitar el rescate de cuotapartes cuando el monto del reembolso supere el QUINCE POR CIENTO (15%) del patrimonio neto del FCI, los reglamentos de gestión podrán establecer un plazo de preaviso que no podrá exceder de TRES (3) días hábiles, lo que resultará aplicable únicamente en casos de excepción que lo justifiquen y siempre que se correspondan con el objeto del FCI y con la imposibilidad de obtener liquidez en condiciones normales en un lapso menor. Sin perjuicio de ello, los reglamentos de gestión podrán prever, con el alcance y en los términos precedentemente indicados, plazos de preaviso más prolongados.
 
@@ -326,10 +328,10 @@ CÁLCULO DE LOS HONORARIOS Y GASTOS.
 ARTÍCULO 47°. - En todos los casos, el patrimonio neto del FCI a efectos del cálculo de los honorarios y gastos previstos en el reglamento no incluirá los honorarios y gastos devengados hasta la fecha del cálculo.
 
 ACTOS SOBRE LAS CUOTAPARTES.
-ARTÍCULO 48°. - Sin perjuicio del derecho de rescate, los cuotapartistas podrán realizar actos de disposición sobre sus cuotapartes, incluyendo la transmisión a terceros, su afectación en garantía o constitución de derechos personales y reales. Dichos actos sólo tendrán efectos respecto de la Sociedad Gerente y de la Sociedad Depositaria cuando esa circunstancia le fuere fehacientemente notificada a la Sociedad Depositaria, al ADCVN, al ACyDI de FCI o al ACRyP autorizado para llevar el registro.
+ARTÍCULO 48°. - Sin perjuicio del derecho de rescate, los cuotapartistas podrán realizar actos de disposición sobre sus cuotapartes, incluyendo la transmisión a terceros, su afectación en garantía o constitución de derechos personales y reales. Dichos actos sólo tendrán efectos respecto de la Sociedad Gerente y de la Sociedad Depositaria cuando esa circunstancia le fuere fehacientemente notificada a la Sociedad Depositaria, al ADCVN, al ACDI de FCI o al ACRyP autorizado para llevar el registro.
 
 IMPUESTOS. RESPONSABILIDAD DE LOS CUOTAPARTISTAS.
-ARTÍCULO 49°. - Ni el FCI, ni la Sociedad Gerente o la Sociedad Depositaria ni el ACyD ni el ACyDI de FCI o cualquier otro intermediario autorizado por la CNV tienen la obligación de asesorar a los cuotapartistas en cuestiones tributarias relacionadas con las inversiones en el FCI, ni tampoco asumen responsabilidad alguna por el cumplimiento de las obligaciones fiscales de los cuotapartistas.
+ARTÍCULO 49°. - Ni el FCI, ni la Sociedad Gerente o la Sociedad Depositaria ni el ACD ni el ACDI de FCI o cualquier otro intermediario autorizado por la CNV tienen la obligación de asesorar a los cuotapartistas en cuestiones tributarias relacionadas con las inversiones en el FCI, ni tampoco asumen responsabilidad alguna por el cumplimiento de las obligaciones fiscales de los cuotapartistas.
 
 INFORMACIÓN DISPONIBLE PARA EL PÚBLICO INVERSOR.
 ARTÍCULO 50°. - La Sociedad Gerente deberá publicar, respecto de cada FCI, a través de su sitio web la siguiente información:
@@ -710,7 +712,7 @@ ARTÍCULO 87°. - En los casos de fondos comunes de inversión que prevean la em
 SUSCRIPCIÓN Y TITULARIDAD A TRAVÉS DEL REPRESENTANTE LEGAL.
 ARTÍCULO 88°. - A partir de los 13 años, las personas menores de edad podrán cursar órdenes de suscripción de cuotapartes de FCI abiertos, mediante la modalidad de captación de solicitudes de suscripción y rescate a través de internet, con la previa autorización de su representante legal, quien detentará la titularidad de las cuotapartes en el respectivo registro.
 
-En dicho supuesto, el sistema de colocación empleado deberá contemplar obligatoriamente la vinculación de una cuenta bancaria identificada con Clave Bancaria Uniforme (CBU) o cuenta de pago con Clave Virtual Uniforme (CVU), de titularidad del menor, con la de su representante legal. La Sociedad Depositaria o el ACyDI, en su caso, deberá adoptar las medidas necesarias para la identificación de las órdenes de suscripción cursadas por el menor autorizado, así como el direccionamiento de las órdenes de rescate por éste realizadas a la cuenta vinculada. Asimismo, una vez alcanzada la mayoría de edad por parte del menor autorizado, deberá procederse, en forma inmediata, al traspaso de la titularidad de las cuotapartes a su nombre, sin ninguna comisión y/o cargo.
+En dicho supuesto, el sistema de colocación empleado deberá contemplar obligatoriamente la vinculación de una cuenta bancaria identificada con Clave Bancaria Uniforme (CBU) o cuenta de pago con Clave Virtual Uniforme (CVU), de titularidad del menor, con la de su representante legal. La Sociedad Depositaria o el ACDI, en su caso, deberá adoptar las medidas necesarias para la identificación de las órdenes de suscripción cursadas por el menor autorizado, así como el direccionamiento de las órdenes de rescate por éste realizadas a la cuenta vinculada. Asimismo, una vez alcanzada la mayoría de edad por parte del menor autorizado, deberá procederse, en forma inmediata, al traspaso de la titularidad de las cuotapartes a su nombre, sin ninguna comisión y/o cargo.
 
 En ningún caso, los montos correspondientes a las órdenes de rescate cursadas por el menor autorizado podrán ser superiores al saldo invertido proveniente de su cuenta vinculada. Los menores de edad adolescentes no podrán suscribir, por sí mismos ni con intervención de sus representantes legales, cuotapartes de fondos comunes de inversión cerrados, así como tampoco de fondos comunes de inversión abiertos destinados exclusivamente a Inversores Calificados..
 
@@ -728,7 +730,7 @@ REQUISITO DE IMPLEMENTACIÓN.
 ARTÍCULO 91°. - Junto al cumplimiento de los recaudos exigidos por los artículos 32 y 35 de la Sección VIII del Capítulo I del presente Título, se deberá tener a disposición del Organismo, una descripción de la operatoria de colocación, su ámbito de aplicación y, en su caso, el método de vinculación de las cuentas del menor autorizado y su representante legal, los mecanismos de autorización y confirmación de lectura, así como la información puesta a disposición en el sistema empleado.
 
 REQUISITO DE INFORMACIÓN.
-ARTÍCULO 92°. - La Sociedad Gerente o, en su caso, el ACyDI deberá remitir, en los términos de lo requerido por los artículos 25, inciso 6.c), y 29, inciso 2. de la Sección VII del Capítulo I del presente Título, respectivamente, la proporción correspondiente a menores de edad.
+ARTÍCULO 92°. - La Sociedad Gerente o, en su caso, el ACDI deberá remitir, en los términos de lo requerido por los artículos 25, inciso 6.c), y 29, inciso 2. de la Sección VII del Capítulo I del presente Título, respectivamente, la proporción correspondiente a menores de edad.
 
 ### SECCIÓN X — OFERTA PÚBLICA DE FONDOS DE INVERSIÓN CONSTITUIDOS EN EL EXTRANJERO.
 

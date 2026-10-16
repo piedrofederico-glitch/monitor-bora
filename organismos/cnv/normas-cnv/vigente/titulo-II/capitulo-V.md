@@ -1,6 +1,8 @@
 # Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA
-Última modificación: RG 1125/2026 (BO 07/04/2026)
+Última modificación: RG 1131/2026 (BO 29/04/2026)
 Fuente: RG 1095/2025, art. 2°.
+
+[Expresiones reemplazadas en este archivo (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”; 5 ocurrencias) por art. 7° de la RG 1131/2026, BO 29/04/2026]
 
 ### SECCIÓN I — OFERTA PÚBLICA.
 
@@ -712,7 +714,7 @@ TRANSPARENCIA.
 ARTÍCULO 72.- La admisión al Régimen de Oferta Pública con Autorización Automática por su Bajo Impacto, no exime al Emisor ni a los participantes en la colocación primaria durante la vigencia del Emisor en el régimen, de cumplir en todo momento con las normas de transparencia de los artículos 117 y concordantes de la Ley de Mercado de Capitales y de estas Normas.
 
 ADVERTENCIA A LOS INVERSORES.
-ARTÍCULO 73.- El Emisor y, en su caso, los Agentes registrados que actúen como ACyD, o cualquier otro interviniente en la emisión, deberán:
+ARTÍCULO 73.- El Emisor y, en su caso, los Agentes registrados que actúen como ACD, o cualquier otro interviniente en la emisión, deberán:
 
 1. Informar en el Prospecto, y en toda documentación de venta o cualquier otro documento que se distribuya (si existieran):
 
@@ -926,7 +928,7 @@ TRANSPARENCIA.
 ARTÍCULO 94.- La admisión al Régimen de Oferta Pública con Autorización Automática por su Mediano Impacto no exime al Emisor ni a los participantes en la colocación primaria, durante la permanencia en el régimen, de cumplir en todo momento con las normas de transparencia de los artículos 99 apartado I, incisos a), j), g), y h) -con las limitaciones previstas en el artículo 91 de esta Sección- 117 y concordantes de la Ley de Mercado de Capitales y de estas Normas.
 
 ADVERTENCIA A LOS INVERSORES.
-ARTÍCULO 95.- El Emisor y, en su caso, los Agentes registrados que actúen como ACyD, o cualquier otro interviniente en la emisión, deberán:
+ARTÍCULO 95.- El Emisor y, en su caso, los Agentes registrados que actúen como ACD, o cualquier otro interviniente en la emisión, deberán:
 
 1. Incluir en el Prospecto y, excepto por la declaración del subinciso c), en toda otra documentación de venta o cualquier otro documento que se distribuya, las siguientes manifestaciones:
 
@@ -1081,7 +1083,7 @@ Si se tratara de una emisión bajo el Régimen de Autorización Automática por 
 No podrán acogerse a este régimen: los Emisores sujetos a privatización, sociedades con participación estatal o del Fondo de Garantía de Sustentabilidad, ni Entidades Financieras. Tampoco podrán hacerlo los Mercados autorizados por la CNV, o Emisores que presten servicios públicos, o cualquier otra actividad relacionada con los servicios indicados precedentemente.
 
 ADVERTENCIA A LOS INVERSORES.
-ARTÍCULO 108.- El Emisor y, en su caso, los Agentes registrados que actúen como ACyD o cualquier otro interviniente en la emisión, deberán informar en el Prospecto, en toda documentación de venta o cualquier otro documento que se distribuya (si existieran):
+ARTÍCULO 108.- El Emisor y, en su caso, los Agentes registrados que actúen como ACD o cualquier otro interviniente en la emisión, deberán informar en el Prospecto, en toda documentación de venta o cualquier otro documento que se distribuya (si existieran):
 
 1. Si el Emisor está previamente admitido en el Régimen de Oferta Pública. En su caso, consignar los datos de las resoluciones y sus fechas de autorización y adecuarse la advertencia para reflejar que no aplican las limitaciones cuando la Emisora ya se encuentra en el Régimen General u otro de mayor exigencia informativa.
 
@@ -1112,7 +1114,7 @@ ARTÍCULO 111.- Se considerará una oferta de acciones como Oferta Pública de A
 
 1. El Emisor debe ingresar al Régimen de Oferta Pública según el artículo 114 de la presente Sección o encontrarse ya en él o en cualquier otro Régimen de Oferta Pública de Acciones admitido por la CNV.
 
-2. La oferta sea realizada por un Emisor, pudiendo contar con la participación de una cantidad ilimitada de Agentes registrados que actúen como ACyD.
+2. La oferta sea realizada por un Emisor, pudiendo contar con la participación de una cantidad ilimitada de Agentes registrados que actúen como ACD.
 
 3. Sólo podrán participar, como compradores, en la colocación primaria y en la negociación secundaria Inversores Calificados (o en el supuesto previsto en esta Sección Inversores no Calificados), sin limitación de número. Los accionistas del Emisor, que lo fueran con anterioridad a la oferta inicial podrán participar, como compradores, exclusivamente en la colocación primaria y, como vendedores, en la colocación primaria así como en la negociación secundaria, sin limitaciones siempre que la contraparte sean Inversores Calificados. Ninguna de estas limitaciones será aplicable a aquellas Emisoras que se encuentren autorizadas a la oferta pública bajo el Régimen General en tanto y en cuanto cumplan con el régimen informativo previsto en dicho régimen, por lo que podrán participar, en la colocación primaria y en la negociación secundaria, además de los Inversores Calificados, los Inversores no Calificados sin limitación de número.
 
@@ -1232,7 +1234,7 @@ TRANSPARENCIA.
 ARTÍCULO 123.- Sin perjuicio de las mayores obligaciones establecidas en el régimen informativo bajo el cual se encuentre admitida la Emisora, la admisión al Régimen de Oferta Pública con Autorización Automática por su Mediano Impacto no exime al Emisor ni a los participantes en la colocación primaria, durante la vigencia del Régimen, de cumplir en todo momento con las normas de transparencia de los artículos 99 apartado I, incisos a), j), g), y h) -con las limitaciones previstas en el artículo 120 de esta Sección-, 117 y concordantes de la Ley de Mercado de Capitales y con estas Normas.
 
 ADVERTENCIA A LOS INVERSORES.
-ARTÍCULO 124.- El Emisor y, en su caso, los Agentes Registrados que actúen como ACyD, o cualquier otro interviniente en la emisión, deberán:
+ARTÍCULO 124.- El Emisor y, en su caso, los Agentes Registrados que actúen como ACD, o cualquier otro interviniente en la emisión, deberán:
 
 1. Incluir en el Prospecto, en toda otra documentación de venta o cualquier otro documento que se distribuya (si existieran), las siguientes manifestaciones:
 

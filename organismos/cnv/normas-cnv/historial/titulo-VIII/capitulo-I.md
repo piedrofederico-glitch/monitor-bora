@@ -60,3 +60,10 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > s) Las Sociedades de Garantía Recíproca establecidas en la Ley N° 24.467 a los fines de recibir en garantía de las operaciones que estas entidades avalen, Facturas de Crédito Electrónicas conforme el procedimiento dispuesto en el Título I de la Ley de Financiamiento Productivo N° 27.440.
 >
 > t) Las personas jurídicas constituidas en la República Argentina que realicen una o más de las actividades u operaciones comprendidas en la definición de “Proveedores de Servicios de Activos Virtuales” (“PSAV”) incluida en el artículo 4° bis de la Ley N° 25.246 modificada por la Ley N° 27.739 y que se encuentren inscriptos, en forma simultánea y durante la vigencia de la representación digital respectiva, en todas las categorías del Registro de PSAV de la Comisión y sólo con relación a los valores negociables que serán representados digitalmente.
+
+## Reemplazo de expresiones (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”)
+- Vigente hasta: 29/04/2026
+- Reemplazado por: RG 1131/2026, art. 7°
+- Ocurrencias reemplazadas en este archivo: 1
+- Ubicaciones: art. 37 (Secc. XII)
+- Texto anterior: idéntico al vigente salvo las expresiones reemplazadas («\bACyDI\b» → «ACDI»; «\bACyD\b» → «ACD»).

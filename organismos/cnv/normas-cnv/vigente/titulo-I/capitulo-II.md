@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1130/2026 (BO 28/04/2026)
+Última modificación: RG 1131/2026 (BO 29/04/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -8,7 +8,7 @@ ARTÍCULO 1°.- En todos los casos en que en estas Normas se haga referencia a n
 
 ### SECCIÓN II — TÉRMINOS DEFINIDOS
 
-ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o siglas, si aparecen con mayúscula, tienen los siguientes significados (dichos significados serán igualmente aplicables tanto en la forma singular como plural de los términos definidos):
+ARTÍCULO 2º.- A los fines de las presentes Normas y de las notas, informes, dictámenes, resoluciones y demás documentos que emita la CNV, los siguientes términos o siglas, cuando se consignen con mayúscula, tendrán los significados que se indican a continuación, los cuales serán aplicables en todo el texto de las anteriores, salvo que del contexto surja un sentido distinto, siendo igualmente válidos tanto en singular como en plural:
 
 “AAGI” significa Agente Asesor Global de Inversión.
 
@@ -32,9 +32,11 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 
 “ACVN” significa Agente de Corretaje de Valores Negociables.
 
-“ACyD” significa Agente de Colocación y Distribución.
+“ACD” significa Agente de Colocación y Distribución.
 
-“ACyDI” significa Agente de Colocación y Distribución Integral.
+“ACDI” significa Agente de Colocación y Distribución Integral.
+
+“ACyR” significa Agente de Control y Revisión.
 
 “ADCVN” significa Agente Depositarios Central de Valores Negociables.
 
@@ -70,6 +72,8 @@ ARTÍCULO 2º.- A los fines de las presentes Normas, los siguientes términos o 
 
 “Book Building” o “formación de libro” significa el mecanismo de colocación de valores negociables realizado en los términos previstos en el Capítulo IV del Título VI de estas Normas.
 
+“CABA” significa Ciudad Autónoma de Buenos Aires.
+
 CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “Capitalización de Deuda” significa el mecanismo financiero y legal mediante el cual una Emisora cancela una obligación preexistente a su cargo (deuda) con su acreedor, emitiendo en contraprestación nuevas acciones u otros valores negociables que son suscriptos por dicho acreedor.
@@ -97,6 +101,8 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 “Contrato de Colocación” significa el acuerdo mediante el cual un Emisor de valores negociables encarga a una o más entidades especializadas la distribución de dichos valores en el mercado, bajo determinadas condiciones y responsabilidades, en general bajo la modalidad de mejores esfuerzos, pero sin comprometerse a adquirirlos mismos.
 
 “Contrato de Underwriting” es el acuerdo por el cual el underwriter se obliga frente al Emisor a adquirir en forma total o parcial una emisión de valores, asumiendo determinado compromiso en la colocación. Según el tipo de compromiso asumido, la colocación puede realizarse en firme -cuando el Agente asume la obligación de adquirir total o parcialmente los valores negociables- o standby -cuando el Agente asume la obligación de comprar aquellos valores negociables no colocados en el mercado-. La modalidad de underwriting al mejor esfuerzo (best efforts), se encuentra incluida dentro de la definición de Contrato de Colocación.
+
+“CPCCN” significa Código Procesal Civil y Comercial de la Nación.
 
 “CPCE” significa el Consejo Profesional de Ciencias Económicas.
 
@@ -143,6 +149,8 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 “FCIA” significa “Fondo/s Común/es de Inversión Abierto/s”.
 
 “FCIC” significa “Fondo/s Común/es de Inversión Cerrado/s”.
+
+“FCICI” significa Fondo/s Común/es de Inversión Cerrado/s Inmobiliario.
 
 “FF” significa fideicomiso financiero.
 
@@ -226,9 +234,7 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Ley PyME” significa Ley N° 24.467.
 
-“LPA” significa la Ley de Procedimientos Administrativos N° 19.549.
-
-“Mercado de Capitales”, “Oferta Pública”, “Valores Negociables”, “Productos de Inversión Colectiva”, “Mercados” y “Agentes Registrados” tienen el alcance previsto en el artículo 2º de la Ley Nº 26.831.
+“LPA” significa Ley de Procedimiento Administrativo N° 19.549.
 
 “NCPA” significa las Normas Contables Profesionales Argentinas.
 
@@ -314,7 +320,11 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Resolución Técnica” o “RT” significa Resolución Técnica emitida por la Federación Argentina de Consejos Profesionales de Ciencias Económicas.
 
+“RG” significa Resolución General.
+
 “RLPA” significa Reglamento de la Ley de Procedimientos Administrativos (Decreto 1759/72- T.O. 2017).
+
+“ROS” significa Reporte de Operación Sospechosa.
 
 “RUCA” significa Registro Único de la Cadena Agroalimentaria.
 
@@ -376,17 +386,25 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 [Término “Cauciones Tomadoras Netas” incorporado por art. 1° de la RG 1130/2026, BO 28/04/2026]
 
+[Primer párrafo sustituido por art. 1° de la RG 1131/2026, BO 29/04/2026]
+
+[Términos “ACyR”, “CABA”, “CPCCN”, “FCICI”, “RG” y “ROS” incorporados por art. 2° de la RG 1131/2026, BO 29/04/2026]
+
+[Definiciones “ACD” (antes “ACyD”), “ACDI” (antes “ACyDI”) y “LPA” sustituidas por art. 3° de la RG 1131/2026, BO 29/04/2026]
+
 ### SECCIÓN III — EXPRESIONES
 
 ARTÍCULO 3º.- Las siguientes expresiones, aun cuando no aparecieran en mayúscula, tendrán los siguientes significados a los fines de su interpretación (dichos significados serán igualmente aplicables tanto en la forma singular como plural de los términos definidos):
 
-“Agentes inscriptos en el registro a cargo de la CNV”: Las definiciones y menciones en estas Normas de las distintas categorías de Agentes, se refieren a Agentes inscriptos en el registro a cargo de la CNV.
-
-“Aportes irrevocables”, “Aportes irrevocables a cuenta de futuras suscripciones de acciones”, “Adelantos irrevocables a cuenta de futuras suscripciones de acciones”, “Aportes irrevocables a cuenta de futuras emisiones de acciones”, y cualquier otra denominación que sea utilizada y esté referida a idéntico concepto, a los efectos de estas Normas serán entendidos como sinónimos.
+“Agentes inscriptos en el registro a cargo de la CNV” o “Agentes Registrados”: las definiciones y menciones en estas Normas de las distintas categorías de Agentes, se refieren a Agentes definidos en la Ley de Mercado de Capitales, inscriptos en el registro a cargo de la CNV, lo que incluye a los ADCVN, ACVN, ACRyP, entre otros, pero excluye a los Mercados y las Cámaras Compensadoras.
 
 “Aportes irrevocables a cuenta de futuras suscripciones de acciones” significa las sumas de dinero recibidas por una Emisora de parte de accionistas o terceros, con el compromiso irrevocable de ser destinadas a la futura integración de un aumento de capital social mediante la suscripción de nuevas acciones. Su carácter es transitorio y, si bien incrementan temporalmente el patrimonio neto, están sujetos a la aprobación posterior de la Asamblea de Accionistas para su efectiva capitalización dentro del plazo y condiciones establecidos en estas Normas y en la Ley General de Sociedades.
 
 “Canje por Reorganización Societaria”, “canje por fusión” y “canje por escisión” significan los mecanismos financieros y legales que se producen en el marco de una reestructuración societaria (fusión, escisión o figura análoga), por los cuales se sustituyen y/o asignan los valores negociables (acciones, Obligaciones Negociables, etc.) de la sociedad que se reestructura (disuelve o escinde) por nuevos valores negociables emitidos por la sociedad continuadora (incorporante o beneficiaria).
+
+“Conducta Infractora” significa acción u omisión que incumple normas administrativas y da lugar a la aplicación de sanciones. A los efectos del procedimiento sumarial abreviado, la reiteración o continuidad en el tiempo de una misma conducta, en tanto obedezca a una unidad de propósito y de acción, será considerada como una nueva conducta infractora.
+
+“Conductor de Sumario” se refiere al funcionario encargado de dirigir y sustanciar un sumario administrativo sustanciado por la CNV.
 
 “Controlante”, “Grupo controlante” o “Grupos de control”, tienen el alcance señalado en el artículo 2º de la Ley de Mercado de Capitales.
 
@@ -394,10 +412,18 @@ ARTÍCULO 3º.- Las siguientes expresiones, aun cuando no aparecieran en mayúsc
 
 “Participación Significativa”, tiene el alcance dispuesto en el Capítulo III del Título II de estas Normas a los efectos de lo dispuesto en el artículo 72 inciso a), apartado II de la Ley Nº 26.831. En caso de tratarse de Mercados, el alcance será el establecido en el Título VI de estas Normas. Lo expuesto será sin perjuicio de lo dispuesto por las NIIF o NCPA.
 
+“Presentación a la CNV” significa enviar documentación a través de la AIF o mediante la plataforma TAD o en papel, según corresponda.
+
 “Sede” y “Sede Social” se refieren a la sede social inscripta de la persona jurídica.
 
 “Subyacente”, en el caso de los CEDEAR, significa el valor negociable emitido por una sociedad del exterior; y, en el caso de los CEVA, significa el valor negociable que subyace.
 
+“Tribunales arbitrales” tiene el alcance dispuesto en el artículo 46 de la Ley de Mercado de Capitales.
+
 [Expresión “Agentes inscriptos en el registro a cargo de la CNV” incorporada por art. 1° de la RG 1109/2026, BO 20/02/2026]
+
+[Expresión “Agentes inscriptos en el registro a cargo de la CNV” sustituida por art. 4° de la RG 1131/2026, BO 29/04/2026]
+
+[Expresiones “Conducta Infractora”, “Conductor de Sumario”, “Presentación a la CNV” y “Tribunales arbitrales” incorporadas por art. 5° de la RG 1131/2026, BO 29/04/2026]
 
 [Título sustituido por art. 1° de la RG 1097/2025, BO 24/12/2025]

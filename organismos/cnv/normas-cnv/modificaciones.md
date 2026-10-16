@@ -28,6 +28,11 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), término “LPA” | modifica parcialmente | RG 1127/2026 | 1° | 09/04/2026 |
 | art. 2° (Secc. II), 5 términos (documentos de oferta y regímenes automáticos) | modifica parcialmente | RG 1129/2026 | 1° | 16/04/2026 |
 | art. 2° (Secc. II), término “Cauciones Tomadoras Netas” | modifica parcialmente | RG 1130/2026 | 1° | 28/04/2026 |
+| art. 2° (Secc. II), primer párrafo | modifica parcialmente | RG 1131/2026 | 1° | 29/04/2026 |
+| art. 2° (Secc. II), términos “ACyR”, “CABA”, “CPCCN”, “FCICI”, “RG” y “ROS” | modifica parcialmente | RG 1131/2026 | 2° | 29/04/2026 |
+| art. 2° (Secc. II), definiciones “ACD”, “ACDI” y “LPA” | modifica parcialmente | RG 1131/2026 | 3° | 29/04/2026 |
+| art. 3° (Secc. III), expresión “Agentes inscriptos...” | modifica parcialmente | RG 1131/2026 | 4° | 29/04/2026 |
+| art. 3° (Secc. III), 4 expresiones nuevas | modifica parcialmente | RG 1131/2026 | 5° | 29/04/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -75,6 +80,7 @@ Archivo: `vigente/titulo-II/capitulo-V.md`
 | Secc. XV (completa) | incorpora | RG 1125/2026 | 4° | 07/04/2026 |
 | Secc. XVI (completa) | incorpora | RG 1125/2026 | 4° | 07/04/2026 |
 | Secc. XVII (completa) | incorpora | RG 1125/2026 | 4° | 07/04/2026 |
+| siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”: art. 73 (Secc. IX), art. 95 (Secc. XI), art. 108 (Secc. XII), art. 111 (Secc. XIII), art. 124 (Secc. XIII) | modifica parcialmente | RG 1131/2026 | 7° | 29/04/2026 |
 
 ## Título II, Capítulo VI
 Archivo: `vigente/titulo-II/capitulo-VI.md`
@@ -167,6 +173,7 @@ Archivo: `vigente/titulo-V/capitulo-I.md`
 | art. 10 (Secc. II) | sustituye | RG 1102/2025 | 3° | 31/12/2025 |
 | art. 20 (Secc. VI), primer párrafo | modifica parcialmente | RG 1102/2025 | 4° | 31/12/2025 |
 | art. 31 BIS (Secc. VII) | incorpora | RG 1121/2026 | 2° | 27/03/2026 |
+| siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”: art. 2° (Secc. I), art. 4° (Secc. I), art. 7° (Secc. II), art. 8° (Secc. II), art. 17 (Secc. V), art. 18 (Secc. V), art. 19 (Secc. V), art. 19 (Secc. VI), art. 20 (Secc. VI), art. 21 (Secc. VI), art. 22 (Secc. VI), art. 23 (Secc. VI), art. 25 (Secc. VII), art. 27 (Secc. VII), art. 28 (Secc. VII), art. 29 (Secc. VII), art. 30 (Secc. VII), art. 31 (Secc. VII), art. 32 (Secc. VIII), art. 33 (Secc. VIII), art. 38 (Secc. VIII) | modifica parcialmente | RG 1131/2026 | 7° | 29/04/2026 |
 
 ## Título V, Capítulo II
 Archivo: `vigente/titulo-V/capitulo-II.md`
@@ -175,6 +182,7 @@ Archivo: `vigente/titulo-V/capitulo-II.md`
 |---|---|---|---|---|
 | art. 15 (Secc. II), inc. b.1) | modifica parcialmente | RG 1096/2025 | 1° | 24/12/2025 |
 | art. 15 (Secc. II), inc. b) | modifica parcialmente | RG 1126/2026 | 1° | 09/04/2026 |
+| siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”: art. 15 (Secc. II), art. 16 (Secc. II), art. 27 (Secc. III), art. 33 (Secc. III), art. 48 (Secc. III), art. 49 (Secc. III), art. 88 (Secc. IX), art. 92 (Secc. IX) | modifica parcialmente | RG 1131/2026 | 7° | 29/04/2026 |
 
 ## Título V, Capítulo III
 Archivo: `vigente/titulo-V/capitulo-III.md`
@@ -279,6 +287,7 @@ Archivo: `vigente/titulo-VIII/capitulo-I.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 37 (Secc. XII) | sustituye | RG 1102/2025 | 6° | 31/12/2025 |
+| siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”: art. 37 (Secc. XII) | modifica parcialmente | RG 1131/2026 | 7° | 29/04/2026 |
 
 ## Título XI
 Archivo: `vigente/titulo-XI/titulo-XI.md`
@@ -286,6 +295,27 @@ Archivo: `vigente/titulo-XI/titulo-XI.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | Secc. VI (completa) | incorpora | RG 1108/2026 | 2° | 20/02/2026 |
+
+## Título XIII, Capítulo I
+Archivo: `vigente/titulo-XIII/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1131/2026 | 6° | 29/04/2026 |
+
+## Título XIII, Capítulo II
+Archivo: `vigente/titulo-XIII/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1131/2026 | 6° | 29/04/2026 |
+
+## Título XIII, Capítulo III
+Archivo: `vigente/titulo-XIII/capitulo-III.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1131/2026 | 6° | 29/04/2026 |
 
 ## Título XIV, Capítulo II (capítulo derogado)
 Texto derogado: `historial/titulo-XIV/capitulo-II-derogado-RG-1118-2026.md`
@@ -405,6 +435,13 @@ Texto derogado: `historial/titulo-XIX/titulo-XIX-derogado-RG-1109-2026.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | deroga | RG 1109/2026 | 2° | 20/02/2026 |
+
+## Título XX, Capítulo II
+Archivo: `vigente/titulo-XX/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”: art. 1° | modifica parcialmente | RG 1131/2026 | 7° | 29/04/2026 |
 
 ## Título XXI, Capítulo I
 Archivo: `vigente/titulo-XXI/capitulo-I.md`

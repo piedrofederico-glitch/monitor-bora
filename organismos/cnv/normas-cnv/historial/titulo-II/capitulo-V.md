@@ -2395,3 +2395,10 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > ARTÍCULO 113.- El valor nominal de las acciones a emitir en concepto de suscripción inicial más, en su caso, la prima de emisión no deberá superar el equivalente en pesos de UVA SIETE MILLONES (7.000.000) al cierre del día anterior a la fecha de suscripción de las acciones.
 >
 > Una vez que el monto anterior, calculado a la fecha de cada emisión, alcance el monto del equivalente en pesos de UVA VEINTIÚN MILLONES (21.000.000), sin importar el período, no podrá emitir bajo el presente régimen.
+
+## Reemplazo de expresiones (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”)
+- Vigente hasta: 29/04/2026
+- Reemplazado por: RG 1131/2026, art. 7°
+- Ocurrencias reemplazadas en este archivo: 5
+- Ubicaciones: art. 73 (Secc. IX), art. 95 (Secc. XI), art. 108 (Secc. XII), art. 111 (Secc. XIII), art. 124 (Secc. XIII)
+- Texto anterior: idéntico al vigente salvo las expresiones reemplazadas («\bACyDI\b» → «ACDI»; «\bACyD\b» → «ACD»).

@@ -126,3 +126,10 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > b.2.2) Se podrá invertir hasta un VEINTE POR CIENTO (20%) en plazos fijos precancelables en período de precancelación, los que serán valuados a precio de realización y/o de mercado. La suma de activos valuados a devengamiento y de plazos fijos precancelables en período de precancelación no podrá exceder el CINCUENTA POR CIENTO (50%) del patrimonio neto del fondo.
 >
 > b.2.3) Los plazos fijos precancelables, cuando no se encuentren en período de precancelación, y los intereses devengados provenientes de cuentas a la vista computarán para el límite del TREINTA POR CIENTO (30%) como activos valuados a devengamiento. Cuando los plazos fijos precancelables estén en período de precancelación y los intereses devengados provenientes de cuentas a la vista sean capitalizados, serán computados como activos valuados a precio de realización y/o de mercado, y por ende no sujetos a la constitución de margen de liquidez. b.2.4) Adicionalmente a las inversiones previstas en el inciso b.2.2) precedente, se encontrará admitida, exclusivamente, la adquisición de títulos representativos de deuda, cuyo vencimiento final no exceda de UN (1) año a partir de la fecha de adquisición.
+
+## Reemplazo de expresiones (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”)
+- Vigente hasta: 29/04/2026
+- Reemplazado por: RG 1131/2026, art. 7°
+- Ocurrencias reemplazadas en este archivo: 12
+- Ubicaciones: art. 15 (Secc. II), art. 16 (Secc. II), art. 27 (Secc. III), art. 33 (Secc. III), art. 48 (Secc. III), art. 49 (Secc. III), art. 88 (Secc. IX), art. 92 (Secc. IX)
+- Texto anterior: idéntico al vigente salvo las expresiones reemplazadas («\bACyDI\b» → «ACDI»; «\bACyD\b» → «ACD»).

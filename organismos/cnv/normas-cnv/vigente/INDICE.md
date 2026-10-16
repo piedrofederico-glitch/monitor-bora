@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1130/2026 (BO 28/04/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1131/2026 (BO 29/04/2026) |
 
 ## Título II — EMISORAS
 
@@ -18,7 +18,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y REUNIONES DE OTROS ÓRGANOS SOCIALES. MODIFICACIONES ESTATUTARIAS O DE CONDICIONES DE EMISIÓN. ASAMBLEAS A DISTANCIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-III.md`](titulo-II/capitulo-III.md) | Título II — Capítulo III: ÓRGANOS DE ADMINISTRACIÓN Y FISCALIZACIÓN. AUDITORÍA EXTERNA. | RG 1127/2026 (BO 09/04/2026) |
 | [`titulo-II/capitulo-IV.md`](titulo-II/capitulo-IV.md) | Título II — Capítulo IV: FISCALIZACIÓN SOCIETARIA | RG 1127/2026 (BO 09/04/2026) |
-| [`titulo-II/capitulo-V.md`](titulo-II/capitulo-V.md) | Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA | RG 1125/2026 (BO 07/04/2026) |
+| [`titulo-II/capitulo-V.md`](titulo-II/capitulo-V.md) | Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA | RG 1131/2026 (BO 29/04/2026) |
 | [`titulo-II/capitulo-VI.md`](titulo-II/capitulo-VI.md) | Título II — Capítulo VI: PEQUEÑAS Y MEDIANAS EMPRESAS | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-VII.md`](titulo-II/capitulo-VII.md) | Título II — Capítulo VII: ENTIDADES DE GARANTÍA | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-VIII.md`](titulo-II/capitulo-VIII.md) | Título II — Capítulo VIII: EMISORAS EXTRANJERAS. CERTIFICADOS DE DEPÓSITO Y DE VALORES (CEDEARS Y CEVA). CERTIFICADOS DE DEPÓSITO EN CUSTODIA. | RG 1095/2025 (BO 18/12/2025) |
@@ -45,8 +45,8 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-V/capitulo-I.md`](titulo-V/capitulo-I.md) | Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN. | RG 1121/2026 (BO 27/03/2026) |
-| [`titulo-V/capitulo-II.md`](titulo-V/capitulo-II.md) | Título V — Capítulo II: FONDOS COMUNES DE INVERSIÓN ABIERTOS. | RG 1126/2026 (BO 09/04/2026) |
+| [`titulo-V/capitulo-I.md`](titulo-V/capitulo-I.md) | Título V — Capítulo I: AGENTES DE PRODUCTOS DE INVERSIÓN COLECTIVA – FONDOS COMUNES DE INVERSIÓN. | RG 1131/2026 (BO 29/04/2026) |
+| [`titulo-V/capitulo-II.md`](titulo-V/capitulo-II.md) | Título V — Capítulo II: FONDOS COMUNES DE INVERSIÓN ABIERTOS. | RG 1131/2026 (BO 29/04/2026) |
 | [`titulo-V/capitulo-III.md`](titulo-V/capitulo-III.md) | Título V — Capítulo III: FONDOS COMUNES DE INVERSIÓN CERRADOS. | RG 1121/2026 (BO 27/03/2026) |
 | [`titulo-V/capitulo-IV.md`](titulo-V/capitulo-IV.md) | Título V — Capítulo IV: FIDEICOMISOS FINANCIEROS | RG 1116/2026 (BO 06/03/2026) |
 | [`titulo-V/capitulo-V.md`](titulo-V/capitulo-V.md) | Título V — Capítulo V: DISPOSICIONES COMUNES APLICABLES A LOS REGIMENES ESPECIALES DE PRODUCTOS DE INVERSIÓN COLECTIVA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
@@ -83,7 +83,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-VIII/capitulo-preliminar.md`](titulo-VIII/capitulo-preliminar.md) | Título VIII — Capítulo Preliminar | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-VIII/capitulo-I.md`](titulo-VIII/capitulo-I.md) | Título VIII — Capítulo I: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | RG 1102/2025 (BO 31/12/2025) |
+| [`titulo-VIII/capitulo-I.md`](titulo-VIII/capitulo-I.md) | Título VIII — Capítulo I: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | RG 1131/2026 (BO 29/04/2026) |
 | [`titulo-VIII/capitulo-II.md`](titulo-VIII/capitulo-II.md) | Título VIII — Capítulo II: AGENTES DE CUSTODIA, REGISTRO Y PAGO (ACRYP). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
 ## Título IX — AGENTES DE CALIFICACIÓN DE RIESGOS (ACR)
@@ -120,9 +120,9 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XIII/capitulo-I.md`](titulo-XIII/capitulo-I.md) | Título XIII — Capítulo I: DE LAS DENUNCIAS Y OTRAS INVESTIGACIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XIII/capitulo-II.md`](titulo-XIII/capitulo-II.md) | Título XIII — Capítulo II: PROCEDIMIENTO SUMARIAL | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XIII/capitulo-III.md`](titulo-XIII/capitulo-III.md) | Título XIII — Capítulo III: PUBLICIDAD PROCEDIMIENTO SUMARIAL | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XIII/capitulo-I.md`](titulo-XIII/capitulo-I.md) | Título XIII — Capítulo I: DE LAS DENUNCIAS Y OTRAS INVESTIGACIONES | RG 1131/2026 (BO 29/04/2026) |
+| [`titulo-XIII/capitulo-II.md`](titulo-XIII/capitulo-II.md) | Título XIII — Capítulo II: PROCEDIMIENTO SUMARIAL | RG 1131/2026 (BO 29/04/2026) |
+| [`titulo-XIII/capitulo-III.md`](titulo-XIII/capitulo-III.md) | Título XIII — Capítulo III: PUBLICIDAD RESOLUCIONES DISCIPLINARIAS. | RG 1131/2026 (BO 29/04/2026) |
 
 ## Título XIV — PLATAFORMA DE FINANCIAMIENTO COLECTIVO. REGISTRO DE PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES
 [Denominación sustituida por art. 2° de la RG 1118/2026, BO 06/03/2026]
@@ -184,7 +184,7 @@ Sin texto vigente.
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-XX/capitulo-I.md`](titulo-XX/capitulo-I.md) | Título XX — Capítulo I: PUERTOS SEGUROS PARA OFERTAS PRIVADAS DE VALORES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XX/capitulo-II.md`](titulo-XX/capitulo-II.md) | Título XX — Capítulo II: DISPOSICIONES COMUNES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XX/capitulo-II.md`](titulo-XX/capitulo-II.md) | Título XX — Capítulo II: DISPOSICIONES COMUNES. | RG 1131/2026 (BO 29/04/2026) |
 
 ## Título XXI — REGLAMENTACIÓN DE OTRAS LEYES Y DECRETOS
 

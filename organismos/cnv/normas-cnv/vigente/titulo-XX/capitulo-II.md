@@ -1,11 +1,13 @@
 # Título XX — Capítulo II: DISPOSICIONES COMUNES.
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1131/2026 (BO 29/04/2026)
 Fuente: PDF base, págs. 971–974.
+
+[Expresiones reemplazadas en este archivo (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”; 2 ocurrencias) por art. 7° de la RG 1131/2026, BO 29/04/2026]
 
 DEFINICIONES.
 ARTÍCULO 1°. - Los siguientes términos tendrán el significado que aquí se les asigna cuando sean utilizados en los Capítulos I y II de este Título, a saber:
 
-1. “Agente Habilitado”: cualesquiera de los siguientes: a) ALYC, AN, AAGI o AP, ya sea persona jurídica o persona humana, conforme el Título VII de estas Normas; b) AAPIC de FCI - Gerente, ACPIC de FCI o Depositaria, ACyD de FCI y ACyDI de FCI; c) AAPIC de FF– Fiduciario Financiero; y d) PSAVs.
+1. “Agente Habilitado”: cualesquiera de los siguientes: a) ALYC, AN, AAGI o AP, ya sea persona jurídica o persona humana, conforme el Título VII de estas Normas; b) AAPIC de FCI - Gerente, ACPIC de FCI o Depositaria, ACD de FCI y ACDI de FCI; c) AAPIC de FF– Fiduciario Financiero; y d) PSAVs.
 
 2. “Emisor”: persona humana o jurídica Emisora de valores negociables, sea Residente o no.
 

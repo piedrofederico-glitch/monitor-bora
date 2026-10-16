@@ -62,3 +62,10 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > Aquellos ACyDI de FCI que se encuentren inscriptos en otras categorías de Agentes compatibles, conforme las disposiciones normativas vigentes, deberán computar en concepto de patrimonio neto mínimo requerido, la suma resultante del importe del patrimonio neto mínimo exigido para la categoría de mayor monto, y el CINCUENTA POR CIENTO (50%) de cada uno de los patrimonios netos mínimos exigidos para las categorías restantes.
 >
 > Dicho monto deberá ser cumplido de manera permanente y acreditado en los Estados Contables anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al cumplimiento del régimen informativo que resulte aplicable en cada caso.
+
+## Reemplazo de expresiones (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”)
+- Vigente hasta: 29/04/2026
+- Reemplazado por: RG 1131/2026, art. 7°
+- Ocurrencias reemplazadas en este archivo: 51
+- Ubicaciones: art. 2° (Secc. I), art. 4° (Secc. I), art. 7° (Secc. II), art. 8° (Secc. II), art. 17 (Secc. V), art. 18 (Secc. V), art. 19 (Secc. V), art. 19 (Secc. VI), art. 20 (Secc. VI), art. 21 (Secc. VI), art. 22 (Secc. VI), art. 23 (Secc. VI), art. 25 (Secc. VII), art. 27 (Secc. VII), art. 28 (Secc. VII), art. 29 (Secc. VII), art. 30 (Secc. VII), art. 31 (Secc. VII), art. 32 (Secc. VIII), art. 33 (Secc. VIII), art. 38 (Secc. VIII)
+- Texto anterior: idéntico al vigente salvo las expresiones reemplazadas («\bACyDI\b» → «ACDI»; «\bACyD\b» → «ACD»).
