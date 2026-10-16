@@ -53,6 +53,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), Términos incorporados: “Cuenta Individual del Empleador”, “Decreto Reglamentario FAL”, “EH”, “FAL”, “FCIA FAL”, “FF FAL”, “Ficha FAL”, “ID FAL”, “Ley de Modernización Laboral”, “PIC FAL”, “Resolución MECON FAL” | modifica parcialmente | RG 1167/2026 | 1° | 17/09/2026 |
 | art. 2° (Secc. II), Términos incorporados: “Agente Colocador Principal”, “Agente Interviniente”, “Agentes Colocadores”, “Cartera Propia”, “Cartera Propia Ampliada”, “Cartera Propia Restringida”, “Sujetos Intervinientes”, “TIR”; Definición sustituida: “Emisor” | modifica parcialmente | RG 1169/2026 | 1° | 23/09/2026 |
 | art. 2° (Secc. II), Términos incorporados: “ARS”, “BTC”, “USD”, “USDC”, “USDT” | modifica parcialmente | RG 1172/2026 | 1° | 15/10/2026 |
+| art. 2° (Secc. II), Términos incorporados: “Idóneo”, “Registro de Idóneos” | modifica parcialmente | RG 1173/2026 | 1° | 15/10/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -525,6 +526,8 @@ Archivo: `vigente/titulo-XII/capitulo-V.md`
 |---|---|---|---|---|
 | art. 10 (Secc. I), inc. h) | modifica parcialmente | RG 1138/2026 | 1° | 08/05/2026 |
 | capítulo completo | sustituye | RG 1162/2026 | 2° | 20/08/2026 |
+| capítulo completo | sustituye | RG 1173/2026 | 2° | 15/10/2026 |
+| Anexo I | incorpora | RG 1173/2026 | 3° | 15/10/2026 |
 
 ## Título XII, Capítulo VI
 Archivo: `vigente/titulo-XII/capitulo-VI.md`
@@ -737,6 +740,13 @@ Archivo: `vigente/titulo-XVIII/capitulo-XVII.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo (antes Cap. XVIII) | renumera | RG 1099/2025 | 5° | 26/12/2025 |
+
+## Título XVIII, Capítulo XVIII
+Archivo: `vigente/titulo-XVIII/capitulo-XVIII.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | incorpora | RG 1173/2026 | 4° | 15/10/2026 |
 
 ## Título XIX (capítulo derogado)
 Texto derogado: `historial/titulo-XIX/titulo-XIX-derogado-RG-1109-2026.md`

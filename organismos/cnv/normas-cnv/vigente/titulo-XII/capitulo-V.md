@@ -1,15 +1,37 @@
-# Título XII — Capítulo V: REGISTRO DE IDÓNEOS
-Última modificación: RG 1162/2026 (BO 20/08/2026)
-Fuente: RG 1162/2026, art. 2°.
+# Título XII — Capítulo V: REGISTRO DE IDÓNEOS Y EXAMEN DE IDONEIDAD
+Última modificación: RG 1173/2026 (BO 15/10/2026)
+Fuente: RG 1173/2026, art. 2°.
 
-### SECCIÓN I — EXAMEN DE IDONEIDAD.
+### SECCIÓN I — REGISTRO DE IDÓNEOS.
 
-ARTÍCULO 1°.- La CNV ofrecerá un examen de idoneidad para aquellas personas que quieran desempeñarse como Idóneos en el mercado de capitales.
+SUJETOS ALCANZADOS.
+ARTÍCULO 1°.- La CNV llevará un Registro de Idóneos en el mercado de capitales, donde deberán inscribirse todas las personas que desarrollen la actividad de venta, promoción o prestación de cualquier tipo de asesoramiento en contacto con el público inversor a través de un Agente Registrado en la CNV, en cualquiera de las categorías donde sea requerida.
 
-Las modalidades del examen, el programa, la bibliografía, las fechas y horarios, las sedes, la tasa y medios de pago, se encontrarán disponibles para su consulta en el sitio web de la CNV.
+La inscripción en el mencionado Registro posibilitará ser Idóneo en los Agentes y FCI, cuando ejerzan actividad en los mismos.
+
+El Registro de Idóneos será público a través del sitio web de la CNV.
+
+Asimismo, los Mercados deberán difundir en sus páginas web institucionales la nómina de personas inscriptas en el Registro que lleva la CNV.
+
+Los Agentes deberán difundir y mantener actualizado en sus páginas web institucionales y en sus sedes el listado de sus Idóneos.
+
+REQUISITOS PARA SER IDÓNEO DEL MERCADO DE CAPITALES.
+ARTÍCULO 2°.- Para obtener y mantener la calidad de Idóneo en el mercado de capitales se deberán cumplir los siguientes requisitos:
+
+1. Rendir y aprobar un examen de idoneidad conforme los requisitos establecidos por la CNV, o acreditar alguna de las eximiciones totales o parciales, o dar cumplimiento al régimen de trayectoria profesional previsto en el presente Capítulo;
+
+2. ser integrante o dependiente de un Agente Registrado o en trámite de inscripción, o de Sociedades del mismo grupo económico inscriptas en varias categorías compatibles en la CNV cuando compartan el domicilio o el medio de atención al público inversor, incluyendo las sucursales del Agente Registrado;
+
+3. requerir a la CNV la inscripción en el Registro de Idóneos con las formalidades establecidas a estos fines;
+
+4. realizar los cursos de actualización que determine la CNV;
+
+5. cumplir de manera permanente las normas de conducta dispuestas en este Capítulo; y
+
+6. no estar alcanzado por las incompatibilidades establecidas en el presente Capítulo.
 
 INCOMPATIBILIDADES.
-ARTÍCULO 2°.- No podrán inscribirse al examen de idoneidad ni para ser Idóneos de los Agentes registrados en la CNV:
+ARTÍCULO 3°. - No podrán ser elegidos para ser Idóneos de los Agentes Registrados en la CNV:
 
 1. Los menores de DIECIOCHO (18) años.
 
@@ -25,17 +47,240 @@ ARTÍCULO 2°.- No podrán inscribirse al examen de idoneidad ni para ser Idóne
 
 7. Las personas que se encuentren inhabilitadas por el BCRA por aplicación de una sanción en los términos del artículo 41 de la Ley de Entidades Financieras.
 
-8. Los funcionarios y empleados rentados de la Nación, las provincias, la Ciudad Autónoma de Buenos Aires y los municipios, con exclusión de los que desempeñen actividades docentes o integren comisiones de estudio.
+8. Los funcionarios y empleados rentados de cualquiera de los Poderes Ejecutivo, Legislativo o Judicial de la Nación, las provincias, la CABA y los municipios, con exclusión de los que desempeñen actividades docentes o integren comisiones de estudio.
+
+ACREDITACIÓN DE IDONEIDAD POR TRAYECTORIA PROFESIONAL.
+ARTÍCULO 4°.- La CNV inscribirá en el Registro de Idóneos, sin necesidad de aprobación previa del examen de idoneidad previsto en el artículo 2° del presente Capítulo, a aquellas personas que acrediten el cumplimiento conjunto de los siguientes requisitos:
+
+1. Encontrarse actualmente desempeñando cargos o funciones de responsabilidad relevantes en entidades sujetas a fiscalización de la CNV vinculadas al mercado de capitales, y acreditar una antigüedad mínima de CINCO (5) años continuos en dichas funciones.
+
+2. Acreditar que las funciones desarrolladas durante el período previsto en el inciso precedente, por su naturaleza, alcance y nivel de responsabilidad, permitan presumir razonablemente la posesión de conocimientos equivalentes a los exigidos para la inscripción en el Registro de Idóneos. Asimismo, la trayectoria invocada no podrá corresponder al ejercicio de actividades para las cuales la normativa hubiera exigido previamente la inscripción en el Registro de Idóneos sin que se lo haya hecho.
+
+3. No encontrarse alcanzado por las incompatibilidades previstas en el artículo 3° del presente Capítulo.
+
+La trayectoria profesional invocada deberá acreditarse mediante la presentación de un currículum vitae actualizado y, según corresponda, actas de designación de autoridades, constancias laborales, certificaciones de funciones, cargos desempeñados y antigüedad. Asimismo, deberán acompañarse los títulos universitarios, estudios de posgrado, certificaciones profesionales, cursos de capacitación y constancias de participación en programas académicos o de formación especializada que resulten pertinentes para acreditar conocimientos técnicos vinculados al mercado de capitales. La CNV podrá requerir toda información adicional que estime necesaria a fin de verificar el cumplimiento de los requisitos establecidos en el presente artículo.
+
+La inscripción otorgada en virtud del presente artículo producirá los mismos efectos que la inscripción obtenida mediante la aprobación del examen de idoneidad.
+
+SOLICITUD DE ALTA.
+ARTÍCULO 5°.- Para el ejercicio de la actividad de Idóneo en el mercado de capitales, el Agente mediante el cual desarrollará la actividad deberá efectuar una presentación en el acceso Registro de Idóneos de la AIF, con los siguientes requisitos:
+
+1. Indicar datos del Agente Registrado donde se desempeñará el Idóneo: CUIT, razón social, domicilio electrónico para notificaciones del trámite y categorías vinculadas.
+
+2. Indicar y adjuntar datos del personal Idóneo a registrar: DNI, CUIL, apellido, nombre y correo electrónico.
+
+3. Indicar y adjuntar demostración del vínculo con el Agente: constancia de alta del trabajador en ARCA, estatuto/acta de asamblea, contrato de locación de servicios u otros.
+
+4. Indicar y adjuntar certificado de antecedentes penales con una antigüedad no mayor a TREINTA (30) días.
+
+5. Indicar y adjuntar acreditación de idoneidad: examen de idoneidad completo aprobado, examen de idoneidad parcial aprobado con el respectivo título/diploma, eximición del examen de idoneidad, acreditación de trayectoria profesional en los términos del artículo 4° del presente Capítulo, registro actual ante otra matrícula, constancia de baja en el Registro con fecha vigente conforme lo dispuesto en el artículo 6° del presente Capítulo.
+
+6. Aceptar y firmar la DDJJ de incompatibilidades.
+
+En caso de Agentes y FCI en trámite de inscripción, se deberá efectuar la solicitud por el mismo acceso de la AIF y mediante el mismo formulario.
+
+Se considerará que la documentación ingresada a través de la AIF es fiel a su original, bajo responsabilidad del Agente.
+
+Las versiones actualizadas de los formularios estarán disponibles en forma permanente en el acceso correspondiente de la AIF.
+
+La solicitud de alta también procederá para registrar la vinculación con un nuevo Agente de aquellas personas que se encuentren en condición de inactivas y conserven su condición de Idóneo conforme a lo dispuesto en el artículo 8° del presente Capítulo.
+
+SOLICITUD DE BAJA.
+ARTÍCULO 6°.- Para la baja de los Idóneos, el Agente deberá efectuar una presentación en el acceso Registro de Idóneos de la AIF, completando el formulario Solicitud de Baja de Idóneo.
+
+Se considerará que la documentación ingresada mediante la AIF es fiel a su original, bajo responsabilidad del Agente.
+
+Las versiones actualizadas de los formularios estarán disponibles permanentemente en el acceso correspondiente de la AIF.
+
+SOLICITUD DE MODIFICACIÓN.
+ARTÍCULO 7°.- Cuando se produzca el cambio de vinculación de un Idóneo de un Agente a otro, el nuevo Agente deberá efectuar una presentación en el acceso Registro de Idóneos de la AIF a través del formulario Solicitud de Modificación de Idóneo.
+
+Se considerará que la documentación ingresada mediante la AIF es fiel a su original, bajo responsabilidad del Agente.
+
+Las versiones actualizadas de los formularios estarán disponibles permanentemente en el acceso correspondiente de la AIF.
+
+La presente solicitud de modificación sólo resultará procedente cuando tenga por objeto registrar el cambio de vinculación del Idóneo de un Agente a otro.
+
+VIGENCIA DE LA CONDICIÓN DE IDÓNEO.
+ARTÍCULO 8°.- La calidad de idoneidad de una persona es independiente del Agente en donde desarrolle la actividad.
+
+Sin perjuicio de ello, las personas idóneas que no se encuentren inscriptas en el Registro de Idóneos mediante un Agente pasarán a la condición de inactivo, no pudiendo ejercer funciones en esa calidad hasta ser dadas de alta nuevamente.
+
+En caso de permanecer DOS (2) años inactivos o no realizar los cursos de actualización requeridos por la CNV en tiempo y forma, se dará la baja definitiva del Registro de Idóneos.
+
+Para obtener nuevamente la condición de Idóneo, se deberá dar cumplimiento a los requisitos establecidos en el presente Capítulo.
+
+NORMAS DE CONDUCTA.
+ARTÍCULO 9°.- El Idóneo deberá actuar con honestidad, imparcialidad, profesionalidad, diligencia y lealtad con los inversores con los que tenga contacto, velando por la gestión sana y prudente en el ejercicio de su actividad.
+
+Asimismo, deberá evitar cualquier práctica que pueda inducir a engaño al inversor o que genere conflicto de intereses.
+
+INCUMPLIMIENTO.
+ARTÍCULO 10.- Ante el incumplimiento de la normativa vigente aplicable a su actividad, el Idóneo será pasible de la eventual aplicación de las sanciones previstas en el artículo 132 de la Ley de Mercado de Capitales, de acuerdo con los procedimientos establecidos por la CNV, sin perjuicio de la responsabilidad que también le pueda corresponder al Agente y a sus integrantes.
+
+Ante el incumplimiento de los requisitos de su inscripción o de actualización, la CNV podrá disponer la caducidad de la inscripción del Idóneo.
+
+### SECCIÓN II — EXAMEN DE IDONEIDAD.
+
+RÉGIMEN DEL EXAMEN.
+ARTÍCULO 11.- La CNV establece el régimen del examen de idoneidad para aquellas personas que quieran desempeñarse como Idóneos en el mercado de capitales a través del Protocolo del artículo 29 del presente Capítulo.
+
+La CNV determinará los contenidos, módulos, estándares mínimos de conocimiento, bibliografía, estructura, modalidad o modalidades, duración, criterios de aprobación y demás parámetros sustantivos aplicables al examen de idoneidad.
+
+La administración y ejecución material del examen podrá ser realizada por la CNV o por entidades administradoras previamente reconocidas y autorizadas por ésta, de conformidad con las disposiciones del presente Capítulo y con el Protocolo de Examen de Idoneidad según el artículo 29 del presente Capítulo
+
+ENTIDADES ADMINISTRADORAS DEL EXAMEN DE IDONEIDAD.
+
+RECONOCIMIENTO.
+ARTÍCULO 12.- La CNV podrá reconocer y autorizar a personas jurídicas públicas o privadas, nacionales o extranjeras, que acrediten capacidad institucional, técnica, operativa y tecnológica suficiente para administrar materialmente el examen de idoneidad.
+
+En el caso de entidades extranjeras, sólo podrán solicitar autorización aquellas que se encuentren radicadas en la República Argentina o que cuenten con sede o sucursal debidamente establecida en el país.
+
+El reconocimiento será otorgado mediante acto administrativo y tendrá el alcance y las condiciones que determina la CNV en el Protocolo del artículo 29 del presente Capítulo.
+
+La CNV llevará un Registro de Entidades Administradoras del Examen de Idoneidad, que será público, a través del sitio web de la CNV
+
+ALCANCE DEL RECONOCIMIENTO.
+ARTÍCULO 13.- Las entidades reconocidas estarán facultadas exclusivamente para desarrollar las actividades expresamente autorizadas por la CNV.
+
+El reconocimiento no implicará:
+
+1. Delegación de las facultades regulatorias, de supervisión, fiscalización o sanción propias de la CNV;
+
+2. transferencia de la administración del Registro de Idóneos;
+
+3. habilitación para otorgar certificaciones con efectos regulatorios distintos de los previstos por la CNV; ni
+
+4. aprobación automática de cursos o programas de capacitación.
+
+Las entidades deberán administrar y ejecutar materialmente las evaluaciones de conformidad con los contenidos, estándares, modalidades y demás condiciones sustantivas establecidas por la CNV.
+
+REQUISITOS.
+ARTÍCULO 14.- Las entidades interesadas en obtener el reconocimiento deberán realizar la solicitud a través de TAD y acreditar, como mínimo:
+
+1. Capacidad jurídica e institucional suficiente;
+
+2. antecedentes y experiencia que sean compatibles con la administración de procesos de evaluación;
+
+3. estructura organizativa adecuada;
+
+4. responsables del proceso de evaluación y responsables técnicos;
+
+5. capacidad operativa suficiente;
+
+6. capacidad tecnológica adecuada para la modalidad o modalidades cuya autorización se solicite;
+
+7. mecanismos fehacientes de identificación y autenticación de los postulantes;
+
+8. procedimientos adecuados de seguridad, confidencialidad e integridad de la información;
+
+9. mecanismos de trazabilidad y conservación de registros y evidencias;
+
+10. procedimientos para la gestión de incidentes, continuidad operativa y contingencias;
+
+11. mecanismos adecuados de independencia, segregación funcional y prevención de conflictos de interés;
+
+12. políticas y procedimientos para la protección de datos personales y resguardo de la información de los postulantes;
+
+13. mecanismos de control de acceso, confidencialidad y custodia del banco de preguntas; y
+
+14. procedimientos para prevenir, detectar y gestionar irregularidades, fraudes o conductas incompatibles durante el proceso de evaluación.
+
+Las entidades deberán describir los procedimientos mediante los cuales implementarán los estándares y condiciones establecidos por la CNV, sin que ello implique facultades para modificar los parámetros sustantivos del examen.
+
+OBLIGACIONES.
+ARTÍCULO 15.- Las entidades autorizadas deberán:
+
+1. Administrar y ejecutar materialmente los exámenes conforme los estándares y procedimientos establecidos por la CNV;
+
+2. garantizar igualdad de condiciones entre los postulantes;
+
+3. preservar la integridad, seguridad y confidencialidad del proceso;
+
+4. mantener registros completos y trazables de las evaluaciones;
+
+5. remitir a la CNV la información correspondiente a las evaluaciones a través de la AIF;
+
+6. informar inmediatamente cualquier incidente que pueda afectar la integridad, seguridad o confiabilidad del examen;
+
+7. permitir y colaborar con las actividades de supervisión, inspección y auditoría que disponga la CNV;
+
+8. conservar la información, documentación y evidencias durante los plazos establecidos;
+
+9. mantener actualizada la información institucional y solicitar, cuando corresponda, autorización previa para las modificaciones que determine la CNV; y
+
+10. cumplir las demás obligaciones establecidas en el presente Capítulo y en el Protocolo de Examen de Idoneidad según el artículo 29 del presente Capítulo
+
+SUPERVISIÓN.
+ARTÍCULO 16.- La CNV ejercerá la supervisión de las entidades administradoras y podrá realizar auditorías, inspecciones, verificaciones técnicas, requerimientos de información, pruebas de funcionamiento y demás controles que resulten necesarios para verificar el cumplimiento del régimen de Idóneos.
+
+La supervisión podrá desarrollarse bajo un enfoque basado en riesgos y comprender controles remotos, presenciales, aleatorios, por muestreo o activados ante indicadores, denuncias o circunstancias que pudieran afectar la integridad del proceso.
+
+MODIFICACIONES.
+ARTÍCULO 17.- La autorización conferida a la entidad administradora se encuentra supeditada al mantenimiento de las circunstancias y condiciones que fueron consideradas por la CNV para su otorgamiento.
+
+Las entidades deberán solicitar autorización previa a la CNV para introducir modificaciones sustanciales respecto de las condiciones, procedimientos, recursos o mecanismos considerados para el otorgamiento de la autorización. A tales efectos, se considerarán modificaciones sustanciales, entre otras, los cambios en la modalidad de examen autorizada, en los sistemas de identificación y autenticación de postulantes, en los mecanismos de monitoreo y trazabilidad, en la infraestructura tecnológica crítica, en los procedimientos de seguridad y confidencialidad de la información, en los responsables del proceso de evaluación o en cualquier otro aspecto susceptible de afectar la integridad, confiabilidad o seguridad del proceso de examinación.
+
+Las modificaciones relativas a contenidos, módulos, bibliografía, metodología de evaluación, criterios de aprobación, duración, cantidad de preguntas, banco de preguntas y demás condiciones sustantivas del examen de idoneidad serán determinadas exclusivamente por la CNV y no podrán ser modificadas unilateralmente por las entidades administradoras.
+
+SUSPENSIÓN Y REVOCACIÓN.
+ARTÍCULO 18.- La CNV podrá suspender o revocar el reconocimiento otorgado cuando la entidad:
+
+1. Deje de cumplir los requisitos establecidos;
+
+2. incurra en incumplimientos graves o reiterados;
+
+3. comprometa la integridad, seguridad o confiabilidad del proceso de evaluación;
+
+4. permita o produzca la filtración, manipulación o utilización indebida de preguntas o información vinculada con el examen;
+
+5. altere o manipule resultados;
+
+6. proporcione información falsa o incompleta;
+
+7. obstaculice las tareas de supervisión; o
+
+8. incumpla las condiciones bajo las cuales fue otorgada la autorización.
+
+La CNV establecerá las medidas necesarias para preservar la validez y trazabilidad de las evaluaciones realizadas durante la vigencia de la autorización, sin perjuicio de las demás medidas que correspondan conforme la normativa aplicable.
+
+RÉGIMEN DEL EXAMEN.
+
+CONTENIDOS Y BANCO DE PREGUNTAS.
+ARTÍCULO 19.- La CNV pondrá a disposición en el sitio web institucional en forma pública, actualizada y permanente los contenidos y estándares de conocimiento requeridos para la aprobación del examen de idoneidad y tendrá a su cargo la elaboración, administración, actualización y gobernanza del banco de preguntas.
+
+Las entidades administradoras deberán utilizar exclusivamente las preguntas y respuestas habilitadas por la CNV y administrar las evaluaciones conforme los parámetros que ésta determine.
+
+Las entidades no podrán reproducir, difundir, publicar, reutilizar ni poner a disposición de terceros el banco de preguntas, sus preguntas o respuestas, ni información vinculada al mismo, salvo autorización expresa de la CNV y de conformidad con las condiciones que ésta establezca.
+
+La CNV establecerá los procedimientos aplicables para su utilización y podrá disponer las medidas necesarias para garantizar su confidencialidad, integridad, seguridad y trazabilidad.
+
+La publicidad o difusión del banco de preguntas, sus preguntas o respuestas, será determinada por la CNV.
+
+RESULTADOS DEL EXAMEN DE IDONEIDAD.
+ARTÍCULO 20.- Las entidades administradoras deberán comunicar a la CNV los resultados de las evaluaciones mediante los mecanismos, sistemas y formatos establecidos en el Protocolo del artículo 29 del presente Capítulo.
+
+La CNV llevará una nómina centralizada de las personas que hayan aprobado el examen de idoneidad.
+
+VIGENCIA DEL EXAMEN DE IDONEIDAD.
+ARTÍCULO 21.- La aprobación del examen de idoneidad tendrá una vigencia de DOS (2) años a los efectos del trámite de inscripción en el Registro de Idóneos de la CNV.
+
+La aprobación del examen no conferirá, por sí sola, la calidad de Idóneo ni habilitará para el ejercicio de actividades reguladas. La única acreditación válida a tales efectos será la inscripción efectiva en el Registro de Idóneos.
+
+TASA DEL EXAMEN DE IDONEIDAD.
+ARTÍCULO 22.- La CNV determinará los valores máximos que las entidades administradoras podrán percibir por la administración del examen y de sus módulos, así como las condiciones aplicables a su actualización.
+
+Las entidades administradoras deberán aplicar exclusivamente los valores y condiciones establecidos por la CNV.
 
 EXIMICIONES.
-ARTÍCULO 3°.- A criterio de la CNV, se considerarán pedidos de instituciones para la exención de módulos del examen de idoneidad de la CNV respecto de aquellos certificados que tengan reconocimiento internacional y de maestrías o doctorados con reconocimiento nacional sobre mercado de capitales u orientados a estos fines. Las eximiciones podrán ser totales (artículo 4º del presente Capítulo) o parciales (artículo 5º del presente Capítulo), según la acreditación documental que se presente.
+ARTÍCULO 23.- A criterio de la CNV, se considerarán pedidos de instituciones para la exención de módulos del examen de idoneidad de la CNV respecto de aquellos certificados que tengan reconocimiento internacional y de maestrías o doctorados con reconocimiento nacional sobre mercado de capitales u orientados a estos fines. Las eximiciones podrán ser totales o parciales, según la acreditación documental que se presente.
 
 Las instituciones cuyos certificados, maestrías o doctorados se autoricen deberán informar a la CNV de forma inmediata cualquier modificación o actualización que se produzca.
 
 La CNV podrá solicitar cualquier modificación, actualización o determinar la revocación parcial o total de las eximiciones concedidas, cuando hechos sobrevinientes hagan aconsejable su revisión. Las eximiciones autorizadas, su alcance y actualización serán publicadas en el sitio web de la CNV.
 
 EXIMICIÓN TOTAL DEL EXAMEN DE IDONEIDAD.
-ARTÍCULO 4°.- Se exime de rendir el examen de idoneidad, en su totalidad, a quienes acrediten alguna de las siguientes aprobaciones:
+ARTÍCULO 24.- Se exime de rendir el examen de idoneidad, en su totalidad, a quienes acrediten alguna de las siguientes aprobaciones:
 
 1. Certified European Financial Analyst (CEFA) de la European Federation of Financial Analyst Societies.
 
@@ -46,177 +291,633 @@ ARTÍCULO 4°.- Se exime de rendir el examen de idoneidad, en su totalidad, a qu
 Para el alta en el Registro de Idóneos, se deberá acompañar el título correspondiente que acredite la aprobación y dar cumplimiento a los demás requisitos establecidos en el presente Capítulo.
 
 EXIMICIÓN PARCIAL DEL EXAMEN DE IDONEIDAD.
-ARTÍCULO 5°.- Se exime de rendir ciertos módulos del examen de idoneidad a quienes acrediten alguna de las siguientes aprobaciones:
+ARTÍCULO 25.- Se exime de rendir ciertos módulos del examen de idoneidad a quienes acrediten alguna de las siguientes aprobaciones:
 
 1. Nivel 1 del Chartered Financial Analyst (CFA) del CFA Institute, de rendir los Módulos N° 3, 4, 5 y 6 del examen para acreditar idoneidad ante la CNV, debiendo en consecuencia rendir los interesados los Módulos N° 1 y 2.
 
-2. Maestría en Finanzas de la Universidad Torcuato Di Tella, de rendir los Módulos N° 4, 5 y 6 del examen para acreditar idoneidad ante esta CNV, debiendo en consecuencia rendir los interesados los Módulos N° 1, 2 y 3.
+2. Maestría en Finanzas de la Universidad Torcuato Di Tella, de rendir los Módulos N° 4, 5 y 6 del examen para acreditar idoneidad ante la CNV, debiendo en consecuencia rendir los interesados los Módulos N° 1, 2 y 3.
 
-3. Maestría en Finanzas con orientación en Finanzas Corporativas, Mercado de Capitales y Aspectos Legales de las Finanzas de la Universidad del CEMA, de rendir los Módulos N° 4, 5 y 6 del examen para acreditar idoneidad ante esta CNV, debiendo en consecuencia rendir los interesados los Módulos N° 1, 2 y 3.
+3. Maestría en Finanzas con orientación en Finanzas Corporativas, Mercado de Capitales y Aspectos Legales de las Finanzas de la Universidad del CEMA, de rendir los Módulos N° 4, 5 y 6 del examen para acreditar idoneidad ante la CNV, debiendo en consecuencia rendir los interesados los Módulos N° 1, 2 y 3.
 
-4. Maestría en Finanzas de la Universidad Nacional de Rosario de rendir los Módulos N° 4, 5 y 6 del examen para acreditar idoneidad ante esta CNV, debiendo en consecuencia rendir los interesados los Módulos N° 1, 2 y 3.
+4. Maestría en Finanzas de la Universidad Nacional de Rosario, de rendir los Módulos N° 4, 5 y 6 del examen para acreditar idoneidad ante la CNV, debiendo en consecuencia rendir los interesados los Módulos N° 1, 2 y 3.
 
-5. Maestría en Finanzas de la Universidad Argentina de la Empresa (UADE): de rendir los Módulos N° 4, 5 y 6 del examen de idoneidad, debiendo rendir los Módulos N° 1, 2 y 3.
+5. Maestría en Finanzas de la Universidad Argentina de la Empresa (UADE), de rendir los Módulos N° 4, 5 y 6 del examen para acreditar idoneidad ante la CNV, debiendo en consecuencia rendir los interesados los Módulos N° 1, 2 y 3.
 
-6. Maestría en Finanzas con orientación en Mercado de Capitales de la Universidad Austral, sede Rosario: eximición de rendir los Módulos N° 4, 5 y 6 del examen para acreditar idoneidad ante esta CNV, debiendo los interesados rendir los Módulos N° 1, 2 y 3.
+6. Maestría en Finanzas con orientación en Mercado de Capitales de la Universidad Austral, sede Rosario, de rendir los Módulos N° 4, 5 y 6 del examen para acreditar idoneidad ante la CNV, debiendo en consecuencia rendir los interesados los Módulos N° 1, 2 y 3.
 
 Para el alta en el Registro de Idóneos, se deberá acompañar el título correspondiente que acredite la aprobación y dar cumplimiento a los demás requisitos establecidos en el presente Capítulo.
 
-Queda expresamente prohibida la inscripción al examen de idoneidad parcial con una constancia de título en trámite, estando facultada la Comisión a cancelar los turnos o resultados de exámenes que contravengan lo dispuesto en este artículo.
+Queda expresamente prohibida la inscripción al examen de idoneidad parcial con una constancia de título en trámite, estando facultada la CNV a cancelar los turnos o resultados de exámenes que contravengan lo dispuesto en este artículo.
 
 CURSOS DE ACTUALIZACIÓN.
-ARTÍCULO 6°.- Con el fin de conservar su registración como idóneo de mercado de capitales, se deberán realizar los cursos de actualización que ofrecerá la CNV.
+ARTÍCULO 26.- Con el fin de conservar su registración como Idóneo del mercado de capitales, se deberán realizar los cursos de actualización que establezca u ofrezca la CNV.
 
-La fecha, el lugar, las especificaciones, modalidad, tasa y forma de pago del curso, será publicado en el sitio web de la CNV.
+La CNV establecerá las condiciones, contenidos, periodicidad y modalidades aplicables en el sitio web institucional.
 
-TASA DE EXAMEN DE IDONEIDAD.
-ARTÍCULO 7°.- El pago de la tasa del examen de idoneidad se deberá realizar a través del sistema de recaudación e-Recauda en la cuenta corriente habilitada al efecto a nombre de la CNV.
+TRANSPARENCIA Y TRAZABILIDAD DEL PROCESO DE EXAMINACIÓN.
+ARTÍCULO 27.- La CNV garantiza la transparencia integral del proceso de evaluación del examen de idoneidad. Con tal propósito, pondrá a disposición en su sitio web, en forma pública, actualizada y permanente, la totalidad de las preguntas y respuestas correctas de evaluación. Esta publicación tendrá carácter vinculante y será la única referencia válida para la corrección de los exámenes.
 
-El monto de la tasa será publicado y actualizado en el sitio web institucional de la Comisión.
+El proceso de examinación contará con mecanismos destinados a preservar la transparencia, integridad, seguridad y trazabilidad de las evaluaciones.
 
-Previo a abonar la tasa de examen, los interesados deberán verificar el tipo de examen que les corresponde rendir y abonar la tasa correspondiente.
+Las entidades administradoras deberán contar con mecanismos adecuados para la identificación y autenticación de los postulantes, el registro de las actuaciones relevantes, la detección y registro de incidencias, la generación de evidencia y su conservación durante el plazo establecido por la CNV.
 
-TRANSPARENCIA DEL PROCESO DE EXAMINACIÓN.
-ARTÍCULO 8°.- La CNV garantiza la transparencia integral del proceso de evaluación del examen de idoneidad. Con tal propósito, se pondrá a disposición en el sitio web institucional de la Comisión, en forma pública, actualizada y permanente, la totalidad de las preguntas y respuestas correctas de evaluación. Esta publicación tendrá carácter vinculante y será la única referencia válida para la corrección de los exámenes, no admitiéndose impugnaciones, recursos o solicitudes de reconsideración del proceso de examinación.
-
-NORMAS DE CONDUCTA DURANTE EL EXAMEN DE IDONEIDAD.
-ARTÍCULO 9°.- Al momento de rendir el examen de idoneidad, en cualquiera de sus dos modalidades, presencial o virtual, los interesados tendrán terminantemente prohibido:
-
-1. Falsear su identidad o proporcionar datos engañosos.
-
-2. Utilizar información de consulta, ya sea en soporte papel o en cualquier dispositivo.
-
-3. Ingresar al aula física o virtual con celular, mochila, cartera, bolso, reloj inteligente o cualquier otra pertenencia que no sea necesaria para realizar el examen. Dichos dispositivos deberán ser colocados en el lugar que indique el veedor.
-
-4. Comunicarse, por cualquier medio, con los demás evaluados o personas presentes en el entorno durante el examen.
-
-5. Salir del aula, física o virtual, durante el período de examinación.
-
-6. Incurrir en faltas de respeto, expresiones injuriosas o actitudes agresivas hacia el veedor o cualquier otra persona que esté presente.
-
-7. Guardar, archivar, trasladar o distribuir el contenido del examen, ya sea para sí o para terceros.
-
-8. Utilizar internet –con excepción de la plataforma de idóneos para realizar el examen–, puertos o memorias USB, ranuras de tarjetas SD o microSD, pendrive y cámaras de cualquier dispositivo y/o múltiples monitores, pantallas o análogos.
-
-9. Utilizar elementos que no estén autorizados para rendir el examen.
-
-10. En lo que respecta al examen en modalidad virtual: apagar el micrófono, apagar la cámara y/o dejar de compartir pantalla con el veedor.
-
-11. Cualquier intento de manipulación del software de monitoreo o evaluación, interferir con la veeduría o cualquier conducta que pueda comprometer la integridad y transparencia del examen.
+Las especificaciones operativas, técnicas y de seguridad aplicables serán establecidas por la CNV en el Protocolo de Examen de Idoneidad según el artículo 29 del presente Capítulo.
 
 SISTEMA DE MONITOREO.
-ARTÍCULO 10.- El proceso de examinación contará con un sistema de monitoreo destinado a preservar la transparencia e integridad del examen de idoneidad. Dicho sistema registrará la actividad del examinado, generará reportes automáticos y actuará como soporte auxiliar del veedor asignado por la Comisión. El funcionamiento del software tendrá carácter vinculante a efectos de validar o anular un examen, conforme los artículos del presente Capítulo.
+ARTÍCULO 28.- Las entidades administradoras deberán contar con sistemas de monitoreo destinados a preservar la integridad y trazabilidad de las evaluaciones y a generar evidencia susceptible de ser utilizada por la CNV en sus tareas de supervisión y auditoría.
 
-VEEDORES DEL EXAMEN DE IDONEIDAD.
-ARTÍCULO 11.- El examen de idoneidad, en cualquiera de sus modalidades, deberá contar con la presencia de al menos un veedor autorizado por la CNV. El veedor deberá acreditar a los examinados, resolver inconvenientes operativos y velar por el cumplimiento de las normas de conducta durante el desarrollo del examen.
+En las modalidades que determine la CNV, los sistemas de monitoreo podrán constituir un elemento para la validación de la evaluación y para la adopción de medidas respecto de exámenes afectados por irregularidades.”
 
-INCUMPLIMIENTO DE NORMAS DE CONDUCTA DEL EXAMEN DE IDONEIDAD.
-ARTÍCULO 12.- En caso de que la CNV observe una conducta contraria a lo previsto en los artículos 9º y 10 del presente Capítulo, procederá a anular el examen. A tales efectos se tendrá en cuenta el reporte final del software de monitoreo y lo determinado por el veedor de la Comisión, quien dejará asentada tal circunstancia, labrará un acta describiendo la situación acaecida y se informará al examinado la fecha a partir de la cual podrá rendir nuevamente el examen. Dicha acta será notificada al examinado en el correo electrónico previamente declarado.
+PROTOCOLO DE EXAMEN DE IDONEIDAD.
+ARTÍCULO 29.- La CNV establece a través del Anexo I del presente Capítulo, un Protocolo de Examen de Idoneidad, destinado a desarrollar las condiciones, procedimientos, requisitos operativos, especificaciones técnicas y demás aspectos necesarios para la implementación, administración y supervisión del régimen de Idóneos.
 
-Aquellos examinados a los que se les haya anulado el examen por incumplimiento de las normas de conducta previstas en el presente Capítulo, podrán solicitar rendir nuevamente el examen una vez transcurrido el plazo de UN (1) año, contados a partir de la fecha en que se produjo la anulación del examen.
+El protocolo establece, entre otras cuestiones:
 
-RESULTADOS Y VIGENCIA DEL EXAMEN DE IDONEIDAD.
-ARTÍCULO 13.- El resultado del examen de idoneidad será definitivo e inapelable, sin que exista instancia de revisión ni obligación de proporcionar información relativa a las respuestas o errores cometidos, conforme lo dispuesto en el presente Capítulo. Sin perjuicio de ello, la validez final del examen -cualquiera sea su calificación- quedará condicionada al reporte emitido por el software de monitoreo, el cual podrá disponer su anulación cuando así corresponda.
+1. El procedimiento para el reconocimiento y autorización de entidades administradoras;
 
-ARTÍCULO 14.- La aprobación del examen de idoneidad tendrá una vigencia de DOS (2) años a los efectos del trámite de inscripción en el Registro de Idóneos de la CNV.
+2. la documentación e información requerida;
 
-La aprobación del examen de idoneidad no conferirá, por sí sola, la calidad de idóneo ni habilitará para el ejercicio de actividades reguladas. La única acreditación válida a tales efectos será la inscripción efectiva en el Registro de Idóneos.
+3. los requisitos técnicos, tecnológicos y de seguridad;
 
-### SECCIÓN II — REGISTRO DE IDÓNEOS.
+4. los procedimientos de administración del examen;
 
-SUJETOS ALCANZADOS.
-ARTÍCULO 15.- La CNV llevará un Registro de Idóneos en el mercado de capitales, donde deberán inscribirse todas las personas que desarrollen la actividad de venta, promoción o prestación de cualquier tipo de asesoramiento en el contacto con el público inversor, a través de un Agente registrado en esta CNV en cualquiera de las categorías donde es requerida.
+5. los mecanismos de identificación, autenticación y monitoreo;
 
-La inscripción en el registro definitivo posibilitará ser idóneo en los Agentes y FCI, cuando ejerzan actividad en los mismos.
+6. los mecanismos de remisión y validación de resultados;
 
-El mencionado Registro de Idóneos será público, a través del sitio web de la CNV.
+7. los procedimientos de supervisión, auditoría y gestión de incidentes;
 
-Asimismo, los Mercados deberán difundir en sus páginas web institucionales la nómina de personas inscriptas en el Registro que lleva la CNV.
+8. las condiciones de conservación de registros y evidencias;
 
-Los Agentes deberán difundir y mantener actualizado el listado de sus idóneos registrados en la CNV en sus páginas web institucionales y en sus sedes.
+9. las condiciones y mecanismos de implementación gradual del nuevo sistema; y
 
-REQUISITOS PARA SER IDÓNEO DEL MERCADO DE CAPITALES.
-ARTÍCULO 16.- Para obtener y mantener la calidad de Idóneo en el mercado de capitales se deben cumplir los siguientes requisitos:
+10. las demás cuestiones operativas necesarias para la aplicación del presente régimen.
 
-1. Rendir y aprobar un examen de idoneidad conforme los requisitos establecidos por la CNV o acreditar alguna de las eximiciones totales conforme lo dispuesto en el artículo 4º o parciales en los términos del artículo 5º o dar cumplimiento al régimen de trayectoria profesional previsto en el artículo 17, todos del presente Capítulo.
+El protocolo y sus modificaciones serán publicados como Anexo I al presente Capítulo y estarán permanentemente disponibles en el sitio web de la CNV
 
-2. Ser integrante o dependiente de un Agente matriculado o en trámite de inscripción, o de Sociedades del mismo grupo económico inscripta en varias categorías compatibles en la CNV cuando compartan el domicilio o el medio de atención al público inversor, incluyendo las sucursales del Agente registrado.
+[Capítulo sustituido por art. 2° de la RG 1173/2026, BO 15/10/2026, vigente desde 15/10/2026]
 
-3. Requerir a la CNV la inscripción en el Registro de Idóneos con las formalidades establecidas a estos fines.
+### ANEXO I
 
-4. Realizar los cursos de actualización que determine la CNV.
+PROTOCOLO PARA EL RECONOCIMIENTO Y SUPERVISIÓN DE ENTIDADES ADMINISTRADORAS DEL EXAMEN DE IDONEIDAD
 
-5. Cumplir de manera permanente las normas de conducta dispuestas en este Capítulo.
+1. Finalidad del Protocolo
 
-6. No estar alcanzado por las incompatibilidades establecidas en el artículo 2° del presente Capítulo.
+El presente Protocolo establece los requisitos, condiciones y lineamientos que deberán cumplir las instituciones interesadas en ser reconocidas por la Comisión Nacional de Valores (“CNV” o “Comisión” indistintamente) como Entidades Administradoras del Examen de Idoneidad del Mercado de Capitales.
 
-ACREDITACIÓN DE IDONEIDAD POR TRAYECTORIA PROFESIONAL
-ARTÍCULO 17.- La CNV podrá inscribir en el Registro de Idóneos, sin necesidad de aprobación previa del examen de idoneidad previsto en el presente Capítulo, a aquellas personas que acrediten el cumplimiento conjunto de los siguientes requisitos:
+Su finalidad es garantizar que el proceso de evaluación de conocimientos se desarrolle bajo estándares homogéneos de calidad, seguridad, transparencia y trazabilidad, preservando la competencia regulatoria de la CNV respecto del régimen de idoneidad y del Registro de Idóneos.
 
-1. Encontrarse actualmente desempeñando cargos o funciones de responsabilidad relevantes en entidades sujetas a fiscalización de la Comisión vinculadas al mercado de capitales, y acreditar una antigüedad mínima de CINCO (5) años continuos en dichas funciones.
+Principio rector: la CNV conserva la definición de los estándares de idoneidad, la supervisión del sistema y la administración del Registro de Idóneos. Las entidades autorizadas administran el proceso de evaluación conforme las reglas establecidas por la Comisión.
 
-2. Acreditar que las funciones desarrolladas durante el período previsto en el inciso precedente, por su naturaleza, alcance y nivel de responsabilidad, permiten presumir razonablemente la posesión de conocimientos equivalentes a los exigidos para la inscripción en el Registro de Idóneos. Asimismo, la trayectoria invocada no podrá corresponder al ejercicio de actividades para las cuales la normativa hubiera exigido previamente la inscripción en el Registro de Idóneos.
+2. Alcance del reconocimiento
 
-3. No encontrarse alcanzado por las incompatibilidades previstas en el artículo 2° del presente Capítulo.
+El reconocimiento otorgado por la CNV habilita a la entidad exclusivamente para administrar el examen de idoneidad en los términos y alcance autorizados.
 
-La trayectoria profesional invocada deberá acreditarse mediante la documentación respaldatoria que determine la CNV, la que podrá requerir toda información adicional que estime necesaria a fin de verificar el cumplimiento de los requisitos establecidos en el presente artículo.
+El reconocimiento no implica:
 
-La inscripción otorgada en virtud del presente artículo producirá los mismos efectos que la inscripción obtenida mediante la aprobación del examen de idoneidad.
+1. delegación de facultades regulatorias;
 
-SOLICITUD DE ALTA
-ARTÍCULO 18.- Para el ejercicio de la actividad de Idóneo en el mercado de capitales, el Agente mediante el cual desarrollará la actividad deberá efectuar una presentación en el acceso Registro de Idóneos de la AIF, con los siguientes requisitos:
+2. delegación de la administración del Registro de Idóneos;
 
-1. Indicar datos del Agente registrado donde se desempeñará el idóneo: CUIT, razón social, domicilio electrónico para notificaciones del trámite y categorías vinculadas.
+3. autorización para emitir certificaciones con efectos regulatorios distintos de los previstos por la CNV;
 
-2. Indicar y adjuntar datos del personal idóneo a registrar: DNI, CUIL, apellido, nombre y correo electrónico.
+4. aprobación automática de cursos o programas de capacitación.
 
-3. Indicar y adjuntar demostración del vínculo con el Agente: constancia de alta del trabajador en ARCA, estatuto/acta de asamblea, contrato de locación de servicios u otros.
+La CNV podrá autorizar a una entidad para administrar:
 
-4. Indicar y adjuntar certificado de antecedentes penales con una antigüedad no mayor a TREINTA (30) días.
+Modalidad Alcance
 
-5. Indicar y adjuntar acreditación de idoneidad: examen de idoneidad completo aprobado, examen de idoneidad parcial aprobado con el respectivo título/diploma, eximición del examen de idoneidad, Acreditación de trayectoria profesional en los términos del artículo 17, registro actual ante otra matrícula, constancia de baja en el Registro con fecha vigente conforme lo dispuesto en el artículo 20 del presente Capítulo.
+Examen general de Evaluación completa del régimen de conocimientos.
 
-6. Aceptar y firmar la DDJJ de incompatibilidades.
+idoneidad
 
-En caso de Agentes y FCI en trámite de inscripción, se deberá efectuar la solicitud por el mismo acceso de la AIF y mediante el mismo formulario.
+```
+Módulos específicos             Cuando la CNV implemente un esquema modular.
 
-Se considerará que la documentación ingresada mediante la AIF es fiel a su original, bajo responsabilidad del Agente.
 
-Las versiones actualizadas de los formularios estarán disponibles permanentemente en el acceso correspondiente de la AIF.
+Evaluaciones                    Actualizaciones o módulos especiales que determine
+complementarias                 la CNV.
+```
 
-SOLICITUD DE BAJA
-ARTÍCULO 19.- Para la baja de los idóneos, el Agente deberá efectuar una presentación en el acceso Registro de Idóneos de la AIF, completando el formulario Solicitud de Baja de Idóneo con los siguientes requisitos:
+3. ¿Quiénes pueden solicitar el reconocimiento?
 
-1. Indicar CUIT y domicilio electrónico del Agente registrado del cual se dará de baja al idóneo.
+Podrán solicitar autorización personas jurídicas, públicas o privadas, nacionales o extranjeras (en adelante “entidades administradoras” o “entidad administradora”), que acrediten capacidad institucional, técnica y operativa suficiente para administrar procesos de evaluación de conocimientos en materia de mercado de capitales. En el caso de entidades extranjeras, sólo podrán solicitar autorización aquellas que se encuentren radicadas en la República Argentina o que cuenten con sede o sucursal en el país.
 
-2. Seleccionar el/los idóneo/s que será/n dado/s de baja del Registro de Idóneos.
+La entidad administradora deberá acreditar mecanismos adecuados de independencia, segregación funcional y prevención de conflictos de interés.
 
-Se considerará que la documentación ingresada mediante la AIF es fiel a su original, bajo responsabilidad del Agente.
+Entidades elegibles:
 
-Las versiones actualizadas de los formularios estarán disponibles permanentemente en el acceso correspondiente de la AIF.
+1. Universidades públicas y privadas.
 
-VIGENCIA DE LA CONDICIÓN DE IDÓNEO.
-ARTÍCULO 20.- La calidad de idoneidad de una persona es independiente del Agente en donde desarrolle la actividad. Sin perjuicio de ello, las personas idóneas que no se encuentren inscriptas en el Registro de Idóneos mediante un Agente pasarán a la condición de inactivo, no pudiendo ejercer funciones en esa calidad hasta ser dado de alta nuevamente.
+2. Instituciones de educación superior.
 
-En caso de permanecer DOS (2) años inactivos o no realizar los cursos de actualización requeridos por la CNV en tiempo y forma se le dará la baja definitiva del Registro de Idóneos.
+3. Asociaciones profesionales.
 
-Para obtener la idoneidad nuevamente, se deberá dar cumplimiento con los requisitos establecidos en el presente Capítulo.
+4. Mercados e infraestructuras del mercado de capitales.
 
-MODIFICACIONES EN EL REGISTRO DE IDÓNEOS.
-ARTÍCULO 21.- El Agente deberá informar de forma inmediata cualquier alta, baja o modificación del listado de sus idóneos que fueron registrados por la CNV.
+5. Instituciones especializadas en capacitación o certificación.
 
-Las altas y bajas deberán realizarse de acuerdo con los requisitos de registro indicadas en este Capítulo. Cuando se requiera el alta de idóneo ya inscripto en otro Agente, previamente deberá registrarse su baja por el Agente que lo inscribió.
+6. Organismos públicos.
 
-En el caso de bajas, el Agente además deberá indicar la fecha de desafectación del idóneo.
+7. Instituciones internacionales.
 
-NORMAS DE CONDUCTA.
-ARTÍCULO 22.- El idóneo deberá actuar con honestidad, imparcialidad, profesionalidad, diligencia y lealtad con los inversores con quienes tenga contacto, velando por la gestión sana y prudente en el ejercicio de su actividad.
+8. Otras entidades que la CNV considere técnicamente aptas.
 
-Además, deberá evitar cualquier práctica que pueda inducir a engaño al inversor o que genere conflicto de intereses.
+No podrán solicitar el reconocimiento como entidades administradoras los sujetos inscriptos en las categorías de Agentes registradas ante la CNV. La presente incompatibilidad tiene por finalidad resguardar la transparencia e independencia del sistema de evaluación, evitando situaciones en las que quien administra el examen pueda, al mismo tiempo, revestir la calidad de empleador, contratante o destinatario de la actividad profesional de los postulantes evaluados.
 
-INCUMPLIMIENTO.
-ARTÍCULO 23.- Ante el incumplimiento de la normativa vigente aplicable a su actividad, el idóneo será pasible de la eventual aplicación de las sanciones previstas en el artículo 132 de la Ley de Mercado de Capitales de acuerdo con los procedimientos establecidos por la CNV, sin perjuicio de la responsabilidad que también le pueda corresponder al Agente y a sus integrantes.
+La CNV evaluará cada solicitud en función del cumplimiento de los requisitos establecidos en este Protocolo.
 
-Ante el incumplimiento de los requisitos de su inscripción y de actualización, la CNV podrá disponer la caducidad de inscripción del idóneo.
+4. Requisitos para obtener el reconocimiento
 
-[Título sustituido por art. 2° de la RG 1162/2026, BO 20/08/2026]
+4.1 Requisitos institucionales
+
+La entidad deberá acreditar:
+
+1. existencia y personería jurídica vigente;
+
+2. objeto institucional compatible con actividades académicas, de evaluación o certificación;
+
+3. antecedentes y experiencia;
+
+4. estructura organizativa suficiente;
+
+5. mecanismos adecuados de independencia, segregación funcional y prevención de conflictos de interés;
+
+6. políticas y procedimientos destinados a identificar, gestionar y mitigar situaciones que puedan afectar la objetividad, imparcialidad, integridad o transparencia del proceso de evaluación.
+
+La CNV podrá considerar la naturaleza, antecedentes, experiencia y capacidades de la entidad a efectos de determinar su aptitud para administrar el Examen de Idoneidad.
+
+4.2 Requisitos técnicos La entidad deberá contar con:
+
+1. responsables del proceso de evaluación;
+
+2. responsables operativos;
+
+3. equipo técnico especializado;
+
+4. procedimientos documentados para administrar evaluaciones;
+
+5. mecanismos de actualización normativa;
+
+6. mecanismos de contingencia;
+
+7. mecanismos de seguridad e integridad.
+
+4.3 Requisitos operativos
+
+La entidad deberá demostrar capacidad para:
+
+1. administrar inscripciones;
+
+2. verificar identidad de postulantes;
+
+3. administrar evaluaciones;
+
+4. registrar resultados;
+
+5. emitir constancias;
+
+6. remitir información a la CNV.
+
+4.4 Requisitos tecnológicos
+
+La plataforma deberá garantizar:
+
+1. autenticación del postulante;
+
+2. disponibilidad del servicio;
+
+3. integridad de la información;
+
+4. trazabilidad completa de cada examen;
+
+5. resguardo y conservación de registros;
+
+6. auditoría de accesos.
+
+La CNV podrá establecer especificaciones técnicas mínimas.
+
+5. Procedimiento de solicitud
+
+Documentación requerida
+
+La solicitud deberá incluir, como mínimo:
+
+Información requerida
+
+1. Datos institucionales y personería jurídica.
+
+2. Antecedentes académicos o de certificación.
+
+3. Estructura organizativa y responsables técnicos.
+
+4. Descripción del modelo de evaluación.
+
+5. Descripción de la plataforma tecnológica.
+
+6. Política de seguridad y confidencialidad.
+
+7. Plan de continuidad operativa.
+
+8. Propuesta de contenidos y, en su caso, preguntas para evaluación.
+
+Presentación de la solicitud
+
+Las entidades interesadas deberán solicitar su reconocimiento ante la CNV a través de TAD. La presentación deberá estar suscripta por representante con facultades suficientes e incluir la documentación e información requerida en el presente Protocolo.
+
+La autorización como Entidad Administradora y su mantenimiento no devengarán el pago de aranceles ante la CNV, sin perjuicio de los costos que pudieran derivarse del cumplimiento de los requisitos exigidos por el presente Protocolo.
+
+Evaluación por la CNV
+
+La CNV evaluará las solicitudes sobre la base de los requisitos institucionales, técnicos, operativos y tecnológicos previstos en el presente Protocolo.
+
+La CNV podrá requerir:
+
+1. información adicional;
+
+2. aclaraciones;
+
+3. documentación complementaria;
+
+4. reuniones técnicas;
+
+5. demostraciones de la plataforma;
+
+6. pruebas piloto;
+
+7. auditorías o verificaciones.
+
+Registro de Entidades Administradoras
+
+La CNV llevará un Registro de Entidades Administradoras del Examen de Idoneidad integrado por aquellas entidades que obtengan el correspondiente reconocimiento. Dicho registro podrá ser publicado y actualizado a través de los medios que determine la Comisión.
+
+6. Estándares y condiciones del examen
+
+La CNV definirá los estándares, condiciones y parámetros sustantivos aplicables al Examen de Idoneidad, que deberán respetar todas las entidades autorizadas.
+
+Las entidades deberán administrar las evaluaciones conforme:
+
+1. contenidos aprobados por la CNV;
+
+2. módulos autorizados;
+
+3. modalidad de evaluación;
+
+4. criterios de aprobación;
+
+5. duración y estructura del examen;
+
+6. reglas de recuperatorio;
+
+7. condiciones de anulación.
+
+La CNV podrá establecer el importe máximo que las entidades administradoras podrán percibir por la inscripción o administración de cada examen, así como los criterios para su actualización.
+
+Las entidades no podrán modificar unilateralmente estos parámetros.
+
+Toda modificación requerirá autorización de la CNV.
+
+7. Banco de preguntas y contenidos
+
+Gobernanza del banco La gobernanza del banco de preguntas corresponde exclusivamente a la CNV. La definición de contenidos, incorporación de preguntas y condiciones de utilización del banco será competencia exclusiva de la Comisión.
+
+Primera etapa
+
+Durante la etapa inicial de implementación del régimen:
+
+1. continuará público el banco de preguntas y respuestas vigente;
+
+2. las entidades administrarán las evaluaciones utilizando exclusivamente preguntas habilitadas por la CNV;
+
+3. la CNV conservará la definición de contenidos, estructura y criterios de evaluación.
+
+Segunda etapa
+
+Una vez consolidado el funcionamiento del sistema:
+
+1. la CNV podrá habilitar mecanismos de colaboración de las entidades administradoras en la elaboración y actualización de preguntas;
+
+2. toda incorporación al banco requerirá validación y aprobación previa de la CNV;
+
+3. la CNV podrá reevaluar la conveniencia de mantener público el banco completo de preguntas y respuestas o avanzar hacia un esquema de publicidad parcial.
+
+En esta etapa permanecerán públicos los contenidos, objetivos de aprendizaje, bibliografía, estructura y criterios de evaluación.
+
+Flujo de incorporación de preguntas
+
+1. Propuesta de la entidad. La entidad presenta preguntas con su fundamentación técnica y el módulo al que pertenecen.
+
+2. Revisión técnica CNV. La CNV analiza contenido, redacción, dificultad y adecuación normativa.
+
+3. Incorporación al banco oficial. Solo las preguntas aprobadas integran el banco administrado por la CNV.
+
+4. Utilización en los exámenes. Las entidades utilizan exclusivamente preguntas habilitadas por la CNV.
+
+Tercera etapa
+
+La CNV podrá avanzar gradualmente hacia un modelo basado en funciones, actividades o especialidades específicas dentro del mercado de capitales.
+
+Durante esta etapa:
+
+1. podrán desarrollarse bancos de preguntas diferenciados por áreas de conocimiento, perfiles funcionales o certificaciones específicas;
+
+2. la gobernanza sobre contenidos y criterios de evaluación continuará correspondiendo exclusivamente a la CNV.
+
+Obligaciones sobre el banco de preguntas
+
+Las entidades deberán garantizar:
+
+1. confidencialidad;
+
+2. seguridad de acceso;
+
+3. control de versiones;
+
+4. trazabilidad de modificaciones;
+
+5. prohibición de difusión o reutilización no autorizada.
+
+8. Administración del examen
+
+Las entidades autorizadas serán responsables de la correcta administración material de las evaluaciones.
+
+Deberán garantizar
+
+1. igualdad de condiciones para todos los postulantes;
+
+2. identificación fehaciente del examinado;
+
+3. integridad durante toda la evaluación;
+
+4. confidencialidad del examen;
+
+5. registro de incidencias;
+
+6. conservación de evidencia.
+
+Modalidades admitidas
+
+La CNV podrá autorizar:
+
+```
+Modalidad              Condiciones
+
+
+Presencial             En sedes autorizadas
+
+
+Virtual                Con mecanismos de identificación y monitoreo definido por
+supervisada            la CNV
+Mixta               Cuando la CNV lo autorice expresamente
+```
+
+9. Comunicación de resultados a la CNV
+
+La entidad deberá comunicar los resultados de las evaluaciones mediante los mecanismos establecidos por la CNV.
+
+Modelo propuesto
+
+1. Examen aprobado
+
+2. La entidad registra el resultado en su sistema
+
+3. Remisión de la información vía AIF
+
+4. La información se incorpora automáticamente a la base de datos administrada por CNV, alimentando la nómina central de personas aprobadas
+
+5. Análisis y validación de la información por la CNV
+
+6. Solicitud de alta por el Agente
+
+La inscripción en el Registro continúa siendo un trámite ante la CNV.
+
+Importante
+
+La aprobación del examen no produce automáticamente el alta en el Registro de Idóneos.
+
+10.Validación de la aprobación del examen
+
+La entidad administradora deberá informar a la CNV los resultados de las evaluaciones mediante la Autopista de la Información Financiera (AIF).
+
+Sobre la base de dicha información, la CNV mantendrá una nómina centralizada de postulantes aprobados.
+
+La aprobación del examen no produce automáticamente el alta en el Registro de Idóneos ni acredita por sí misma la condición de Idóneo. La inscripción en dicho Registro continuará siendo competencia exclusiva de la CNV.
+
+A efectos regulatorios, prevalecerá la información registrada en la CNV, la cual podrá ser utilizada para la validación de las solicitudes de inscripción en el Registro de Idóneos conforme los mecanismos que la Comisión determine.
+
+11. Obligaciones permanentes de las entidades autorizadas Las entidades deberán mantener actualizada la información institucional.
+
+Informar inmediatamente:
+
+1. cambios de autoridades;
+
+2. modificaciones de responsables técnicos;
+
+3. cambios de plataforma;
+
+4. incidentes de seguridad;
+
+5. modificaciones relevantes del programa.
+
+Remitir información periódica sobre:
+
+1. nómina de postulantes;
+
+2. cantidad de exámenes administrados;
+
+3. aprobados y desaprobados;
+
+4. recuperatorios;
+
+5. incidencias;
+
+6. reclamos;
+
+7. irregularidades detectadas.
+
+Las entidades administradoras deberán remitir a la CNV, a través de los mecanismos y formatos que ésta determine, la información previa, concomitante y posterior relativa a la administración de los exámenes.
+
+Conservar los registros de las evaluaciones durante el plazo que establezca la CNV.
+
+12. Supervisión de la CNV
+
+La CNV ejercerá supervisión permanente sobre las entidades autorizadas.
+
+La supervisión podrá incluir:
+
+1. auditorías documentales;
+
+2. auditorías sobre la plataforma;
+
+3. inspecciones;
+
+4. revisión de registros;
+
+5. pruebas de funcionamiento;
+
+6. revisión de resultados;
+
+7. controles sobre el banco de preguntas;
+
+8. requerimientos de información.
+
+Supervisión basada en riesgo
+
+La CNV podrá priorizar controles considerando:
+
+1. volumen de exámenes;
+
+2. porcentaje de aprobación;
+
+3. incidentes registrados;
+
+4. reclamos;
+
+5. antecedentes de la entidad.
+
+13. Incidentes e irregularidades
+
+Las entidades deberán contar con procedimientos adecuados para la detección, registro, gestión y tratamiento de incidentes e irregularidades vinculados con la administración de los exámenes.
+
+Deberán informar inmediatamente a la CNV todo incidente o irregularidad detectada que pueda afectar la seguridad, integridad, transparencia o trazabilidad del proceso de evaluación, incluyendo, entre otros:
+
+1. accesos, divulgaciones o utilizaciones no autorizadas de información o contenidos cuya confidencialidad hubiera sido establecida por la CNV;
+
+2. suplantación de identidad;
+
+3. manipulación de resultados;
+
+4. fallas de seguridad;
+
+5. interrupciones relevantes del servicio.
+
+La entidad deberá preservar toda la evidencia relacionada con el incidente.
+
+14. Modificaciones al esquema de administración autorizado
+
+La autorización conferida a la entidad administradora se encuentra condicionada al mantenimiento de las circunstancias y condiciones que fueron consideradas por la CNV para su otorgamiento.
+
+Las entidades deberán solicitar autorización previa para introducir modificaciones sustanciales respecto de las condiciones, procedimientos, recursos o mecanismos considerados para el otorgamiento de la autorización:
+
+1. plataforma tecnológica;
+
+2. responsables del proceso de administración y evaluación;
+
+3. mecanismos de identificación y autenticación de los postulantes;
+
+4. modalidades o sedes de examen;
+
+5. procedimientos de administración, gestión de incidencias, contingencias o conservación de evidencia;
+
+6. cualquier otra modificación que pueda afectar las condiciones de seguridad, integridad, trazabilidad o supervisión del examen.
+
+La CNV determinará qué modificaciones requieren autorización previa y cuáles sólo deberán informarse.
+
+Las modificaciones a los contenidos, módulos, bibliografía, metodología de evaluación, criterios de aprobación, duración, cantidad de preguntas, banco de preguntas y demás condiciones sustantivas del Examen de Idoneidad serán determinadas exclusivamente por la CNV y no podrán ser modificadas unilateralmente por las entidades administradoras.
+
+15. Suspensión y revocación de la autorización
+
+La CNV podrá suspender o revocar la autorización cuando se verifique:
+
+1. incumplimiento de los requisitos del Protocolo;
+
+2. pérdida de capacidad técnica u operativa;
+
+3. incumplimientos reiterados;
+
+4. filtración del banco de preguntas;
+
+5. manipulación de evaluaciones;
+
+6. suministro de información falsa;
+
+7. incumplimientos que afecten la transparencia o integridad del proceso.
+
+La CNV podrá establecer medidas preventivas mientras sustancia la revisión correspondiente.
+
+16. Régimen de transición
+
+La implementación del nuevo régimen de administración del examen de idoneidad será gradual y se desarrollará en etapas, con el objeto de garantizar una transición ordenada.
+
+Primera etapa
+
+Funcionará un esquema piloto donde la CNV y las primeras entidades administradoras autorizadas coexistirán en la administración del Examen de Idoneidad. La CNV conservará sus facultades de supervisión, definición de estándares y administración del Registro de Idóneos.
+
+Respecto de las eximiciones parciales actualmente vigentes para determinadas Maestrías reconocidas por la CNV, en caso de que alguna de las universidades alcanzadas por dicho régimen resulte autorizada como entidad administradora, dichas eximiciones continuarán aplicándose conforme la normativa vigente. La autorización como entidad administradora no implicará, por sí misma, la ampliación, modificación o reconocimiento de nuevas eximiciones.
+
+Durante esta etapa:
+
+1. continuar utilizando el banco de preguntas y respuestas vigente;
+
+2. continuar con una instancia por postulante;
+
+3. la entidad cuyos programas dan lugar a eximiciones parciales no podrá administrar los módulos restantes al mismo postulante. Los módulos no eximidos deberán rendirse ante otra entidad administradora.
+
+Asimismo, durante esta etapa, la CNV podrá disponer que las Entidades Administradoras autorizadas participen en la administración de los exámenes correspondientes a postulantes que, a la fecha de implementación del nuevo régimen, cuenten con un VEP vigente, conforme los mecanismos y condiciones que establezca la Comisión.
+
+La administración por parte de una Entidad Administradora de exámenes correspondientes a VEP abonados a la CNV no implicará la transferencia de los fondos percibidos por la Comisión ni generará, por sí misma, derecho de la Entidad a percibir dichos importes. La CNV podrá establecer los mecanismos de asignación o selección de las Entidades Administradoras por parte de los postulantes, procurando una distribución ordenada de la demanda y condiciones homogéneas de acceso al examen.
+
+Segunda etapa
+
+Las entidades administrarán progresivamente los exámenes bajo supervisión de la CNV.
+
+La CNV podrá habilitar mecanismos de colaboración por parte de las entidades administradoras en la elaboración y actualización de preguntas, manteniendo en todos los casos la validación, aprobación e incorporación al banco oficial bajo su exclusiva competencia.
+
+La CNV podrá asimismo revisar y adecuar los regímenes de eximición vigentes en función de la experiencia obtenida y del grado de madurez alcanzado por el sistema, permitiendo que una misma entidad mantenga la eximición y administre los módulos restantes, con separación de responsables, trazabilidad y auditorías específicas.
+
+Esta evolución procura compatibilizar progresivamente las actividades de formación y evaluación desarrolladas por una misma institución, una vez consolidados los mecanismos de control, supervisión, independencia y prevención de conflictos de interés del sistema.
+
+Durante esta etapa:
+
+1. se reevalúa la publicidad del banco de preguntas completo, quedan públicos los contenidos, objetivos de aprendizaje, bibliografía, estructura y criterios de evaluación;
+
+2. la CNV podrá evaluar permitir que una misma entidad mantenga las eximiciones parciales y administre los módulos restantes, sujeta a requisitos específicos de independencia, trazabilidad, supervisión y prevención de conflictos de interés.
+
+Tercera etapa
+
+La CNV podrá avanzar gradualmente hacia un modelo de evaluación basado en funciones, actividades o especialidades específicas dentro del mercado de capitales.
+
+Durante esta etapa:
+
+1. Migración a un examen modular por funciones, sin régimen de eximiciones.
+
+2. Desarrollo de bancos de preguntas diferenciados por área de conocimiento, perfil funcional o certificación específica, siempre bajo gobernanza exclusiva de CNV sobre contenidos y criterios.
+
+La CNV definirá el tratamiento aplicable a:
+
+1. exámenes ya aprobados;
+
+2. turnos otorgados;
+
+3. VEP abonados y vigentes a la fecha de corte;
+
+4. módulos aprobados;
+
+5. trámites en curso.
+
+17. Transparencia y principios de actuación
+
+Las entidades autorizadas deberán desarrollar su actuación conforme los siguientes principios:
+
+Principio Alcance
+
+Transparencia Procesos claros, verificables y documentados.
+
+Aplicación de criterios objetivos, uniformes y no discriminatorios para todos los postulantes alcanzados por
+
+```
+Igualdad de trato       una misma modalidad, módulo o instancia de evaluación.
+Integridad          Protección del examen y de sus resultados.
+
+
+Confidencialidad    Protección de preguntas, resultados y datos personales.
+
+
+Trazabilidad        Registro completo de todas las actuaciones.
+```
+
+Obligación de cooperar con la CNV en toda instancia de Colaboración supervisión”.
+
+regulatoria
+
+[Anexo incorporado por art. 3° de la RG 1173/2026, BO 15/10/2026, vigente desde 15/10/2026]

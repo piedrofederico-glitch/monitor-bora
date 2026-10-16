@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1172/2026 (BO 15/10/2026)
+Última modificación: RG 1173/2026 (BO 15/10/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -214,6 +214,8 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “ID FAL” significa el ID FAL previsto en el artículo 8° del Decreto Reglamentario FAL.
 
+“Idóneo”: significa aquella persona humana inscripta en el Registro de Idóneos de la CNV para desarrollar actividades de venta, promoción o prestación de cualquier tipo de asesoramiento en contacto con el público inversor.
+
 “IGJ” significa Inspección General de Justicia.
 
 “INAES” significa Instituto Nacional de Asociativismo y Economía Social.
@@ -388,6 +390,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Regímenes de Oferta Pública con Autorización Automática de Valores Negociables por su Mediano Impacto” significa cualquier régimen de autorización automática por su mediano impacto.
 
+“Registro de Idóneos”: significa el registro público llevado por la CNV en el que se inscriben las personas humanas que desarrollan actividades de venta, promoción o prestación de cualquier tipo de asesoramiento en contacto con el público inversor.
+
 “RePET” significa Registro Público de Personas y Entidades vinculadas a actos de Terrorismo y su Financiamiento.
 
 “Representación Digital” significa la forma de representación adicional de ciertos valores negociables prevista en el Capítulo I del Título XXII de estas Normas.
@@ -523,6 +527,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos incorporados: “Agente Colocador Principal”, “Agente Interviniente”, “Agentes Colocadores”, “Cartera Propia”, “Cartera Propia Ampliada”, “Cartera Propia Restringida”, “Sujetos Intervinientes”, “TIR”; Definición sustituida: “Emisor” por art. 1° de la RG 1169/2026, BO 23/09/2026]
 
 [Términos incorporados: “ARS”, “BTC”, “USD”, “USDC”, “USDT” por art. 1° de la RG 1172/2026, BO 15/10/2026]
+
+[Términos incorporados: “Idóneo”, “Registro de Idóneos” por art. 1° de la RG 1173/2026, BO 15/10/2026, vigente desde 15/10/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1172/2026 (BO 15/10/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1173/2026 (BO 15/10/2026) |
 
 ## Título II — EMISORAS
 
@@ -115,7 +115,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XII/capitulo-II.md`](titulo-XII/capitulo-II.md) | Título XII — Capítulo II: OBLIGACIONES DE LOS PARTICIPANTES EN EL ÁMBITO DE LA OFERTA PÚBLICA. | RG 1162/2026 (BO 20/08/2026) |
 | [`titulo-XII/capitulo-III.md`](titulo-XII/capitulo-III.md) | Título XII — Capítulo III: CONDUCTAS CONTRARIAS A LA TRANSPARENCIA EN EL ÁMBITO DE LA OFERTA PÚBLICA. | RG 1162/2026 (BO 20/08/2026) |
 | [`titulo-XII/capitulo-IV.md`](titulo-XII/capitulo-IV.md) | Título XII — Capítulo IV: PROCEDIMIENTO APLICABLE ANTE INCUMPLIMIENTOS. | RG 1162/2026 (BO 20/08/2026) |
-| [`titulo-XII/capitulo-V.md`](titulo-XII/capitulo-V.md) | Título XII — Capítulo V: REGISTRO DE IDÓNEOS | RG 1162/2026 (BO 20/08/2026) |
+| [`titulo-XII/capitulo-V.md`](titulo-XII/capitulo-V.md) | Título XII — Capítulo V: REGISTRO DE IDÓNEOS Y EXAMEN DE IDONEIDAD | RG 1173/2026 (BO 15/10/2026) |
 | [`titulo-XII/capitulo-VI.md`](titulo-XII/capitulo-VI.md) | Título XII — Capítulo VI: DERECHOS, ARANCELES Y COMISIONES | RG 1162/2026 (BO 20/08/2026) |
 
 ## Título XIII — PROCEDIMIENTO DE INVESTIGACIONES. PROCEDIMIENTO SUMARIAL. PUBLICIDAD
@@ -176,6 +176,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVIII/capitulo-XV.md`](titulo-XVIII/capitulo-XV.md) | Título XVIII — Capítulo XV: DISPOSICIÓN TRANSITORIA. SUSPENSIÓN PERCEPCIÓN Y PAGO TASAS DE FISCALIZACIÓN Y CONTROL | RG 1103/2026 (BO 09/01/2026) |
 | [`titulo-XVIII/capitulo-XVI.md`](titulo-XVIII/capitulo-XVI.md) | Título XVIII — Capítulo XVI: RÉGIMEN DE INCENTIVO A LA CONSTRUCCIÓN FEDERAL ARGENTINA Y ACCESO A LA VIVIENDA. LEY Nº 27.613 | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-XVII.md`](titulo-XVIII/capitulo-XVII.md) | Título XVIII — Capítulo XVII: RÉGIMEN DE REGULARIZACIÓN DE ACTIVOS. LEY N° 27.743 – MEDIDAS FISCALES PALIATIVAS Y RELEVANTES. | RG 1099/2025 (BO 26/12/2025) |
+| [`titulo-XVIII/capitulo-XVIII.md`](titulo-XVIII/capitulo-XVIII.md) | Título XVIII — Capítulo XVIII: REGISTRO DE IDÓNEOS | RG 1173/2026 (BO 15/10/2026) |
 
 ## Título XIX — ENTIDADES REPRESENTATIVAS REGIONALES
 [Título derogado por art. 2° de la RG 1109/2026, BO 20/02/2026]
