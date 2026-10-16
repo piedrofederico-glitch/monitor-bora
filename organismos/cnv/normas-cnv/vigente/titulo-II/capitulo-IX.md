@@ -1,5 +1,5 @@
 # Título II — Capítulo IX: PROSPECTO
-Última modificación: RG 1129/2026 (BO 16/04/2026)
+Última modificación: RG 1149/2026 (BO 11/06/2026)
 Fuente: RG 1095/2025, art. 2°.
 
 ### SECCIÓN I — RÉGIMEN GENERAL.
@@ -39,13 +39,17 @@ ARTÍCULO 4°. – El Emisor tendrá la obligación de poner a disposición de c
 
 Si el Emisor decide no incorporar por referencia los documentos mencionados en los incisos del presente artículo, deberá anexarlos al Prospecto o Suplemento de Prospecto en todos los casos.
 
-ARTÍCULO 5°. –Los prospectos deberán contener la información especificada en los Anexos contenidos en este Capítulo o en el Capítulo pertinente.
+ARTÍCULO 5°.- Los prospectos y suplementos de prospecto deberán contener la información especificada en los Anexos contenidos en este Capítulo o en el Capítulo pertinente.
 
-En los Programas Globales deberá incluirse la información contenida en los Anexos I y II, relativo a: aviso a los inversores y declaraciones; oferta de los valores negociables; destino de fondos; gastos de emisión y accionistas vendedores, dilución, dividendos y Agentes pagadores.
+En los Programas Globales deberá incluirse la información contenida en los Anexos I y II, relativo a: aviso a los inversores y declaraciones, oferta de los valores negociables, destino de fondos, gastos de emisión y accionistas vendedores, dilución, dividendos y Agentes pagadores.
 
 En caso de tratarse de emisiones de valores negociables que no sean acciones, la información exigida para el Prospecto deberá adecuarse a la naturaleza del valor negociable en cuestión.
 
 Adicionalmente, para la emisión de obligaciones negociables destinados a proyectos SVS+, el Prospecto deberá incluir información que se encuentre en consonancia con los “Lineamientos para la Emisión de Valores Negociables Temáticos en Argentina”, conforme el Anexo III del Capítulo I del Título VI de estas Normas.
+
+Cuando en cualquier emisión los colocadores no cuenten con asesores legales independientes distintos de los asesores legales del Emisor, se deberá incluir un factor de riesgo alertando sobre la no contratación de asesores legales independientes. En el mismo se deberá advertir al público inversor que los colocadores, no han contratado asesores legales independientes de la Emisora para la revisión del Prospecto, Suplemento, o documento de oferta Definitivo que se trate, para la determinación y negociación de los términos y condiciones de los valores negociables ni para el resto de los aspectos legales y regulatorios vinculados con la oferta pública de los valores negociables objeto de la oferta y, recomendar a los inversores, consultar con sus propios asesores legales.
+
+[Artículo sustituido por art. 10 de la RG 1149/2026, BO 11/06/2026]
 
 INNECESARIEDAD DEL PROSPECTO.
 ARTÍCULO 6°. – No será necesaria la confección del Prospecto en los siguientes casos:

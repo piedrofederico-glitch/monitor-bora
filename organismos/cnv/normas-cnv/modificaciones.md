@@ -91,6 +91,11 @@ Archivo: `vigente/titulo-II/capitulo-V.md`
 | art. 82 (Secc. XI) | sustituye | RG 1145/2026 | 3° | 11/06/2026 |
 | art. 96 (Secc. XI) | sustituye | RG 1145/2026 | 4° | 11/06/2026 |
 | Secc. XVIII (completa) | incorpora | RG 1145/2026 | 5° | 11/06/2026 |
+| art. 14 (Secc. III), último párrafo | modifica parcialmente | RG 1149/2026 | 1° | 11/06/2026 |
+| art. 26 (Secc. IV) | sustituye | RG 1149/2026 | 2° | 11/06/2026 |
+| art. 28 (Secc. IV) | sustituye | RG 1149/2026 | 3° | 11/06/2026 |
+| art. 29 (Secc. IV) | sustituye | RG 1149/2026 | 3° | 11/06/2026 |
+| art. 41 (Secc. VI) | sustituye | RG 1149/2026 | 4° | 11/06/2026 |
 
 ## Título II, Capítulo VI
 Archivo: `vigente/titulo-II/capitulo-VI.md`
@@ -98,6 +103,9 @@ Archivo: `vigente/titulo-II/capitulo-VI.md`
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1095/2025 | 2° | 18/12/2025 |
+| art. 19 (Secc. III) | sustituye | RG 1149/2026 | 5° | 11/06/2026 |
+| art. 30 (Secc. III) | sustituye | RG 1149/2026 | 6° | 11/06/2026 |
+| art. 34 (Secc. III) | sustituye | RG 1149/2026 | 7° | 11/06/2026 |
 
 ## Título II, Capítulo VII
 Archivo: `vigente/titulo-II/capitulo-VII.md`
@@ -119,6 +127,8 @@ Archivo: `vigente/titulo-II/capitulo-VIII.md`
 | Secc. VI (completa) | incorpora | RG 1142/2026 | 3° | 01/06/2026 |
 | Secc. VII (completa) | incorpora | RG 1142/2026 | 3° | 01/06/2026 |
 | Anexo I | incorpora | RG 1142/2026 | 4° | 01/06/2026 |
+| art. 25 (Secc. III), último párrafo | modifica parcialmente | RG 1149/2026 | 8° | 11/06/2026 |
+| art. 42 (Secc. IV), último párrafo | modifica parcialmente | RG 1149/2026 | 9° | 11/06/2026 |
 
 ## Título II, Capítulo IX
 Archivo: `vigente/titulo-II/capitulo-IX.md`
@@ -130,6 +140,7 @@ Archivo: `vigente/titulo-II/capitulo-IX.md`
 | art. 8° (Secc. II) | sustituye | RG 1129/2026 | 2° | 16/04/2026 |
 | art. 9° (Secc. II) | sustituye | RG 1129/2026 | 2° | 16/04/2026 |
 | art. 10 (Secc. II) | sustituye | RG 1129/2026 | 2° | 16/04/2026 |
+| art. 5° (Secc. I) | sustituye | RG 1149/2026 | 10 | 11/06/2026 |
 
 ## Título II, Capítulo X
 Archivo: `vigente/titulo-II/capitulo-X.md`
@@ -413,6 +424,7 @@ Archivo: `vigente/titulo-XVI/capitulo-II.md`
 | capítulo completo | sustituye | RG 1112/2026 | 2° | 26/02/2026 |
 | Anexo IV | sustituye | RG 1140/2026 | 2° | 21/05/2026 |
 | Anexo II | sustituye | RG 1148/2026 | 3° | 11/06/2026 |
+| Anexo I | sustituye | RG 1149/2026 | 11 | 11/06/2026 |
 
 ## Título XVII, Capítulo I
 Archivo: `vigente/titulo-XVII/capitulo-I.md`
@@ -432,6 +444,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-I.md`
 | Secc. IV (completa) | incorpora | RG 1095/2025 | 3° | 18/12/2025 |
 | Secc. V (completa) | incorpora | RG 1095/2025 | 3° | 18/12/2025 |
 | capítulo completo | sustituye | RG 1099/2025 | 2° | 26/12/2025 |
+| Secc. V (completa) | incorpora | RG 1149/2026 | 12 | 11/06/2026 |
 
 ## Título XVIII, Capítulo II
 Archivo: `vigente/titulo-XVIII/capitulo-II.md`

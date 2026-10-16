@@ -638,3 +638,19 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > ARTÍCULO 21.- Supletoriamente, respecto a las cuestiones no contempladas en este Capítulo, serán de aplicación las disposiciones establecidas para el resto de las Emisoras en el Capítulo V del presente Título.
 >
 > [Capítulo sustituido por art. 2° de la RG 1095/2025, BO 18/12/2025]
+
+## Artículo 25 (Sección III) — fragmento
+- Vigente desde: 02/06/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 11/06/2026
+- Sustituido/suprimido parcialmente por: RG 1149/2026, art. 8°
+- Texto:
+
+> Las modificaciones de términos y condiciones del CEDEAR o los aumentos de monto se considerarán autorizados automáticamente una vez acompañada la documentación mencionada en los puntos anteriores, a través de la plataforma TAD y abonado el arancel de autorización, cuando así corresponda.
+
+## Artículo 42 (Sección IV) — fragmento
+- Vigente desde: 02/06/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 11/06/2026
+- Sustituido/suprimido parcialmente por: RG 1149/2026, art. 9°
+- Texto:
+
+> Las modificaciones de términos y condiciones del CEVA o los aumentos de monto se considerarán automáticamente autorizadas una vez acompañada la documentación mencionada precedentemente, mediante TAD y abonado el arancel de autorización, cuando así corresponda.

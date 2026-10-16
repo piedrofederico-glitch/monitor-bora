@@ -234,3 +234,51 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > 4.- Autorización de rescates en especies de FCI abiertos, en los términos indicados en la normativa vigente.
 >
 > 5.- Cancelación parcial de oferta pública de cuotapartes de Fondos Comunes de Inversión Cerrados rescatadas con anterioridad al vencimiento del plazo de duración del Fondo.
+
+## Anexo I
+- Vigente desde: 27/02/2026
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1149/2026, art. 11
+- Texto:
+
+> ### ANEXO I FACULTADES DELEGADAS EN LA GERENCIA DE EMISORAS.
+>
+> 1.- Aplicación de advertencias a los sujetos sometidos a su fiscalización, por nota dirigida a los órganos de administración y de fiscalización y, por única vez, respecto de cada infracción en cuestión, por incumplimientos de tipo formal, o falta de cumplimiento inmediato de intimación para la adecuación de cuestiones que le fueron observadas.
+>
+> Facultades delegadas en la Gerencia y en las Subgerencias de la Gerencia de Emisoras:
+>
+> 1.- Autorización de cambio de denominación de CEDEAR y de CEVA.
+>
+> 2.- Autorización de transferencia de oferta pública por cambio de las características o identificación de los valores negociables con oferta pública o de cambio de características de subyacentes de CEDEAR y de CEVA.
+>
+> 3.- Autorización de modificación de términos y condiciones de los CEDEAR y de CEVA, la modificación de ratios, o cualquier otra modificación dispuesta por decisión del Emisor o como consecuencia de eventos corporativos ocurridos en relación con el subyacente.
+>
+> 4.- Autorización de aumentos de montos máximos de CEDEAR y CEVA.
+>
+> 5.- Cancelación parcial de oferta pública respecto del monto de los valores negociables no colocados o de montos máximos autorizados de CEDEAR y de CEVA.
+>
+> 6.- Inscripción y baja en el Registro de Emisor Frecuente y autorización para realizar oferta pública en el marco de dicho régimen.
+>
+> 7.- Autorización de prórroga de plazo de vigencia o aumento de monto de Programas de ON u otros programas de valores negociables previstos en los Capítulos V y VI del Título II de estas Normas.
+>
+> 8.- Autorización de modificación de términos y condiciones de Programas de ON u otros programas de valores negociables previstos en los Capítulos V y VI del Título II de estas Normas.
+>
+> 9.- Autorización de emisión de clases o series de valores negociables dentro de los Programas.
+>
+> 10.- Autorización de actualización de Prospectos.
+>
+> 11.- Autorización de emisión de clases o series bajo Programas correspondientes a PyMEs CNV o emisiones autónomas de las mismas.
+>
+> 12.- Autorización de cancelación o retiro del Régimen de Oferta Pública de PyMEs CNV por ON, PyMES Garantizadas, ON u otros Programas de valores negociables, en casos de inexistencia de valores negociables en circulación o Programas vigentes, en su caso.
+>
+> 13.- Aprobación de Prospectos en el marco de procesos de reorganización societaria (fusión, escisión o disolución anticipada).
+>
+> 14.- Autorización de la representación digital de acciones, obligaciones negociables CEDEAR o CEVA, cuya autorización de oferta pública se encuentre delegada en la Gerencia y Subgerencias de la Gerencia de Emisoras.
+>
+> 15.- Autorización de conversión automática de acciones de una clase u otra.
+>
+> 16.- Autorización de oferta pública de acciones liberadas a ser emitidas por capitalización de ajuste de capital, pago de dividendos en acciones y capitalización de reservas u otras cuentas contables.
+>
+> 17.- Autorización para que un ADCVN o una entidad bancaria, lleve el registro escritural de valores negociables.
+>
+> 18.- Autorización para la impresión de láminas con firma facsimilar.

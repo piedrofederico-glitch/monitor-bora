@@ -1469,3 +1469,17 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > En caso de haberse brindado información general al público sobre la base del Prospecto preliminar, la Emisora o las instituciones seleccionadas para la colocación deberán asegurar (con adecuada antelación a la colocación por oferta pública de la emisión) la difusión de la información del Prospecto definitivo en condiciones idénticas a la otorgada al Prospecto preliminar, en la AIF y en los sistemas de información de los Mercados donde negocien.
 >
 > No será necesario hacer referencia en el Prospecto al precio de colocación cuando el mismo no hubiera sido determinado a la fecha de la distribución antes referida.
+
+## Artículo 5 (Sección I)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1149/2026, art. 10
+- Texto:
+
+> ARTÍCULO 5°. –Los prospectos deberán contener la información especificada en los Anexos contenidos en este Capítulo o en el Capítulo pertinente.
+>
+> En los Programas Globales deberá incluirse la información contenida en los Anexos I y II, relativo a: aviso a los inversores y declaraciones; oferta de los valores negociables; destino de fondos; gastos de emisión y accionistas vendedores, dilución, dividendos y Agentes pagadores.
+>
+> En caso de tratarse de emisiones de valores negociables que no sean acciones, la información exigida para el Prospecto deberá adecuarse a la naturaleza del valor negociable en cuestión.
+>
+> Adicionalmente, para la emisión de obligaciones negociables destinados a proyectos SVS+, el Prospecto deberá incluir información que se encuentre en consonancia con los “Lineamientos para la Emisión de Valores Negociables Temáticos en Argentina”, conforme el Anexo III del Capítulo I del Título VI de estas Normas.

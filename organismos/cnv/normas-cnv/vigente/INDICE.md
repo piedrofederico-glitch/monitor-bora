@@ -18,11 +18,11 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y REUNIONES DE OTROS ÓRGANOS SOCIALES. MODIFICACIONES ESTATUTARIAS O DE CONDICIONES DE EMISIÓN. ASAMBLEAS A DISTANCIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-III.md`](titulo-II/capitulo-III.md) | Título II — Capítulo III: ÓRGANOS DE ADMINISTRACIÓN Y FISCALIZACIÓN. AUDITORÍA EXTERNA. | RG 1127/2026 (BO 09/04/2026) |
 | [`titulo-II/capitulo-IV.md`](titulo-II/capitulo-IV.md) | Título II — Capítulo IV: FISCALIZACIÓN SOCIETARIA | RG 1127/2026 (BO 09/04/2026) |
-| [`titulo-II/capitulo-V.md`](titulo-II/capitulo-V.md) | Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA | RG 1145/2026 (BO 11/06/2026) |
-| [`titulo-II/capitulo-VI.md`](titulo-II/capitulo-VI.md) | Título II — Capítulo VI: PEQUEÑAS Y MEDIANAS EMPRESAS | RG 1095/2025 (BO 18/12/2025) |
+| [`titulo-II/capitulo-V.md`](titulo-II/capitulo-V.md) | Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA | RG 1149/2026 (BO 11/06/2026) |
+| [`titulo-II/capitulo-VI.md`](titulo-II/capitulo-VI.md) | Título II — Capítulo VI: PEQUEÑAS Y MEDIANAS EMPRESAS | RG 1149/2026 (BO 11/06/2026) |
 | [`titulo-II/capitulo-VII.md`](titulo-II/capitulo-VII.md) | Título II — Capítulo VII: ENTIDADES DE GARANTÍA | RG 1095/2025 (BO 18/12/2025) |
-| [`titulo-II/capitulo-VIII.md`](titulo-II/capitulo-VIII.md) | Título II — Capítulo VIII: EMISORAS EXTRANJERAS. CERTIFICADOS DE DEPÓSITO Y DE VALORES (CEDEARS Y CEVA). CERTIFICADOS DE DEPÓSITO EN CUSTODIA. | RG 1142/2026 (BO 01/06/2026) |
-| [`titulo-II/capitulo-IX.md`](titulo-II/capitulo-IX.md) | Título II — Capítulo IX: PROSPECTO | RG 1129/2026 (BO 16/04/2026) |
+| [`titulo-II/capitulo-VIII.md`](titulo-II/capitulo-VIII.md) | Título II — Capítulo VIII: EMISORAS EXTRANJERAS. CERTIFICADOS DE DEPÓSITO Y DE VALORES (CEDEARS Y CEVA). CERTIFICADOS DE DEPÓSITO EN CUSTODIA. | RG 1149/2026 (BO 11/06/2026) |
+| [`titulo-II/capitulo-IX.md`](titulo-II/capitulo-IX.md) | Título II — Capítulo IX: PROSPECTO | RG 1149/2026 (BO 11/06/2026) |
 | [`titulo-II/capitulo-X.md`](titulo-II/capitulo-X.md) | Título II — Capítulo X: REORGANIZACIÓN SOCIETARIA | RG 1095/2025 (BO 18/12/2025) |
 
 ## Título III — RETIRO DE LA OFERTA PÚBLICA. CANCELACIONES.OFERTA PÚBLICA DE ADQUISICIÓN. APORTES IRREVOCABLES
@@ -145,7 +145,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-XVI/capitulo-I.md`](titulo-XVI/capitulo-I.md) | Título XVI — Capítulo I: NOTIFICACIONES. OTRAS DISPOSICIONES. | RG 1147/2026 (BO 11/06/2026) |
-| [`titulo-XVI/capitulo-II.md`](titulo-XVI/capitulo-II.md) | Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS. | RG 1148/2026 (BO 11/06/2026) |
+| [`titulo-XVI/capitulo-II.md`](titulo-XVI/capitulo-II.md) | Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS. | RG 1149/2026 (BO 11/06/2026) |
 
 ## Título XVII — TASAS DE FISCALIZACIÓN Y CONTROL- ARANCELES DE AUTORIZACIÓN
 
@@ -157,7 +157,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XVIII/capitulo-I.md`](titulo-XVIII/capitulo-I.md) | Título XVIII — Capítulo I: EMISORAS | RG 1099/2025 (BO 26/12/2025) |
+| [`titulo-XVIII/capitulo-I.md`](titulo-XVIII/capitulo-I.md) | Título XVIII — Capítulo I: EMISORAS | RG 1149/2026 (BO 11/06/2026) |
 | [`titulo-XVIII/capitulo-II.md`](titulo-XVIII/capitulo-II.md) | Título XVIII — Capítulo II: PRODUCTOS DE INVERSIÓN COLECTIVA. FIDEICOMISOS FINANCIEROS. | RG 1146/2026 (BO 11/06/2026) |
 | [`titulo-XVIII/capitulo-III.md`](titulo-XVIII/capitulo-III.md) | Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN. | RG 1148/2026 (BO 11/06/2026) |
 | [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1120/2026 (BO 13/03/2026) |

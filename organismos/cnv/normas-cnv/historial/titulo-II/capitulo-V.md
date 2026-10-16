@@ -2448,3 +2448,64 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > 3. En cualquier caso, quedarán exceptuadas del pago el arancel mencionado en el artículo 97 de la presente Sección.
 >
 > 4. No podrán emitirse bajo este Régimen Obligaciones Negociables PyME CNV GARANTIZADA, ni acceder al beneficio del monto ampliado del artículo 74 precedente previsto para aquellas.
+
+## Artículo 26 (Sección IV)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1149/2026, art. 2°
+- Texto:
+
+> PROSPECTO Y SUPLEMENTOS.
+> ARTÍCULO 26.- Las Emisoras deberán publicar en la AIF el documento definitivo confeccionado según los Anexos I y II del Capítulo IX del presente Título. Si correspondiese requerir la autorización previa de estos documentos, la presentación se efectuará previamente a través de la plataforma TAD y su publicación una vez obtenida la conformidad de la CNV.
+>
+> La actualización del Prospecto como consecuencia de la aprobación de EEFF correspondientes a un nuevo ejercicio anual será optativa. En caso de que la Emisora opte por la actualización del Prospecto, deberá acompañar un informe de contador público independiente que emita opinión sobre la información contenida en dicho documento.
+>
+> El Prospecto del Programa deberá especificar de manera global los términos y condiciones y el marco general de condiciones de emisión de las series o clases a emitir. Cuando el Programa prevea la posibilidad de emitir bajo los Lineamientos para la Emisión de Valores Negociables Temáticos, deberá incluirse la información general de los términos y condiciones que luego constarán detalladamente expuestos en los Suplementos de las clases o series a emitir bajo el Programa.
+>
+> En caso de emisiones adicionales a las clases o series emitidas, deberá cumplir con los mismos requisitos e información a los cumplimentados en oportunidad de la emisión inicial.
+>
+> Los Prospectos se considerarán aprobados si:
+>
+> 1. Dentro de los DIEZ (10) días hábiles de presentados para su aprobación, la CNV no exigiere documentación adicional o no manifestare objeciones; o
+>
+> 2. Cuando dentro de los DIEZ (10) días hábiles posteriores a la presentación de la documentación adicional requerida por la CNV, ésta no exigiere nueva documentación adicional o no manifestare nuevas objeciones.
+>
+> Mientras la Emisora haya optado por no actualizar el Prospecto, los Suplementos de las clases o series deberán contener la totalidad de la información actualizada que corresponda.
+
+## Artículo 28 (Sección IV)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1149/2026, art. 3°
+- Texto:
+
+> ARTÍCULO 28.- En oportunidad de aprobarse un aumento de monto o la prórroga de vigencia del plazo o una modificación de los términos y condiciones del Programa, la Emisora deberá tramitar la respectiva solicitud de autorización y acompañar copia de las actas de los órganos que así lo resolvieron, e ingresar mediante la AIF el documento confeccionado según el Anexos I del Capítulo IX del presente Título para la aprobación por la Comisión, en el que se detallen únicamente los cambios introducidos al Programa, en forma clara y precisa, para su difusión por los mismos medios de publicidad del Prospecto.
+>
+> Asimismo, en los supuestos en que la Emisora gestione aumentos o modificaciones posteriores y mientras opte por no actualizar el Prospecto, deberá incluir, en su caso, toda la información pertinente, incluyendo cualquier cambio sustancial o variación significativa en su situación patrimonial, económica o financiera, en los suplementos de las clases o series que se emitan.
+
+## Artículo 29 (Sección IV)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1149/2026, art. 3°
+- Texto:
+
+> PLAZO DE OTORGAMIENTO DE LA AUTORIZACIÓN.
+> ARTÍCULO 29.- La autorización del Programa o de las modificaciones, aumentos o prórrogas, se entenderá concedida cuando:
+>
+> 1. Dentro de los DIEZ (10) días hábiles de presentada la documentación, la CNV no exigiere documentación adicional o no manifestare objeciones, o
+>
+> 2. Dentro de los DIEZ (10) días hábiles posteriores a la presentación de la información adicional requerida por la CNV, ésta no hubiese exigido nueva documentación adicional o no manifestare nuevas objeciones.
+>
+> En caso de vencimiento de los plazos indicados anteriormente, la Emisora podrá optar por la publicación directamente en la AIF bajo su responsabilidad, haciéndole saber tal circunstancia al Mercado en que listen y/o negocien dichos valores negociables, o contar con la autorización expresa de la CNV.
+
+## Artículo 41 (Sección VI)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1149/2026, art. 4°
+- Texto:
+
+> ACTUALIZACIÓN DEL PROSPECTO Y MANTENIMIENTO DE LA CONDICIÓN EF.
+> ARTÍCULO 41.- El EF mantendrá vigente su condición mientras cumpla los requisitos establecidos en esta Sección, sin necesidad de ratificación periódica. La CNV en ejercicio de sus facultades de supervisión, podrá:
+>
+> 1. Requerir información adicional o documentación específica ante circunstancias excepcionales que lo justifiquen; o
+>
+> 2. Dar de baja la condición de EF por incumplimiento de los requisitos para su permanencia. La actualización del Prospecto será optativa, y podrá ser realizada mediante la presentación de un nuevo documento ante la CNV, para su autorización.

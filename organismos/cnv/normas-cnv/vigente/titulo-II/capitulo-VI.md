@@ -1,5 +1,5 @@
 # Título II — Capítulo VI: PEQUEÑAS Y MEDIANAS EMPRESAS
-Última modificación: RG 1095/2025 (BO 18/12/2025)
+Última modificación: RG 1149/2026 (BO 11/06/2026)
 Fuente: RG 1095/2025, art. 2°.
 
 ### SECCIÓN I — DEFINICIÓN
@@ -158,9 +158,11 @@ Bajo un mismo Programa Global se podrá contemplar la posibilidad de emitir clas
 
 En dicho caso el Programa Global deberá definir el monto máximo de emisión que corresponderá a cada uno de los regímenes mencionados.
 
-ARTÍCULO 19.- Las emisiones de series o clases sucesivas bajo el Programa Global deberán ser previamente autorizadas por esta Comisión, de conformidad con lo dispuesto en el artículo 1° del Capítulo II del Título XVI de estas Normas.
+ARTÍCULO 19.- La autorización de las series o clases que se emitan bajo el Programa Global se considerarán comprendidas dentro de la autorización original otorgada a dicho Programa, debiendo cumplirse con el régimen de presentación y publicación previsto en el Capítulo V del Título II de estas Normas. La presente disposición será aplicable a todos los programas globales vigentes, así como a los que se autoricen en el futuro.
 
-En todos los casos, los valores negociables deberán emitirse con un plazo de amortización no inferior a SIETE (7) días hábiles e indicarse en el Prospecto del Programa Global el plazo máximo y mínimo de amortización que podrán tener las series o clases que se emitan bajo dicho Programa.
+En todos los casos, los valores negociables deberán emitirse con un plazo de amortización no inferior a TREINTA (30) días corridos debiendo indicar en el Prospecto del Programa Global el plazo máximo y mínimo de amortización que podrán tener las series o clases que se emitan bajo dicho Programa
+
+[Artículo sustituido por art. 5° de la RG 1149/2026, BO 11/06/2026]
 
 ARTÍCULO 20.- Las emisiones de obligaciones negociables, sean autónomas o bajo la forma de Programas, podrán denominarse en UVA o UVI, de conformidad con lo establecido por el BCRA en las Comunicaciones “A” 5945 y “A” 6069, sus modificatorias y complementarias. Dichos valores negociables deberán emitirse con un plazo de amortización no inferior a DOS (2) años contados desde la fecha de emisión.
 
@@ -225,9 +227,9 @@ Cuando junto con el aumento o prórroga o las modificaciones, se opte por actual
 Una vez autorizado deberá difundirse a través de la AIF de conformidad con lo dispuesto en el artículo 11 del Capítulo I del Título XV de estas Normas y por los mismos medios utilizados para la difusión del Prospecto.
 
 ACTUALIZACIÓN DE PROSPECTO.
-ARTÍCULO 30.- La actualización del Prospecto como consecuencia de la aprobación de EEFF correspondientes a un nuevo ejercicio anual, será optativa.
+ARTÍCULO 30.- La actualización del Prospecto, como consecuencia de la aprobación de EEFF correspondientes a un nuevo ejercicio anual, modificación de términos y condiciones o aumentos o disminución de monto deberá seguirse el procedimiento descripto en los artículos 26 y 28 del Capítulo V del Título II de estas Normas
 
-En caso de que la Emisora opte por la actualización del Prospecto, deberá acompañar un informe de contador público independiente que emita opinión, en lo que atañe a su competencia, sobre la información contenida en dicho documento.
+[Artículo sustituido por art. 6° de la RG 1149/2026, BO 11/06/2026]
 
 EMISIÓN DE SERIES O CLASES BAJO EL PROGRAMA GLOBAL. SOLICITUD DE AUTORIZACIÓN
 ARTÍCULO 31.- Para la emisión de series o clases bajo el Programa Global deberá acompañarse, a través de la AIF y de la plataforma TAD, la totalidad de la documentación indicada seguidamente:
@@ -279,7 +281,9 @@ PLAZO DE DIFUSIÓN.
 ARTÍCULO 33.- La publicación del Prospecto o Suplemento de Prospecto o adenda, en su versión definitiva, y toda otra documentación complementaria exigida por estas Normas, deberá realizarse por un plazo mínimo de UN (1) día hábil, siempre que la documentación haya sido publicada antes de las DIEZ (10) horas de la mañana del mismo día, de lo contrario el período de difusión deberá ser extendido como mínimo al día hábil siguiente, cumpliendo los requisitos previstos en los artículos 8º de la Sección II y 11 de la Sección III, del Capítulo IV del Título VI de estas Normas.
 
 EMISIÓN DE SERIES O CLASES. DOCUMENTACIÓN POSTERIOR A LA COLOCACIÓN.
-ARTÍCULO 34.- Deberá acompañarse la documentación mencionada en el artículo 17 del presente Capítulo en los plazos allí indicados, y los formularios establecidos en el Capítulo I del Título XV de estas Normas, aplicable al Régimen PyME CNV.
+ARTÍCULO 34.- Deberá acompañarse la documentación mencionada en el artículo 17 del presente Capítulo, dentro de los CINCO (5) días de colocada la clase o serie bajo el Programa Global, y los formularios establecidos en el Capítulo I del Título XV de estas Normas, aplicable al Régimen PyME CNV en la forma especificada en el mencionado Título
+
+[Artículo sustituido por art. 7° de la RG 1149/2026, BO 11/06/2026]
 
 DESTINO DE FONDOS.
 ARTÍCULO 35.- Serán de aplicación al Régimen PyME CNV las disposiciones establecidas en el artículo 15 de la Sección III del Capítulo V del presente Título.

@@ -1,5 +1,5 @@
 # Título II — Capítulo VIII: EMISORAS EXTRANJERAS. CERTIFICADOS DE DEPÓSITO Y DE VALORES (CEDEARS Y CEVA). CERTIFICADOS DE DEPÓSITO EN CUSTODIA.
-Última modificación: RG 1142/2026 (BO 01/06/2026)
+Última modificación: RG 1149/2026 (BO 11/06/2026)
 Fuente: RG 1095/2025, art. 2°.
 
 ### SECCIÓN I — OFERTA PÚBLICA DE VALORES NEGOCIABLES DE EMISORES EXTRANJEROS.
@@ -359,7 +359,9 @@ La DDJJ podrá ser sustituida por opinión legal externa del país del Emisor em
 
 7. Prospecto conforme lo indicado en el Anexo I del presente Capítulo.
 
-Las modificaciones de términos y condiciones del CEDEAR o los aumentos de monto se considerarán autorizados automáticamente una vez acompañada la documentación mencionada en los puntos anteriores, a través de la plataforma TAD y abonado el arancel de autorización, cuando así corresponda.
+Las modificaciones de términos y condiciones del CEDEAR o los aumentos de monto se considerarán autorizados automáticamente una vez acompañada la documentación mencionada en los puntos anteriores, a través de la plataforma TAD. Dentro de los CINCO (5) días hábiles de efectuada la publicación del documento en la AIF deberá acreditarse el pago del arancel previsto en el Título XVII de estas Normas, cuando corresponda.
+
+[Último párrafo sustituido por art. 8° de la RG 1149/2026, BO 11/06/2026]
 
 DEPÓSITO Y CUSTODIA DE LOS SUBYACENTES.
 ARTÍCULO 26.- Los subyacentes de los CEDEAR deberán estar depositados y custodiados en:
@@ -571,7 +573,9 @@ La solicitud de aprobación deberá presentarse ante la CNV acompañando:
 
 8. Acompañar, toda otra información o documentación que vaya a ser presentada, exhibida, ofrecida o de otra forma publicitada al público inversor en el marco de los procedimientos de colocación de los CEVA.
 
-Las modificaciones de términos y condiciones del CEVA o los aumentos de monto se considerarán automáticamente autorizadas una vez acompañada la documentación mencionada precedentemente, mediante TAD y abonado el arancel de autorización, cuando así corresponda.
+Las modificaciones de términos y condiciones del CEVA o los aumentos de monto se considerarán automáticamente autorizadas una vez acompañada la documentación mencionada precedentemente, mediante TAD. Dentro de los CINCO (5) días hábiles de efectuada la publicación del documento en la AIF deberá acreditarse el pago del arancel previsto en el Título XVII de estas Normas, cuando así corresponda.
+
+[Último párrafo sustituido por art. 9° de la RG 1149/2026, BO 11/06/2026]
 
 DEPÓSITO DE LOS SUBYACENTES.
 ARTÍCULO 43.- Los valores negociables subyacentes de los CEVA deberán, cuando corresponda, depositarse en un ADCVN o un ACRyP según sea el caso, a través de un depositante autorizado a tal efecto.

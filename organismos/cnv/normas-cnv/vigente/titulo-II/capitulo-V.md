@@ -1,5 +1,5 @@
 # Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA
-Última modificación: RG 1145/2026 (BO 11/06/2026)
+Última modificación: RG 1149/2026 (BO 11/06/2026)
 Fuente: RG 1095/2025, art. 2°.
 
 [Expresiones reemplazadas en este archivo (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”; 5 ocurrencias) por art. 7° de la RG 1131/2026, BO 29/04/2026]
@@ -186,6 +186,10 @@ Otros gastos
 
 Costo Total (CFT) en %
 
+Será aplicable a las modificaciones de términos y condiciones de emisión de ON autónomas, así como a los aumentos de montos, el procedimiento de autorización automática y a las demás disposiciones previstas en el artículo 28 del presente Capítulo, con las adecuaciones pertinentes en función de las características propias de una emisión autónoma
+
+[Último párrafo incorporado por art. 1° de la RG 1149/2026, BO 11/06/2026]
+
 PLAN DE AFECTACIÓN DE FONDOS. ACREDITACIÓN.
 ARTÍCULO 15.- Las entidades deberán especificar en oportunidad de cada emisión, en forma abierta por categoría de destinos y una indicación porcentual estimada entre categorías, y con indicación del plazo estimado en que se efectuará la aplicación de los fondos de conformidad con lo previsto en el artículo 36 de la Ley de Obligaciones Negociables.
 
@@ -263,12 +267,10 @@ ARTÍCULO 25.- Toda emisión bajo un Programa Global deberá efectuarse dentro d
 
 La prórroga del Programa Global deberá ser resuelta por la asamblea o por el órgano competente conforme el estatuto o contrato constitutivo de la entidad, con anterioridad a la fecha de vencimiento del mismo.
 
-PROSPECTO Y SUPLEMENTOS.
-ARTÍCULO 26.- Las Emisoras deberán publicar en la AIF el documento definitivo confeccionado según los Anexos I y II del Capítulo IX del presente Título. Si correspondiese requerir la autorización previa de estos documentos, la presentación se efectuará previamente a través de la plataforma TAD y su publicación una vez obtenida la conformidad de la CNV.
+PROCEDIMIENTO DE AUTORIZACIÓN DE LOS PROGRAMAS.
+ARTÍCULO 26.- Las Emisoras deberán publicar en la AIF el documento definitivo confeccionado según los Anexos I y II del Capítulo IX del presente Título. El trámite deberá ser realizado mediante la previa presentación a través de la plataforma TAD y de corresponder, una vez obtenida la conformidad de la CNV.
 
-La actualización del Prospecto como consecuencia de la aprobación de EEFF correspondientes a un nuevo ejercicio anual será optativa. En caso de que la Emisora opte por la actualización del Prospecto, deberá acompañar un informe de contador público independiente que emita opinión sobre la información contenida en dicho documento.
-
-El Prospecto del Programa deberá especificar de manera global los términos y condiciones y el marco general de condiciones de emisión de las series o clases a emitir. Cuando el Programa prevea la posibilidad de emitir bajo los Lineamientos para la Emisión de Valores Negociables Temáticos, deberá incluirse la información general de los términos y condiciones que luego constarán detalladamente expuestos en los Suplementos de las clases o series a emitir bajo el Programa.
+El Prospecto del Programa deberá especificar de manera global los términos y condiciones y el marco general de condiciones de emisión de las series o clases a emitir. Cuando el Programa prevea la posibilidad de emitir bajo los Lineamientos para la Emisión de Valores Negociables Temáticos, deberá incluirse la información general de los términos y condiciones que luego constarán detalladamente expuestos en los suplementos de las clases o series a emitir bajo el Programa.
 
 En caso de emisiones adicionales a las clases o series emitidas, deberá cumplir con los mismos requisitos e información a los cumplimentados en oportunidad de la emisión inicial.
 
@@ -276,27 +278,65 @@ Los Prospectos se considerarán aprobados si:
 
 1. Dentro de los DIEZ (10) días hábiles de presentados para su aprobación, la CNV no exigiere documentación adicional o no manifestare objeciones; o
 
-2. Cuando dentro de los DIEZ (10) días hábiles posteriores a la presentación de la documentación adicional requerida por la CNV, ésta no exigiere nueva documentación adicional o no manifestare nuevas objeciones.
+2. cuando dentro de los DIEZ (10) días hábiles posteriores a la presentación de la documentación adicional requerida por la CNV, ésta no exigiere nueva documentación adicional o no manifestare objeciones.
 
-Mientras la Emisora haya optado por no actualizar el Prospecto, los Suplementos de las clases o series deberán contener la totalidad de la información actualizada que corresponda.
+Como consecuencia de la aprobación de EEFF correspondientes a un nuevo ejercicio anual, la Emisora podrá optar por actualizar o no el Prospecto.
+
+En caso de haber optado por no actualizar el Prospecto, los suplementos de las clases o series deberán contener la totalidad de la información actualizada que corresponda, en los términos del Capítulo IX del presente Título.
+
+En caso de que la Emisora opte por la actualización del Prospecto, la misma deberá presentarse, acompañada del acta del órgano de administración o del subdelegado que apruebe la versión definitiva del Prospecto actualizado, a través de la plataforma TAD al sólo efecto de tomar conocimiento la CNV (sin requerirse aprobación previa o posterior, sin perjuicio de las facultades de fiscalización de la CNV) y difundirse de manera inmediata en la AIF y en el Mercado donde listen los valores, a través del acceso específico de Prospecto y Suplemento de Prospecto y en los mercados donde listen los valores negociables, sin necesidad de conformidad ni pronunciamiento previo de la CNV.
+
+La publicación del Suplemento de Prospecto se considerará definitiva a todos los efectos regulatorios desde su publicación en la AIF y contará con autorización automática de oferta pública.
+
+La actualización del Prospecto deberá incluir, además de lo dispuesto en el Capítulo IX del Título II de estas Normas, en forma destacada la siguiente leyenda: “AUTORIZACIÓN AUTOMÁTICA DE ….(completar el tipo de documento). El presente documento no ha sido objeto de aprobación ni pronunciamiento previo por parte de la Comisión Nacional de Valores. La veracidad, suficiencia e integridad de la información contenida en el presente documento es de exclusiva responsabilidad de la Emisora, y en lo que les atañe de la comisión fiscalizadora, del auditor y de los demás sujetos firmantes del mismo”.
+
+La veracidad, suficiencia e integridad de la información contenida en la actualización del Prospecto será responsabilidad exclusiva de la Emisora, de los miembros de sus órganos de administración y fiscalización, y de los demás sujetos firmantes, en los términos de la Ley de Mercado de Capitales, y de lo dispuesto en el Capítulo IX del presente Título.
+
+Dentro de los CINCO (5) días hábiles de efectuada la publicación en la AIF deberá acompañarse a través de la plataforma TAD, el informe de contador público independiente que emita opinión sobre la información contenida en el Prospecto actualizado.
+
+La inclusión de estipulaciones que alteren, condicionen o desnaturalicen los términos y condiciones de emisión bajo la apariencia de actualización del Prospecto será considerada ineficaz a los efectos de su aplicabilidad dentro de los términos y condiciones del Programa, y será motivo de un incumplimiento a las presentes Normas, sin perjuicio de las responsabilidades que pudieran corresponder.
+
+La reiteración de modificaciones por causas imputables a la Emisora, relativas a inconsistencias, inexactitudes o errores contenidos en la publicación efectuada en la AIF,
+
+será pasible de las medidas disciplinarias que correspondan, respecto de la Emisora, y los responsables firmantes de dicho Prospecto. A los fines de este párrafo se considera un supuesto de reiteración cuando una Emisora publique más de DOS (2) modificaciones a través de una adenda o suplemento modificatorio, a un prospecto en el plazo de TREINTA (30) días corridos, sin que medien circunstancias que así lo justifiquen.
+
+Mientras la Emisora haya optado por no actualizar el Prospecto, los suplementos de las clases o series deberán contener la totalidad de la información actualizada que corresponda.
+
+Con carácter excepcional, la CNV se reserva el derecho de requerir en cualquier momento la actualización del Prospecto o la inclusión de información que considere necesaria en resguardo de la transparencia y suficiencia de la información para el público inversor tanto en el Prospecto como en los suplementos de prospecto, o de clases o series.
+
+Los prospectos y los suplementos de prospecto que no requieran la autorización de la CNV (previa o posterior), se considerarán aprobados en forma automática con la presentación de la documentación mencionada en el presente artículo
+
+[Artículo sustituido por art. 2° de la RG 1149/2026, BO 11/06/2026]
 
 SUPLEMENTO DE PROSPECTO.
 ARTÍCULO 27.- La Emisora deberá ingresar a través del acceso correspondiente de la AIF, un Suplemento del Prospecto, con cada emisión de clases o series dentro del marco del Programa Global, confeccionado según el Anexo II del Capítulo IX del presente Título.
 
 El Suplemento deberá contener una declaración de la Emisora conforme el siguiente texto: “La Emisora asume expresamente la responsabilidad por las declaraciones realizadas en los prospectos y suplementos de prospectos, y por la completitud en la divulgación de los riesgos involucrados y la situación actualizada de la Emisora, incluyendo toda información que cualquier inversor razonable debe conocer para adoptar decisiones fundadas respecto de la colocación y posterior negociación de la serie o clase a emitir. Declara, bajo juramento, que los datos consignados en el Suplemento son correctos y completos, que no se ha omitido ni falseado dato alguno que deba contener, y que el contenido del mismo constituye fiel expresión de la verdad. La Emisora asume explícitamente la responsabilidad por las declaraciones realizadas en los prospectos y suplementos de prospecto y sobre la completitud en la divulgación de los riesgos involucrados y la situación de la Emisora, las que se basan en la información disponible y en las estimaciones razonables de la administración. La Emisora manifiesta conocer las penalidades previstas por los artículos 172, 293 y 309 del Código Penal de la Nación Argentina, relativas al fraude y a la falsedad en documentos, respectivamente”.
 
-ARTÍCULO 28.- En oportunidad de aprobarse un aumento de monto o la prórroga de vigencia del plazo o una modificación de los términos y condiciones del Programa, la Emisora deberá tramitar la respectiva solicitud de autorización y acompañar copia de las actas de los órganos que así lo resolvieron, e ingresar mediante la AIF el documento confeccionado según el Anexos I del Capítulo IX del presente Título para la aprobación por la Comisión, en el que se detallen únicamente los cambios introducidos al Programa, en forma clara y precisa, para su difusión por los mismos medios de publicidad del Prospecto.
+ARTÍCULO 28.- En oportunidad de aprobarse por el órgano competente de la Emisora, un aumento o disminución de monto, o la prórroga de vigencia del plazo, o una modificación de los términos y condiciones del Programa, la Emisora deberá acompañar copia de las actas de los órganos que así lo resolvieron, así como el documento correspondiente a publicar en la AIF , al solo efecto de su toma de conocimiento por parte de la CNV (sin que ello implique requerir aprobación previa o posterior, y sin perjuicio de las facultades de fiscalización de la CNV).En el documento mencionado, se detallará únicamente los cambios introducidos al Programa, en forma clara y precisa, para su difusión por los mismos medios de publicidad del Prospecto. Dentro de los CINCO (5) días hábiles de efectuada la publicación del documento en la AIF deberá acreditarse el pago del arancel previsto en el Título XVII de estas Normas.
 
 Asimismo, en los supuestos en que la Emisora gestione aumentos o modificaciones posteriores y mientras opte por no actualizar el Prospecto, deberá incluir, en su caso, toda la información pertinente, incluyendo cualquier cambio sustancial o variación significativa en su situación patrimonial, económica o financiera, en los suplementos de las clases o series que se emitan.
 
-PLAZO DE OTORGAMIENTO DE LA AUTORIZACIÓN.
-ARTÍCULO 29.- La autorización del Programa o de las modificaciones, aumentos o prórrogas, se entenderá concedida cuando:
+No será necesario un aumento del monto del Programa Global cuando la emisión de una clase o serie dentro del mismo tenga por objeto el canje (total o parcial) de otra clase o serie previamente emitida en el marco de dicho Programa, siempre que, una vez efectivizado el canje y producida simultáneamente la cancelación de la clase o serie canjeada, el monto total en circulación bajo el Programa Global resultante no exceda el monto máximo autorizado.
 
-1. Dentro de los DIEZ (10) días hábiles de presentada la documentación, la CNV no exigiere documentación adicional o no manifestare objeciones, o
+Las prórrogas del plazo de duración de los Programas Globales, así como las modificaciones de sus términos y condiciones y los aumentos o disminución de su monto máximo, no requerirán autorización previa de la CNV, considerándose aprobados en forma automática con la presentación de la documentación mencionada en este artículo. En tal sentido, la Emisora deberá presentar la documentación correspondiente a través de la plataforma TAD y podrá proceder a la publicación inmediata en la AIF de los respectivos prospectos o suplementos de prospecto, según corresponda, junto con el acta del órgano de administración o del órgano subdelegado que hubiere aprobado dichos documentos.
 
-2. Dentro de los DIEZ (10) días hábiles posteriores a la presentación de la información adicional requerida por la CNV, ésta no hubiese exigido nueva documentación adicional o no manifestare nuevas objeciones.
+Las presentaciones producirán efectos desde su publicación en la AIF. Dentro de los CINCO (5) días hábiles de efectuada la publicación del documento en la AIF deberá acreditarse el pago del arancel previsto en el Título XVII de estas Normas.
 
-En caso de vencimiento de los plazos indicados anteriormente, la Emisora podrá optar por la publicación directamente en la AIF bajo su responsabilidad, haciéndole saber tal circunstancia al Mercado en que listen y/o negocien dichos valores negociables, o contar con la autorización expresa de la CNV.
+Resultarán de aplicación, en lo pertinente, las disposiciones del artículo 26 del presente Capítulo, en materia de responsabilidad por la veracidad, suficiencia e integridad de la información, limitaciones a la introducción de modificaciones a los términos y condiciones de emisión, régimen de reiteración de modificaciones y facultades de la CNV para requerir información adicional o actualizaciones, no resultando admisible la inclusión de estipulaciones que alteren, condicionen o desnaturalicen dichos términos, las que se considerarán ineficaces a todos los efectos, sin perjuicio de las responsabilidades que pudieran corresponder.
+
+[Artículo sustituido por art. 3° de la RG 1149/2026, BO 11/06/2026]
+
+AUTORIZACIÓN TÁCITA.
+ARTÍCULO 29.- La autorización del Programa, se entenderá concedida cuando se verifique alguno de los siguientes supuestos:
+
+1. Dentro de los DIEZ (10) días hábiles de presentada la documentación, la CNV no exigiere documentación adicional o no manifestare objeciones; o
+
+2. dentro de los DIEZ (10) días hábiles posteriores a la presentación de la información adicional requerida por la CNV, ésta no hubiese exigido nueva documentación adicional o no manifestare nuevas objeciones.
+
+En caso de vencimiento de los plazos indicados anteriormente, la Emisora podrá optar por la publicación directamente en la AIF bajo su responsabilidad, haciéndole saber tal circunstancia al Mercado en que listen o negocien dichos valores negociables, o contar con la autorización expresa de la CNV
+
+[Artículo sustituido por art. 3° de la RG 1149/2026, BO 11/06/2026]
 
 EMISIÓN DE SERIES O CLASES. DOCUMENTACIÓN ADICIONAL.
 ARTÍCULO 30.- La documentación correspondiente a las clases o series bajo el Programa, deberán ser publicadas en la AIF y cumplir lo dispuesto en el artículo 15 de este Capítulo.
@@ -404,7 +444,11 @@ ARTÍCULO 41.- El EF mantendrá vigente su condición mientras cumpla los requis
 
 1. Requerir información adicional o documentación específica ante circunstancias excepcionales que lo justifiquen; o
 
-2. Dar de baja la condición de EF por incumplimiento de los requisitos para su permanencia. La actualización del Prospecto será optativa, y podrá ser realizada mediante la presentación de un nuevo documento ante la CNV, para su autorización.
+2. dar de baja la condición de EF por incumplimiento de los requisitos para su permanencia.
+
+Con relación a la actualización del Prospecto, aumento o disminución de monto máximo disponible o, en su caso, modificaciones del Prospecto deberá seguirse el procedimiento descripto en los artículos 26 y 28 del presente Capítulo, sin requerir autorización previa de la CNV
+
+[Artículo sustituido por art. 4° de la RG 1149/2026, BO 11/06/2026]
 
 REUNIONES INFORMATIVAS.
 ARTÍCULO 42.- En caso de llevarse a cabo reuniones informativas previas, se deberá cumplir con lo dispuesto en el artículo 10 de la Sección II del Capítulo IX del presente Título.

@@ -1362,3 +1362,33 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > XV. FINAL.
 >
 > Agregar lugar, fecha, firma y aclaración
+
+## Artículo 19 (Sección III)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1149/2026, art. 5°
+- Texto:
+
+> ARTÍCULO 19.- Las emisiones de series o clases sucesivas bajo el Programa Global deberán ser previamente autorizadas por esta Comisión, de conformidad con lo dispuesto en el artículo 1° del Capítulo II del Título XVI de estas Normas.
+>
+> En todos los casos, los valores negociables deberán emitirse con un plazo de amortización no inferior a SIETE (7) días hábiles e indicarse en el Prospecto del Programa Global el plazo máximo y mínimo de amortización que podrán tener las series o clases que se emitan bajo dicho Programa.
+
+## Artículo 30 (Sección III)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1149/2026, art. 6°
+- Texto:
+
+> ACTUALIZACIÓN DE PROSPECTO.
+> ARTÍCULO 30.- La actualización del Prospecto como consecuencia de la aprobación de EEFF correspondientes a un nuevo ejercicio anual, será optativa.
+>
+> En caso de que la Emisora opte por la actualización del Prospecto, deberá acompañar un informe de contador público independiente que emita opinión, en lo que atañe a su competencia, sobre la información contenida en dicho documento.
+
+## Artículo 34 (Sección III)
+- Vigente desde: 19/12/2025
+- Vigente hasta: 11/06/2026
+- Sustituido por: RG 1149/2026, art. 7°
+- Texto:
+
+> EMISIÓN DE SERIES O CLASES. DOCUMENTACIÓN POSTERIOR A LA COLOCACIÓN.
+> ARTÍCULO 34.- Deberá acompañarse la documentación mencionada en el artículo 17 del presente Capítulo en los plazos allí indicados, y los formularios establecidos en el Capítulo I del Título XV de estas Normas, aplicable al Régimen PyME CNV.
