@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1169/2026 (BO 23/09/2026)
+Última modificación: RG 1172/2026 (BO 15/10/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -68,6 +68,8 @@ ARTÍCULO 2º.- A los fines de las presentes Normas y de las notas, informes, di
 
 “ARCA” (ex AFIP) significa Agencia de Recaudación y Control Aduanero.
 
+“ARS” o “PESOS” significa la moneda de curso legal en la República Argentina.
+
 “ART” significa Aseguradora de Riesgos del Trabajo.
 
 “ASG” (“ESG”) significa Ambiental, Social y de Gobernanza (Environmental, Social and Governance).
@@ -83,6 +85,8 @@ ARTÍCULO 2º.- A los fines de las presentes Normas y de las notas, informes, di
 “BNA” significa Banco de la Nación Argentina.
 
 “Book Building” o “formación de libro” significa el mecanismo de colocación de valores negociables realizado en los términos previstos en el Capítulo IV del Título VI de estas Normas.
+
+“BTC” significa Bitcoin.
 
 “CABA” significa Ciudad Autónoma de Buenos Aires.
 
@@ -432,6 +436,12 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “UIF” significa Unidad de Información Financiera.
 
+“USD” significa dólares estadounidenses.
+
+“USDC” significa la moneda estable denominada en dólares estadounidenses emitida por Circle.
+
+“USDT” significa la moneda estable denominada en dólares estadounidenses emitida por Tether.
+
 “UTs” significa uniones transitorias de empresas.
 
 “UVA” significa Unidad de Valor Adquisitivo.
@@ -511,6 +521,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos incorporados: “Cuenta Individual del Empleador”, “Decreto Reglamentario FAL”, “EH”, “FAL”, “FCIA FAL”, “FF FAL”, “Ficha FAL”, “ID FAL”, “Ley de Modernización Laboral”, “PIC FAL”, “Resolución MECON FAL” por art. 1° de la RG 1167/2026, BO 17/09/2026]
 
 [Términos incorporados: “Agente Colocador Principal”, “Agente Interviniente”, “Agentes Colocadores”, “Cartera Propia”, “Cartera Propia Ampliada”, “Cartera Propia Restringida”, “Sujetos Intervinientes”, “TIR”; Definición sustituida: “Emisor” por art. 1° de la RG 1169/2026, BO 23/09/2026]
+
+[Términos incorporados: “ARS”, “BTC”, “USD”, “USDC”, “USDT” por art. 1° de la RG 1172/2026, BO 15/10/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

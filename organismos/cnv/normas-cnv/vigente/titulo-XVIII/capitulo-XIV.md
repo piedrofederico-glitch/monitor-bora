@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo XIV: PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES (PSAV).
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1172/2026 (BO 15/10/2026)
 Fuente: PDF base, págs. 946–948.
 
 PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES.
@@ -28,3 +28,7 @@ ARTÍCULO 2°.- La información prevista en los incisos a) y b) del artículo 39
 ARTÍCULO 3°.- Todas las disposiciones establecidas en el Capítulo III del Título XIV de estas Normas –excepto las indicadas en los artículos precedentes- serán exigibles a los PSAV que se encuentren inscriptos en el Registro de PSAV a la fecha de entrada en vigencia de la Resolución General N°1058, a partir del 31 de diciembre de 2025.
 
 ARTÍCULO 4°.- Suspender la admisión de nuevos trámites de inscripción en el Registro de PSAV desde la publicación de la RG N° 1058 en el Boletín Oficial de la República Argentina hasta su entrada en vigencia.
+
+ARTÍCULO 5°.- Establecer que la información periódica dispuesta en el inciso b) del artículo 40 del Capítulo III del Título XIV de las NORMAS (N.T. 2013 y mods.), será aplicable a partir del 1° de noviembre de 2026
+
+[Artículo incorporado por art. 4° de la RG 1172/2026, BO 15/10/2026]

@@ -1,5 +1,5 @@
 # Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV
-Última modificación: RG 1169/2026 (BO 23/09/2026)
+Última modificación: RG 1172/2026 (BO 15/10/2026)
 Fuente: PDF base, págs. 862–884.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -1766,7 +1766,7 @@ S) PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES:
 
 17) PSAV_013 - Datos Billeteras del PSAV.
 
-18) PSAV_014 - Informe Mensual Clientes y Operaciones.
+18) PSAV_014-Informe Mensual: Clientes, Operaciones y Custodia
 
 19) PSAV_015 - Hecho Relevante PSAV.
 
@@ -1809,3 +1809,5 @@ T) SUJETOS OBLIGADOS PLA/FT/FP.
 [Apartados D), E), P) y Q) sustituidos por art. 7° de la RG 1163/2026, BO 20/08/2026, vigente desde 23/10/2026]
 
 [Subincisos 27 a 30 del inc. A.1), 53 a 55 del inc. G), 41 a 43 del inc. K) y 48 a 50 del inc. L) incorporados por art. 9° de la RG 1169/2026, BO 23/09/2026]
+
+[Subinciso 18) del inciso S) sustituido por art. 3° de la RG 1172/2026, BO 15/10/2026]

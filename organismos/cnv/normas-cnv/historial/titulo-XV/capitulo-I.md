@@ -2171,3 +2171,11 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > 46) MUG_037 – Adecuación - Límites Prudenciales de Liquidez y Apalancamiento.
 >
 > 47) MUG_038 – Tenencias de Moneda Extranjera
+
+## Artículo 11 (Sección IV) — fragmento
+- Vigente desde: 24/09/2026 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 15/10/2026
+- Sustituido/suprimido parcialmente por: RG 1172/2026, art. 3°
+- Texto:
+
+> 18) PSAV_014 - Informe Mensual Clientes y Operaciones.

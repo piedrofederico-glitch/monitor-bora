@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1169/2026 (BO 23/09/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1172/2026 (BO 15/10/2026) |
 
 ## Título II — EMISORAS
 
@@ -132,13 +132,13 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-XIV/capitulo-I.md`](titulo-XIV/capitulo-I.md) | Título XIV — Capítulo I: PLATAFORMA DE FINANCIAMIENTO COLECTIVO | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XIV/capitulo-III.md`](titulo-XIV/capitulo-III.md) | Título XIV — Capítulo III: PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES (PSAV) | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XIV/capitulo-III.md`](titulo-XIV/capitulo-III.md) | Título XIV — Capítulo III: PSAV | RG 1172/2026 (BO 15/10/2026) |
 
 ## Título XV — AUTOPISTA DE LA INFORMACIÓN FINANCIERA (AIF)
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XV/capitulo-I.md`](titulo-XV/capitulo-I.md) | Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV | RG 1169/2026 (BO 23/09/2026) |
+| [`titulo-XV/capitulo-I.md`](titulo-XV/capitulo-I.md) | Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV | RG 1172/2026 (BO 15/10/2026) |
 | [`titulo-XV/capitulo-II.md`](titulo-XV/capitulo-II.md) | Título XV — Capítulo II: AGENTES DE ADMINISTRACIÓN DE PRODUCTOS DE INVERSIÓN COLECTIVA – FIDUCIARIOS FINANCIEROS. | RG 1169/2026 (BO 23/09/2026) |
 | [`titulo-XV/capitulo-III.md`](titulo-XV/capitulo-III.md) | Título XV — Capítulo III: EMISORAS – OBLIGACIONES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
@@ -172,7 +172,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVIII/capitulo-XI.md`](titulo-XVIII/capitulo-XI.md) | Título XVIII — Capítulo XI: AGENTE DE CUSTODIA, REGISTRO Y PAGO | RG 1107/2026 (BO 13/02/2026) |
 | [`titulo-XVIII/capitulo-XII.md`](titulo-XVIII/capitulo-XII.md) | Título XVIII — Capítulo XII: MEDIDAS EN EL MARCO DEL AISLAMIENTO SOCIAL, PREVENTIVO Y OBLIGATORIO COVID-19 | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-XIII.md`](titulo-XVIII/capitulo-XIII.md) | Título XVIII — Capítulo XIII: AUDITORES EXTERNOS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVIII/capitulo-XIV.md`](titulo-XVIII/capitulo-XIV.md) | Título XVIII — Capítulo XIV: PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES (PSAV). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XVIII/capitulo-XIV.md`](titulo-XVIII/capitulo-XIV.md) | Título XVIII — Capítulo XIV: PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES (PSAV). | RG 1172/2026 (BO 15/10/2026) |
 | [`titulo-XVIII/capitulo-XV.md`](titulo-XVIII/capitulo-XV.md) | Título XVIII — Capítulo XV: DISPOSICIÓN TRANSITORIA. SUSPENSIÓN PERCEPCIÓN Y PAGO TASAS DE FISCALIZACIÓN Y CONTROL | RG 1103/2026 (BO 09/01/2026) |
 | [`titulo-XVIII/capitulo-XVI.md`](titulo-XVIII/capitulo-XVI.md) | Título XVIII — Capítulo XVI: RÉGIMEN DE INCENTIVO A LA CONSTRUCCIÓN FEDERAL ARGENTINA Y ACCESO A LA VIVIENDA. LEY Nº 27.613 | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-XVII.md`](titulo-XVIII/capitulo-XVII.md) | Título XVIII — Capítulo XVII: RÉGIMEN DE REGULARIZACIÓN DE ACTIVOS. LEY N° 27.743 – MEDIDAS FISCALES PALIATIVAS Y RELEVANTES. | RG 1099/2025 (BO 26/12/2025) |

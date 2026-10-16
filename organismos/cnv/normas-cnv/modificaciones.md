@@ -52,6 +52,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), Término incorporado: “Matriz de Compatibilidades” | modifica parcialmente | RG 1165/2026 | 1° | 07/09/2026 |
 | art. 2° (Secc. II), Términos incorporados: “Cuenta Individual del Empleador”, “Decreto Reglamentario FAL”, “EH”, “FAL”, “FCIA FAL”, “FF FAL”, “Ficha FAL”, “ID FAL”, “Ley de Modernización Laboral”, “PIC FAL”, “Resolución MECON FAL” | modifica parcialmente | RG 1167/2026 | 1° | 17/09/2026 |
 | art. 2° (Secc. II), Términos incorporados: “Agente Colocador Principal”, “Agente Interviniente”, “Agentes Colocadores”, “Cartera Propia”, “Cartera Propia Ampliada”, “Cartera Propia Restringida”, “Sujetos Intervinientes”, “TIR”; Definición sustituida: “Emisor” | modifica parcialmente | RG 1169/2026 | 1° | 23/09/2026 |
+| art. 2° (Secc. II), Términos incorporados: “ARS”, “BTC”, “USD”, “USDC”, “USDT” | modifica parcialmente | RG 1172/2026 | 1° | 15/10/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -560,6 +561,13 @@ Texto derogado: `historial/titulo-XIV/capitulo-II-derogado-RG-1118-2026.md`
 |---|---|---|---|---|
 | capítulo completo | deroga | RG 1118/2026 | 1° | 06/03/2026 |
 
+## Título XIV, Capítulo III
+Archivo: `vigente/titulo-XIV/capitulo-III.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1172/2026 | 2° | 15/10/2026 |
+
 ## Título XV, Capítulo I
 Archivo: `vigente/titulo-XV/capitulo-I.md`
 
@@ -571,6 +579,7 @@ Archivo: `vigente/titulo-XV/capitulo-I.md`
 | art. 11 (Secc. IV), inc. K), subinc. 40) | modifica parcialmente | RG 1152/2026 | 1° | 18/06/2026 |
 | art. 11 (Secc. IV), apartados D), E), P) y Q) | modifica parcialmente | RG 1163/2026 | 7° | 20/08/2026 |
 | art. 11 (Secc. IV), incs. A.1), G), K) y L): subincisos nuevos | modifica parcialmente | RG 1169/2026 | 9° | 23/09/2026 |
+| art. 11 (Secc. IV), inc. S), subinc. 18) | modifica parcialmente | RG 1172/2026 | 3° | 15/10/2026 |
 
 ## Título XV, Capítulo II
 Archivo: `vigente/titulo-XV/capitulo-II.md`
@@ -699,6 +708,13 @@ Archivo: `vigente/titulo-XVIII/capitulo-XI.md`
 |---|---|---|---|---|
 | art. 6 | incorpora | RG 1090/2025 | 8° | 14/11/2025 |
 | art. 7° | incorpora | RG 1107/2026 | 3° | 13/02/2026 |
+
+## Título XVIII, Capítulo XIV
+Archivo: `vigente/titulo-XVIII/capitulo-XIV.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 5° | incorpora | RG 1172/2026 | 4° | 15/10/2026 |
 
 ## Título XVIII, Capítulo XV
 Archivo: `vigente/titulo-XVIII/capitulo-XV.md`
