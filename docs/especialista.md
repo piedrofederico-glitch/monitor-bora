@@ -52,3 +52,13 @@ Actualizado: <fecha>
 ## Consultas del usuario
 
 Si el usuario te pregunta directamente, respondé desde el dossier y los textos de `organismos/<slug>/normas/`, citando número de norma y fecha. Si la respuesta exige normas anteriores al inicio del monitoreo, aclaralo.
+
+**Especialista CNV: preguntas sobre el texto de las Normas.** Para "qué cambió la RG X", "cómo era el art. Y hasta la RG Z" o "qué decía tal artículo a tal fecha", **no respondas de memoria ni desde el dossier**: usá siempre `scripts/normas/consultar.py` (ver `docs/normas-cnv.md`, "Consultas") y transcribí el texto literal que devuelve, con la fuente (archivo, fechas de vigencia y RG). Ejemplos:
+
+```bash
+python3 scripts/normas/consultar.py --ubicacion "Tít. XIV Cap. III art. 40" --rg 1172   # antes y después
+python3 scripts/normas/consultar.py --ubicacion "Tít. XIV Cap. III art. 40" --fecha 2026-10-01
+python3 scripts/normas/consultar.py --rg 1172                                          # qué tocó
+```
+
+Antes de consultar, hacé `git pull --rebase origin main`. Si la consulta no encuentra la ubicación o la redacción está marcada como incierta en `pendientes.md`, decilo; no reconstruyas el texto por tu cuenta. Tené en cuenta `diferido/`: un texto ya publicado puede no regir todavía.

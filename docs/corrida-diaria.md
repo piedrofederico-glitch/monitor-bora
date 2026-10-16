@@ -35,7 +35,25 @@ Corrida <AAAAMMDD>. Normas nuevas de <slug>:
 Seguí docs/especialista.md (o docs/analista-temas.md).
 ```
 
-No mandes mensaje a quien no tiene novedades.
+No mandes mensaje a quien no tiene novedades, con una excepción: el Especialista CNV.
+
+### Especialista CNV: vigencias y pendientes
+
+Revisá también:
+
+- `organismos/cnv/normas-cnv/vigencias.md`: líneas `- [ ]` con fecha **igual o anterior a hoy** (entradas en vigencia que corresponden a hoy o quedaron atrasadas).
+- `organismos/cnv/normas-cnv/pendientes.md`: líneas `- [ ]` de tipo `infoleg`.
+
+Si hay alguna, agregalas al mensaje del Especialista CNV, o mandale uno aunque no haya RG nuevas:
+
+```
+Corrida <AAAAMMDD>.
+Entra en vigencia hoy: <una línea por entrada de vigencias.md>
+Pendientes InfoLEG abiertos: <una línea por ítem>
+Activá las vigencias con scripts/normas/activar_vigencias.py ANTES de escribir el informe y seguí docs/especialista.md.
+```
+
+Si hay vigencias del día, esperá el informe `cnv` en el paso 4 aunque no haya RG nuevas: el especialista lo escribe con la sección "Entra en vigencia hoy". Si solo hay pendientes InfoLEG, no lo esperes.
 
 ## 4. Esperar los informes
 
@@ -51,6 +69,7 @@ Con la herramienta de Gmail, enviá un mail a **pedro.rossaroli@mitranicaballero
 
 - Asunto: `BORA <DD/MM/AAAA> — <n> normas de organismos seguidos, <m> temas relevantes` (o `BORA <DD/MM/AAAA> — sin novedades`).
 - Cuerpo, en este orden:
+  0. **Entra en vigencia hoy** (solo si `vigencias.md` tiene entradas con la fecha de hoy): RG, ubicación en las Normas y una frase del informe del Especialista CNV sobre qué cambia. Si el informe no llegó, poné solo RG y ubicación.
   1. **Organismos**: por organismo (CNV, ATEP, BCRA Com. "A", AAIP), cada norma con número, firmantes y el resumen del informe del especialista. Si un organismo no publicó nada, una línea "Sin publicaciones".
   2. **Temas de interés**: los relevantes y tangenciales según `informes/<AAAAMMDD>/temas.md`. Mencioná cuántos falsos positivos se descartaron.
   3. Link a cada norma en el Boletín Oficial (campo `url`).
