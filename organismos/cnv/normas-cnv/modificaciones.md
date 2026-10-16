@@ -409,6 +409,7 @@ Archivo: `vigente/titulo-XV/capitulo-I.md`
 | art. 11 (Secc. IV), inc. L), subinc. 44) | modifica parcialmente | RG 1122/2026 | 2° | 31/03/2026 |
 | art. 11 (Secc. IV), inc. L), subincs. 45) a 47) | modifica parcialmente | RG 1130/2026 | 4° | 28/04/2026 |
 | art. 11 (Secc. IV), inc. T) | modifica parcialmente | RG 1139/2026 | 4° | 14/05/2026 |
+| art. 11 (Secc. IV), inc. K), subinc. 40) | modifica parcialmente | RG 1152/2026 | 1° | 18/06/2026 |
 
 ## Título XVI, Capítulo I
 Archivo: `vigente/titulo-XVI/capitulo-I.md`
@@ -494,6 +495,9 @@ Archivo: `vigente/titulo-XVIII/capitulo-V.md`
 | art. 24 | sustituye | RG 1144/2026 | 4° | 01/06/2026 |
 | art. 25 | sustituye | RG 1144/2026 | 4° | 01/06/2026 |
 | art. 26 | sustituye | RG 1144/2026 | 4° | 01/06/2026 |
+| art. 2° | sustituye | RG 1152/2026 | 2° | 18/06/2026 |
+| art. 2° BIS | incorpora | RG 1152/2026 | 3° | 18/06/2026 |
+| art. 28 | incorpora | RG 1152/2026 | 4° | 18/06/2026 |
 
 ## Título XVIII, Capítulo X
 Archivo: `vigente/titulo-XVIII/capitulo-X.md`

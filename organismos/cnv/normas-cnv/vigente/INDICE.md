@@ -136,7 +136,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XV/capitulo-I.md`](titulo-XV/capitulo-I.md) | Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV | RG 1139/2026 (BO 14/05/2026) |
+| [`titulo-XV/capitulo-I.md`](titulo-XV/capitulo-I.md) | Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV | RG 1152/2026 (BO 18/06/2026) |
 | [`titulo-XV/capitulo-II.md`](titulo-XV/capitulo-II.md) | Título XV — Capítulo II: AGENTES DE ADMINISTRACIÓN DE PRODUCTOS DE INVERSIÓN COLECTIVA – FIDUCIARIOS FINANCIEROS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XV/capitulo-III.md`](titulo-XV/capitulo-III.md) | Título XV — Capítulo III: EMISORAS – OBLIGACIONES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
@@ -161,7 +161,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVIII/capitulo-II.md`](titulo-XVIII/capitulo-II.md) | Título XVIII — Capítulo II: PRODUCTOS DE INVERSIÓN COLECTIVA. FIDEICOMISOS FINANCIEROS. | RG 1146/2026 (BO 11/06/2026) |
 | [`titulo-XVIII/capitulo-III.md`](titulo-XVIII/capitulo-III.md) | Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN. | RG 1148/2026 (BO 11/06/2026) |
 | [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1120/2026 (BO 13/03/2026) |
-| [`titulo-XVIII/capitulo-V.md`](titulo-XVIII/capitulo-V.md) | Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. | RG 1144/2026 (BO 01/06/2026) |
+| [`titulo-XVIII/capitulo-V.md`](titulo-XVIII/capitulo-V.md) | Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. | RG 1152/2026 (BO 18/06/2026) |
 | [`titulo-XVIII/capitulo-VI.md`](titulo-XVIII/capitulo-VI.md) | Título XVIII — Capítulo VI: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-VII.md`](titulo-XVIII/capitulo-VII.md) | Título XVIII — Capítulo VII: AGENTES DE CALIFICACIÓN DE RIESGOS (ACR). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-VIII.md`](titulo-XVIII/capitulo-VIII.md) | Título XVIII — Capítulo VIII: BOLSAS DE COMERCIO CON Y SIN MERCADO DE VALORES ADHERIDO. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |

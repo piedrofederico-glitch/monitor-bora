@@ -1,5 +1,5 @@
 # Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV
-Última modificación: RG 1139/2026 (BO 14/05/2026)
+Última modificación: RG 1152/2026 (BO 18/06/2026)
 Fuente: PDF base, págs. 862–884.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -1223,6 +1223,8 @@ K) AGENTES DE NEGOCIACIÓN (AN):
 
 39) AGE_026- Publicidad y/o Difusión.
 
+40) MUG_038 – Tenencias de Moneda Extranjera
+
 L) AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN (ALyC):
 
 1) MUG_001 – Hecho relevante.
@@ -1759,3 +1761,5 @@ T) SUJETOS OBLIGADOS PLA/FT/FP.
 [Subincisos 45), 46) y 47) del inciso L) incorporados por art. 4° de la RG 1130/2026, BO 28/04/2026]
 
 [Inciso T) incorporado por art. 4° de la RG 1139/2026, BO 14/05/2026]
+
+[Subinciso 40) del inciso K) incorporado por art. 1° de la RG 1152/2026, BO 18/06/2026, vigente desde 18/06/2026]
