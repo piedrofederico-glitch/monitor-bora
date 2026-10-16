@@ -1,5 +1,5 @@
 # Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV
-Última modificación: RG 1163/2026 (BO 20/08/2026)
+Última modificación: RG 1169/2026 (BO 23/09/2026)
 Fuente: PDF base, págs. 862–884.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -270,6 +270,14 @@ A. 1) EMISORAS:
 25) MUG_030 – Nómina de órganos de dirección de controladas y vinculadas.
 
 26) MUG_031 – Artículo 10 LON.
+
+27) EMI_067 – Listados mensuales y anuales de Emisiones de CEDEAR y CEVA.
+
+28) EMI_068 – Otra información o reporte no público.
+
+29) EMI_069 – Otra información o reporte público
+
+30) EMI_070 – Colocaciones Primarias Reporte No Público.
 
 A. 2) EMISORAS PYMES CNV:
 
@@ -877,6 +885,12 @@ G) MERCADOS:
 
 52) MER_041-Nómina de Agentes miembros no operativos
 
+53) EMI_068 – Otra información o reporte no público.
+
+54) EMI_069 – Otra información o reporte público.
+
+55) EMI_070 – Colocaciones Primarias Reporte No Público.
+
 H) CÁMARAS COMPENSADORAS:
 
 1) MUG_028 – Estatuto social vigente.
@@ -1233,6 +1247,12 @@ K) AGENTES DE NEGOCIACIÓN (AN):
 
 40) MUG_038 – Tenencias de Moneda Extranjera
 
+41) EMI_068 – Otra información o reporte no público.
+
+42) EMI_069 – Otra información o reporte público
+
+43) EMI_070 – Colocaciones Primarias Reporte No Público.
+
 L) AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN (ALyC):
 
 1) MUG_001 – Hecho relevante.
@@ -1342,6 +1362,12 @@ L) AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN (ALyC):
 46) MUG_037 – Adecuación - Límites Prudenciales de Liquidez y Apalancamiento.
 
 47) MUG_038 – Tenencias de Moneda Extranjera
+
+48) EMI_068 – Otra información o reporte no público.
+
+49) EMI_069 – Otra información o reporte público
+
+50) EMI_070 – Colocaciones Primarias Reporte No Público.
 
 M) AGENTES PRODUCTORES (AP):
 
@@ -1781,3 +1807,5 @@ T) SUJETOS OBLIGADOS PLA/FT/FP.
 [Subinciso 40) del inciso K) incorporado por art. 1° de la RG 1152/2026, BO 18/06/2026, vigente desde 18/06/2026]
 
 [Apartados D), E), P) y Q) sustituidos por art. 7° de la RG 1163/2026, BO 20/08/2026, vigente desde 23/10/2026]
+
+[Subincisos 27 a 30 del inc. A.1), 53 a 55 del inc. G), 41 a 43 del inc. K) y 48 a 50 del inc. L) incorporados por art. 9° de la RG 1169/2026, BO 23/09/2026]

@@ -1,5 +1,5 @@
 # Título XV — Capítulo II: AGENTES DE ADMINISTRACIÓN DE PRODUCTOS DE INVERSIÓN COLECTIVA – FIDUCIARIOS FINANCIEROS.
-Última modificación: anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025)
+Última modificación: RG 1169/2026 (BO 23/09/2026)
 Fuente: PDF base, págs. 884–886.
 
 CLAVE DE USUARIO Y CONTRASEÑA.
@@ -26,14 +26,12 @@ Una vez autorizado el fideicomiso, se deberán ingresar en el sistema los montos
 
 Asimismo, será responsabilidad del Fiduciario Financiero mantener debidamente actualizada la información correspondiente a cada fideicomiso financiero en el sistema.
 
-PUBLICACIÓN DE DOCUMENTACIÓN DE FIDEICOMISOS FINANCIEROS.
-ARTICULO 3°.- Se deberán publicar por medio de la Autopista de la Información Financiera:
+PUBLICACIÓN DE DOCUMENTACIÓN DE FF.
+ARTICULO 3°.- Se deberán publicar por medio de la AIF:
 
-1. En forma simultánea con la obtención de la autorización definitiva de oferta pública, los documentos de la emisión conforme los formularios que se detallan a continuación:
+1. En forma simultánea con la obtención de la autorización definitiva de oferta pública, los documentos de la emisión conforme los formularios que se detallan a continuación: PPFI_01 – Prospecto de programa global o Fideicomiso individual o, SSU_002 – Suplemento de Prospecto, según corresponda.
 
-PPFI_01 – Prospecto de programa global o Fideicomiso individual o, SSU_002 – Suplemento de Prospecto, según corresponda.
-
-2. Adicionalmente, se deberá publicar el contrato de fideicomiso suscripto según lo dispuesto en el artículo 52 del Capítulo IV del Título V de estas Normas, a través del formulario SSU_018 – Contrato de Fideicomiso Suscripto.
+2. Adicionalmente, se deberá publicar el contrato de fideicomiso suscripto según lo dispuesto en el artículo 52 del Capítulo IV del Título V de estas Normas, a través del formulario SSU_018 – Contrato de fideicomiso suscripto.
 
 3. Aquella información que sólo pueda ser remitida con posterioridad a la obtención de autorización de oferta pública, deberá ser ingresada en forma simultánea a su publicación en los sistemas de información de los mercados correspondientes, a través de los formularios que se detallan a continuación:
 
@@ -41,28 +39,28 @@ a) SSU_006 – Aviso de suscripción fideicomisos y SSU_007 – Aviso complement
 
 b) SSU_010 – Resultados de colocación (FF).
 
-c) SSU_023 – Suscriptores iniciales.
+c) SSU_017 – Aviso de pago fideicomisos financieros.
 
-d) SSU_017 – Aviso de pago fideicomisos financieros.
-
-e) SSU_019 – Adenda documentos de emisión, de corresponder.
+d) SSU_019 – Adenda documentos de emisión, de corresponder.
 
 4. Durante la vigencia del fideicomiso financiero, se deberá ingresar toda la información requerida, según los plazos que correspondan, a través de los formularios disponibles al efecto:
 
-a) EECCFF – Estados Contables fideicomisos financieros.
+e) EECCFF – Estados Contables fideicomisos financieros.
 
-b) SSU_021 – Acta de órgano de administración (directorio) para fideicomisos.
+f) SSU_021 – Acta de órgano de administración (directorio) para fideicomisos.
 
-c) IRG507-07-FF01 – Informe trimestral de comisión fiscalizadora.
+g) IRG507-07-FF01 – Informe trimestral de comisión fiscalizadora.
 
-d) SSU_022 – Acta de convocatoria a asamblea de tenedores.
+h) SSU_022 – Acta de convocatoria a asamblea de tenedores.
 
-e) SSU_020 – Acta de asamblea de beneficiarios de fideicomisos.
+i) SSU_020 – Acta de asamblea de beneficiarios de fideicomisos.
 
-f) HFF_01 – Hechos relevantes fideicomisos financieros.
+j) HFF_01 – Hechos relevantes fideicomisos financieros.
 
-g) ICFF_01 – Información complementaria fideicomisos financieros.
+k) ICFF_01 – Información complementaria fideicomisos financieros.
 
-h) SSU_025 – Informe de Control y Revisión.
+l) SSU_025 – Informe de Control y Revisión.
 
-Será responsabilidad del Fiduciario Financiero mantener debidamente actualizada la información precedentemente detallada.
+Será responsabilidad del Fiduciario Financiero mantener debidamente actualizada la información precedentemente detallada
+
+[Artículo sustituido por art. 10 de la RG 1169/2026, BO 23/09/2026]

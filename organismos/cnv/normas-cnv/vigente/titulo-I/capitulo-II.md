@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1167/2026 (BO 17/09/2026)
+Última modificación: RG 1169/2026 (BO 23/09/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -46,6 +46,12 @@ ARTÍCULO 2º.- A los fines de las presentes Normas y de las notas, informes, di
 
 “ADR” significa American Depositary Receipt por sus siglas en inglés o Certificado de Depósito en Custodia en su traducción al español.
 
+“Agente Colocador Principal”: significa el Agente Colocador que tiene asignada la responsabilidad de llevar el libro o registro de ofertas de los inversores, exclusivamente para las ofertas llevadas adelante exclusivamente en el mercado local. En los supuestos de colocación internacional, se entenderá como el o los Agentes Colocadores Principales a aquel o aquellos AN o ALyC que hubieran sido designados para actuar como colocadores locales de una emisión colocada internacionalmente o, en ausencia de los mismos, a quienes remitirán las ofertas o manifestaciones de interés locales a uno o más de los colocadores internacionales o compradores iniciales a los efectos de su inclusión en el libro.
+
+“Agente Interviniente”: significa en el contexto de una colocación primaria de oferta pública, todo ALyC y AN que ingrese una oferta o manifestación de interés en un proceso de colocación primaria, ya sea actuando para terceros o para su Cartera Propia. Los agentes que soliciten el alta o habilitación para ingresar ofertas en las ruedas de los sistemas informáticos de negociación habilitados por los Mercados, aún sin haber sido formalmente designados como colocadores por el Emisor, quedan comprendidos en esta definición.
+
+“Agentes Colocadores”: significa en el contexto de una colocación primaria de oferta pública, además del Agente Colocador Principal, cualquier ALyC o AN que hubiera sido designado por el Emisor, mediante la suscripción del contrato correspondiente, para actuar como colocador, bajo cualquier modalidad, de valores negociables emitidos bajo el régimen de oferta pública.
+
 “AIF” significa Autopista de la Información Financiera.
 
 “ALyC” significa Agente de Liquidación y Compensación.
@@ -83,6 +89,12 @@ ARTÍCULO 2º.- A los fines de las presentes Normas y de las notas, informes, di
 CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “Capitalización de Deuda” significa el mecanismo financiero y legal mediante el cual una Emisora cancela una obligación preexistente a su cargo (deuda) con su acreedor, emitiendo en contraprestación nuevas acciones u otros valores negociables que son suscriptos por dicho acreedor.
+
+“Cartera Propia”: significa, conjuntamente, la Cartera Propia Restringida y la Cartera Propia Ampliada”.
+
+“Cartera Propia Ampliada” tiene el alcance previsto en los apartados (ii) a (vi) del artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas.
+
+“Cartera Propia Restringida” tiene el alcance previsto en el apartado (i) del artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas.
 
 “Cauciones Tomadoras Netas”: significa la posición en cauciones tomadoras en cada moneda, neta de la posición en dicha moneda, en (i) cauciones colocadoras; y (ii) operaciones de contado simultáneas -reguladas en las Secciones VII y VIII del Capítulo V del Título VI de estas Normas-, siempre que, en ambos casos, las mismas (a) hayan sido cursadas en segmentos de negociación que aseguren la prioridad precio tiempo y por interferencia de ofertas; (b) hayan sido garantizadas por un Mercado o una Cámara Compensadora; (c) pertenezcan al mismo titular; (d) sean coincidentes en el plazo de liquidación; y (e) sean de liquidación neta en los Mercados con las cauciones contra las que se netean.
 
@@ -150,7 +162,7 @@ CAFCI significa “Cámara Argentina de Fondos Comunes de Inversión”.
 
 “EH” significa Entidad Habilitada FAL.
 
-“Emisor” o “Emisora” significa aquella entidad (sociedad por acciones, sociedad de responsabilidad limitada, cooperativa o asociación civil o cualquier otra estructura o figura contemplada o que pueda ser habilitada en el marco de la Ley de Obligaciones Negociables que se encuentre autorizada para efectuar oferta pública de sus valores negociables y a los Emisores de FFs, CEDEAR y CEVA.
+“Emisor” o “Emisora” significa aquella entidad (sociedad por acciones, sociedad de responsabilidad limitada, cooperativa o asociación civil o cualquier otra estructura o figura contemplada o que pueda ser habilitada en el marco de la Ley de Obligaciones Negociables que se encuentre autorizada para efectuar oferta pública de sus valores negociables y a los emisores de FF, FCI, CEDEAR y CEVA.
 
 “Entidades de Garantía” significa las entidades admitidas en el Capítulo VII del Título II de estas Normas o las que en el futuro se establezcan.
 
@@ -404,6 +416,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “Sujeto Restringido” significa los siguientes sujetos: (i) entidades comprendidas en los incisos a) a d) del artículo 8° de la Ley de Administración Financiera y de los Sistemas de Control del Sector Público Nacional y los entes públicos no estatales; excepto por el Tesoro Nacional, el FGS y las sociedades anónimas en las cuales el Estado Nacional tenga participación mayoritaria en el capital o en la formación de las decisiones societarias y cuyas acciones se negocien en Mercados bajo competencia de la CNV, incluidas sus sociedades controladas, directa o indirectamente; (ii) entidades provinciales, municipales o de la CABA que de haber sido nacionales hubieran estado comprendidas en el numeral anterior; y (iii) cajas previsionales y otras entidades que canalizan fondos previsionales obligatorios no estatales (aportes compulsivos administrados por entidades no integradas al sistema previsional estatal, con finalidad de otorgar prestaciones previsionales). Se encuentran excluidos de esta definición, los sujetos contemplados en los numerales (i) y (ii) que constituyan entidades financieras regidas por la Ley de Entidades Financieras, así como también las sociedades - constituidas bajo cualquiera de los tipos societarios previstos en la Ley General de Sociedades- controladas, directa o indirectamente, por dichas entidades financieras, en la medida en que tales sociedades se encuentren sujetas a regímenes regulatorios especiales y su actividad principal consista en la prestación de servicios financieros, incluidos los: (a) servicios de administración profesional de patrimonios privados, fondos o activos de terceros, y/o (b) servicios bursátiles, fiduciarios, seguros o reaseguros (excepto aquellos que abarquen las actividades previstas en el numeral (iii) precedente), leasing y los servicios de gestión de pagos, tecnológicos o de cualquier otra naturaleza desarrollados en mercados abiertos y competitivos.
 
+“Sujetos Intervinientes”: significa en el contexto de una colocación primaria por oferta pública, además de los Agentes Intervinientes, las entidades registradas ante CNV que participen en el proceso, tales como el Emisor, cualquier Sociedad Gerente, y Fiduciario Financiero, así como los ALyC y AN que participen como organizadores. A los fines previstos en el procedimiento de colocación primaria por oferta pública, los Mercados no serán considerados Sujetos Intervinientes, limitándose su responsabilidad a la provisión y mantenimiento de los sistemas informáticos de negociación y la remisión de la información que de ellos emane. Tampoco serán considerados Sujetos Intervinientes los sujetos que actúen como colocadores o compradores iniciales en el ámbito de una oferta internacional, siempre que no actúen en el territorio de la República Argentina.
+
 “Suplemento” o “Suplemento de Prospecto” significa un documento que forma parte, y debe leerse junto con el Prospecto del Programa, que contiene los términos y condiciones específicos de una clase o serie bajo un Programa Global o Programa y otra información complementaria del Prospecto y, en su caso, toda la actualización de la información no incluida en el Prospecto del Programa.
 
 “Suscripción de Acciones” significa el acto jurídico mediante el cual una persona se compromete a adquirir acciones de una Emisora, abonando un precio determinado de suscripción generalmente valor nominal más prima de emisión. Este acto se realiza en el marco de una emisión de acciones dispuesta por el órgano competente, confiriendo al suscriptor la calidad de accionista conforme a las disposiciones previstas en la Ley General de Sociedades y en estas Normas. La suscripción podrá ser en el marco de una IPO o en virtud de un aumento posterior de capital, y podrá ser mediante la integración en pesos o en especie, o mediante la capitalización de aportes irrevocables.
@@ -411,6 +425,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 “TAD” o “plataforma TAD” se refieren al Sistema de Trámites a Distancia.
 
 “TAMAR” significa Tasa Mayorista de Argentina.
+
+“TIR” significa la Tasa Interna de Retorno.
 
 “TRD” significa Tecnología de Registro Distribuido o Tecnologías de Registro Distribuido, según el caso.
 
@@ -493,6 +509,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Término incorporado: “Matriz de Compatibilidades” por art. 1° de la RG 1165/2026, BO 07/09/2026]
 
 [Términos incorporados: “Cuenta Individual del Empleador”, “Decreto Reglamentario FAL”, “EH”, “FAL”, “FCIA FAL”, “FF FAL”, “Ficha FAL”, “ID FAL”, “Ley de Modernización Laboral”, “PIC FAL”, “Resolución MECON FAL” por art. 1° de la RG 1167/2026, BO 17/09/2026]
+
+[Términos incorporados: “Agente Colocador Principal”, “Agente Interviniente”, “Agentes Colocadores”, “Cartera Propia”, “Cartera Propia Ampliada”, “Cartera Propia Restringida”, “Sujetos Intervinientes”, “TIR”; Definición sustituida: “Emisor” por art. 1° de la RG 1169/2026, BO 23/09/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

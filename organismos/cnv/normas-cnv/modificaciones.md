@@ -51,6 +51,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 3° (Secc. III), Término incorporado: “Calificación Pública” | modifica parcialmente | RG 1164/2026 | 2° | 04/09/2026 |
 | art. 2° (Secc. II), Término incorporado: “Matriz de Compatibilidades” | modifica parcialmente | RG 1165/2026 | 1° | 07/09/2026 |
 | art. 2° (Secc. II), Términos incorporados: “Cuenta Individual del Empleador”, “Decreto Reglamentario FAL”, “EH”, “FAL”, “FCIA FAL”, “FF FAL”, “Ficha FAL”, “ID FAL”, “Ley de Modernización Laboral”, “PIC FAL”, “Resolución MECON FAL” | modifica parcialmente | RG 1167/2026 | 1° | 17/09/2026 |
+| art. 2° (Secc. II), Términos incorporados: “Agente Colocador Principal”, “Agente Interviniente”, “Agentes Colocadores”, “Cartera Propia”, “Cartera Propia Ampliada”, “Cartera Propia Restringida”, “Sujetos Intervinientes”, “TIR”; Definición sustituida: “Emisor” | modifica parcialmente | RG 1169/2026 | 1° | 23/09/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -345,6 +346,9 @@ Archivo: `vigente/titulo-VI/capitulo-I.md`
 | art. 29 (Secc. IX) | sustituye | RG 1090/2025 | 1° | 14/11/2025 |
 | art. 56 BIS (Secc. XXIV) | incorpora | RG 1113/2026 | 1° | 27/02/2026 |
 | Anexo Ix | incorpora | RG 1113/2026 | 2° | 27/02/2026 |
+| Secc. XXI (completa) | sustituye | RG 1169/2026 | 2° | 23/09/2026 |
+| art. 56 (Secc. XXIV) | sustituye | RG 1169/2026 | 3° | 23/09/2026 |
+| art. 56 TER (Secc. XXIV) | incorpora | RG 1169/2026 | 4° | 23/09/2026 |
 
 ## Título VI, Capítulo IV
 Archivo: `vigente/titulo-VI/capitulo-IV.md`
@@ -353,6 +357,13 @@ Archivo: `vigente/titulo-VI/capitulo-IV.md`
 |---|---|---|---|---|
 | capítulo completo | sustituye | RG 1100/2025 | 1° | 31/12/2025 |
 | art. 11 (Secc. III) | sustituye | RG 1119/2026 | 2° | 13/03/2026 |
+| Secc. I (completa) | sustituye | RG 1169/2026 | 5° | 23/09/2026 |
+| Secc. II (completa) | sustituye | RG 1169/2026 | 5° | 23/09/2026 |
+| Secc. III (completa) | sustituye | RG 1169/2026 | 5° | 23/09/2026 |
+| Secc. IV (completa) | sustituye | RG 1169/2026 | 5° | 23/09/2026 |
+| art. 13 (Secc. V) | sustituye | RG 1169/2026 | 6° | 23/09/2026 |
+| art. 16 (Secc. V) | sustituye | RG 1169/2026 | 7° | 23/09/2026 |
+| Anexo I | incorpora | RG 1169/2026 | 8° | 23/09/2026 |
 
 ## Título VI, Capítulo V
 Archivo: `vigente/titulo-VI/capitulo-V.md`
@@ -549,6 +560,14 @@ Archivo: `vigente/titulo-XV/capitulo-I.md`
 | art. 11 (Secc. IV), inc. T) | modifica parcialmente | RG 1139/2026 | 4° | 14/05/2026 |
 | art. 11 (Secc. IV), inc. K), subinc. 40) | modifica parcialmente | RG 1152/2026 | 1° | 18/06/2026 |
 | art. 11 (Secc. IV), apartados D), E), P) y Q) | modifica parcialmente | RG 1163/2026 | 7° | 20/08/2026 |
+| art. 11 (Secc. IV), incs. A.1), G), K) y L): subincisos nuevos | modifica parcialmente | RG 1169/2026 | 9° | 23/09/2026 |
+
+## Título XV, Capítulo II
+Archivo: `vigente/titulo-XV/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 3° | sustituye | RG 1169/2026 | 10 | 23/09/2026 |
 
 ## Título XVI, Capítulo I
 Archivo: `vigente/titulo-XVI/capitulo-I.md`
@@ -625,6 +644,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-IV.md`
 | art. 1° | sustituye | RG 1099/2025 | 3° | 26/12/2025 |
 | art. 15 | incorpora | RG 1113/2026 | 3° | 27/02/2026 |
 | art. 15 | sustituye | RG 1120/2026 | 1° | 13/03/2026 |
+| art. 16 | incorpora | RG 1169/2026 | 11 | 23/09/2026 |
 
 ## Título XVIII, Capítulo V
 Archivo: `vigente/titulo-XVIII/capitulo-V.md`
@@ -646,6 +666,7 @@ Archivo: `vigente/titulo-XVIII/capitulo-V.md`
 | art. 2° BIS | incorpora | RG 1152/2026 | 3° | 18/06/2026 |
 | art. 28 | incorpora | RG 1152/2026 | 4° | 18/06/2026 |
 | art. 29 | incorpora | RG 1154/2026 | 3° | 13/07/2026 |
+| art. 30 | incorpora | RG 1169/2026 | 12 | 23/09/2026 |
 
 ## Título XVIII, Capítulo VII
 Archivo: `vigente/titulo-XVIII/capitulo-VII.md`

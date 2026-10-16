@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS
-Última modificación: RG 1120/2026 (BO 13/03/2026)
+Última modificación: RG 1169/2026 (BO 23/09/2026)
 Fuente: PDF base, págs. 926–928.
 
 RÉGIMEN PYME CNV GARANTIZADA.
@@ -51,3 +51,16 @@ CRONOGRAMA DE CUMPLIMIENTO RG N° 1113.
 ARTÍCULO 15.- Los Mercados, en el marco de las disposiciones del artículo 56 BIS de la Sección XXIV del Capítulo I del Título VI de estas Normas, desde la fecha de entrada en vigencia de la Resolución General N° 1113, deberán remitir la información requerida en el Anexo IX de dicho Capítulo y Título antes del 31 de marzo de 2026, conforme el siguiente detalle: (i) la información de los meses de agosto, septiembre, octubre, noviembre y diciembre de 2025 y enero de 2026, deberá contener detalle semanal; y (ii) la información correspondiente a partir del 1° de febrero de 2026, deberá ser remitida semanalmente y contener detalle diario, conforme lo dispuesto en el artículo 56 BIS de la Sección XXIV del Capítulo I del Título VI de estas Normas
 
 [Artículo sustituido por art. 1° de la RG 1120/2026, BO 13/03/2026, vigente desde 13/03/2026]
+
+RG Nº 1169. EXCEPCIONES. CRONOGRAMA DE ADECUACIÓN SISTEMAS INFORMÁTICOS DE LOS MERCADOS.
+ARTÍCULO 16.- Los Mercados deberán presentar a la Comisión un cronograma de adecuación para sus sistemas informáticos de negociación, que en ningún caso excederá del 31 de diciembre de 2026, debiendo en dicho período cumplir con las siguientes pautas:
+
+1. Deberán implementar las adecuaciones tecnológicas necesarias para el cumplimiento de lo establecido en la RG N° 1169.
+
+2. Los Mercados podrán poner a disposición -en etapas- las funciones a los Sujetos Intervinientes.
+
+3. Mientras dure el período de transición, los Mercados deberán cumplir con el Criterio Interpretativo N° 102 de la CNV, en lo que les atañe, así como el resto de las disposiciones establecidas en la RG N° 1169, en tanto y en cuanto no se vean afectadas por las tareas de adecuación de sus sistemas informáticos previstos en el cronograma que informen a la CNV. Hasta tanto se encuentre disponible el formulario “Colocaciones Primarias – Reporte No Público”, la información prevista en el citado Criterio Interpretativo deberá remitirse de conformidad con el mecanismo allí establecido. Una vez que dicho formulario se encuentre disponible, deberá utilizarse el mismo a tales efectos, no correspondiendo su remisión mediante el formulario “Otra información o reporte no público”.
+
+4. Vencido el plazo del cronograma y concluida las tareas de adecuación de los sistemas informáticos, cesará la aplicación del régimen previsto en el Criterio Interpretativo N° 102 y cobrará plena vigencia la totalidad de las disposiciones incorporadas a las Normas mediante la RG N° 1169
+
+[Artículo incorporado por art. 11 de la RG 1169/2026, BO 23/09/2026]

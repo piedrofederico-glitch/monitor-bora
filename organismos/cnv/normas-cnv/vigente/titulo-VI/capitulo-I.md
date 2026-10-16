@@ -1,5 +1,5 @@
 # Título VI — Capítulo I: MERCADOS
-Última modificación: RG 1113/2026 (BO 27/02/2026)
+Última modificación: RG 1169/2026 (BO 23/09/2026)
 Fuente: PDF base, págs. 449–500.
 
 ### SECCIÓN I — DISPOSICIONES GENERALES.
@@ -406,38 +406,46 @@ Los Mercados sólo podrán denegar el acceso y/o conexión cuando no se cumplan 
 CONEXIÓN ENTRE MERCADOS.
 ARTÍCULO 52.- Los Mercados podrán conectar sus Sistemas de Negociación con los Sistemas de Negociación de otros Mercados autorizados, en los términos en que las partes acuerden.
 
-### SECCIÓN XXI — REQUISITOS PARA AUTORIZACIÓN DE LOS SISTEMAS INFORMÁTICOS DE NEGOCIACIÓN.
+### SECCIÓN XXI — REQUISITOS PARA LA AUTORIZACIÓN DE LOS SISTEMAS INFORMÁTICOS DE NEGOCIACIÓN.
 
 REQUISITOS PARA LA AUTORIZACIÓN.
-ARTÍCULO 53.- Los Mercados deberán someter a consideración de la Comisión, para su previa autorización, los Sistemas Informáticos de Negociación de valores negociables, abarcando tanto el segmento de colocación primaria como el de negociación secundaria de valores negociables, los que deberán garantizar los principios de protección del público inversor, equidad, eficiencia, transparencia, no fragmentación y reducción del riesgo sistémico. A los efectos de la aprobación de estos sistemas, los Mercados deberán presentar mínimamente la siguiente documentación:
+ARTÍCULO 53.- Los Mercados deberán someter a la previa autorización de la CNV, los sistemas informáticos de negociación de valores negociables, abarcando tanto el segmento de colocación primaria como el de negociación secundaria de valores negociables, los que deberán garantizar los principios de protección del público inversor, equidad, eficiencia, transparencia, no fragmentación y reducción del riesgo sistémico. A los efectos de la aprobación de estos sistemas, los Mercados deberán presentar la información consignada en el Anexo I de este Capítulo y, adicionalmente, como mínimo la siguiente documentación:
 
-a) Documentación del Sistema:
+1. Documentación de los sistemas informáticos de negociación:
 
-a.1) Arquitectura del sistema informático de negociación.
+a) Arquitectura de los sistemas informáticos de negociación.
 
-a.2) Carpetas de los sistemas y de los subsistemas asociados.
+b) Carpetas de tales sistemas y de los subsistemas asociados.
 
-a.3) Manuales de procedimiento para el control de las órdenes, ofertas y operaciones en tiempo real.
+c) Manuales de procedimiento para el control de las órdenes, ofertas y operaciones en tiempo real.
 
-a.4) Dictamen de Auditor externo respecto a la inalterabilidad de la información registrada, la seguridad del sistema, los procedimientos de copia de respaldo o back up y contingencia, y los aspectos funcionales mencionados en este artículo.
+d) Dictamen de auditor externo respecto a la inalterabilidad de la información registrada, la seguridad de los sistemas informáticos de negociación, los procedimientos de copia de respaldo o back up y contingencia, y los aspectos funcionales mencionados en este artículo.
 
-a.1) Detalle de interfase de mensajería compatible con el Protocolo de Intercambio de Información Financiera o Financial Information Exchange Protocol (FIX) versión 4.2 o superior, y especificaciones técnicas necesarias para que otros participantes puedan implementar una aplicación que opere con total funcionalidad con su sistema informático de negociación.
+e) Detalle de interfase de mensajería compatible con el Protocolo de Intercambio de Información Financiera o Financial Information Exchange Protocol (FIX) versión 4.2 o superior, y especificaciones técnicas necesarias para que otros participantes puedan implementar una aplicación que opere con total funcionalidad con su sistema informático de negociación.
 
-b) Funcionalidades y recaudos del Sistema.
+2. Funcionalidades y recaudos de los sistemas informáticos de negociación:
 
-b.1) Para la conectividad del Sistema con los sistemas de la Comisión, cumpliendo con todos los recaudos técnicos que a estos efectos establezca el Organismo.
+f) Para la conectividad de los sistemas informáticos de negociación con los sistemas de la CNV, cumpliendo con todos los recaudos técnicos que a estos efectos establezca el Organismo.
 
-b.2) Para el acceso de la Comisión a los sistemas de negociación, debiendo en todos los casos y sin excepción preverse el acceso a todos los datos de las ofertas (de compra y/o venta), incluyendo la identidad de los agentes que las ingresan.
+g) Para el acceso de la CNV a los sistemas informáticos de negociación, debiendo en todos los casos y sin excepción preverse el acceso a todos los datos de las ofertas (de compra y venta), incluyendo la identidad de los ALyC y AN en la negociación secundaria y, en el caso de la colocación primaria, de los Agentes Intervinientes que las ingresan.
 
-b.3) Para el acceso al sistema por parte de todos los Agentes de Liquidación y Compensación y Agentes de Negociación registrados en la Comisión.
+h) Para el acceso a los sistemas por parte de todos los ALyC y AN en la negociación secundaria y, en el caso de la colocación primaria, de los Agentes Intervinientes.
 
-b.4) Para permitir el ACCESO DIRECTO MERCADO (ADM).
+i) Para permitir el Acceso Directo al Mercado (ADM).
 
-b.5) Para asegurar la mejor interferencia Precio/Tiempo en la negociación secundaria. b.6) Para la difusión de las operaciones en tiempo real, conforme las pautas dispuestas por la Comisión en el presente Capítulo.
+j) Para asegurar la mejor interferencia precio/tiempo en la negociación secundaria.
 
-b.7) En el caso de la colocación primaria, funcionalidad para la difusión de los prospectos y demás documentación involucrada utilizando Internet y todos los medios tecnológicos disponibles al público en general, previamente informados a la Comisión.
+k) Para la difusión de las operaciones en tiempo real, conforme las pautas dispuestas por la CNV en el presente Capítulo.
 
-b.8) Para el registro y preservación de los datos de las ofertas que ingresan al sistema y de las operaciones que se registran, debiendo contener como mínimo: fecha, hora, minuto y segundo en que fueron ingresadas y registradas, cantidad ofertada (compra y/o venta), tipo de valores negociables, identificación del agente y del cliente, y demás datos requeridos por la Comisión que resulten relevantes para la colocación primara como secundaria.
+l) En el caso de la colocación primaria, funcionalidad para la difusión de los Prospectos, Suplementos de Prospecto o Documentos de Oferta Definitivos y demás documentación involucrada utilizando internet y todos los medios tecnológicos disponibles al público en general, previamente informados a la CNV, así como también las funcionalidades adicionales previstas en el artículo 7° del Capítulo IV del presente Título.
+
+m) Para el registro y preservación de los datos de las ofertas que ingresan a los sistemas informáticos de negociación y de las operaciones que se registran, debiendo contener como mínimo: fecha, hora, minuto y segundo en que fueron ingresadas y registradas, cantidad ofertada (compra o venta), tipo de valores negociables, precio, identificación de los ALyC y AN en la negociación secundaria y, en el caso de la colocación primaria, de los Agentes Intervinientes, y de los clientes, y demás datos requeridos por la CNV que resulten relevantes para la colocación primaria y la negociación secundaria, debiéndose observar en este último caso lo dispuesto en el artículo 56 TER del presente Capítulo.
+
+n) En el caso de la colocación primaria, los sistemas informáticos de negociación deberán prever, aunque la subasta o licitación sea abierta, que los ALyC y AN, ya sea que actúen como Agentes Colocadores o no, puedan ingresar oferta tanto para su Cartera Propia, como por sus clientes. En el caso que las ofertas correspondan a sus clientes, ciertos datos de las mismas (nombre del cliente y CUIT/CUIL, CDI o CIE) no deberán ser visibles para los demás participantes de la colocación, quedando reservada su visualización al operador del sistema informático de negociación y a la CNV.
+
+o) En el caso de la colocación primaria, los sistemas deberán permitir la carga de toda la información requerida en este artículo
+
+[Sección sustituida por art. 2° de la RG 1169/2026, BO 23/09/2026]
 
 ### SECCIÓN XXII — ACCESO DIRECTO A LOS SISTEMAS INFORMÁTICOS DE NEGOCIACIÓN.
 
@@ -474,12 +482,14 @@ d) Personal idóneo con capacidad técnica y profesional necesaria que le permit
 
 ### SECCIÓN XXIV — INFORMACIÓN SOBRE OPERACIONES Y CONECTIVIDAD A LA COMISIÓN.
 
-DATOS DE OPERACIONES EN TIEMPO REAL E INFORMACIÓN DE ÓRDENES.
-ARTÍCULO 56.- Los Mercados deberán remitir a la COMISION NACIONAL DE VALORES, al Sistema de Vigilancia y Monitoreo Inteligente (SVMI), en tiempo real y en formato FIX, los datos completos de cada una de las operaciones que se registren en sus sistemas informáticos de negociación, incluyendo la identidad de los agentes registrantes y de los clientes (compradores y vendedores) intervinientes en las mismas hasta el nivel de cuentas individuales, de corresponder; como también remitir los datos completos de los comitentes y sus condóminos, debiendo para ello cumplir con todas y cada una de las especificaciones técnicas dispuestas por esta Comisión y descriptas en los Anexos IV y V del presente Capítulo.
+DATOS DE OPERACIONES E INFORMACIÓN DE OFERTAS EN TIEMPO REAL.
+ARTÍCULO 56.- Los Mercados deberán remitir a la CNV, al Sistema de Vigilancia y Monitoreo Inteligente (SVMI), en tiempo real y en formato FIX, los datos completos de cada una de las operaciones que se registren en sus sistemas informáticos de negociación implementados para la negociación secundaria de valores negociables, incluyendo la identidad de los ALyC y AN y de los clientes (compradores y vendedores) intervinientes en las mismas hasta el nivel de cuentas individuales, de corresponder; mediante la indicación del CUIT/CUIL, CDI o CIE y nombre completo del inversor final, debiendo para ello cumplir con todas y cada una de las especificaciones técnicas dispuestas por la CNV y descriptas en los Anexos IV y V del presente Capítulo.
 
-Asimismo, los Mercados deberán remitir los datos completos de todas las ofertas de compra y venta, en tiempo real y en formato FIX, que se cursen en los respectivos mercados, detallando las órdenes recibidas de sus comitentes, en todas las especies y operatorias vigentes, tal como se registran en sus respectivos sistemas de negociación.
+Asimismo, los Mercados deberán remitir a la CNV los datos completos de todas las ofertas de compra y venta, en tiempo real y en formato FIX, que se cursen en los respectivos Mercados, detallando las órdenes recibidas de sus comitentes, incluso aquellas que no hayan sido ejecutadas (canceladas o expiradas), en todas las especies y operatorias vigentes, tal como se registran en sus respectivos sistemas informáticos de negociación.
 
-Los Mercados deberán comunicar a la COMISIÓN NACIONAL DE VALORES, con una anticipación mínima de TREINTA (30) días corridos a su implementación, cualquier modificación que decidan efectuar en los contenidos de los mensajes que remiten, no pudiendo en ningún caso alterar su formato, estampa de tiempo (timestamp), uso de Tiempo Universal Coordinado (UTC) y fecha de transacción, los cuales se encuentran establecidos en los Anexos IV y V del presente Capítulo.
+Los Mercados deberán comunicar a la CNV, con una anticipación mínima de TREINTA (30) días corridos a su implementación, cualquier modificación que decidan efectuar en los contenidos de los mensajes que remiten, no pudiendo en ningún caso alterar su formato, estampa de tiempo (timestamp), uso de Tiempo Universal Coordinado (UTC) y fecha de transacción, los cuales se encuentran establecidos en los Anexos IV y V del presente Capítulo
+
+[Artículo sustituido por art. 3° de la RG 1169/2026, BO 23/09/2026]
 
 DATOS DE POSICIONES EN FUTUROS Y OPCIONES.
 ARTÍCULO 56 BIS.- Los Mercados deberán remitir a la CNV, con periodicidad semanal, dentro de los DOS (2) días siguientes de finalizada cada semana, el detalle diario con los datos completos indicados en el Anexo IX del presente Capítulo, sobre las posiciones abiertas en futuros y opciones por ALyC, excepto: que (i) sean Participantes Directos; o (ii) revistan la calidad de entidades financieras en el marco de la Ley de Entidades Financieras.
@@ -487,6 +497,34 @@ ARTÍCULO 56 BIS.- Los Mercados deberán remitir a la CNV, con periodicidad sema
 La obligación de informar, en los términos y con el alcance previsto en el presente artículo, no resulta aplicable respecto de las personas que por su vinculación con el ALyC se encuentren comprendidas en el concepto de cartera propia ampliada, dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas
 
 [Artículo incorporado por art. 1° de la RG 1113/2026, BO 27/02/2026]
+
+ARTÍCULO 56 TER.- Excepto en el caso de emisiones por parte de Emisores no sujetos a fiscalización por la CNV (por estar comprendidos en lo dispuesto en el artículo 83 de la Ley de Mercado de Capitales), los Mercados deberán garantizar a la CNV el acceso directo y permanente a los sistemas informáticos de negociación utilizados e implementados por ellos para la colocación primaria, permitiendo la visualización íntegra y en tiempo real de las ofertas o manifestaciones de interés, sus modificaciones, cancelaciones, adjudicaciones y demás eventos del proceso de colocación primaria. Dicho acceso deberá permitir la visualización íntegra y sin restricciones de la totalidad de la información y de los eventos registrados en las plataformas, a fin de posibilitar el adecuado ejercicio de las funciones de supervisión, monitoreo y fiscalización. En las colocaciones internacionales, lo dispuesto en este artículo resulta aplicable exclusivamente a la porción local.
+
+Los mencionados sistemas informáticos de negociación deberán -como mínimo- contemplar y permitir visualizar, los siguientes datos (aún en el caso de emisiones de Emisores no sujetos a fiscalización por la CNV por estar comprendidos en el artículo 83 de la Ley de Mercado de Capitales):
+
+1. Los Agentes Intervinientes e inversores finales participantes, con indicación -en este último caso- de su respectivo nombre completo y CUIT/CUIL, CDI o CIE.
+
+No podrán ingresarse ofertas o, en su caso, manifestaciones de interés a los sistemas informáticos de negociación de los Mercados si no se cuenta con la identificación correspondiente. No se admitirá el ingreso de ofertas o, en su caso, manifestaciones de interés bajo el concepto “terceros con ID sin identificar”;
+
+2. fecha, hora, minuto y segundo;
+
+3. monto máximo de adjudicación (“cap”), de corresponder. Los Mercados deberán implementar y establecer en los mencionados sistemas informáticos de negociación, alertas para los casos en los que un inversor alcance dicho monto máximo y la individualización, sin necesidad de hacer visibles los datos identificatorios de los inversores finales, de todas las ofertas de un mismo inversor que haya establecido un monto máximo, para que los Sujetos Intervinientes puedan identificarlos claramente;
+
+4. si interviene la Cartera Propia Restringida o la Cartera Propia;
+
+5. en el caso de colocaciones por formación de libro (book building), el tipo de inversor (con indicación si es persona humana o jurídica, si es o no un Inversor Calificado, si es un FCI, una aseguradora, entre otros); y
+
+6. las modificaciones, cancelaciones y adjudicaciones correspondientes, y demás eventos del proceso de colocación primaria.
+
+Además, deberá identificarse el ticker del instrumento a emitir.
+
+Los Mercados deberán remitir inmediatamente, una vez finalizadas cada una de las colocaciones que se lleve a cabo mediante el sistema informático de negociación de dicho Mercado, un archivo en formato Excel que contenga:
+
+a) la totalidad de la información obrante en sus plataformas de colocación primaria, a través del formulario de acceso restringido "Colocaciones Primarias Reporte No Público" de la AIF; y
+
+b) copia del documento o planilla, que deberá contener como mínimo la información especificada en el Anexo I de este Capítulo. En caso de tratarse de instrumentos emitidos por Emisores comprendidos en el artículo 83 de la Ley de Mercado de Capitales, el envío deberá ser únicamente a través del Sistema de Vigilancia y Monitoreo Inteligente (SVMI)
+
+[Artículo incorporado por art. 4° de la RG 1169/2026, BO 23/09/2026]
 
 ### SECCIÓN XXV — INFORMACIÓN DE OPERACIONES Y CONECTIVIDAD ENTRE MERCADOS.
 

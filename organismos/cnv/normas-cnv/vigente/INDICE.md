@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1167/2026 (BO 17/09/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1169/2026 (BO 23/09/2026) |
 
 ## Título II — EMISORAS
 
@@ -60,10 +60,10 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-VI/capitulo-I.md`](titulo-VI/capitulo-I.md) | Título VI — Capítulo I: MERCADOS | RG 1113/2026 (BO 27/02/2026) |
+| [`titulo-VI/capitulo-I.md`](titulo-VI/capitulo-I.md) | Título VI — Capítulo I: MERCADOS | RG 1169/2026 (BO 23/09/2026) |
 | [`titulo-VI/capitulo-II.md`](titulo-VI/capitulo-II.md) | Título VI — Capítulo II: CÁMARAS COMPENSADORAS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VI/capitulo-III.md`](titulo-VI/capitulo-III.md) | Título VI — Capítulo III: LIQUIDACIÓN Y COMPENSACIÓN DE OPERACIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-VI/capitulo-IV.md`](titulo-VI/capitulo-IV.md) | Título VI — Capítulo IV: COLOCACIÓN PRIMARIA. | RG 1119/2026 (BO 13/03/2026) |
+| [`titulo-VI/capitulo-IV.md`](titulo-VI/capitulo-IV.md) | Título VI — Capítulo IV: COLOCACIÓN PRIMARIA. | RG 1169/2026 (BO 23/09/2026) |
 | [`titulo-VI/capitulo-V.md`](titulo-VI/capitulo-V.md) | Título VI — Capítulo V: NEGOCIACIÓN SECUNDARIA. OPERACIONES | RG 1154/2026 (BO 13/07/2026) |
 | [`titulo-VI/capitulo-VI.md`](titulo-VI/capitulo-VI.md) | Título VI — Capítulo VI: NEGOCIACIÓN SECUNDARIA DE VALORES NEGOCIABLES DE EMISION INDIVIDUAL QUE GOZAN DE OFERTA PÚBLICA. | RG 1107/2026 (BO 13/02/2026) |
 
@@ -138,8 +138,8 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XV/capitulo-I.md`](titulo-XV/capitulo-I.md) | Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV | RG 1163/2026 (BO 20/08/2026) |
-| [`titulo-XV/capitulo-II.md`](titulo-XV/capitulo-II.md) | Título XV — Capítulo II: AGENTES DE ADMINISTRACIÓN DE PRODUCTOS DE INVERSIÓN COLECTIVA – FIDUCIARIOS FINANCIEROS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XV/capitulo-I.md`](titulo-XV/capitulo-I.md) | Título XV — Capítulo I: REMISIÓN DE INFORMACIÓN POR LAS ENTIDADES FISCALIZADAS POR LA CNV | RG 1169/2026 (BO 23/09/2026) |
+| [`titulo-XV/capitulo-II.md`](titulo-XV/capitulo-II.md) | Título XV — Capítulo II: AGENTES DE ADMINISTRACIÓN DE PRODUCTOS DE INVERSIÓN COLECTIVA – FIDUCIARIOS FINANCIEROS. | RG 1169/2026 (BO 23/09/2026) |
 | [`titulo-XV/capitulo-III.md`](titulo-XV/capitulo-III.md) | Título XV — Capítulo III: EMISORAS – OBLIGACIONES NEGOCIABLES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 
 ## Título XVI — DISPOSICIONES GENERALES
@@ -162,8 +162,8 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVIII/capitulo-I.md`](titulo-XVIII/capitulo-I.md) | Título XVIII — Capítulo I: EMISORAS | RG 1149/2026 (BO 11/06/2026) |
 | [`titulo-XVIII/capitulo-II.md`](titulo-XVIII/capitulo-II.md) | Título XVIII — Capítulo II: PRODUCTOS DE INVERSIÓN COLECTIVA. FIDEICOMISOS FINANCIEROS. | RG 1159/2026 (BO 06/08/2026) |
 | [`titulo-XVIII/capitulo-III.md`](titulo-XVIII/capitulo-III.md) | Título XVIII — Capítulo III: PRODUCTOS DE INVERSIÓN COLECTIVA. FONDOS COMUNES DE INVERSIÓN. | RG 1160/2026 (BO 06/08/2026) |
-| [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1120/2026 (BO 13/03/2026) |
-| [`titulo-XVIII/capitulo-V.md`](titulo-XVIII/capitulo-V.md) | Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. | RG 1154/2026 (BO 13/07/2026) |
+| [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1169/2026 (BO 23/09/2026) |
+| [`titulo-XVIII/capitulo-V.md`](titulo-XVIII/capitulo-V.md) | Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. | RG 1169/2026 (BO 23/09/2026) |
 | [`titulo-XVIII/capitulo-VI.md`](titulo-XVIII/capitulo-VI.md) | Título XVIII — Capítulo VI: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-VII.md`](titulo-XVIII/capitulo-VII.md) | Título XVIII — Capítulo VII: AGENTES DE CALIFICACIÓN DE RIESGOS (ACR). | RG 1164/2026 (BO 04/09/2026) |
 | [`titulo-XVIII/capitulo-VIII.md`](titulo-XVIII/capitulo-VIII.md) | Título XVIII — Capítulo VIII: BOLSAS DE COMERCIO CON Y SIN MERCADO DE VALORES ADHERIDO. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |

@@ -1,5 +1,5 @@
 # Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES.
-Última modificación: RG 1154/2026 (BO 13/07/2026)
+Última modificación: RG 1169/2026 (BO 23/09/2026)
 Fuente: PDF base, págs. 928–935.
 
 ADECUACIÓN PATRIMONIO NETO MÍNIMO AN, ALYC Y AAGI.
@@ -330,3 +330,14 @@ ARTÍCULO 29.- Los requisitos relativos al volumen operado y límites dispuestos
 Para dar curso a operaciones sobre dichos valores negociables rigen las restantes condiciones previstas en el mencionado artículo 2°
 
 [Artículo incorporado por art. 3° de la RG 1154/2026, BO 13/07/2026, vigente desde 13/07/2026]
+
+RG Nº 1169. EXCEPCIONES. RÉGIMEN INFORMATIVO COLOCACIONES PRIMARIAS.
+ARTÍCULO 30.- Los ALyC y AN que actúen como Agentes Colocadores, Agente Colocador Principal o Agentes Intervinientes, deberán cumplir con las disposiciones establecidas en la RG N° 1169, hasta tanto persistan las condiciones previstas en el artículo 16 del Capítulo IV del Título XVIII de estas Normas, y cada Agente obtenga la homologación dispuesta por los Mercados para operar bajo las condiciones y requisitos previstos en estas Normas en las colocaciones primarias de valores negociables.
+
+La homologación de las funcionalidades necesarias para la implementación de las adecuaciones a los sistemas informáticos de los Mercados deberá ser efectivizada dentro de los SESENTA (60) días de notificado por los Mercados que se encuentra habilitada alguna funcionalidad para su homologación y no más allá del 26 de febrero de 2027.
+
+Mientras dure el período de transición de implementación previsto en el 16 del Capítulo IV del Título XVIII de estas Normas, los agentes mencionados deberán cumplir con el Criterio Interpretativo N° 102 de esta CNV, en lo que les atañe, así como el resto de las disposiciones establecidas en la RG N° 1169, en tanto y en cuanto no se vean afectadas por las tareas de adecuación de sus sistemas informáticos de negociación previstos en el cronograma que apruebe la CNV. Hasta tanto se encuentre disponible el formulario “Colocaciones Primarias – Reporte No Público”, la información prevista en el citado Criterio Interpretativo deberá remitirse de conformidad con el mecanismo allí establecido. Una vez que dicho formulario se encuentre disponible, deberá utilizarse el mismo a tales efectos, no correspondiendo su remisión mediante el formulario “Otra información o reporte no público”.
+
+El 26 de febrero de 2027 o una vez que los agentes hayan implementado los desarrollos necesarios para operar en los Mercados y no existan cuestiones pendientes para su debido cumplimiento, lo que suceda antes, cesará la obligación de remitir la planilla prevista en el Anexo I del Capítulo IV del Título VI de estas Normas, respecto a las colocaciones primarias locales en las que intervengan los Mercados registrados por la CNV, subsistiendo dichas obligaciones cuando se traten de colocaciones internacionales; todo ello de conformidad con lo dispuesto en el referido Capítulo
+
+[Artículo incorporado por art. 12 de la RG 1169/2026, BO 23/09/2026]
