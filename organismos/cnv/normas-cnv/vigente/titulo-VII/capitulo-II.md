@@ -1,5 +1,5 @@
 # Título VII — Capítulo II: AGENTE DE LIQUIDACIÓN Y COMPENSACIÓN
-Última modificación: RG 1144/2026 (BO 01/06/2026)
+Última modificación: RG 1156/2026 (BO 17/07/2026)
 Fuente: PDF base, págs. 598–615.
 
 ÁMBITO DE APLICACIÓN.
@@ -527,9 +527,9 @@ e) no implique en ningún caso superar un índice de apalancamiento computable, 
 PARTIDAS A CONSIDERAR PARA EL CÁLCULO DE LOS ÍNDICES.
 ARTÍCULO 39.- Para el cálculo de los índices establecidos en el artículo precedente, se deberá considerar:
 
-1. Saldos acreedores de comitentes: para el cómputo de la presente partida deberán considerarse los saldos acreedores utilizando criterio de “concertación” para todos los indicadores requeridos; excepto respecto de los Índices de Liquidez II y III que deberán confeccionarse utilizando el criterio de “liquidación”, es decir utilizando los saldos exigibles de comitentes. No podrán considerarse los saldos deudores para descontar del monto computable ni netearse saldos entre comitentes.
+1. Saldos acreedores de comitentes: para el cómputo de la presente partida deberán considerarse los saldos acreedores utilizando criterio de “concertación” para todos los indicadores requeridos, excepto respecto de los Índices de Liquidez II y III que deberán confeccionarse utilizando el criterio de “liquidación”, es decir utilizando los saldos exigibles de comitentes. No podrán considerarse los saldos deudores para descontar del monto computable ni netearse saldos entre comitentes.
 
-2. Disponibilidades: para el cómputo de este rubro, solo se considerarán los montos bancarizados, ya sea en moneda nacional o extranjera. No se computarán los montos en efectivo ni los montos resguardados en cajas de seguridad, aun cuando las mismas se encuentren registradas a nombre del Agente.
+2. Disponibilidades: para el cómputo de este rubro, solo se considerarán los montos bancarizados, ya sea en moneda nacional o extranjera. No se computarán los montos en efectivo ni los montos resguardados en cajas de seguridad, aun cuando estas se encuentren registradas a nombre del Agente.
 
 3. Inversiones corrientes disponibles: para el cómputo de este rubro no se considerarán los cheques de pago diferido ni los pagarés no garantizados. En cambio, se computarán las demás posiciones que se encuentren depositadas en un ADCVN o en un ACRyP, así como las cuotapartes de los FCI, los depósitos a plazo fijo y otras colocaciones de naturaleza similar. Asimismo, se podrán considerar los activos entregados por los Agentes a los Mercados y/o Cámaras Compensadoras en concepto de garantías, siempre que sean de libre disponibilidad o no se encuentren afectadas a la operatoria de aquellos.
 
@@ -537,13 +537,13 @@ ARTÍCULO 39.- Para el cálculo de los índices establecidos en el artículo pre
 
 5. Todos los índices (no sólo los que están sujetos a límites) deberán considerar por separado las variables en pesos, y las variables en moneda extranjera (la que deberá expresarse en dólares estadounidenses), así como un índice consolidado expresado en pesos convirtiendo la moneda extranjera, en su caso, conforme lo previsto en la Comunicación “A” 3500 del BCRA o, si se trata de una moneda extranjera distinta al dólar estadounidense, al tipo de cambio vendedor divisa del BNA, en ambos casos, al último día hábil del mes de la presentación de los indicadores referidos.
 
-Los activos denominados y pagaderos en moneda extranjera, o cuyos activos subyacentes se encuentren denominados y pagaderos en moneda extranjera, deberán tomarse en cuenta para los índices en moneda extranjera, aunque los mismos se negocien en pesos.
+Los activos denominados y pagaderos en moneda extranjera, o cuyos activos subyacentes se encuentren denominados y pagaderos en moneda extranjera, deberán tomarse en cuenta para los índices en moneda extranjera, aunque se negocien en pesos.
 
 6. Exclusivamente para el cálculo de Índice de apalancamiento computable, el patrimonio neto a considerarse en el denominador será el total que surja de la contabilidad del ALyC, sin apertura por moneda. En consecuencia, para calcular el índice en dólares estadounidenses, deberá convertirse el monto total del patrimonio neto a dólares, conforme el inciso 5 precedente.
 
-7. En el caso de los ALyC I AGRO, no se deberán considerar las disponibilidades que corresponden a la actividad agroindustrial
+En el caso de: (i) los ALyC I AGRO, no se deberán considerar aquellas partidas contables que correspondan a su actividad agroindustrial; y (ii) los ALyC que se encuentren también inscriptos ante el INAES como asociación mutual, no se deberán considerar aquellas partidas contables que correspondan a su actividad mutualista
 
-[Artículo sustituido por art. 2° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
+[Artículo sustituido por art. 1° de la RG 1156/2026, BO 17/07/2026]
 
 LÍMITES PRUDENCIALES. CONTROL INTERNO.
 ARTÍCULO 40.- Aun cuando no se encuentren implementados en su plan de cuentas contable, el Agente deberá contar en todo momento con los mecanismos, procedimientos y controles internos, así como sistemas de gestión necesarios para el cumplimiento del régimen informativo establecido en los artículos precedentes, conforme los lineamientos establecidos por el artículo 41 del presente Capítulo.

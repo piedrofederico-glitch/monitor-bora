@@ -71,7 +71,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-VII/capitulo-I.md`](titulo-VII/capitulo-I.md) | Título VII — Capítulo I: AGENTE DE NEGOCIACIÓN | RG 1102/2025 (BO 31/12/2025) |
-| [`titulo-VII/capitulo-II.md`](titulo-VII/capitulo-II.md) | Título VII — Capítulo II: AGENTE DE LIQUIDACIÓN Y COMPENSACIÓN | RG 1144/2026 (BO 01/06/2026) |
+| [`titulo-VII/capitulo-II.md`](titulo-VII/capitulo-II.md) | Título VII — Capítulo II: AGENTE DE LIQUIDACIÓN Y COMPENSACIÓN | RG 1156/2026 (BO 17/07/2026) |
 | [`titulo-VII/capitulo-III.md`](titulo-VII/capitulo-III.md) | Título VII — Capítulo III: FONDO DE GARANTÍA PARA RECLAMOS DE CLIENTES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VII/capitulo-IV.md`](titulo-VII/capitulo-IV.md) | Título VII — Capítulo IV: AGENTE ASESOR GLOBAL DE INVERSIÓN. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-VII/capitulo-V.md`](titulo-VII/capitulo-V.md) | Título VII — Capítulo V: AGENTE PRODUCTOR | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |

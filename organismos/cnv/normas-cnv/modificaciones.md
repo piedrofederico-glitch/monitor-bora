@@ -349,6 +349,7 @@ Archivo: `vigente/titulo-VII/capitulo-II.md`
 | art. 38 | sustituye | RG 1144/2026 | 2° | 01/06/2026 |
 | art. 39 | sustituye | RG 1144/2026 | 2° | 01/06/2026 |
 | art. 41 | sustituye | RG 1144/2026 | 3° | 01/06/2026 |
+| art. 39 | sustituye | RG 1156/2026 | 1° | 17/07/2026 |
 
 ## Título VIII, Capítulo I
 Archivo: `vigente/titulo-VIII/capitulo-I.md`

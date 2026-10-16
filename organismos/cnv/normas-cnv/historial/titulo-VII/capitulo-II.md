@@ -220,3 +220,30 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > 8. Los saldos acreedores exigibles de comitentes deben reflejarse en las cuentas contables del pasivo del Agente
 >
 > [Artículo incorporado por art. 3° de la RG 1130/2026, BO 28/04/2026]
+
+## Artículo 39
+- Vigente desde: 01/06/2026
+- Vigente hasta: 17/07/2026
+- Sustituido por: RG 1156/2026, art. 1°
+- Texto:
+
+> PARTIDAS A CONSIDERAR PARA EL CÁLCULO DE LOS ÍNDICES.
+> ARTÍCULO 39.- Para el cálculo de los índices establecidos en el artículo precedente, se deberá considerar:
+>
+> 1. Saldos acreedores de comitentes: para el cómputo de la presente partida deberán considerarse los saldos acreedores utilizando criterio de “concertación” para todos los indicadores requeridos; excepto respecto de los Índices de Liquidez II y III que deberán confeccionarse utilizando el criterio de “liquidación”, es decir utilizando los saldos exigibles de comitentes. No podrán considerarse los saldos deudores para descontar del monto computable ni netearse saldos entre comitentes.
+>
+> 2. Disponibilidades: para el cómputo de este rubro, solo se considerarán los montos bancarizados, ya sea en moneda nacional o extranjera. No se computarán los montos en efectivo ni los montos resguardados en cajas de seguridad, aun cuando las mismas se encuentren registradas a nombre del Agente.
+>
+> 3. Inversiones corrientes disponibles: para el cómputo de este rubro no se considerarán los cheques de pago diferido ni los pagarés no garantizados. En cambio, se computarán las demás posiciones que se encuentren depositadas en un ADCVN o en un ACRyP, así como las cuotapartes de los FCI, los depósitos a plazo fijo y otras colocaciones de naturaleza similar. Asimismo, se podrán considerar los activos entregados por los Agentes a los Mercados y/o Cámaras Compensadoras en concepto de garantías, siempre que sean de libre disponibilidad o no se encuentren afectadas a la operatoria de aquellos.
+>
+> 4. Neteo de posiciones: Se admitirá que se utilicen las Cauciones Tomadoras Netas para el cálculo de los índices antes referidos.
+>
+> 5. Todos los índices (no sólo los que están sujetos a límites) deberán considerar por separado las variables en pesos, y las variables en moneda extranjera (la que deberá expresarse en dólares estadounidenses), así como un índice consolidado expresado en pesos convirtiendo la moneda extranjera, en su caso, conforme lo previsto en la Comunicación “A” 3500 del BCRA o, si se trata de una moneda extranjera distinta al dólar estadounidense, al tipo de cambio vendedor divisa del BNA, en ambos casos, al último día hábil del mes de la presentación de los indicadores referidos.
+>
+> Los activos denominados y pagaderos en moneda extranjera, o cuyos activos subyacentes se encuentren denominados y pagaderos en moneda extranjera, deberán tomarse en cuenta para los índices en moneda extranjera, aunque los mismos se negocien en pesos.
+>
+> 6. Exclusivamente para el cálculo de Índice de apalancamiento computable, el patrimonio neto a considerarse en el denominador será el total que surja de la contabilidad del ALyC, sin apertura por moneda. En consecuencia, para calcular el índice en dólares estadounidenses, deberá convertirse el monto total del patrimonio neto a dólares, conforme el inciso 5 precedente.
+>
+> 7. En el caso de los ALyC I AGRO, no se deberán considerar las disponibilidades que corresponden a la actividad agroindustrial
+>
+> [Artículo sustituido por art. 2° de la RG 1144/2026, BO 01/06/2026, vigente desde 01/06/2026]
