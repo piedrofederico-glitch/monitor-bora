@@ -1,0 +1,29 @@
+{
+  "fecha": "20261016",
+  "total_avisos": 48,
+  "organismos": {
+    "cnv": [],
+    "atep": [],
+    "bcra": [],
+    "aaip": []
+  },
+  "temas_candidatos": [
+    {
+      "id": "349074",
+      "organismo": "MINISTERIO DE CAPITAL HUMANO - DIRECCIÓN NACIONAL DE RELACIONES Y REGULACIONES DEL TRABAJO",
+      "titulo": "Disposición 684/2026",
+      "codigo": "DI-2026-684-APN-DNRYRT#MCH",
+      "firmantes": "Mara Agata Mentoro",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/349074/20261016",
+      "archivo": "temas/textos/20261016_349074_disposicion-684-2026.md",
+      "temas": {
+        "juegos_de_azar": [
+          {
+            "patron": "juegos? de azar",
+            "fragmento": "nto n° re-2025-35706085-apn-dgdteyss#mch del expediente n° ex-2025-35706365- -apn-dgdteyss#mch, obra el acuerdo celebrado entre el sindicato de trabajadores de juegos de azar, entretenimiento, esparcimiento, recreacion y afines de la republica argentina (aleara), por la parte sindical, y la empresa binbaires sociedad anonima, por la"
+          }
+        ]
+      }
+    }
+  ]
+}

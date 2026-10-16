@@ -22,7 +22,11 @@ git add organismos temas runs && git commit -m "corrida: <AAAAMMDD> descarga" &&
 
 ## 3. Repartir
 
-Con los IDs de `config/sesiones.json`, mandá un mensaje (`send_message`) a:
+Con los IDs de `config/sesiones.json`, mandá un mensaje con la herramienta **`mcp__claude-code-remote__send_message`** (`session_id` + `message`) a los destinatarios de abajo. `SendMessage` es otro canal y no llega a esas sesiones.
+
+**Plan B, si `mcp__claude-code-remote__send_message` no está disponible:** lanzá un subagente (herramienta `Agent`) por cada destinatario, con el mismo mensaje y la instrucción de leer `CLAUDE.md` y su doc de rol (`docs/especialista.md` o `docs/analista-temas.md`). La memoria está en el repo, así que el resultado es equivalente. Aclaralo en el resumen final.
+
+Destinatarios:
 
 - cada especialista de organismo que tenga normas nuevas en `runs/<AAAAMMDD>.json` → `organismos.<slug>`;
 - el Analista de Temas, si `temas_candidatos` no está vacío.
