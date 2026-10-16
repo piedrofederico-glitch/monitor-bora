@@ -1,0 +1,163 @@
+                               República Argentina - Poder Ejecutivo Nacional
+                                        Año de la Grandeza Argentina
+
+                                              Resolución General
+
+Número: RESGC-2026-1166-APN-DIR#CNV
+
+                                                                                  CIUDAD DE BUENOS AIRES
+                                                                                  Lunes 14 de Septiembre de 2026
+
+Referencia: EX-2026-88715962- -APN-GPLD#CNV “PROYECTO DE RESOLUCIÓN GENERAL S/
+MODIFICACIÓN DEL TÍTULO XI DE LAS NORMAS”.
+
+
+
+VISTO el Expediente Nº EX-2026-88715962- -APN-GPLD#CNV, caratulado “PROYECTO DE RESOLUCIÓN
+GENERAL S/ MODIFICACIÓN DEL TÍTULO XI DE LAS NORMAS”, lo dictaminado por la Gerencia de
+Prevención del Lavado de Dinero y la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Lavado creó la UIF, entidad actuante en el ámbito del Ministerio de Justicia, con competencia
+específica para prevenir e impedir el delito de lavado de activos proveniente de la comisión de delitos graves y de
+la financiación del terrorismo.
+
+Que el inciso 10 del artículo 14 del referido cuerpo legal establece que la CNV podrá dictar normas de
+procedimiento complementarias a las directivas e instrucciones emitidas por la UIF, siempre que no amplíen ni
+modifiquen el alcance de las mismas.
+
+Que, en dicho contexto, mediante las RGs N° 1139 y 1141 se modificó el Título XI de las NORMAS (N.T. 2013
+y mod.), a los fines de introducir adecuaciones al sistema de PLA/FT/FP.
+
+Que, en el marco de dichas modificaciones, se eliminó la posibilidad del uso de efectivo y, por otra parte, se
+incorporó la utilización del cheque electrónico, sin que ello implicara cambios en las normas impositivas
+vigentes.
+
+Que las modificaciones finalmente introducidas mantuvieron el límite -para los sujetos obligados registrados ante
+CNV-, en la cantidad de pagos que podrán efectuar mediante la utilización de cheques de cualquier naturaleza,
+por día y por cliente, el cual no podrá exceder de DOS (2).
+
+Que, en esta oportunidad y a fin de evitar conductas disvaliosas respecto de las modificaciones oportunamente
+introducidas por la citada RG N° 1141, resulta necesario dotar de mayor certeza al sistema de pagos, asegurando
+la disponibilidad inmediata de los fondos y eliminando la posibilidad de eventuales rechazos que se generarían al
+utilizar cheques como medio pago.
+
+Que la medida adoptada no interfiere en la operatoria de negociación de cheques de pago diferido definida en la
+normativa de aplicación.
+
+Que, por otro lado, cabe precisar que diversos términos utilizados en esta RG, tanto en los considerandos como en
+el articulado, se encuentran definidos en el Título I de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente se dicta en ejercicio de las atribuciones conferidas por el artículo 19, incisos p) y u) de la Ley de
+Mercado de Capitales.
+
+
+
+Por ello,
+
+                                  LA COMISIÓN NACIONAL DE VALORES
+
+                                                   RESUELVE:
+
+ARTÍCULO 1º.- Sustituir el artículo 3° de la Sección II del Título XI de las NORMAS (N.T. 2013 y mod.), por el
+siguiente texto:
+
+“MODALIDADES DE PAGO Y PROCEDIMIENTOS DE CONTROL PARA LA RECEPCIÓN Y ENTREGA
+DE FONDOS DE Y HACIA CLIENTES.
+
+ARTÍCULO 3°.- Los sujetos obligados registrados ante CNV, según corresponda, se ajustarán exclusivamente a
+lo siguiente en materia de recepción y entrega de fondos a clientes:
+
+Transferencias en el país.
+
+a) Recibos de clientes. Deberán efectuarse desde cuentas bancarias a la vista de titularidad o cotitularidad del
+cliente, abiertas en entidades del país autorizadas por el BCRA o desde la CVU de la CUIT del cliente, siempre
+que permita la identificación y trazabilidad de transferencias de fondos desde cuentas a la vista abiertas en
+entidades del país autorizadas por el BCRA pertenecientes a un PSP.
+
+Sin perjuicio de lo anterior, el ALyC I AGRO podrá recibir fondos de clientes, producto de las actividades de
+corretaje de granos, agropecuarias y agroindustriales en general o accesorias a éstas previstas en el artículo 5°,
+inciso d), del Capítulo II del Título VII de estas Normas, para su aplicación en el mercado de capitales, desde la
+cuenta bancaria de titularidad del ALyC I AGRO afectada a tales actividades, debiendo garantizarse la
+trazabilidad desde su origen, dándose cumplimiento a lo dispuesto en el inciso c) del artículo 24 del Capítulo II
+del Título VII de estas Normas y permitiendo la identificación del originador/beneficiario mediante CUIT,
+nombre y apellido de cada uno de los clientes involucrados.
+
+Asimismo, en aquellos casos en que el ALyC Integral haya celebrado un convenio para la liquidación y
+compensación de operaciones con un AN que desarrolle actividades de corretaje de granos, agropecuarias y
+agroindustriales en general o accesorias a éstas, previstas en el artículo 2° del Capítulo I del Título VII de estas
+Normas, el ALyC Integral podrá recibir los fondos pertenecientes a los clientes del AN para su aplicación en el
+mercado de capitales desde la cuenta bancaria específica de titularidad del AN afectada a las actividades
+mencionadas, debiendo garantizarse la trazabilidad desde su origen, dándose cumplimiento a lo dispuesto en el
+inciso c) del artículo 24 del Capítulo II del Título VII de estas Normas y permitiendo la identificación del
+originador/beneficiario de los fondos mediante CUIT, nombre y apellido de cada uno de los clientes del AN
+involucrados.
+
+b) Pagos a clientes. Deberán cursarse hacia cuentas bancarias a la vista de titularidad o cotitularidad del cliente,
+abiertas en entidades del país autorizadas por el BCRA o hacia la CVU de la CUIT del cliente, siempre que
+permita la identificación y trazabilidad de transferencias de fondos hacia cuentas a la vista abiertas en entidades
+del país autorizadas por el BCRA pertenecientes a un PSP.
+
+Este requisito deberá ser cumplido por los ALyC independientemente de sus respectivas subcategorías o
+modalidades operativas en el marco de las Normas dictadas por la CNV.
+
+Asimismo, los ALyC y las personas jurídicas registradas ante la CNV que intervengan en la colocación de FCI o
+de otros PIC autorizados por la Comisión, podrán realizar transferencias, por cuenta y orden de sus clientes, hacia
+cuentas bancarias a la vista de titularidad de otro de los sujetos antes mencionados, para ser acreditadas en la
+subcuenta que el mismo comitente emisor tenga abierta en el sujeto receptor de los fondos. Análogamente, el
+receptor de los fondos podrá acreditar dicha transferencia en la cuenta del cliente, cuando provengan de cuentas
+bancarias a la vista de titularidad de otro de los sujetos mencionados en el presente artículo y sea transferida por
+cuenta y orden del mismo cliente.
+
+Sin perjuicio de lo mencionado precedentemente, los inversores extranjeros sometidos a una debida diligencia
+especial, conforme lo dispuesto por la UIF en la normativa específica dictada en la materia, podrán:
+
+I. Recibir y enviar trasferencias bancarias desde y hacia entidades reguladas por el BCRA que actúen en calidad
+de custodio local de tales inversores. Para ello, dichos inversores extranjeros deberán entregar a los ALyC una
+instrucción específica o permanente con los datos de la cuenta abierta en el custodio local.
+
+II. Recibir y enviar trasferencias bancarias desde y hacia entidades reguladas por el BCRA, que actúen en calidad
+de custodio local de una entidad extranjera que participe como una “Entidad Financiera/Bancaria del Extranjero”
+de tales inversores, definida en la Resolución de la UIF específica en la materia. Para ello, dichos inversores
+extranjeros deberán entregar a los ALyC una instrucción específica o permanente con los datos de la cuenta
+abierta en un custodio local -entidad regulada por el BCRA- a nombre de la entidad extranjera que participe como
+una “Entidad Financiera/Bancaria del Extranjero” de tales inversores, definida en la Resolución de la UIF
+específica en la materia.
+
+En todos los casos, deberá observarse la normativa dictada por el BCRA en materia de liquidación de operaciones
+de compra/venta de títulos valores en moneda extranjera”.
+
+ARTÍCULO 2º.- La presente RG entrará en vigencia a partir del día de su publicación en el B.O.
+
+ARTÍCULO 3°.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+Digitally signed by MANUEL IGNACIO CALDERON     Digitally signed by HERBON Laura Ines
+Date: 2026.09.14 11:10:29 ART                   Date: 2026.09.14 11:12:51 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                         Laura Ines Herbon
+Vocal                                           Vocal
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana   Digitally signed by SILVA Roberto Emilio
+Date: 2026.09.14 11:14:17 ART                   Date: 2026.09.14 11:15:37 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                       Roberto Emilio Silva
+Vicepresidente                                  Presidente
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+                                                                                            Digitally signed by GESTION DOCUMENTAL
+                                                                                            ELECTRONICA - GDE
+                                                                                            Date: 2026.09.14 11:15:45 -03:00
+

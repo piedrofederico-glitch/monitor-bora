@@ -1,0 +1,426 @@
+                            República Argentina - Poder Ejecutivo Nacional
+                      AÑO DE LA RECONSTRUCCIÓN DE LA NACIÓN ARGENTINA
+
+                                               Resolución General
+
+Número: RESGC-2025-1076-APN-DIR#CNV
+
+                                                                                   CIUDAD DE BUENOS AIRES
+                                                                                    Miércoles 23 de Julio de 2025
+
+Referencia: EX-2025-77175127- -APN-GE#CNV “PROYECTO DE RESOLUCIÓN GENERAL S/
+MODIFICACIÓN DE LOS CAPÍTULOS V, VIII Y IX DEL TÍTULO II, CAPÍTULO IV DEL TÍTULO VI Y
+CAPÍTULO I DEL TÍTULO XVIII DE LAS NORMAS (N.T. 2013 Y MOD.)”
+
+
+
+VISTO el Expediente N° EX-2025-77175127- -APN-GE#CNV caratulado: “PROYECTO DE RESOLUCIÓN
+GENERAL S/ MODIFICACIÓN DE LOS CAPÍTULOS V, VIII Y IX DEL TÍTULO II, CAPÍTULO IV DEL
+TÍTULO VI Y CAPÍTULO I DEL TÍTULO XVIII DE LAS NORMAS (N.T. 2013 Y MOD.)”, lo dictaminado
+por la Subgerencia de Emisiones de Renta Variable, por la Gerencia de Emisoras, por la Gerencia de
+Fideicomisos Financieros, por la Subgerencia de Fondos Comunes de Inversión Abiertos, por la Subgerencia de
+Normativa y por la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales N° 26.831 (B.O. 28-12-12 y sus modificatorias) tiene por objeto regular la
+oferta pública de valores negociables, promoviendo la transparencia, el acceso al mercado de capitales y la
+protección del inversor.
+
+Que el artículo 19, inciso h) del mencionado cuerpo legal, faculta a la Comisión Nacional de Valores (CNV) a
+dictar reglamentaciones que se deberán cumplir para la autorización de los valores negociables, instrumentos y
+operaciones del mercado de capitales, y hasta su baja del registro, contando con facultades para establecer las
+disposiciones que fueren necesarias para complementar las que surgen de las diferentes leyes y decretos
+aplicables a éstos, así como resolver casos no previstos e interpretar las normas allí incluidas dentro del contexto
+económico imperante, para el desarrollo del mercado de capitales.
+
+Que la dinámica del mercado de capitales exige actualizar procedimientos y requisitos, ponderando el equilibrio
+entre la transparencia informativa y la eficiencia operativa para los emisores.
+
+Que la CNV impulsa la modernización del régimen de oferta pública de valores negociables, priorizando la
+agilidad de los procedimientos y la promoción de un mercado de capitales más dinámico y competitivo, sin
+desatender los estándares de transparencia y protección al inversor.
+Que, por ello, resulta procedente suprimir la obligación de comunicación previa de CINCO (5) días de antelación
+la intención de emitir, para los Emisores Frecuentes, así como el deber de informar el desistimiento de la emisión,
+por cuanto dicho requisito no aporta un valor sustancial al contralor de esta CNV, no se encuentra previsto para
+otros regímenes de oferta pública y obstaculiza la captación de oportunidades de mercado en plazos competitivos.
+
+Que, en virtud de la experiencia recogida, se habilita la posibilidad de emisión y/o reemisión de series o clases
+dentro del monto global autorizado bajo el mencionado Régimen, equiparando dicha facultad con la prevista para
+los Programas Globales, lo que comprende tanto a nuevos Emisores como a los Emisores Frecuentes previamente
+registrados.
+
+Que, asimismo, se simplifican los requisitos para los trámites de Certificados de Depósito Argentinos (CEDEAR)
+y Certificados de Valores (CEVA), mediante la sustitución de la presentación de un informe legal por una
+declaración jurada del emisor, admitiendo, no obstante, la posibilidad de sustituir dicha declaración jurada por
+una opinión legal externa del país del emisor que se expida sobre esos mismos aspectos.
+
+Que, de esta manera, se evita la duplicidad en la presentación de estados contables cuando estos ya se encuentran
+disponibles públicamente en el sitio web del emisor de los valores subyacentes, por lo cual, estas modificaciones
+redundan en una reducción de costos asociados a la tramitación de dichos valores negociables.
+
+Que, se actualiza el monto mínimo de suscripción para adecuarlo al contexto económico actual, facilitando
+colocaciones de mayor escala y evitando límites desactualizados restrinjan operaciones viables.
+
+Que se introduce flexibilidad en los plazos de difusión reduciéndolos a UN (1) día hábil para todas las
+colocaciones de las clases y/o series excepto para los supuestos de refinanciación o canje que se establece en DOS
+(2) días hábiles y, asimismo, se clarifica a partir de cuándo se comienza a computar los plazos de difusión en
+todas las colocaciones de oferta pública.
+
+Que, en el marco de lo expuesto y con el propósito de homogeneizar el contenido normativo, se ha resuelto
+modificar las disposiciones aplicables a los fideicomisos financieros y a los regímenes especiales de productos de
+inversión colectiva previstos en el Título V de las NORMAS (N.T. 2013 y mod.).
+
+Que las modificaciones propuestas eliminan obstáculos procedimentales innecesarios, agilizan las colocaciones
+en el contexto actual y favorecen la competitividad del mercado local, en consonancia con principios de
+simplificación administrativa y desregulación.
+
+Que la presente se dicta en ejercicio de las atribuciones conferidas por los artículos 19, incisos h) y q) de la Ley
+N° 26.831, el artículo 32 de la Ley N° 24.083 y el artículo 1691 del Código Civil y Comercial de la Nación.
+
+
+
+Por ello,
+
+                                  LA COMISIÓN NACIONAL DE VALORES
+
+                                                   RESUELVE:
+
+ARTÍCULO 1°.- Sustituir el artículo 67 de la Sección VIII del Capítulo V del Título II de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+"REQUISITOS.
+
+ARTÍCULO 67.- Las entidades que hayan colocado en los VEINTICUATRO (24) meses anteriores a la solicitud
+de registro DOS (2) emisiones de acciones y/o de obligaciones negociables bajo el régimen general de oferta
+pública regulado por la Comisión, según el tipo de valor negociable que se pretenda emitir, podrán solicitar su
+registro como “Emisor Frecuente” (EF), presentando la solicitud y documentación prevista en esta Sección.
+
+Asimismo, para ser considerado Emisor Frecuente deberá cumplir con los siguientes requisitos, los que deberán
+mantenerse como condición de permanencia:
+
+a) Se trate de un emisor de acciones y/o de obligaciones negociables comprendidos en el régimen general de
+oferta pública, con una antigüedad ininterrumpida no inferior a DOS (2) años inmediatamente anteriores a la
+solicitud de Registro como EF.
+
+b) Se encuentre completa y actualizada en la AUTOPISTA DE LA INFORMACIÓN FINANCIERA, la
+información exigida en el Régimen Informativo Periódico previsto en los Títulos IV y XII de las presentes
+Normas y la entidad se halle cumpliendo el deber de informar previsto en la legislación y la reglamentación
+vigente a la fecha de la solicitud.
+
+c) No se encuentre sometidas a procesos concursales y/o de quiebras o cualquier otro similar ni posea sentencia
+condenatoria penal firme a la fecha de la solicitud.
+
+d) No esté incluida en los supuestos previstos en los artículos 94, inciso 5° de la Ley Nº 19.550.
+
+e) No encontrarse en mora en los pagos de amortizaciones de capital y/o de intereses de valores negociables con
+oferta pública, ni dividendos en el caso de emisores de acciones.
+
+f) No adeude tasas y/o aranceles a esta Comisión.”
+
+ARTÍCULO 2°.- Sustituir el artículo 71 de la Sección VIII del Capítulo V del Título II de las NORMAS (N.T.
+2013 y mod.).
+
+“ARTÍCULO 71.- Las emisoras bajo el Régimen de Emisor Frecuente, podrán emitir y/o reemitir series y/o clases
+dentro del monto máximo global previsto en el artículo 68 de este Capítulo.
+
+El monto de todas las series y/o clases en circulación de valores negociables emitidos bajo el presente Régimen
+no podrá exceder en ningún caso el monto global máximo autorizado.”
+
+ARTÍCULO 3°.- Derogar el artículo 72 de la Sección VIII del Capítulo V del Título II de las NORMAS (N.T.
+2013 y mod.).
+
+ARTÍCULO 4°.- Sustituir el artículo 17 de la Sección III del Capítulo VIII del Título II de las NORMAS (N.T.
+2013 y mod.) por el siguiente texto:
+
+“ARTÍCULO 17.- El pedido de aprobación del programa de CEDEAR y CEVA al régimen de oferta pública, así
+como las posteriores modificaciones y/o aumentos, deberá ser presentado por el emisor propuesto de los
+CEDEAR y CEVA, o por este y el emisor de los valores negociables representados en el programa.
+
+Los programas patrocinados deberán ser presentados por ambas entidades.
+El pedido deberá acompañarse con los siguientes documentos e informaciones:
+
+a) Contratos relevantes a los efectos del programa y del interés de los inversores, firmados entre el emisor del
+CEDEAR y CEVA, por un lado, y la emisora de los valores negociables representados, por el otro (incluidos el
+contrato de patrocinio del programa, el contrato de suscripción de los CEDEAR y CEVA que rija las relaciones
+entre el emisor de los CEDEAR y CEVA y sus tenedores y otros vinculados a la emisión de los CEDEAR y
+CEVA en su caso) y entre el emisor del CEDEAR y CEVA, por un lado, y el depositario de los valores
+negociables representados en su caso, por el otro, vigentes o que hayan estado vigentes en los TRES (3) años
+anteriores a la presentación.
+
+b) La determinación de los Mercados en los cuales se solicitará negociación de los CEDEAR y CEVA.
+
+c) Una declaración jurada del emisor de los CEDEAR o CEVA y, en su caso, de los valores negociados
+representados por CEDEAR o CEVA, indicando que:
+
+1) los valores negociables representados por los CEDEAR o CEVA han sido autorizados para ser ofrecidos
+públicamente en su país de origen;
+
+2) dicha autorización se encuentra vigente y con plenos efectos a la fecha de presentación.
+
+3) los valores subyacentes cotizan en un mercado reconocido por la CNV;
+
+4) los acuerdos entre el emisor de los CEDEAR y CEVA y el emisor de los valores negociables representados por
+los CEDEAR y CEVA se encuentran vigentes y son válidos conforme a la legislación aplicable;
+
+5) los derechos derivados del CEDEAR y del canje son exigibles conforme a la normativa del mercado de origen
+y a los términos del programa de emisión.
+
+La declaración jurada podrá ser sustituida por opinión legal externa del país del emisor que se expida sobre esos
+mismos aspectos.
+
+d) Una descripción de la forma de los valores, y en el caso de valores negociables escriturales el contrato con el
+agente de registro.
+
+e) La declaración del carácter patrocinado o no patrocinado del programa.
+
+f) El plazo durante el cual el emisor de los CEDEAR y CEVA se obliga a cumplir con los requerimientos
+informativos de los artículos 14 y 16 de este Capítulo y en su caso el plazo durante el cual se obliga el emisor de
+los valores negociables representados por los CEDEAR y CEVA a cumplir con los requerimientos informativos
+del artículo 15. El plazo del programa no podrá exceder el plazo menor de cualquiera de estos compromisos.
+
+g) Las comisiones y/u honorarios que percibirá el emisor de los CEDEAR y CEVA, y en su caso las que percibirá
+el depositario de los valores negociables representados por los CEDEAR y CEVA.
+
+En los programas patrocinados deberá acompañarse, además, la información y documentación requerida en el
+Capítulo “Oferta Pública Primaria” relativa a la emisora de los valores negociables representados por los
+CEDEAR y CEVA objeto del programa. Los estados contables se considerarán presentados indicando el sitio web
+del emisor de los valores subyacentes donde se pueden encontrar.
+En los programas no patrocinados deberá acompañarse además de la información y documentación indicada en
+los incisos a) hasta g) del presente artículo, toda otra información y/o documentación que vaya a ser presentada,
+exhibida, ofrecida o de otra forma publicitada al público inversor en el marco de los procedimientos de
+colocación de los CEDEAR y CEVA.”
+
+ARTÍCULO 5°.- Sustituir el artículo 14 de la Sección III del Capítulo IX del Título II de las NORMAS (N.T.
+2013 y mod.) por el siguiente texto:
+
+“PUBLICIDAD.
+
+ARTÍCULO 14.- Los prospectos y suplementos de prospectos deberán, en todos los casos, publicarse con
+antelación a la colocación de los respectivos valores negociables, ello sin perjuicio de las facultades de
+fiscalización y sanción de esta Comisión.
+
+El período mínimo de difusión será de UN (1) día hábil, siempre que la documentación haya estado subida antes
+de las DIEZ (10) horas de la mañana de ese día, de lo contrario el período de difusión deberá ser extendido como
+mínimo al día hábil siguiente.
+
+Cuando el prospecto no contenga información financiera de la colocación, tal como la tasa, el precio o el monto,
+por no haber sido determinada debido a las condiciones particulares de la emisión, una vez determinada dicha
+información deberá ser publicada de inmediato por los medios electrónicos de información financiera y mediante
+un aviso complementario en el mismo medio utilizado para la publicación y por igual plazo de difusión.”
+
+ARTÍCULO 6°.- Sustituir el inciso n) del artículo 21 de la Sección X del Capítulo IV del Título V de las
+NORMAS (N.T. 2.013 y mod.), por el siguiente texto:
+
+“ (…)
+
+n) PROCEDIMIENTO DE COLOCACIÓN.
+
+Descripción del procedimiento de colocación de los valores fiduciarios, que deberá contener, entre otras, la
+siguiente información:
+
+1) precio de suscripción y forma de integración;
+
+2) período de colocación;
+
+3) datos de los agentes de colocación y el régimen de comisiones aplicable.
+
+(…)”.
+
+ARTÍCULO 7°.- Derogar el artículo 117 de la Sección XXIX del Capítulo IV del Título V de las NORMAS
+(N.T. 2.013 y mod.).
+
+ARTÍCULO 8°.- Derogar el artículo 11 de la Sección I del Capítulo V del Título V de las NORMAS (N.T. 2.013
+y mod.).
+
+ARTÍCULO 9°.- Derogar el artículo 10 de la Sección I del Capítulo VI del Título V de las NORMAS (N.T. 2.013
+y mod.).
+ARTÍCULO 10.- Derogar el artículo 8° de la Sección I del Capítulo VII del Título V de las NORMAS (N.T.
+2.013 y mod.).
+
+ARTÍCULO 11.- Derogar el artículo 5° de la Sección I del Capítulo VIII del Título V de las NORMAS (N.T.
+2.013 y mod.).
+
+ARTÍCULO 12.- Derogar el artículo 8° de la Sección II del Capítulo IX del Título V de las NORMAS (N.T.
+2.013 y mod.).
+
+ARTÍCULO 13.- Sustituir el artículo 5° de la Sección I del Capítulo IV del Título VI de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“MONTO MÍNIMO SUSCRIPCIÓN.
+
+ARTÍCULO 5º.- Las emisiones de valores negociables deberán prever un monto mínimo de suscripción que no
+deberá superar las UNIDADES DE VALOR ADQUISITIVO, actualizables por el Coeficiente de Estabilización
+de Referencia (CER) – Ley N° 25.827, UVAS SIETE MIL QUINIENTOS (7.500), o su equivalente en otras
+monedas, salvo que sea de aplicación el régimen previsto por el BCRA (Comunicación “A” 3046, modificatorias
+y complementarias) o que esté dirigida a inversores calificados.
+
+A dichos efectos, deberá aplicarse el valor de la UVA, publicado por el BCRA, correspondiente al día inmediato
+anterior al inicio del periodo de difusión, el cual deberá ser informado en el aviso de suscripción.”
+
+ARTÍCULO 14.- Sustituir el artículo 8° de la Sección II del Capítulo IV del Título VI de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“PAUTAS MÍNIMAS QUE SE DEBERÁN CUMPLIR EN LA COLOCACIÓN PRIMARIA.
+
+ARTÍCULO 8°.- En el proceso de colocación primaria de valores negociables, se deberán cumplir las siguientes
+pautas mínimas:
+
+a) Publicación del Prospecto en su versión definitiva, y toda otra documentación complementaria exigida por las
+Normas para el tipo de valor negociable de que se trate, por un plazo mínimo de UN (1) día hábil con anterioridad
+a la fecha de inicio de la subasta o licitación pública o de la suscripción o adjudicación en el caso de formación de
+libro, siempre que la documentación haya estado subida antes de las DIEZ (10) horas de la mañana de ese día, de
+lo contrario el período de difusión deberá ser extendido como mínimo al día hábil siguiente, informando como
+mínimo:
+
+a.1) Tipo de valor negociable.
+
+a.2) Monto o cantidad ofertada indicando si se trata de un importe fijo o rango con un mínimo y máximo.
+
+a.3) Unidad mínima de colocación.
+
+a.4) Precio (especificando si se trata de uno fijo o un rango con un mínimo y máximo). En caso de utilizar el
+mecanismo de formación de libro informar precio de referencia inicial o las pautas para la determinación del
+precio final.
+
+a.5) Moneda de denominación.
+a.6) Tasa de interés u otra remuneración (especificando si se trata de un valor fijo o un rango con mínimo y
+máximo).
+
+a.7) Plazo o vencimiento.
+
+a.8) Amortización.
+
+a.9) Forma de Negociación.
+
+a.10) Comisión de Colocación Primaria.
+
+a.11) Detalle de las siguientes fechas y horarios:
+
+a.11.1) De inicio de la subasta o licitación o de comienzo del proceso de formación de libro.
+
+a.11.2) Límite de recepción de ofertas o manifestaciones de interés.
+
+a.11.3) Límite para retirar las ofertas o manifestaciones, de corresponder.
+
+a.11.4) Límite a partir del cual se consideran las ofertas o manifestaciones de interés existentes como vinculantes,
+de corresponder.
+
+a.11.5) De liquidación.
+
+a.12) Definición de las variables, que podrán incluir:
+
+a.12.1) Precio, tasa de interés, rendimiento u otra variable fija y determinada, detallando las reglas de prorrateo,
+en el caso de corresponder.
+
+a.12.2) Por competencia de precio, tasa de interés, rendimiento u otra variable, y la forma -en su caso- de
+prorrateo de las ofertas, si fuera necesario.
+
+a.12.3) En caso de subasta o licitación pública, cuando el precio resulte conocido o sea determinable de acuerdo
+con parámetros mínimos y máximos razonables, el emisor podrá establecer como condición particular de la
+operación –lo que deberá expresar en forma clara y difundir públicamente con antelación- la existencia de un
+orden cronológico de preferencia a favor de quienes primero formulen ofertas vinculantes.
+
+b) En el caso de subasta o licitación pública, excepto que los valores negociables a colocar estén destinados a
+inversores calificados, se deberá implementar un tramo no competitivo, cuya adjudicación no podrá superar el
+CINCUENTA POR CIENTO (50%) del total que resulte adjudicado.
+
+Sin perjuicio de ello, cuando el total de las ofertas adjudicadas en el tramo competitivo, con más la suma de las
+ofertas adjudicadas bajo el tramo no competitivo, sea menor al monto a ser adjudicado, la cantidad de órdenes a
+ser aceptadas bajo el tramo no competitivo podrá incrementarse hasta el porcentaje que permita cubrir el monto
+total a ser emitido.
+
+Asimismo, las órdenes recibidas de inversores que sean tenedores de otros valores negociables del mismo emisor
+que sean objeto de canje y/o sean elegibles para una suscripción en especie, no serán tenidas en cuenta a los
+efectos del cálculo ni de la implementación de un tramo no competitivo.
+c) El/los agente/s colocador/es designados por el emisor, los agentes de negociación y los agentes de liquidación y
+compensación registrados, podrán acceder al sistema para ingresar ofertas o manifestaciones de interés.
+
+d) La subasta o licitación pública podrá ser, a elección del emisor, ciega –de “ofertas selladas”– en las que ningún
+participante, incluidos los colocadores, tendrán acceso a las ofertas presentadas hasta después de finalizado el
+período de subasta o licitación, o abierta, de ofertas conocidas a medida que van ingresando por intermedio del
+mismo sistema de licitación.
+
+e) Vencido el plazo límite de recepción de ofertas o manifestaciones de interés, no podrán modificarse una vez
+ingresadas, ni podrán ingresarse nuevas.
+
+f) Las publicaciones exigidas en el inciso a) del presente artículo, deberán efectuarse por medio de la
+AUTOPISTA DE LA INFORMACIÓN FINANCIERA, por medio del sitio web de los Mercados y del sitio web
+del emisor.
+
+g) Los inversores que hubieren efectuado manifestaciones de interés en la formación de libro deberán ratificarlas
+el día de la suscripción, que podrá ser por UN (1) día hábil y que tendrá lugar con posterioridad a la última
+publicación que complemente la información financiera del prospecto o suplemento de prospecto.”
+
+ARTÍCULO 15.- Sustituir el artículo 11 de la Sección III del Capítulo IV del Título VI de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+"PLAZO DE DIFUSIÓN.
+
+ARTÍCULO 11.- El plazo de difusión para la colocación primaria de los valores negociables, establecido en el
+artículo 8º, inciso a) de esta Sección, deberá ser suficiente para garantizar el adecuado conocimiento por parte del
+público inversor.
+
+En todos los casos, el inicio del plazo de difusión comenzará el mismo día de la publicación del prospecto o
+suplemento de prospecto, aviso de suscripción o aviso complemetario que corresponda en la Autopista de la
+Información Financiera y en los mercados donde se van a listar los valores negociables, en caso de no coincidir,
+el que ocurra después, en la medida que estos hayan sido publicados con anterioridad a las DIEZ (10) horas de
+ese día. Caso contrario el plazo de difusión comenzará a las CERO (0) horas del día siguiente de la fecha en que
+se publiquen los documentos mencionados anteriormente.
+
+Cuando se trate de emisiones destinadas a la refinanciación o canje prevista en la Sección V de este Capítulo el
+plazo de difusión mínimo será de DOS (2) días hábiles.”
+
+ARTÍCULO 16.- Incorporar como Sección III del Capítulo I del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“SECCIÓN III
+
+APLICACIÓN RESOLUCIÓN GENERAL N° 1076
+
+ARTÍCULO 5°.- En atención a la modificación del artículo 71 de la sección VIII del Capítulo V del Título II de
+las NORMAS (N.T. 2013 y mod.), referido a la posibilidad de emitir y reemitir series y/o clases bajo el Régimen
+Simplificado de Emisor Frecuente, aquellas Emisoras que se encuentren registradas a la fecha de la Resolución
+indicada bajo ese Régimen, quedan habilitadas de pleno derecho a emitir y reemitir clases y/o series siempre que
+no superen el último monto máximo autorizado en circulación, mediante la sola acreditación de la decisión del
+órgano de administración y/o subdelegado. Esta facultad deberá constar en el primer prospecto y/o suplemento de
+prospecto que publiquen bajo este Régimen”.
+
+ARTÍCULO 17.- La presente Resolución General entrará en vigencia a partir del día siguiente al de su
+publicación en el Boletín Oficial de la República Argentina.
+
+ARTÍCULO 18.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el Sitio Web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio               Digitally signed by HERBON Laura Ines
+Date: 2025.07.23 12:10:45 ART                             Date: 2025.07.23 12:35:28 ART
+Location: Ciudad Autónoma de Buenos Aires                 Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                                   Laura Ines Herbon
+Vocal                                                     Vocal
+Directorio                                                Directorio
+Comisión Nacional de Valores                              Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana
+Date: 2025.07.23 12:41:50 ART
+Location: Ciudad Autónoma de Buenos Aires
+
+Sonia Fabiana Salvatierra
+Vicepresidente
+Directorio
+Comisión Nacional de Valores
+
+
+
+
+                                                                                                      Digitally signed by GESTION DOCUMENTAL
+                                                                                                      ELECTRONICA - GDE
+                                                                                                      Date: 2025.07.23 12:41:53 -03:00
+

@@ -85,10 +85,12 @@ Diferencias de fondo:
 | Tít. IV, Cap. III; Tít. XVI, Anexo II (RG 1165 y 1168); Tít. XIV, Cap. III, Anexo I (RG 1172) | InfoLEG no trae los modelos de estados contables, el cuadro de patrimonio neto mínimo por categoría, o los trae con otra disposición. | Diferencia de formato. Acá están como bloques preformateados. |
 | Tít. XIV, Cap. II; Tít. XIX | InfoLEG conserva la página con la nota de derogación (RG 1118/2026 y RG 1109/2026). | Coincide: derogados. El texto anterior está en `historial/`. |
 
-## Pendientes
+## Pendientes y vigencias diferidas
 
-- Tít. V, Cap. VI, art. 9°, cuarto párrafo, y Tít. VIII, Cap. I, art. 8°, inc. a): verificar contra las RG de origen (son anteriores a la base).
-- RG 1163/2026: vigencia calculada en 45 días hábiles desde el 21/08/2026, o sea el 23/10/2026. Confirmar la fecha.
-- RG 1113/2026 (Anexo IX, Tít. VI, Cap. I), RG 1121/2026 (Anexo III, Tít. V, Cap. III) y RG 1127/2026 (fórmula R, Anexo I, Tít. II, Cap. III): publicados como imagen; acá figura una transcripción. Cotejar con la imagen si se usa para algo más que una consulta.
-- RG 1098/2025 y 1103/2026: numeración repetida del art. 5° (Secc. V, Cap. XV, Tít. XVIII), reemplazado luego por los arts. 9° y 10 de la RG 1103.
-- RG 1148/2026: el art. 26 (Secc. XII, Cap. III, Tít. XVIII) remite a un "artículo siguiente" que no existe. Así figura en el original.
+- Los pendientes de verificación están en `pendientes.md` (formato fijo, uno por línea).
+- Las RG publicadas que todavía no rigen están en `vigencias.md`; su texto, en `diferido/`. `vigente/` es siempre lo que rige hoy. Desde el 16/10/2026 la RG 1163/2026 (vigencia 23/10/2026) está en `diferido/`.
+- Observaciones de los textos originales, sin acción pendiente: la RG 1098/2025 repite la numeración del art. 5° (Secc. V, Cap. XV, Tít. XVIII), que la RG 1103/2026 reemplazó después por los arts. 9° y 10; el art. 26 de la Secc. XII del Cap. III del Tít. XVIII (RG 1148/2026) remite a un "artículo siguiente" que no existe.
+
+## Herramientas
+
+`scripts/normas/` (instructivo en `docs/normas-cnv.md`): aplicación de RG con historial, preparación de RG nuevas, consulta de redacciones por fecha o por RG, activación de vigencias diferidas y una prueba de reproducción. El texto de cada RG aplicada y sus metadatos están en `organismos/cnv/rg/fuentes/`; el índice de modificaciones y las denominaciones de los títulos, en `datos/`.

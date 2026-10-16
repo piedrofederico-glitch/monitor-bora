@@ -1,0 +1,521 @@
+                               República Argentina - Poder Ejecutivo Nacional
+                                        Año de la Grandeza Argentina
+
+                                               Resolución General
+
+Número: RESGC-2026-1165-APN-DIR#CNV
+
+                                                                                  CIUDAD DE BUENOS AIRES
+                                                                                Miércoles 2 de Septiembre de 2026
+
+Referencia: EX-2026-79449505- -APN-GAYM#CNV “PROYECTO DE RESOLUCIÓN GENERAL
+S/IMPLEMENTACIÓN DE LA MATRIZ DE COMPATIBILIDADES ENTRE SUJETOS REGISTRADOS”
+
+
+
+VISTO el Expediente N° EX-2026-79449505- -APN-GAYM#CNV caratulado: “PROYECTO DE
+RESOLUCIÓN GENERAL S/IMPLEMENTACIÓN DE LA MATRIZ DE COMPATIBILIDADES ENTRE
+SUJETOS REGISTRADOS”, lo dictaminado por la Gerencia de Fondos Comunes de Inversión, la Gerencia de
+Fideicomisos Financieros, la Subgerencia de Supervisión de Agentes, la Subgerencia de Supervisión de
+Mercados, la Gerencia de Registro y Control, la Gerencia de Agentes y Mercados, la Subgerencia de Normativa y
+la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales tiene por objeto el desarrollo del mercado de capitales y la regulación de los
+sujetos y valores negociables comprendidos dentro de dicho mercado, siendo la CNV su autoridad de aplicación y
+contralor.
+
+Que el artículo 19 de la citada Ley, en sus incisos g) y o), faculta a la CNV a dictar las reglamentaciones que
+deberán cumplir las personas, humanas y jurídicas, y las entidades autorizadas en los términos del referido inciso
+d), desde su inscripción hasta la baja del registro respectivo, como así también, a fijar los requerimientos
+patrimoniales que deberán acreditar las entidades bajo fiscalización.
+
+Que, por otra parte, se encuentra vigente el Decreto N° 891/2017 por el cual se aprobaron las buenas prácticas en
+materia de simplificación aplicables para el funcionamiento del Sector Público Nacional, el dictado de normativa
+y sus regulaciones, en el que se señaló que es indispensable elaborar una estrategia sistémica e integral que
+establezca como premisa básica la mejora regulatoria como una labor continua del sector público y abierta a la
+participación de la sociedad, que incluya la reducción de los trámites excesivos, la simplificación de procesos y la
+elaboración de normas de manera tal que nos lleve a un Estado eficiente, predecible, capaz de responder a las
+necesidades ciudadanas.
+
+Que, en el marco de las atribuciones regulatorias y de supervisión asignadas a la CNV, resulta necesario continuar
+promoviendo un marco normativo claro, ordenado y consistente respecto de las actividades que pueden
+desarrollar los distintos sujetos inscriptos.
+
+Que, si bien los Mercados, las Cámaras Compensadoras, los Agentes Registrados, los PSAV y las PFC presentan
+características, funciones y alcances de actuación diferenciados, resulta necesario establecer criterios claros
+respecto de las actividades que pueden desarrollar de manera concurrente, así como de aquellas que resultan
+incompatibles entre sí.
+
+Que, a tales efectos, se considera oportuno implementar una Matriz de Compatibilidades, que permita identificar
+las relaciones de compatibilidad, con sujeción al cumplimiento de condiciones específicas entre las distintas
+categorías de agentes y demás sujetos inscriptos ante la CNV.
+
+Que la referida matriz constituye una herramienta de sistematización normativa y de ordenamiento regulatorio,
+destinada a brindar mayor previsibilidad respecto del alcance de las actividades que pueden ser desarrolladas en
+forma simultánea por un mismo sujeto, sin alterar por sí misma los requisitos, obligaciones, restricciones o
+condiciones establecidos en las normas aplicables a cada categoría.
+
+Que la implementación de la Matriz de Compatibilidades no implica la modificación, ni ampliación de las
+categorías ya existentes, ni la creación de nuevas categorías de agentes, sujetos o subcategorías, como así
+tampoco modifica la naturaleza, alcance o régimen jurídico de las categorías actualmente contempladas por la
+normativa vigente, sino que constituye una herramienta adicional de utilidad para los sujetos bajo la órbita de
+control y supervisión de la CNV.
+
+Que dicha herramienta permitirá, asimismo, fortalecer las tareas de supervisión y control a cargo de la CNV,
+facilitando la identificación de eventuales situaciones de incompatibilidad y contribuyendo a una aplicación
+uniforme de la normativa vigente.
+
+Que así, la Matriz de Compatibilidades deberá interpretarse en forma conjunta con las disposiciones legales y
+reglamentarias aplicables a cada categoría de agente o sujeto inscripto, prevaleciendo estas últimas en caso de
+existir alguna diferencia o contradicción.
+
+Que, en este marco, se aprovecha la ocasión para readecuar y, en consecuencia, incorporar previsiones respecto a
+los registros compatibles con la categoría de ADCVN, contemplándose la posibilidad de que dicho Agente
+solicite su inscripción en el Registro de Fiduciarios Financieros, previo cumplimiento de las disposiciones
+aplicables a dicha categoría.
+
+Que, a tales efectos, se precisan los requisitos patrimoniales y de liquidez aplicables a aquellos ADCVN que
+–simultáneamente– se encuentren inscriptos como Fiduciarios Financieros, contemplándose lo expuesto en la
+mencionada Matriz de Compatibilidades.
+
+Que, finalmente, cabe precisar que diversos términos utilizados en esta RG, tanto en los considerandos como en el
+articulado, se encuentran definidos en el Título I de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente se dicta en ejercicio de las atribuciones conferidas por el artículo 19, incisos a), d), g), o) y s), 47
+de la Ley de Mercado de Capitales.
+Por ello,
+
+                                  LA COMISIÓN NACIONAL DE VALORES
+                                             RESUELVE:
+
+ARTÍCULO 1°.- Incorporar en el artículo 2° de la Sección II del Capítulo II del Título I de las NORMAS (N.T.
+2013 y mod.), el siguiente término definido:
+
+“(…)
+
+“Matriz de Compatibilidades” tiene el significado atribuido en el artículo 9° de la Sección III del Capítulo I del
+Título XVI de las Normas.
+
+(…)”
+
+ARTÍCULO 2°.- Sustituir el artículo 7° de la Sección II del Capítulo I del Título VIII de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“INSCRIPCIÓN AUTOMATICA COMO ACRyP Y EN OTROS REGISTROS COMPATIBLES.
+ARTÍCULO 7°.- Sin perjuicio de lo dispuesto en el artículo 1° del presente Capítulo, los ADCVN autorizados y
+registrados en la Comisión podrán asimismo actuar en calidad de ACRyP con el alcance establecido en los
+artículos 2° y 4° del Capítulo II del presente Título, quedando automáticamente inscriptos en esta categoría, lo
+que deberá ser informado al público en general en todos los medios de comunicación utilizados para la difusión y
+publicidad de sus actividades.
+
+A solicitud del ADCVN, previo cumplimiento de las disposiciones aplicables, la Comisión procederá a inscribir
+al mismo bajo la categoría de Fiduciario Financiero. El ADCVN sólo podrá encontrarse simultáneamente
+inscripto en la categoría de Fiduciario Financiero y no podrá inscribirse como Mercado o Cámara Compensadora.
+
+En aquellos supuestos en que el ADCVN, se encuentre inscripto bajo la mencionada categoría de Fiduciario
+Financiero, este deberá:
+
+a) Asegurar una segregación funcional y administrativa que permita el funcionamiento como unidades operativas
+o de negocio autónomas e independientes de las categorías en las que se encuentren inscriptos ante esta Comisión,
+y que posibilite la registración y apertura de los ingresos y egresos propios de cada una de esas unidades
+operativas o de negocios; y
+
+b) poseer una estructura organizativa, operativa y de control acorde al tipo, complejidad y volumen de negocios
+que desarrolle.
+
+Los manuales de procedimientos relativos al cumplimiento de los requisitos de organización interna a ser
+implementados sobre el particular deberán estar a disposición de la Comisión”.
+
+ARTÍCULO 3°.- Sustituir el artículo 10 de la Sección IV del Capítulo I del Título VIII de las NORMAS (N.T.
+2013 y mod.). por el siguiente texto:
+
+“MONTO PATRIMONIO NETO MÍNIMO.
+
+ARTÍCULO 10.- El ADCVN deberá contar con un patrimonio neto mínimo no inferior a un monto equivalente a
+UVA VEINTICINCO MILLONES QUINIENTOS MIL (UVA 25.500.000). Dicho patrimonio neto mínimo
+deberá ser incrementado en un monto equivalente al VEINTICINCO POR CIENTO (25%) por cada actividad
+afín y/o complementaria desarrollada conforme lo previsto en el artículo 1° del presente Capítulo.
+
+De conformidad con lo dispuesto en el presente Capítulo y en virtud de que el ADCVN podrá asimismo actuar en
+calidad de ACRyP y, a tales fines, se encuentra automáticamente inscripto en dicha categoría, el ADCVN deberá
+considerar y acreditar el patrimonio neto mínimo previsto en el presente artículo, debiéndose calcular el
+incremento del VEINTICINCO POR CIENTO (25%) mencionado precedentemente sobre dicho patrimonio neto
+mínimo.
+
+Asimismo, el ADCVN que se encuentre inscripto como Fiduciario Financiero conforme el artículo 7° del presente
+Capítulo, deberá computar, en concepto de patrimonio neto mínimo requerido, la suma resultante del importe del
+patrimonio neto mínimo exigido para la categoría de ADCVN, y el CIEN POR CIENTO (100%) del patrimonio
+neto mínimo exigido para categoría de Fiduciario Financiero. En dicho supuesto, no resultará exigible el referido
+incremento por cada actividad afín y/o complementaria desarrollada conforme lo previsto en el artículo 1° del
+presente Capítulo.
+
+Asimismo, no resultará exigible el incremento previsto por cada actividad afín y/o complementaria contemplada
+en el artículo 1° del presente Capítulo respecto de: (i) aquellas actividades que desarrollen los ADCVN en su
+calidad de Infraestructura del Mercado Financiero (IMF) habilitada por el BCRA, conforme el Texto Ordenado
+“Principios de las Infraestructuras de Mercado Financiero” del BCRA; y (ii) toda otra actividad afín y/o
+complementaria que, de igual forma, se encuentre bajo supervisión y/o vigilancia de dicha autoridad.
+
+El monto del patrimonio neto mínimo deberá ser cumplido de manera permanente y deberá surgir de los EECC
+anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al
+cumplimiento del régimen informativo que resulte aplicable en cada caso.
+
+Los EECC trimestrales y anuales deberán ser acompañados con el acta del órgano de administración que los
+apruebe, el informe del órgano de fiscalización y el informe o dictamen del auditor con la firma legalizada por el
+Consejo Profesional correspondiente. Tanto el órgano de fiscalización en su informe, como el auditor en su
+informe o dictamen, deberán además expedirse específicamente respecto de la adecuación del patrimonio neto
+mínimo y de su contrapartida líquida conforme a las exigencias establecidas en el presente Capítulo.
+
+Los EECC anuales deberán ser acompañados con la memoria del órgano de administración sobre la gestión del
+ejercicio y el acta de asamblea que los apruebe”.
+
+ARTÍCULO 4°.- Sustituir el artículo 12 de la Sección IV del Capítulo I del Título VIII de las NORMAS (N.T.
+2013 y mod.). por el siguiente texto:
+
+“CONTRAPARTIDA LÍQUIDA.
+
+ARTÍCULO 12.- Como contrapartida líquida, un mínimo del VEINTE POR CIENTO (20%) del importe del
+patrimonio neto mínimo deberá observar las exigencias y condiciones dispuestas en el Anexo I del Capítulo I del
+Título VI.
+
+De conformidad con lo dispuesto en el presente Capítulo y en virtud de que el ADCVN podrá asimismo actuar en
+calidad de ACRyP y, a tales fines, se encuentra automáticamente inscripto en dicha categoría, el ADCVN deberá
+acreditar la contrapartida líquida mínima prevista en el presente artículo calculada sobre el monto del patrimonio
+neto mínimo dispuesto en el presente Capítulo.
+
+Asimismo, cuando el ADCVN se encuentre simultáneamente inscripto en la categoría de Fiduciario Financiero, el
+ADCVN deberá acreditar el monto resultante de la sumatoria de las exigencias mínimas de liquidez, en concepto
+de contrapartida líquida, requerida para cada una de tales categorías, calculada sobre los respectivos patrimonios
+netos mínimos”.
+
+ARTÍCULO 5°.- Incorporar como Sección III del Capítulo I del Título XVI de las NORMAS (N.T. 2013 y mod.),
+el siguiente texto:
+
+“SECCIÓN III
+
+MATRIZ DE COMPATIBILIDADES ENTRE AGENTES REGISTRADOS, MERCADOS, CÁMARAS
+COMPENSADORAS Y OTROS SUJETOS REGISTRADOS.
+
+ARTÍCULO 9°.- La Matriz de Compatibilidades es una herramienta de sistematización normativa y de
+ordenamiento regulatorio, destinada a brindar mayor claridad y previsibilidad respecto del alcance de las
+actividades que pueden ser desarrolladas en forma simultánea por los Agentes registrados, Mercados, Cámaras
+Compensadoras y demás sujetos registrados ante la Comisión, identificando las relaciones de compatibilidad, los
+requerimientos patrimoniales y de liquidez aplicables, sin alterar los requisitos, obligaciones, limitaciones y
+condiciones aplicables a cada categoría conforme lo previsto en las Normas.
+
+Dicha Matriz de Compatibilidades no implica la modificación ni ampliación de las categorías existentes conforme
+las Normas, ni la creación de nuevas categorías o subcategorías de agentes ni de otros sujetos, como así tampoco
+modifica la naturaleza, alcance o régimen jurídico de tales categorías.
+
+La referida Matriz de Compatibilidades se encuentra publicada y disponible para su consulta en el sitio web de la
+Comisión”.
+
+ARTÍCULO 6°.- Incorporar como Anexo II del Capítulo I del Título XVI de las NORMAS (N.T. 2013 y mod.),
+el Anexo (IF-2026-85043558-APN-GAL#CNV) que forma parte integrante de la presente Resolución.
+
+ARTÍCULO 7°.- La presente RG entrará en vigencia a partir del día siguiente al de su publicación en el B.O.
+
+ARTÍCULO 8°.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio                 Digitally signed by HERBON Laura Ines
+Date: 2026.09.02 17:05:38 ART                               Date: 2026.09.02 17:07:18 ART
+Location: Ciudad Autónoma de Buenos Aires                   Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                                     Laura Ines Herbon
+Vocal                                                       Vocal
+Directorio                                                  Directorio
+Comisión Nacional de Valores                                Comisión Nacional de Valores
+Digitally signed by SALVATIERRA Sonia Fabiana   Digitally signed by SILVA Roberto Emilio
+Date: 2026.09.02 17:09:37 ART                   Date: 2026.09.02 17:11:47 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                       Roberto Emilio Silva
+Vicepresidente                                  Presidente
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+                                                                                            Digitally signed by GESTION DOCUMENTAL
+                                                                                            ELECTRONICA - GDE
+                                                                                            Date: 2026.09.02 17:11:50 -03:00
+                                                                          MATRIZ DE COMPATIBILIDADES
+                                       Hacé clic en cualquier número del cuadro para ir a su referencia, o hacé clic en el número de la referencia para regresar al cuadro.
+
+                              AN      ALyC P /   ALyC I                                                                                                                              ACyD     ACyDI
+        AGENTE       AN                                   ALyC PD   AAGI     ACVN       AP      ACR     ACR UP      PFC     MERC       CC     ACRyP     ADCVN      SG        SD                         FF   PSAV
+                             RUCA        I       AGRO                                                                                                                                 FCI      FCI
+AN                    1                                                                                                                                             2                  3
+AN RUCA                         4
+ALyC P y I                               5                                                                                                                          6         7        8           9    10
+ALyC I AGRO                                        11                                                                                                               12       13        14          15   16
+ALyC PD                                                     17
+AAGI                                                                 18
+ACVN                                                                          19
+AP                                                                                      20
+ACR                                                                                              21
+ACR UP                                                                                                     22
+PFC                                                                                                                 23
+MERC                                                                                                                          24       25        26
+CC                                                                                                                            25       27        28
+ACRyP                                                                                                                         26       28        29       30
+ADCVN *                                                                                                                                         30*       31                                            32
+SG **                 2                  6         12                                                                                                               33
+                                                                                                                                                                    3**                34          35
+SD                                       7         13                                                                                                                        36        37          38   39
+ACyD FCI              3                  8         14                                                                                                               34       37        40          41   42
+ACyDI FCI                                9         15                                                                                                               35       38        41          43   44
+FF                                      10         16                                                                                                     32                 39        42          44   45
+PSAV ***                                                                                                                                                                                                     46
+                                                                                                                                                                                                              6***
+
+
+Acrónimos y Aclaraciones
+
+ PNMT: Patrimonio Neto Mínimo Total | CLMT: Contrapartida Líquida Mínima Total | EE FF: Entidades Financieras
+
+
+
+ PNMT: Aquellos Agentes que se encuentren simultáneamente inscriptos en otras categorías, deberán computar en concepto de PNMT el patrimonio neto mínimo exigido para la categoría de inscripción de mayor monto,
+ y adicionar el CINCUENTA POR CIENTO (50%) de cada uno de los patrimonios netos mínimos exigidos para las categorías restantes.
+ CLMT: Cuando un Agente se encuentre simultáneamente inscripto en más de una categoría, deberá acreditar en concepto de CLMT, el monto resultante de la sumatoria de las exigencias mínimas de liquidez
+ establecidas por cada una de las categorías en las cuales se encuentre inscripto. Punto 9, Anexo I, Capítulo I, Título VI de las Normas (N.T. 2013 y mod.).
+ EE FF: No se efectúa requerimiento de Patrimonio Neto Mínimo Total ni de Contrapartida Líquida Mínima Total para las Sociedades Depositarias por revestir el carácter de Entidades Financieras.
+ * El ADCVN automáticamente adquiere la matrícula de ACRyP, no viceversa.
+ ** La SG puede actuar como ACyD FCI sin necesidad de matricularse como ACyD FCI, no viceversa. El incremento del PNMT y de la CLMT por cada FCI adicional que las SG administren deberá ser computado a
+ partir del lanzamiento de los FCI Abiertos y de la colocación de los FCI Cerrados.
+*** El PSAV inscripto bajo 2 o más categorías deberá cumplir con la exigencia de PNM correspondiente a la categoría más exigente. En la medida en que el PSAV tenga menos de U$S 2.500.000 en volumen
+transaccionado durante los últimos 12 meses para el caso de las CAT 1°, 2° y 3°, o menos de U$S 2.500.000 en volumen custodiado durante los últimos 12 meses, para el caso de la CAT 4°, la exigencia de PNM
+será del CINCUENTA POR CIENTO (50%).
+Referencias Detalladas
+
+  1    Categoría: AN
+ PNMT: 100 % PNMT (UVA 65.350)
+ CLMT: 20% del PNMT (UVA 13.070)
+
+
+  2    Categorías: AN / SG (Volver a Fila AN | Fila SG )
+ PNMT: 100% PNMT SG (UVA 150.000) + 50% PNMT AN (UVA 32.675) + UVA 20.000 por cada FCI adicional que administre
+ CLMT: 50% PNMT SG (UVA 75.000) + UVA 10.000 por cada FCI adicional que administre + 20% PNMT AN (UVA 13.070)
+
+
+  3    Categorías: AN / ACyD FCI (Volver a Fila AN | Fila ACyD FCI )
+ PNMT: 100% PNMT AN (UVA 65.350) + 50% PNMT ACyD FCI (UVA 8.500)
+ CLMT: 20% PNMT AN (UVA 13.070)
+
+
+  4    Categoría: AN RUCA
+ PNMT: 100 % PNMT (UVA 65.350)
+ CLMT: 20% del PNMT (UVA 13.070)
+
+
+  5    Categorías: ALyC P y ALyC I
+ PNMT: 100 % PNMT (UVA 470.350)
+ CLMT: 50% del PNMT (UVA 235.175)
+
+
+  6    Categorías: ALyC P y ALyC I / SG (Volver a Fila ALyC | Fila SG )
+ PNMT: 100% PNMT ALyC P - ALyC I (UVA 470.350) + 50% PNMT SG (UVA 75.000) + UVA 20.000 por cada FCI adicional que administre
+ CLMT: 50% PNMT ALyC P - ALyC I (UVA 235.175) + 50% PNMT SG (UVA 75.000) + UVA 10.000 por cada FCI adicional que administre
+
+
+  7    Categorías: ALyC P y ALyC I / SD (Volver a Fila ALyC | Fila SD )
+ PNMT: EE FF + 100% PNMT ALyC P - ALyC I (UVA 470.350)
+ CLMT: EE FF
+
+
+  8    Categorías: ALyC P y ALyC I / ACyD FCI (Volver a Fila ALyC | Fila ACyD FCI )
+ PNMT: 100% PNMT ALyC P - ALyC I (UVA 470.350) + 50% PNMT ACyD FCI (UVA 8.500)
+ CLMT: 50% PNMT ALyC P - ALyC I (UVA 235.175)
+
+
+  9    Categorías: ALyC P y ALyC I / ACyDI FCI (Volver a Fila ALyC | Fila ACyDI FCI )
+ PNMT: 100% PNMT ALyC P - ALyC I (UVA 470.350) + 50% PNMT ACyDI FCI (UVA 85.000)
+ CLMT: 50% PNMT ALyC P - ALyC I (UVA 235.175) + 50% PNMT ACyDI FCI (UVA 85.000)
+
+
+  10    Categorías: ALyC P y ALyC I / FF (Volver a Fila ALyC | Fila FF )
+ PNMT: 100% PNMT FF (UVA 950.000) + 50% PNMT ALyC P - ALyC I (UVA 235.175)
+ CLMT: 50% PNMT FF (UVA 475.000) + 50% PNMT ALyC P - ALyC I (UVA 235.175)
+ 11   Categoría: ALyC I AGRO
+PNMT: 100 % PNMT (UVA 1.175.350)
+CLMT: 40% del PNMT (UVA 470.000)
+
+
+ 12   Categorías: ALyC I AGRO / SG (Volver a Fila AGRO | Fila SG )
+PNMT: 100% PNMT ALyC I AGRO (UVA 1.175.000) + 50% PNMT SG (UVA 75.000) + UVA 20.000 por cada FCI adicional que administre
+CLMT: 40% PNMT ALyC I AGRO (UVA 470.000) + 50% PNMT SG (UVA 75.000) + UVA 10.000 por cada FCI adicional que administre
+
+
+ 13   Categorías: ALyC I AGRO / SD (Volver a Fila AGRO | Fila SD )
+PNMT: EE FF + 100% PNMT ALyC I AGRO (UVA 1.175.000)
+CLMT: EE FF
+
+
+ 14   Categorías: ALyC I AGRO / ACyD FCI (Volver a Fila AGRO | Fila ACyD FCI )
+PNMT: 100% PNMT ALyC I AGRO (UVA 1.175.000) + 50% PNM ACyD FCI (UVA 8.500)
+CLMT: 40% PNMT ALyC I AGRO (UVA 470.000)
+
+
+ 15   Categorías: ALyC I AGRO / ACyDI FCI (Volver a Fila AGRO | Fila ACyDI FCI )
+PNMT: 100% PNMT ALyC I AGRO (UVA 1.175.000) + 50% PNMT ACyDI FCI (UVA 85.000)
+CLMT: 40% PNMT ALyC I AGRO (UVA 470.000) + 50% PNMT ACyDI FCI (UVA 85.000)
+
+
+ 16   Categorías: ALyC I AGRO / FF (Volver a Fila AGRO | Fila FF )
+PNMT: 100% PNMT ALyC I AGRO (UVA 1.175.000) + 50% PNMT FF (UVA 475.000)
+CLMT: 40% PNMT ALyC I AGRO (UVA 470.000) + 50% PNMT FF (UVA 475.000)
+
+
+ 17   Categoría: ALyC PD
+PNMT: No requiere
+CLMT: No requiere
+
+
+ 18   Categoría: AAGI
+PNMT: 100% PNMT (UVA 65.350)
+CLMT: No requiere
+
+
+ 19   Categoría: ACVN
+PNMT: 100% PNMT (UVA 65.350)
+CLMT: 20% del PNMT (UVA 13.070)
+
+
+ 20   Categoría: AP
+PNMT: No requiere
+CLMT: No requiere
+
+
+ 21   Categoría: ACR
+PNMT: 100% PNMT (UVA 100.000)
+CLMT: No requiere
+ 22    Categoría: ACR UP
+PNMT: No requiere
+CLMT: No requiere
+
+
+ 23    Categoría: PFC
+PNMT: 100% PNMT (UVA 65.350)
+CLMT: No requiere
+
+
+ 24    Categoría: MERC
+PNMT: 100% PNMT (UVA 2.700.000) + 25% por cada actividad afín y/o complementaria
+CLMT: No requiere
+
+
+ 25    Categorías: MERC / CC (Volver a Fila MERC | Fila CC )
+PNMT: 100% PNMT Mercado con CC (UVA 20.000.000) + 25% por cada actividad afín y/o complementaria
+CLMT: No requiere
+
+
+ 26   Categorías: MERC / ACRyP (No puede ser ADCVN) (Volver a Fila MERC | Fila ACRyP )
+PNMT Mercado con CC: 100% PNMT Mercado (UVA 20.000.000) + 50% PNMT ACRyP (UVA 5.000.000) + 25% por cada actividad afín y/o complementaria sobre el PNMT de la categoría vinculada a la actividad
+PNMT Mercado sin CC: 50% PNMT Mercado (UVA 1.350.000) + 100% PNMT ACRyP (UVA 10.000.000) + 25% por cada actividad afín y/o complementaria sobre el PNMT de la categoría vinculada a la actividad
+CLMT: 20% del PNMT ACRyP (UVA 2.000.000)
+
+
+ 27    Categoría: CC
+PNMT: 100% PNMT (UVA 17.300.000) + 25% por cada actividad afín y/o complementaria
+CLMT: No requiere
+
+
+ 28   Categorías: CC / ACRyP (No puede ser ADCVN) (Volver a Fila CC | Fila ACRyP )
+PNMT CC con Mercado: 100% PNMT CC (UVA 20.000.000) + 50% PNMT ACRyP (UVA 5.000.000) + 25% por cada actividad afín y/o complementaria sobre el PNMT de la categoría vinculada a la actividad
+PNMT CC sin Mercado: 100% PNMT CC (UVA 17.300.000) + 50% PNMT ACRyP (UVA 5.000.000) + 25% por cada actividad afín y/o complementaria sobre el PNMT de la categoría vinculada a la actividad
+CLMT: 20% del PNMT ACRyP (UVA 2.000.000)
+
+
+ 29    Categoría: ACRyP
+PNMT: 100% PNMT (UVA 10.000.000) + 25% por cada actividad afín y/o complementaria
+CLMT: 20% del PNMT (UVA 2.000.000)
+
+
+ 30   Categorías: ADCVN / ACRyP (Automática - No puede ser ni Mercado ni CC) (Volver a Fila ACRyP | Fila ADCVN )
+PNMT: 100% PNMT ADCVN (UVA 25.500.000) + 25% por cada actividad afín y/o complementaria sobre el PNMT ADCVN
+CLMT: 20% del PNMT ADCVN (UVA 5.100.000)
+
+
+ 31    Categoría: ADCVN
+PNMT: 100% PNMT (UVA 25.500.000) + 25% por cada actividad afín y/o complementaria
+CLMT: 20% del PNMT ADCVN (UVA 5.100.000)
+ 32    Categorías: ADCVN / FF (No puede tener otra categoría de Agente -salvo ACRyP- y no puede ser Mercado o CC) (Volver a Fila ADCVN | Fila FF )
+PNMT: 100 % PNMT ADCVN (UVA 25.500.000) + 100% PNMT FF (UVA 950.000)
+CLMT: 20% del PNMT ADCVN (UVA 5.100.000) + 50% del PNMT FF (UVA 475.000)
+
+
+ 33    Categoría: SG
+PNMT: 100% PNMT (UVA 150.000) + UVA 20.000 por cada FCI adicional que administre
+CLMT: 50% del PNMT (UVA 75.000) + UVA 10.000 por cada FCI adicional que administre
+
+
+ 34    Categorías: ACyD FCI / SG (Volver a Fila SG | Fila ACyD FCI )
+PNMT: Solo se requieren requisitos patrimoniales de SG
+CLMT: Solo se requieren requisitos patrimoniales de SG
+
+
+ 35    Categorías: ACyDI FCI / SG (Volver a Fila SG | Fila ACyDI FCI )
+PNMT: 100% PNMT ACyDI FCI (UVA 170.000) + 50% del PNMT SG (UVA 75.000) + UVA 20.000 por cada FCI adicional que administre
+CLMT: 50% PNMT ACyDI FCI (UVA 85.000) + 50% del PNMT SG (UVA 75.000) + UVA 10.000 por cada FCI adicional que administre
+
+
+ 36    Categoría: SD
+PNMT: EE FF
+CLMT: EE FF
+
+
+ 37    Categoría: SD / ACyD FCI (Volver a Fila SD | Fila ACyD FCI )
+PNMT: EE FF
+CLMT: EE FF
+
+
+ 38    Categoría: SD / ACyDI FCI (Volver a Fila SD | Fila ACyDI FCI )
+PNMT: EE FF
+CLMT: EE FF
+
+
+ 39    Categoría: SD / FF (Volver a Fila SD | Fila FF )
+PNMT: EE FF
+CLMT: EE FF
+
+
+ 40    Categoría: ACyD FCI
+PNMT: 100% PNMT (UVA 17.000)
+CLMT: No requiere
+
+
+ 41    Categoría: ACyD FCI / ACyDI FCI (Volver a Fila ACyD FCI | Fila ACyDI FCI )
+PNMT: 100% PNMT ACyDI FCI (UVA 170.000)
+CLMT: 50% PNMT ACyDI FCI (UVA 85.000)
+
+
+ 42    Categoría: ACyD FCI / FF (Volver a Fila ACyD FCI | Fila FF )
+PNMT: 100% PNMT FF (UVA 950.000) + 50% ACyD FCI (UVA 8.500)
+CLMT: 50% PNMT FF (UVA 475.000)
+ 43    Categoría: ACyDI FCI
+PNMT: 100% PNMT (UVA 170.000)
+CLMT: 50% PNMT (UVA 85.000)
+
+
+ 44    Categorías: ACyDI FCI / FF (Volver a Fila ACyDI FCI | Fila FF )
+PNMT: 100% PNMT FF (UVA 950.000) + 50% PNMT ACyDI FCI (UVA 85.000)
+CLMT: 50% PNMT FF (UVA 475.000) + 50% PNMT ACyDI FCI (UVA 85.000)
+
+
+ 45    Categoría: FF
+PNMT: 100% PNMT FF (UVA 950.000)
+CLMT: 50% PNMT FF (UVA 475.000)
+
+
+ 46    Categoría: PSAV
+PNMT: Cat. 1: U$S 150.000; Cat. 2: U$S 150.000; Cat. 3: U$S 75.000; Cat. 4: U$S 150.000; y Cat. 5: U$S 35.000
+CLMT: No requiere
+

@@ -1,0 +1,200 @@
+                               República Argentina - Poder Ejecutivo Nacional
+                                        Año de la Grandeza Argentina
+
+                                               Resolución General
+
+Número: RESGC-2026-1122-APN-DIR#CNV
+
+                                                                                   CIUDAD DE BUENOS AIRES
+                                                                                      Lunes 30 de Marzo de 2026
+
+Referencia: EX-2025-120703621- -APN-GAYM#CNV “PROYECTO DE RG S/MODIFICACIÓN
+NORMATIVA TÍTULO VII – RÉGIMEN INFORMATIVO SOBRE PASIVOS FINANCIEROS PARA LOS
+ALYC”
+
+
+
+VISTO el Expediente N° EX-2025-120703621- -APN-GAYM#CNV, caratulado “PROYECTO DE RG
+S/MODIFICACIÓN NORMATIVA TÍTULO VII – RÉGIMEN INFORMATIVO SOBRE PASIVOS
+FINANCIEROS PARA LOS ALYC”, lo dictaminado por la Subgerencia de Supervisión de Agentes, la Gerencia
+de Agentes y Mercados, la Subgerencia de Normativa y la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales tiene por objeto el desarrollo del mercado de capitales y la regulación de los
+sujetos y valores negociables comprendidos dentro de dicho mercado, siendo la CNV su autoridad de aplicación y
+contralor.
+
+Que, conforme lo dispuesto en el artículo 1° de la mencionada ley, forman parte de los objetivos y principios
+fundamentales de la CNV –entre otros-, fortalecer los mecanismos de protección y prevención de abusos contra
+los inversores; en el marco de la función tuitiva del derecho del consumidor.
+
+Que el artículo 19 de la citada ley, en sus incisos d), g) y j), establece como funciones de la CNV, entre otras, la
+de llevar el registro, otorgar, suspender y revocar la autorización para funcionar de los Agentes registrados y
+demás personas humanas y/o jurídicas que, por sus actividades vinculadas al mercado de capitales y a criterio de
+la CNV, queden comprendidas bajo su competencia, dictando las reglamentaciones que deberán cumplir desde su
+inscripción hasta la baja del registro respectivo, así como promover la defensa de los intereses de los inversores.
+
+Que en dicho sentido mediante el dictado de la Resolución General N° 1094 se estableció un régimen informativo
+aplicable a los ALyC, con la finalidad de contar con información completa, precisa y actualizada respecto de: (i)
+los pasivos financieros asumidos por los ALyC; y (ii) los préstamos o alquiler de valores negociables, tanto en
+carácter de prestamista como de prestatario celebrados por el ALyC; como así también, por aquellas personas que
+se encuentren alcanzadas por el concepto de cartera propia ampliada dispuesto en el artículo 6° de la Sección III
+del Capítulo V del Título VI de las NORMAS (N.T. 2013 y mod.) ; a fin de fortalecer los mecanismos de control
+y supervisión sobre su situación patrimonial y grado de exposición al riesgo.
+
+Que, en línea con ello, resulta necesario delimitar con mayor precisión la información relacionada a los pasivos
+financieros asumidos por los ALyC que deben informar a la CNV mediante el formulario habilitado a tal efecto
+en la AIF.
+
+Que, finalmente, se incorpora un cronograma de presentación de la información requerida para los períodos
+agosto –diciembre de 2025 y enero – marzo de 2026.
+
+Que, por otro lado, cabe precisar que diversos términos utilizados en esta Resolución General, tanto en los
+considerandos como en el articulado, se encuentran definidos en el Título I de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 19, incisos d), g) y j), y el artículo
+47 de la Ley de Mercado de Capitales.
+
+
+
+Por ello,
+
+                                    LA COMISIÓN NACIONAL DE VALORES
+
+                                                     RESUELVE:
+
+ARTÍCULO 1°.- Sustituir el artículo 35 del Capítulo II del Título VII de las NORMAS (N.T. 2013 y mod.), por
+el siguiente texto:
+
+“RÉGIMEN INFORMATIVO DE PASIVOS FINANCIEROS.
+
+ARTÍCULO 35.- Los ALyC -excepto: (i) los inscriptos bajo la subcategoría de Participante Directo, conforme las
+disposiciones del inciso c) del artículo 5° del Capítulo II del presente Título; y (ii) los que revistan la calidad de
+entidades financieras en el marco de la Ley de Entidades Financieras-, deberán remitir, mediante el formulario
+habilitado al efecto en la AIF, la siguiente información:
+
+1. Pasivos financieros asumidos por el Agente, ya sea dentro o fuera del ámbito de los Mercados, segregados
+conforme lo requerido en el formulario “Pasivos Financieros-Sección Pasivos Financieros”.
+
+La obligación alcanzará a la totalidad de los pasivos financieros allí incluidos asumidos por los Agentes
+obligados, cualquiera sea su origen o modalidad. No deberá ser contemplada en la mencionada Sección la
+información contenida en el inciso 2. del presente artículo.
+
+La información deberá ser remitida con frecuencia mensual, dentro del tercer (3er) día hábil de finalizado cada
+mes.
+
+2. Los acuerdos de préstamo o alquiler de valores negociables que celebren, en carácter de prestamistas o
+prestatarios e independientemente de que hayan sido documentados (en formato físico o electrónico) o no
+documentados, segregados conforme lo requerido en el formulario “Pasivos Financieros – Sección Acuerdos de
+Préstamos o Alquiler de valores negociables”.
+La obligación de informar, en los términos y con el alcance previsto en el presente inciso, también resulta
+aplicable respecto de todo acuerdo o alquiler de valores negociables en el que intervengan los clientes -personas
+jurídicas y/o humanas- que por su vinculación con el Agente se encuentren comprendidas en el concepto de
+cartera propia ampliada, dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de estas
+Normas, siendo responsabilidad del ALyC -en calidad de depositante de la/s subcuenta/s comitente/s
+involucrada/s- la remisión de la misma dentro del plazo establecido.
+
+La referida información deberá contar con el siguiente detalle:
+
+a) Número de cuenta en el ADCVN y CUIL/CUIT/CDI/CIE del prestatario y del prestamista;
+
+b) si el comitente (titular de la subcuenta y/o alguno de sus cotitulares) se encuentra alcanzado por el concepto de
+cartera propia ampliada dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas;
+
+c) fecha de suscripción y de vencimiento, y si tiene renovación automática;
+
+d) descripción y código de la especie en el ADCVN, así como su valor nominal inicial; y
+
+e) moneda de referencia, intereses, rendimientos, beneficios a favor del prestamista, en términos porcentuales;
+conforme se haya convenido entre las partes.
+
+La información deberá ser remitida por la AIF con frecuencia mensual y dentro del tercer (3er) día hábil de
+finalizado cada mes.
+
+A tales fines deberá informar la totalidad de los acuerdos de préstamo o alquiler de valores negociables
+celebrados en el período a informar, sin perjuicio de que su vencimiento haya operado dentro de ese mismo
+período y, adicionalmente, los celebrados con anterioridad y aún vigentes en dicho período.
+
+En todos los casos, los Agentes deberán conservar en los respectivos legajos la documentación respaldatoria que
+acredite el pertinente consentimiento por parte de los clientes a la/s transferencia/s emisora/s de sus valores
+negociables hacia la cuenta custodia de titularidad del prestatario, debiendo encontrarse a disposición de la CNV
+y de los Mercados y/o Cámaras Compensadoras en todo momento.
+
+La información remitida a la CNV por los mencionados Agentes revestirá el carácter de DDJJ”.
+
+ARTÍCULO 2°. - Incorporar como subinciso 44) del inciso L) del artículo 11 de la Sección IV del Capítulo I del
+Título XV de las NORMAS (N.T. 2013 y mod,), el siguiente texto:
+
+“INFORMACIÓN QUE DEBE REMITIRSE POR MEDIO DE LA AUTOPISTA DE LA INFORMACIÓN
+FINANCIERA.
+
+ARTÍCULO 11.- Los sujetos comprendidos en el artículo anterior deberán completar los formularios
+correspondientes y remitir por medio de la AUTOPISTA DE LA INFORMACIÓN FINANCIERA, con el
+alcance indicado en el artículo 1º sobre “Disposiciones generales” del presente Título, la siguiente información:
+
+(…)
+
+L) AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN (ALyC):
+(…)
+
+44) AGE_ 033–Pasivos Financieros – complementario”.
+
+ARTÍCULO 3°.- Incorporar como artículo 22 del Capítulo V del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“CRONOGRAMA DE CUMPLIMIENTO.
+
+ARTÍCULO 22.- Los ALyC, en el marco de las disposiciones del artículo 35 del Capítulo II del Título VII de
+estas Normas, desde la fecha de entrada en vigencia de la Resolución General N° 1122, deberán remitir a través
+de la AIF:
+
+1. Hasta el 1° de mayo de 2026: la información histórica correspondiente a las cauciones, pases, cheques y
+pagaré, relativa a los cierres mensuales del 31 de agosto, 30 de septiembre, 31 de octubre, 30 de noviembre y 31
+de diciembre de 2025; y 31 de enero y 28 de febrero de 2026. Dicha información deberá ser remitida a través del
+formulario “AGE_ 033–Pasivos Financieros – complementario”.
+
+2. Hasta el 15 de abril de 2026: la información completa correspondiente al cierre del 31 de marzo de 2026. Dicha
+información deberá ser remitida a través del formulario “AGE_ 030– Pasivos Financieros”, conforme las pautas
+establecidas             en            la           “Guía           de             Pasivos           Financieros”
+(https://www.argentina.gob.ar/sites/default/files/guia_para_la_carga_del_formulario_pa sivos_financieros_vf.pdf
+).
+
+3. Respecto de la información correspondiente al cierre del 30 de abril de 2026 y en adelante, la misma deberá se
+remitida dentro del plazo establecido en el artículo 35 del Capítulo II del Título VII de estas Normas y bajo el
+formulario indicado en el inciso 2 precedente”.
+
+ARTÍCULO 4°.- La presente Resolución General entrará en vigencia a partir del día siguiente de su publicación
+en el B.O.
+
+ARTÍCULO 5°.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio                Digitally signed by HERBON Laura Ines
+Date: 2026.03.30 12:22:42 ART                              Date: 2026.03.30 12:25:28 ART
+Location: Ciudad Autónoma de Buenos Aires                  Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                                    Laura Ines Herbon
+Vocal                                                      Vocal
+Directorio                                                 Directorio
+Comisión Nacional de Valores                               Comisión Nacional de Valores
+Digitally signed by SALVATIERRA Sonia Fabiana   Digitally signed by SILVA Roberto Emilio
+Date: 2026.03.30 12:27:25 ART                   Date: 2026.03.30 12:29:28 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                       Roberto Emilio Silva
+Vicepresidente                                  Presidente
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+                                                                                            Digitally signed by GESTION DOCUMENTAL
+                                                                                            ELECTRONICA - GDE
+                                                                                            Date: 2026.03.30 12:29:40 -03:00
+

@@ -218,7 +218,7 @@ Archivo: `vigente/titulo-V/capitulo-I.md`
 | art. 31 BIS (Secc. VII) | incorpora | RG 1121/2026 | 2° | 27/03/2026 |
 | siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”: art. 2° (Secc. I), art. 4° (Secc. I), art. 7° (Secc. II), art. 8° (Secc. II), art. 17 (Secc. V), art. 18 (Secc. V), art. 19 (Secc. V), art. 19 (Secc. VI), art. 20 (Secc. VI), art. 21 (Secc. VI), art. 22 (Secc. VI), art. 23 (Secc. VI), art. 25 (Secc. VII), art. 27 (Secc. VII), art. 28 (Secc. VII), art. 29 (Secc. VII), art. 30 (Secc. VII), art. 31 (Secc. VII), art. 32 (Secc. VIII), art. 33 (Secc. VIII), art. 38 (Secc. VIII) | modifica parcialmente | RG 1131/2026 | 7° | 29/04/2026 |
 | art. 6° (Secc. II), inc. 1 | modifica parcialmente | RG 1147/2026 | 1° | 11/06/2026 |
-| art. 31 BIS (Secc. VII) | sustituye | RG 1163/2026 | 1° | 20/08/2026 |
+| art. 31 BIS (Secc. VII) | sustituye (rige desde 23/10/2026; texto en `diferido/titulo-V/capitulo-I.md`) | RG 1163/2026 | 1° | 20/08/2026 |
 
 ## Título V, Capítulo II
 Archivo: `vigente/titulo-V/capitulo-II.md`
@@ -232,10 +232,10 @@ Archivo: `vigente/titulo-V/capitulo-II.md`
 | art. 38 (Secc. III) | sustituye | RG 1147/2026 | 3° | 11/06/2026 |
 | Secc. VI (completa) | sustituye | RG 1147/2026 | 4° | 11/06/2026 |
 | Secc. VII (completa) | deroga | RG 1147/2026 | 5° | 11/06/2026 |
-| art. 5° (Secc. I) | sustituye | RG 1163/2026 | 2° | 20/08/2026 |
-| art. 68 (Secc. V) | sustituye | RG 1163/2026 | 3° | 20/08/2026 |
-| art. 69 (Secc. V) | sustituye | RG 1163/2026 | 3° | 20/08/2026 |
-| Secc. VI (completa) | sustituye | RG 1163/2026 | 4° | 20/08/2026 |
+| art. 5° (Secc. I) | sustituye (rige desde 23/10/2026; texto en `diferido/titulo-V/capitulo-II.md`) | RG 1163/2026 | 2° | 20/08/2026 |
+| art. 68 (Secc. V) | sustituye (rige desde 23/10/2026; texto en `diferido/titulo-V/capitulo-II.md`) | RG 1163/2026 | 3° | 20/08/2026 |
+| art. 69 (Secc. V) | sustituye (rige desde 23/10/2026; texto en `diferido/titulo-V/capitulo-II.md`) | RG 1163/2026 | 3° | 20/08/2026 |
+| Secc. VI (completa) | sustituye (rige desde 23/10/2026; texto en `diferido/titulo-V/capitulo-II.md`) | RG 1163/2026 | 4° | 20/08/2026 |
 
 ## Título V, Capítulo III
 Archivo: `vigente/titulo-V/capitulo-III.md`
@@ -255,7 +255,7 @@ Archivo: `vigente/titulo-V/capitulo-III.md`
 | art. 20 (Secc. I) | sustituye | RG 1160/2026 | 6° | 06/08/2026 |
 | art. 25 (Secc. II), último párrafo | modifica parcialmente | RG 1160/2026 | 7° | 06/08/2026 |
 | Secc. III (completa) | sustituye | RG 1160/2026 | 8° | 06/08/2026 |
-| Anexo II | sustituye | RG 1163/2026 | 5° | 20/08/2026 |
+| Anexo II | sustituye (rige desde 23/10/2026; texto en `diferido/titulo-V/capitulo-III.md`) | RG 1163/2026 | 5° | 20/08/2026 |
 
 ## Título V, Capítulo IV
 Archivo: `vigente/titulo-V/capitulo-IV.md`
@@ -313,8 +313,8 @@ Archivo: `vigente/titulo-V/capitulo-VII.md`
 | art. 27 BIS (Secc. VII) | incorpora | RG 1147/2026 | 6° | 11/06/2026 |
 | art. 27 TER (Secc. VII) | incorpora | RG 1147/2026 | 6° | 11/06/2026 |
 | art. 27 QUATER (Secc. VII) | incorpora | RG 1147/2026 | 6° | 11/06/2026 |
-| art. 27 TER (Secc. VII) | sustituye | RG 1163/2026 | 6° | 20/08/2026 |
-| art. 27 QUATER (Secc. VII) | sustituye | RG 1163/2026 | 6° | 20/08/2026 |
+| art. 27 TER (Secc. VII) | sustituye (rige desde 23/10/2026; texto en `diferido/titulo-V/capitulo-VII.md`) | RG 1163/2026 | 6° | 20/08/2026 |
+| art. 27 QUATER (Secc. VII) | sustituye (rige desde 23/10/2026; texto en `diferido/titulo-V/capitulo-VII.md`) | RG 1163/2026 | 6° | 20/08/2026 |
 
 ## Título V, Capítulo VIII
 Archivo: `vigente/titulo-V/capitulo-VIII.md`
@@ -580,7 +580,7 @@ Archivo: `vigente/titulo-XV/capitulo-I.md`
 | art. 11 (Secc. IV), inc. L), subincs. 45) a 47) | modifica parcialmente | RG 1130/2026 | 4° | 28/04/2026 |
 | art. 11 (Secc. IV), inc. T) | modifica parcialmente | RG 1139/2026 | 4° | 14/05/2026 |
 | art. 11 (Secc. IV), inc. K), subinc. 40) | modifica parcialmente | RG 1152/2026 | 1° | 18/06/2026 |
-| art. 11 (Secc. IV), apartados D), E), P) y Q) | modifica parcialmente | RG 1163/2026 | 7° | 20/08/2026 |
+| art. 11 (Secc. IV), apartados D), E), P) y Q) | modifica parcialmente (rige desde 23/10/2026; texto en `diferido/titulo-XV/capitulo-I.md`) | RG 1163/2026 | 7° | 20/08/2026 |
 | art. 11 (Secc. IV), incs. A.1), G), K) y L): subincisos nuevos | modifica parcialmente | RG 1169/2026 | 9° | 23/09/2026 |
 | art. 11 (Secc. IV), inc. S), subinc. 18) | modifica parcialmente | RG 1172/2026 | 3° | 15/10/2026 |
 

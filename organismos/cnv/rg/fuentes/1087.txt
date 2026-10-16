@@ -1,0 +1,206 @@
+                            República Argentina - Poder Ejecutivo Nacional
+                      AÑO DE LA RECONSTRUCCIÓN DE LA NACIÓN ARGENTINA
+
+                                               Resolución General
+
+Número: RESGC-2025-1087-APN-DIR#CNV
+
+                                                                                   CIUDAD DE BUENOS AIRES
+                                                                                  Miércoles 22 de Octubre de 2025
+
+Referencia: EX-2025-33216163- -APN-GED#CNV “PROYECTO DE RESOLUCIÓN GENERAL S/
+TOKENIZACIÓN”
+
+
+
+VISTO el Expediente Nº EX-2025-33216163- -APN-GED#CNV, caratulado “PROYECTO DE RESOLUCIÓN
+GENERAL S/ TOKENIZACIÓN”, lo dictaminado por la Gerencia de Fideicomisos Financieros, la Gerencia de
+Fondos Comunes de Inversión, la Subgerencia de Emisiones de Renta Fija, la Gerencia de Emisoras, la
+Subgerencia de Normativa y la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales N° 26.831 (B.O. 28-12-12) tiene por objeto, entre otros, el desarrollo del
+mercado de capitales y la regulación de los sujetos y valores negociables comprendidos en su ámbito, siendo la
+Comisión Nacional de Valores (CNV) su autoridad de aplicación y control.
+
+Que mediante el dictado de la Ley de Financiamiento Productivo N° 27.440 (B.O. 11-5-18), se propició la
+modernización y adaptación de la normativa a las necesidades actuales del Mercado, el que ha experimentado una
+importante evolución en los últimos años.
+
+Que el artículo 19, inciso h), de la Ley Nº 26.831 otorga a la CNV atribuciones para dictar las reglamentaciones
+que se deberán cumplir para la autorización de los valores negociables, instrumentos y operaciones del mercado
+de capitales, hasta su baja del registro, contando con facultades para establecer las disposiciones que fueren
+necesarias para complementar las que surgen de las diferentes leyes y decretos aplicables, así como resolver casos
+no previstos e interpretar las normas allí incluidas dentro del contexto económico imperante, para el desarrollo del
+mercado de capitales.
+
+Que, el artículo 37 de la Ley N° 27.739 (B.O. 15-3-24), como norma especial y posterior a la Ley Nº 26.831,
+otorga a la CNV amplias facultades de supervisión, regulación, inspección, fiscalización y sanción, respecto de
+los Proveedores de Servicios de Activos Virtuales (PSAV), funcionando como marco protector y garantía de los
+derechos de los inversores y ampliando la competencia de la CNV respecto de los PSAV y su ámbito de
+actuación.
+Que, la creciente digitalización de los Mercados financieros y la evolución de las Tecnologías de Registro
+Distribuido (TRD) han generado nuevas oportunidades para optimizar la emisión, negociación, liquidación y
+custodia de valores negociables, siendo que la utilización de TRD o tecnologías similares permiten, en general, la
+“tokenización” de distintos tipos de activos.
+
+Que, la regulación de la tokenización redunda en una mayor seguridad jurídica, validación tecnológica, inclusión
+financiera real, potencial para productos financieros más dinámicos, mientras que al mismo tiempo consolida a la
+República Argentina como un hub regional para las finanzas digitales y la mantiene a la vanguardia de desarrollos
+significativos en servicios financieros.
+
+Que la Resolución General N° 1069 (B.O. 13-6-25) reglamentó, en una primera etapa, la representación digital de
+algunos valores negociables con autorización de oferta pública en los términos de la Ley N° 26.831, mientras que
+la Resolución General N° 1081 (B.O. 21-8-25), en una segunda etapa, amplió los valores negociables que pueden
+representarse digitalmente, entre otras modificaciones.
+
+Que es objetivo de esta CNV promover el desarrollo del mercado de capitales, facilitando el acceso al
+financiamiento de manera ágil y simplificando los trámites, en el marco de una adecuada protección al inversor,
+incrementando las opciones de inversión existentes.
+
+Que, transcurrido un tiempo, esta CNV ha recibido diversas sugerencias de diferentes participantes del Mercado
+destinadas al perfeccionamiento del presente régimen.
+
+Que, por consiguiente, se admitió expresamente la posibilidad de realizar tokenizaciones bajo regímenes de oferta
+pública automática de mediano impacto o emisores frecuentes o emisiones frecuentes de fideicomisos financieros,
+en caso de corresponder, de los siguientes valores negociables: i) acciones; ii) obligaciones negociables; iii)
+valores representativos de deuda o certificados de participación de fideicomisos financieros con oferta pública en
+los términos de la Ley N° 26.831; y iv) cuotapartes de fondos comunes de inversión cerrados de crédito con oferta
+pública en los términos de la Ley N° 24.083 (B.O. 18-6-92).
+
+Que, por otra parte, la exigencia de listar los valores negociables en Mercados autorizados cuando se represente
+digitalmente el CIEN POR CIENTO (100%) de la emisión puede desalentar los casos de uso de tokenización,
+contrariando el espíritu de modernización que la motiva, por lo que resulta adecuado eximir del cumplimiento de
+dicha obligación a aquellas emisiones que sean representadas en su totalidad de manera digital.
+
+Que la presente se dicta en ejercicio de las atribuciones conferidas por los artículos 19, incisos h), r) y u), y 81 de
+la Ley N° 26.831, 32 de la Ley N° 24.083, 1691 del Código Civil y Comercial de la Nación y los artículos 37 y
+38 de la Ley N° 27.739.
+
+
+
+Por ello,
+
+                                   LA COMISIÓN NACIONAL DE VALORES
+
+                                                    RESUELVE:
+
+ARTÍCULO 1°.- Sustituir el artículo 1° de la Sección I del Capítulo I del Título XXII de las NORMAS (N.T.
+2013 y mod.) por el siguiente texto:
+“REPRESENTACION DIGITAL DE VALORES NEGOCIABLES.
+
+ARTÍCULO 1°.- La “tokenización” a través de la representación digital será admisible para los siguientes valores
+negociables:
+
+a) acciones (incluidas aquellas que cuentan con doble listado).
+
+b) obligaciones negociables.
+
+c) CEDEARS.
+
+d) valores representativos de deuda o certificados de participación de fideicomisos financieros con oferta pública
+en los términos de la Ley N° 26.831, cuyo activo subyacente esté compuesto principalmente por los llamados
+“activos del mundo real” (real world assets) u otros bienes admisibles, incluyendo, de manera no taxativa, valores
+negociables emitidos por entidades privadas que cuenten o no con oferta pública y entes públicos y organismos
+comprendidos en el artículo 83 de la Ley N°26.831; y
+
+e) cuotapartes de fondos comunes de inversión cerrados con oferta pública en los términos de la Ley N° 24.083,
+cuyo patrimonio se componga principalmente por los llamados “activos del mundo real” (real world assets) u
+otros bienes admisibles, incluyendo, de manera no taxativa, valores negociables emitidos por entidades privadas
+que cuenten o no con oferta pública y entes públicos y organismos comprendidos en el artículo 83 de la Ley
+N°26.831. Asimismo, serán aplicables, en lo que fueran procedentes, las disposiciones previstas en las Normas de
+esta CNV relativas a la constitución de márgenes de liquidez y disponibilidades en los casos y con los límites que
+correspondan y conforme los documentos de emisión vinculados con los valores negociables respectivos.
+
+En todos los casos, podrán ser objeto del presente régimen aquellos derechos accesorios inherentes a cada valor
+negociable que se represente digitalmente.
+
+No será admisible la tokenización de aquellos valores negociables que cumplan con las características de los
+valores negociables Sociales, Verdes, Sustentables (SVS) y de los Vinculados a la Sostenibilidad (VS), ni de
+aquellos que se emitan mediante regímenes de oferta pública con autorización automática de bajo impacto.
+
+Será admisible la tokenización de los siguientes valores negociables que se encuadren bajo los regímenes de
+oferta pública automática de mediano impacto o emisores frecuentes o emisiones frecuentes de fideicomisos
+financieros, en caso de corresponder: i) acciones; ii) obligaciones negociables; iii) valores representativos de
+deuda o certificados de participación de fideicomisos financieros con oferta pública en los términos de la Ley N°
+26.831; y iv) cuotapartes de fondos comunes de inversión cerrados de crédito con oferta pública en los términos
+de la Ley N° 24.083.
+
+Los valores negociables emitidos por los entes públicos y organismos comprendidos en el artículo 83 de la Ley
+N° 26.831 no deberán, a los fines de su tokenización, solicitar autorización de representación digital ante la
+Comisión Nacional de Valores.
+
+Asimismo, no será admitida la tokenización de títulos de deuda pública emitidos por otros países o jurisdicciones
+extranjeras –con la excepción de los valores negociables soberanos que emitan los países que revistan el carácter
+de “Estado Parte” del MERCOSUR y la República de Chile-, los que tampoco podrán formar parte del activo
+subyacente de los fideicomisos financieros ni del patrimonio de los fondos comunes de inversión cerrados
+referidos en el primer párrafo del presente artículo.
+A los fines del Título V de estas Normas respecto a los fondos comunes de inversión cerrados, se tendrán por
+cumplidos los requisitos de dispersión allí previstos cuando existan al menos CINCO (5) inversores de valores
+negociables representados digitalmente y ninguno mantenga directa o indirectamente una participación que
+exceda el equivalente al CINCUENTA Y UN POR CIENTO (51%) de los votos a que den derecho dichos
+valores. En todo momento, en caso de corresponder, a los fines de alcanzar la dispersión exigida se considerarán
+de manera conjunta la cantidad de cuotapartistas y los porcentajes de emisión que surjan de las distintas formas de
+representación.”
+
+ARTÍCULO 2°.- Incorporar como inciso g) del artículo 5° de la Sección I del Capítulo I del Título XXII de las
+NORMAS (N.T. 2013 y mod.), el siguiente texto:
+
+“DISPOSICIONES COMUNES.
+
+ARTÍCULO 5°.- Las representaciones digitales adicionales de valores negociables referidas en los artículos 3° y
+4° del presente Capítulo se regirán por las siguientes disposiciones comunes:
+
+(…)
+
+g) Representación digital cuando no se apruebe el prospecto: Los emisores de los valores negociables emitidos
+bajo los regímenes de oferta pública automática de mediano impacto, emisores frecuentes o emisiones frecuentes
+de fideicomisos financieros, deberán solicitar previamente a la CNV la autorización de representación digital,
+acompañando el capítulo específico adicional al que se refiere el artículo 12, Sección II del presente Capítulo, aún
+en aquellos casos en los cuales no tengan la obligación de presentar el prospecto para su aprobación por la CNV.”
+
+ARTÍCULO 3°.- Incorporar como artículo 40 de la Sección IX del Capítulo I del Título XXII de las NORMAS
+(N.T. 2013 y mod.), el siguiente texto:
+
+“ARTÍCULO 40.- No será exigible que las emisiones, cualquiera fuere su régimen, se encuentren listadas en
+Mercados autorizados cuando el CIEN POR CIENTO (100%) de la emisión sea representada digitalmente. Esta
+excepción a la obligación de listado resultará aplicable a todos los instrumentos que, conforme la normativa
+vigente, deban listarse en Mercados autorizados, con independencia de que cuenten o no con autorización
+automática de oferta pública.”
+
+ARTÍCULO 4°.- La presente Resolución General entrará en vigencia a partir del día siguiente de su publicación
+en el Boletín Oficial de la República Argentina.
+
+ARTÍCULO 5°.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+Digitally signed by CALDERON Manuel Ignacio   Digitally signed by HERBON Laura Ines
+Date: 2025.10.22 10:48:16 ART                 Date: 2025.10.22 10:57:48 ART
+Location: Ciudad Autónoma de Buenos Aires     Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                       Laura Ines Herbon
+Vocal                                         Vocal
+Directorio                                    Directorio
+Comisión Nacional de Valores                  Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SILVA Roberto Emilio
+Date: 2025.10.22 11:00:01 ART
+Location: Ciudad Autónoma de Buenos Aires
+
+Roberto Emilio Silva
+Presidente
+Directorio
+Comisión Nacional de Valores
+
+
+
+
+                                                                                          Digitally signed by GESTION DOCUMENTAL
+                                                                                          ELECTRONICA - GDE
+                                                                                          Date: 2025.10.22 11:00:10 -03:00
+

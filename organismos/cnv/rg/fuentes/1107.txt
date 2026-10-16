@@ -1,0 +1,160 @@
+                                República Argentina - Poder Ejecutivo Nacional
+                                         Año de la Grandeza Argentina
+
+                                               Resolución General
+
+Número: RESGC-2026-1107-APN-DIR#CNV
+
+                                                                                    CIUDAD DE BUENOS AIRES
+                                                                                      Jueves 12 de Febrero de 2026
+
+Referencia: EX-2025-124622856- -APN-GAYM#CNV “PROYECTO DE RESOLUCIÓN GENERAL S/
+VALORES NEGOCIABLES DE EMISIÓN INDIVIDUAL - MODIFICACIÓN TÍTULO VI, CAPÍTULOS I y V
+E INCORPORACIÓN CAPÍTULO VI”
+
+
+
+VISTO el Expediente N° EX-2025-124622856- -APN-GAYM#CNV, caratulado “PROYECTO DE
+RESOLUCIÓN GENERAL S/ VALORES NEGOCIABLES DE EMISIÓN INDIVIDUAL - MODIFICACIÓN
+TÍTULO VI, CAPÍTULOS I y V E INCORPORACIÓN CAPÍTULO VI”, lo dictaminado por la Subgerencia de
+Supervisión de Agentes, la Gerencia de Agentes y Mercados y la Subgerencia de Normativa; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales tiene por objeto el desarrollo del mercado de capitales y la regulación de los
+sujetos y valores negociables comprendidos en el mismo, siendo la CNV su autoridad de aplicación y contralor.
+
+Que el mercado de capitales se encuentra estrechamente relacionado con el financiamiento y el consecuente
+desarrollo de la economía real, mediante la transformación del ahorro en crédito y del crédito en inversión
+productiva; por lo que la CNV propicia la posibilidad de mejorar los esquemas de financiamiento y, en
+consecuencia, impulsar su demanda en el mercado de capitales.
+
+Que la CNV tiene entre sus objetivos estratégicos asegurar el desenvolvimiento del mercado de capitales en
+forma sana, segura, transparente y competitiva, a los fines de garantizar la eficiente asignación del ahorro hacia la
+inversión.
+
+Que, en línea con ello, mediante la Resolución General N° 1090 (B.O. 14-11-2025) se incorporaron
+modificaciones en materia de Valores Negociables de Emisión Individual (VNEI) que gocen de oferta pública y
+sean susceptibles de negociación en mercados autorizados por la CNV, simplificando y unificando las
+disposiciones aplicables a su negociación y conservación, custodia y pago al vencimiento.
+
+Que conforme a su artículo 9°, la mencionada Resolución General entró en vigencia el día 2 de febrero de 2026.
+Que, en esta instancia, corresponde adecuar el artículo 17 de la Sección X del Capítulo VI del Título VI de las
+NORMAS (N.T. 2013 y mod.), a los fines de exceptuar a ciertas categorías de Agentes, a las facturas de crédito
+electrónicas MiPyMEs y al segmento de negociación avalado, de la limitación allí dispuesta.
+
+Que, por ello, corresponde dejar sin efecto el Criterio Interpretativo (CRI) N° 101, incorporándose lo allí
+dispuesto en el artículo 17 de la Sección X del Capítulo VI del Título VI de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente Resolución General, no importa la creación de nuevas obligaciones ni afecta situaciones jurídicas
+preexistentes; toda vez que, en concordancia con la normativa vigente, busca favorecer al administrado, razón por
+la cual, resultará aplicable -para los sujetos allí indicados- a partir del día 2 de febrero de 2026.
+
+Que, por otra parte, los ACRyP deberán adecuar sus sistemas a los fines de la implementación de lo dispuesto en
+el artículo 5° del Capítulo VI del Título VI de las NORMAS (N.T. 2013 y mod.), con relación a canje de VNEI.
+
+Que, por otro lado, cabe precisar que diversos términos utilizados en esta Resolución General, tanto en los
+considerandos como en el articulado, se encuentran definidos en el Título I de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente se dicta en ejercicio de las facultades conferidas por los artículos 19, incisos g) y h) de la Ley de
+Mercado de Capitales, 103, incisos d) y f) del Decreto - Ley Nº 5965/1963, 54 de la Ley N° 27.264; 4º del
+Decreto Nº 386/2003, y 12, 14 y 15 de la Ley de Financiamiento Productivo.
+
+
+
+Por ello,
+
+                                  LA COMISIÓN NACIONAL DE VALORES
+
+                                                   RESUELVE:
+
+ARTÍCULO 1°.- Incorporar en el artículo 2° de la Sección II del Capítulo II del Título I de las NORMAS (N.T.
+2013 y mod.), el siguiente texto:
+
+“TÉRMINOS DEFINIDOS.
+
+ARTÍCULO 2°.- A los fines de las presentes Normas, los siguientes términos o siglas, si aparecen con mayúscula,
+tienen los siguientes significados (dichos significados serán igualmente aplicables tanto en la forma singular
+como plural de los términos definidos):
+
+(…)
+
+“FCE MiPyMEs” significa facturas de crédito eElectrónicas MiPyMEs conforme a lo previsto en el Título I de la
+Ley de Financiamiento Productivo.
+
+(…)
+
+“VNEI” o “Valores Negociables de Emisión Individual” significa los siguientes valores negociables que gozan de
+oferta pública en los términos de la Ley de Mercado de Capitales y podrán ser negociados en Mercados
+autorizados y registrados ante la Comisión: cheques de pago diferido, cheques de pago diferido u otros valores
+negociables de emisión individual garantizados por Warrants, certificados de depósitos de plazo fijo, facturas de
+crédito electrónicas MiPyMEs, certificados de depósito y warrants, pagarés, letras de cambio y letras hipotecarias
+
+(…)”.
+
+ARTÍCULO 2°.- Sustituir el artículo 17 de la Sección X del Capítulo VI del Título VI de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“ARTICULO 17.- Los Agentes no podrán ser emisores o libradores de VNEI, excepto cuando:
+
+1. se encuentren inscriptos bajo alguna de las siguientes categorías:
+
+a) ALYC Participante Directo;
+
+b) ALyC Integral-Agroindustrial;
+
+c) AN RUCA; o
+
+d) ALYC que sean bancos que estén autorizados bajo la Ley de Entidades Financieras; o
+
+2. se trate de:
+
+a) FCE MiPyMEs; o
+
+b) VNEI que se negocien en el segmento avalado”.
+
+ARTÍCULO 3°.- Incorporar como artículo 7° del Capítulo XI del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“ADECUACIÓN SISTEMAS CANJE VNEI – RG N° 1090.
+
+ARTÍCULO 7°.- Los ACRyP deberán adecuar sus sistemas a los fines de la implementación de lo dispuesto en el
+artículo 5° del Capítulo VI del Título VI de las NORMAS (N.T. 2013 y mod.), antes del 6 de abril de 2026”.
+
+ARTÍCULO 4°.- Las disposiciones establecidas en la presente resultarán aplicables a partir del día 2 de febrero de
+2026 incluyendo a los sujetos indicados en el artículo 2° de la presente Resolución General.
+
+ARTÍCULO 5°.- La presente Resolución General entrará en vigencia a partir del día de su publicación en el
+Boletín Oficial de la República Argentina.
+
+ARTÍCULO 6°.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+Digitally signed by CALDERON Manuel Ignacio     Digitally signed by HERBON Laura Ines
+Date: 2026.02.12 14:08:46 ART                   Date: 2026.02.12 14:11:18 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                         Laura Ines Herbon
+Vocal                                           Vocal
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana   Digitally signed by SILVA Roberto Emilio
+Date: 2026.02.12 14:12:05 ART                   Date: 2026.02.12 14:13:17 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                       Roberto Emilio Silva
+Vicepresidente                                  Presidente
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+                                                                                            Digitally signed by GESTION DOCUMENTAL
+                                                                                            ELECTRONICA - GDE
+                                                                                            Date: 2026.02.12 14:13:27 -03:00
+

@@ -1,0 +1,2130 @@
+                           República Argentina - Poder Ejecutivo Nacional
+                     AÑO DE LA RECONSTRUCCIÓN DE LA NACIÓN ARGENTINA
+
+                                              Resolución General
+
+Número: RESGC-2025-1085-APN-DIR#CNV
+
+                                                                                 CIUDAD DE BUENOS AIRES
+                                                                                Martes 16 de Septiembre de 2025
+
+Referencia: EX-2025-100991192- -APN-GFF#CNV - “PROYECTO DE RG SIMPLIFICACIÓN REGIMENES
+ESPECIALES PIC”.
+
+
+
+VISTO el Expediente N° EX-2025-100991192- -APN-GFF#CNV, caratulado “PROYECTO DE RG
+SIMPLIFICACIÓN REGIMENES ESPECIALES PIC”, lo dictaminado por la Gerencia de Fideicomisos
+Financieros, la Gerencia de Fondos Comunes de Inversión, la Subgerencia de Normativa y la Gerencia de
+Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales N° 26.831 (B.O. 28-12-12) tiene por objeto, entre otros, el desarrollo del
+mercado de capitales y la regulación de los sujetos y valores negociables comprendidos en el mismo, siendo la
+Comisión Nacional de Valores (CNV), su autoridad de aplicación y control.
+
+Que el artículo 19, incisos g) y h), de la Ley Nº 26.831, establece como funciones de la CNV, entre otras, dictar
+las reglamentaciones que deberán cumplir las personas humanas y/o jurídicas y las entidades autorizadas en los
+términos del inciso d) de dicho artículo, desde su inscripción y hasta la baja del registro respectivo y las
+reglamentaciones que se deberán cumplir para la autorización de los valores negociables, instrumentos y
+operaciones del mercado de capitales, contando con facultades para establecer las disposiciones que fueren
+necesarias para complementar las que surgen de las diferentes leyes y decretos aplicables a éstos.
+
+Que mediante el dictado de la Ley de Financiamiento Productivo N° 27.440 (B.O. 11-5-18), se propició la
+modernización y adaptación de la normativa a las necesidades actuales del Mercado, el que ha experimentado una
+importante evolución en los últimos años.
+
+Que en el Título XI de la Ley Nº 27.440 se dispusieron múltiples modificaciones a la Ley Nº 26.994,
+sustituyendo, entre otros, el artículo 1673 del Código Civil y Comercial de la Nación (CCyCN).
+
+Que, en relación con los fideicomisos financieros, y en concordancia con la competencia y facultades atribuidas a
+la CNV por la Ley Nº 26.831, la actual redacción del artículo 1.673 del CCyCN circunscribe la competencia del
+organismo a la inscripción y fiscalización de los Fiduciarios Financieros; mientras que, por su parte, el artículo
+1.691 del mencionado cuerpo normativo establece que el organismo de contralor de los mercados de valores debe
+ser autoridad de aplicación respecto de los fideicomisos financieros, quien puede dictar normas reglamentarias
+que incluyan la determinación de los requisitos a cumplir para actuar como Fiduciario.
+
+Que, respecto de los fondos comunes de inversión (FCI), es preciso recordar que la Ley de Financiamiento
+Productivo N° 27.440 (B.O. 11-5-18), introdujo modificaciones a la Ley de Fondos Comunes de Inversión N°
+24.083 (B.O. 18-6-92 y sus modificatorias), actualizando el régimen legal aplicable a los FCI, en el entendimiento
+de que estos constituyen un vehículo de captación de ahorro e inversión fundamental para el desarrollo de las
+economías, permitiendo robustecer la demanda de valores negociables en los mercados de capitales, aumentando
+así su profundidad y liquidez.
+
+Que, el artículo 32 de la Ley N° 24.083 establece que la CNV tiene a su cargo la fiscalización, supervisión y
+registro de las Sociedades Gerentes y las Sociedades Depositarias de los FCI, asignándole facultades de
+supervisión sobre las demás personas vinculadas, como así también a las operaciones, transacciones y relaciones
+referidas a estos.
+
+Que, asimismo, otorga a este organismo facultades reglamentarias a los fines de complementar las disposiciones
+de la Ley N° 24.083, así como la normativa aplicable a estas actividades, y a resolver casos no previstos en el
+referido cuerpo legal.
+
+Que, por otra parte, a través del Decreto N° 891/2017 (B.O. 2-11-17) se aprobaron las buenas prácticas en materia
+de simplificación aplicables para el funcionamiento del Sector Público Nacional, el dictado de normativa y sus
+regulaciones.
+
+Que, recientemente, el Ministerio de Desregulación y Transformación del Estado mediante el Decreto N° 90/2025
+(B.O. 17-2-25), dispuso efectuar un relevamiento normativo con el objeto de identificar las normas vigentes, y
+proponer la derogación de aquellas que resulten obsoletas, innecesarias o que encuadren dentro de los criterios
+establecidos en su artículo 3°, a las jurisdicciones y entidades comprendidas en el artículo 8° inciso a) de la Ley
+de Administración Financiera y de los Sistemas de Control del Sector Público Nacional N° 24.156 (B.O. 29-10-
+92 y sus modificatorias).
+
+Que, en línea con ello, en lo que respecta al mercado de capitales, resulta necesario continuar avanzando con la
+armonización normativa, procurando unificar criterios regulatorios y operativos entre los distintos regímenes y
+segmentos de inversión, con el fin de otorgar previsibilidad y seguridad jurídica tanto a los emisores como a los
+inversores.
+
+Que, en dicho marco, el Directorio de esta Comisión Nacional dictó la Resolución General N° 1084 (B.O. 5-9-
+25), con la finalidad de actualizar y modernizar el marco normativo aplicable a los fideicomisos financieros de
+modo de simplificar y agilizar los procesos de autorización, inscripción y registración, reducir exigencias
+formales que no comprometan la seguridad jurídica ni la calidad de la información, y establecer procedimientos
+proporcionales al tamaño y complejidad de las emisiones.
+
+Que, en esta oportunidad, y en continuidad con el proceso de mejora normativa, se propone la actualización de los
+regímenes especiales aplicables a los productos de inversión colectiva, es decir tanto a los fideicomisos
+financieros como a los fondos comunes de inversión.
+
+Que el dinamismo propio de la industria financiera y la evolución de los vehículos de inversión colectiva
+requieren de una regulación flexible, clara y actualizada, que acompañe los cambios del entorno económico y
+tecnológico, sin menoscabar los estándares de seguridad jurídica.
+
+Que la experiencia acumulada en la aplicación de los regímenes vigentes ha permitido identificar oportunidades
+de mejora, tanto en la simplificación de procesos como en la eliminación de redundancias normativas y
+exigencias que han perdido vigencia o se tornaron innecesarias.
+
+Que la consolidación normativa y la armonización de requisitos aplicables a distintos vehículos de inversión
+colectiva constituyen herramientas fundamentales para dotar de mayor previsibilidad, coherencia y accesibilidad
+al marco regulatorio.
+
+Que, así las cosas, en esta instancia se procede a reordenar integralmente las disposiciones contenidas en los
+Capítulos V, VI, VII, VIII y IX del Título V de las NORMAS (N.T. 2013 y mod.), con el fin de simplificar los
+contenidos, unificar las exigencias aplicables a ambos vehículos, y suprimir aquellos elementos que han quedado
+en desuso o que han sido incorporados en otros marcos regulatorios.
+
+Que, por otra parte, cabe destacar que, en el mismo sentido, han sido organizados en un solo Capítulo, las
+disposiciones comunes y particulares aplicables a los Regímenes Especiales de los FCI abiertos ASG, PyMEs, de
+Infraestructura y Economía Real, de Títulos del Tesoro y de Cese Laboral.
+
+Que una regulación más clara y ordenada facilita el cumplimiento por parte de los sujetos obligados, reduce los
+costos operativos y promueve una mayor participación de inversores y administradores en el Mercado,
+especialmente en el caso de proyectos de menor escala o complejidad.
+
+Que la presente se dicta en ejercicio de las atribuciones conferidas por los artículos 19, incisos d), g) y h) de la
+Ley N° 26.831, artículos 1º y 32 de la Ley N° 24.083 y 1691 del Código Civil y Comercial de la Nación.
+
+
+
+Por ello,
+
+                                  LA COMISIÓN NACIONAL DE VALORES
+
+                                                   RESUELVE:
+
+ARTÍCULO 1°.- Derogar los artículos 21 y 22 de la Sección V del Capítulo II del Título V de las NORMAS
+(N.T. 2013 y mod.).
+
+ARTÍCULO 2°.- Derogar los artículos 56, 57 y 58 de la Sección X del Capítulo II del Título V de las NORMAS
+(N.T. 2013 y mod.).
+
+ARTÍCULO 3°.- Sustituir la Sección IV del Capítulo IV del Título V de las NORMAS (N.T. 2013 y mod.), por el
+siguiente texto:
+
+“SECCIÓN IV
+
+REQUISITOS PARA LA SOLICITUD DE INSCRIPCIÓN EN CARÁCTER DE AGENTES DE
+ADMINISTRACIÓN DE PRODUCTOS DE INVERSIÓN COLECTIVA. REGISTRO DE FIDUCIARIOS.
+“ARTÍCULO 6º.- A los efectos de lo dispuesto en el artículo 1673 del Código Civil y Comercial de la Nación, los
+Fiduciarios Financieros deberán solicitar la inscripción en el “Registro de Fiduciarios Financieros”, presentando
+la documentación que se detalla a continuación:
+
+1. Texto ordenado vigente del estatuto o del contrato social con constancia de su inscripción en el Registro
+Público u otra autoridad competente. Debe preverse en su objeto social la actuación como Fiduciario en la
+República Argentina.
+
+2. Sede social inscripta. En caso de contar con sucursales o agencias deberá indicar además los lugares donde
+ellas se encuentran ubicadas.
+
+3. Sitio web de la Sociedad, número de teléfono, dirección de correo electrónico institucional, así como su cuenta
+en redes sociales en caso de poseer.
+
+4. Nómina de los miembros del órgano de administración y de fiscalización (titulares y suplentes) y de los
+gerentes de primera línea, indicándose domicilio real, números de teléfonos, correos electrónicos, y antecedentes
+personales y profesionales.
+
+Deberán presentarse los instrumentos que acrediten tales designaciones y la aceptación de los cargos
+correspondientes.
+
+5. Registro de accionistas a la fecha de presentación.
+
+6. Deberán informarse con carácter de declaración jurada los datos y antecedentes personales de los miembros de
+los órganos de administración, de fiscalización y gerentes de primera línea. Cuando se trate de entidades
+financieras, dicha declaración jurada deberá incluir una manifestación expresa referida a las inhabilidades e
+incompatibilidades del artículo 10 de la Ley N° 21.526.
+
+7. Certificación expedida por el Registro Nacional de Reincidencia vinculada con la existencia o inexistencia de
+antecedentes penales por parte de los miembros del órgano de administración y de fiscalización (titulares y
+suplentes) y gerentes de primera línea. Dicha información deberá ser actualizada en oportunidad de eventuales
+modificaciones, dentro de los DIEZ (10) días hábiles de producidas las mismas.
+
+8. Resolución social que resuelve la solicitud de inscripción en el Registro de Fiduciarios Financieros.
+
+9. Acreditación del Patrimonio Neto aplicable: se requiere un Patrimonio Neto no inferior a un monto equivalente
+a Unidades de Valor Adquisitivo NOVECIENTAS CINCUENTA MIL (UVA 950.000). Como contrapartida, un
+mínimo del CINCUENTA POR CIENTO (50%) del importe del Patrimonio Neto mínimo, deberá observar las
+exigencias previstas en el Anexo I del Capítulo I del Título VI de estas Normas. Los Estados Contables, deberán
+contener nota en la que se exprese el monto del Patrimonio Neto Mínimo en UVA consignándose su valor a la
+fecha de cierre del Estado Contable.
+
+Se deberán presentar Estados Contables con una antigüedad que no exceda los CINCO (5) meses desde el inicio
+del trámite de inscripción en la CNV, examinados por contador público independiente conforme las normas de
+auditoría exigidas para ejercicios anuales, con firma legalizada por el respectivo Consejo Profesional.
+
+Asimismo, se deberán acompañar copias del acta del órgano de administración y fiscalización que los apruebe y,
+en su caso, la documentación inherente a la fianza bancaria constituida.
+El informe del órgano de fiscalización y el dictamen del auditor deberán, además, expedirse específicamente
+respecto de la adecuación del Patrimonio Neto Mínimo. Al momento de la inscripción, el capital social de la
+entidad deberá estar totalmente integrado.
+
+Aquellos Fiduciarios Financieros que se encuentren inscriptos en otras categorías de Agentes compatibles,
+conforme las disposiciones normativas vigentes, deberán computar en concepto de Patrimonio Neto Mínimo
+requerido, la suma resultante del importe del Patrimonio Neto Mínimo exigido para la categoría de mayor monto,
+y el CINCUENTA POR CIENTO (50%) de cada uno de los Patrimonios Netos Mínimos exigidos para las
+categorías restantes.
+
+Dicho monto deberá ser cumplido de manera permanente y acreditado en los Estados Contables anuales y en la
+documentación respectiva a períodos intermedios, según corresponda, de conformidad con las disposiciones
+relativas al cumplimiento del régimen informativo que resulte aplicable en cada caso.
+
+10. Informe especial de contador público independiente que acredite que la Sociedad cuenta con una organización
+administrativa propia y adecuada para prestar el servicio como Fiduciario.
+
+11. Constancia de número de Clave Única de Identificación Tributaria (CUIT).
+
+12. Declaración jurada conforme el Anexo II del Capítulo III del Título XV de estas Normas, suscripto por el
+representante legal de la Sociedad.
+
+13. Declaración jurada de Prevención del Lavado de Activos y Financiamiento del Terrorismo: deberá ser
+completada y firmada por cada uno de los miembros de los órganos de administración y de fiscalización,
+
+informando que no cuentan con condenas por delitos de lavado de dinero y/o de financiamiento del terrorismo, ni
+figuran en listas de terroristas u organizaciones terroristas emitidas por el Consejo de Seguridad de las Naciones
+Unidas.
+
+14. Datos completos de los auditores externos y del acta correspondiente a la reunión del órgano de
+administración o asamblea en la que fue designado el auditor externo.
+
+15. Código de Protección al Inversor.
+
+La información requerida por la Comisión deberá mantenerse actualizada durante todo el tiempo que dure la
+inscripción.
+
+Sin perjuicio de la documentación expuesta anteriormente, el Organismo podrá requerir toda otra información
+complementaria que resulte necesaria a los fines del cumplimiento de su actividad, conforme a las Normas y
+reglamentaciones vigentes. A los fines de su asiento en el Registro de Fiduciarios Financieros, las entidades
+financieras del inciso 1. del artículo 5° de la Sección III del Capítulo IV del Título V de estas Normas, deberán
+presentar a la Comisión la información y documentación detallada precedentemente, quedando sujetas al régimen
+informativo dispuesto en el presente Capítulo”.
+
+ARTÍCULO 4°.- Sustituir los Capítulos V, VI, VII, VIII y IX del Título V de las NORMAS (N.T. 2013 y mod.),
+por el siguiente texto:
+
+“CAPÍTULO V
+DISPOSICIONES COMUNES APLICABLES A LOS REGIMENES ESPECIALES DE PRODUCTOS DE
+INVERSIÓN COLECTIVA
+
+SECCIÓN I
+
+DISPOSICIONES GENERALES.
+
+ARTÍCULO 1°.- En función del objeto establecido en cada producto de inversión colectiva se podrá optar por la
+constitución de fondos comunes de inversión cerrados o fideicomisos financieros (“PICs”) conforme a los
+regímenes especiales previstos en este Capítulo V.
+
+IDENTIFICACIÓN ESPECIAL.
+
+ARTÍCULO 2°.- Los PICs que se constituyan en los términos de las Secciones II, III, IV y VII del presente
+Capítulo deberán incluir en su denominación la identificación especial relativa al régimen bajo el cual se
+constituyen.
+
+ARTÍCULO 3°.- Por su parte, aquellos PICs que se constituyan en los términos de las Secciones V y VI del
+presente Capítulo deberán consignar dicha circunstancia en la portada del Prospecto.
+
+PUBLICIDAD.
+
+ARTÍCULO 4°.- Los PICs que no se constituyan en los términos de alguno de los regímenes especiales
+dispuestos en el presente Capítulo no podrán utilizar ninguna denominación análoga o indicación que preste a
+confusión respecto de su encuadre.
+
+SECCIÓN II
+
+PRODUCTOS DE INVERSIÓN COLECTIVA PARA EL DESARROLLO INMOBILIARIO.
+
+OBJETO – ACTIVO SUBYACENTE.
+
+ARTÍCULO 5°.- Se considerarán “PICs para el Desarrollo Inmobiliario” a aquellos vehículos cuyo objeto se
+encuentre destinado al financiamiento, renta, inversión y/o desarrollo de la actividad inmobiliaria.
+
+A tales efectos, el activo subyacente deberá constituirse, ya sea de manera directa o indirecta, con el desarrollo,
+financiamiento, adquisición, refacción, inversión y/o renta de activos inmobiliarios y/o a través de vehículos
+creados exclusivamente a dichos fines y/o instrumentos con garantía real y/o que prevean mecanismos de control
+sobre la afectación exclusiva de los fondos al proyecto elegible.
+
+ARTÍCULO 6°.- Se podrán emitir cuotapartes o valores fiduciarios que otorguen el derecho a adquirir y/o a
+resultar adjudicatario de unidades funcionales o equivalente (o de una cantidad de metros cuadrados que resulten
+canjeables por estos), debiendo precisar los mecanismos de asignación equitativa y los mecanismos de valuación
+utilizados. En caso de los fondos comunes de inversión podrá preverse a tales fines la aprobación por parte de la
+asamblea de cuotapartistas del plan de distribución respectivo.
+
+PARTICIPANTES.
+
+ARTICULO 7°.- En los PICs en cuyo objeto se contemple el desarrollo, directa o indirectamente, de proyectos
+inmobiliarios se deberá designar un desarrollador y un auditor técnico, mientras que en aquellos cuyo objeto se
+encuentre destinado a la inversión en la actividad inmobiliaria se deberá designar un administrador inmobiliario.
+
+CONTENIDO DEL PROSPECTO.
+
+ARTÍCULO 8°.- A los fines de lo dispuesto en la presente Sección, y adicionalmente al contenido dispuesto,
+según el caso, en la Sección VII del Capítulo II y Capítulo IV del Título V de estas Normas, el Prospecto o
+Suplemento de Prospecto deberá incluir la información que a continuación se detalla:
+
+1. En caso de que el objeto contemple un desarrollo inmobiliario:
+
+a) El plan de inversión con indicación de las características y condiciones de los activos inmobiliarios, incluyendo
+las características generales (tipología, ubicación, etc.) de los proyectos a desarrollar y/o de los inmuebles
+adquiridos o cedidos a fin de llevar a cabo la o las obras.
+
+b) Descripción del desarrollador y/o sujetos asimilables en la cual se incluya la información requerida, según el
+caso, en el artículo 21, inciso 8., apartados a), b), d), e), f) incisos 1) y 2), e i) del Capítulo IV, o en el artículo 2°
+del Capítulo VI del Título V de estas Normas, según corresponda. Adicionalmente se deberá consignar los
+proyectos en los que se encuentre participando y demás antecedentes profesionales.
+
+c) Identificación del auditor técnico indicando nombre completo, CUIT, domicilio, teléfono, dirección de correo
+electrónico y datos relativos a la inscripción en la matricula del Consejo Profesional respectivo, de corresponder.
+Adicionalmente se deberá consignar los proyectos en los que se encuentre participando y demás antecedentes
+profesionales.
+
+d) Detalle de antecedentes del director de obra y/o empresa constructora, de corresponder.
+
+e) En el caso de fideicomisos financieros se deberá incluir de manera adicional información sobre los contratos
+celebrados y/o a celebrarse en relación con la ejecución del emprendimiento (contratos de proyecto, dirección y
+construcción de obra, de corresponder) y un detalle de los contratos de seguros vinculados a la ejecución de las
+obras. El proyecto inmobiliario debe contar con todas las pólizas de seguro correspondientes a los efectos de
+cubrir una amplia variedad de riesgos potenciales existentes desde el comienzo de la construcción hasta su
+finalización, debiendo contemplarse los seguros de responsabilidad civil frente a terceros y exigir a los
+contratistas seguros de responsabilidad del personal que trabaje en el emprendimiento, como también prever
+cualquier otro riesgo que resulte razonablemente asegurable.
+
+f) Cuestiones regulatorias: detalle de todas las licencias y aprobaciones regulatorias necesarias de las autoridades
+de la jurisdicción en la que se encuentra el emprendimiento inmobiliario. Se deberá informar sobre las
+autorizaciones, habilitaciones, permisos, derechos de construcción, subdivisiones, reglamentos, factibilidades y
+demás regulación aplicable al emprendimiento, precisando cuales han sido obtenidas a la fecha de autorización de
+oferta pública, cuáles serán obtenidas con posterioridad y las implicancias de ello.
+
+g) Cuestiones ambientales: se deberá informar con relación al proyecto inmobiliario sobre el cumplimiento de
+todas las leyes, ordenanzas, normas y regulaciones nacionales, provinciales y municipales del lugar en el que se
+pretende desarrollar el mismo, en relación con la protección del medio ambiente.
+
+2. En los casos en que se contemple la inversión en renta o financiamiento de la actividad inmobiliaria, se deberá
+incluir:
+a) detalle de las características generales (tipología, ubicación, etc.) de los inmuebles, y los principales términos y
+condiciones de los contratos celebrados o a celebrarse (plazo, moneda, garantías y avales, seguros, etc.), así
+como, en su caso, las condiciones de emisión de los créditos y/o valores hipotecarios cedidos.
+
+b) Descripción del administrador y/o asimilables en la cual se incluya la información requerida, según el caso, en
+el artículo 21, inciso 8., apartados a), b), d), e), f) incisos. 1) y 2), e i) del Capítulo IV, o en el artículo 2° del
+Capítulo VI del Título V de estas Normas, según corresponda. Adicionalmente se deberá consignar los proyectos
+en los que se encuentre participando y demás antecedentes profesionales.
+
+3. En todos los supuestos, cuando se prevea la inversión a través de un vehículo particular y/o de instrumentos,
+deberán detallarse los términos y condiciones de su constitución, acompañando en su caso el contrato constitutivo
+respectivo, del cual deberá surgir el objeto de creación.
+
+4. Planilla de costos y gastos estimados, el flujo de fondos proyectado con indicación de los supuestos
+contemplados para su elaboración y el cronograma de pago de servicios de valores fiduciarios o cuotapartes de
+renta. De corresponder, se deberá incluir el cronograma de integraciones.
+
+5. Información sobre el procedimiento de comercialización, se trate de venta o alquiler de las unidades, o de su
+adjudicación a los tenedores de valores fiduciarios o cuotapartes.
+
+6. Procedimiento que se aplicará a fin de llevar a cabo la liquidación y cancelación del instrumento.
+
+7. Criterios de valuación y procedimiento previsto para la selección e incorporación de los activos inmobiliarios.
+
+ARTÍCULO 9°.- En caso de no encontrarse previamente identificado el inmueble objeto del PIC, al momento de
+la autorización de oferta pública, el Prospecto o Suplemento de Prospecto deberá contener:
+
+a) El plan de inversión con indicación específica de las características y condiciones de elegibilidad de los activos
+inmobiliarios, considerando las siguientes particularidades según la inversión:
+
+i) En el caso que el objeto prevea desarrollos inmobiliarios, se deberán indicar las características generales
+(tipología, zona geográfica, etc.) de los proyectos a desarrollar y/o inmuebles a adquirir para posteriormente llevar
+a cabo la o las obras.
+
+ii) En los casos en que se contemple la inversión en renta o financiamiento de la actividad inmobiliaria, se
+deberán detallar las características generales (tipología, zona geográfica, etc.) de los inmuebles a adquirir, y los
+principales términos y condiciones de los contratos de locación a celebrarse (plazo, moneda, garantías y avales,
+seguros, etc.), así como, en su caso, las condiciones de emisión de los créditos y/o valores hipotecarios cedidos.
+
+b) la información requerida en los incisos 3. a7. del artículo 8° de la presente Sección.
+
+Una vez que la información indicada en el inciso a) se encuentre disponible, la Sociedad Gerente o el Fiduciario
+deberán publicar la misma en la Autopista de la Información Financiera como Hecho Relevante o Información
+Complementaria, según el caso.
+
+AUDITOR TÉCNICO.
+
+ARTÍCULO 10.- El auditor técnico deberá ser un profesional técnico independiente idóneo en la materia, que
+tendrá a su cargo la auditoría de la obra confeccionando un informe sobre el avance de esta, comparando las
+proyecciones efectuadas con la aplicación real de los fondos a la ejecución de las obras, calculando los desvíos y
+cualquier otra información que resulte relevante sobre el emprendimiento.
+
+INFORME DE AUDITOR TÉCNICO.
+
+ARTÍCULO 11.- El auditor técnico deberá emitir un informe trimestral sobre las tareas desarrolladas durante la
+vigencia del fondo común de inversión cerrado y el fideicomiso financiero, incluyendo una conclusión respecto
+de los resultados arrojados.
+
+Estos informes deberán ser publicados en el sitio web de la Comisión, a través de la Autopista de la Información
+Financiera, en un plazo que no podrá exceder de los QUINCE (15) días hábiles luego del cierre de cada trimestre
+que se trate, indicando expresamente dicha obligación en el Prospecto o Suplemento de Prospecto.
+
+PRODUCTOS DE INVERSIÓN COLECTIVA PARA EL DESARROLLO INMOBILIARIO CONSTITUIDOS
+EN LOS TÉRMINOS DEL ARTÍCULO 206 DE LA LEY N° 27.440.
+
+ARTÍCULO 12.- A efectos de su autorización para hacer oferta pública, los fondos comunes de inversión
+cerrados y los fideicomisos financieros constituidos conforme lo dispuesto en el artículo 206 de la Ley N° 27.440
+y disposiciones reglamentarias, se regirán por las Secciones I y II del presente Capítulo y, según el caso, por las
+Secciones I y II del Capítulo VI, y por la Sección II del Capítulo VIII del presente Título. Supletoriamente serán
+de aplicación las disposiciones generales de los fondos comunes de inversión cerrados y de los fideicomisos
+financieros, según corresponda.
+
+OBJETO ESPECIAL DE INVERSIÓN.
+
+ARTÍCULO 13.- Los PICs reglamentados en la presente Sección deberán ser integrados por activos que
+compongan el objeto especial de inversión previsto en primer párrafo del artículo 206 de la Ley Nº 27.440.
+
+En el Prospecto o Suplemento de Prospecto se deberá incluir una Sección en la cual se describa dicho objeto de
+inversión, con especial indicación a que el vehículo tiene como finalidad el fomento del desarrollo de la
+construcción de viviendas para poblaciones de ingresos medios y bajos, conforme el rango de viviendas definido
+por la Resolución de la entonces Secretaría de Vivienda del Ministerio del Interior, Obras Públicas y Vivienda N°
+20/2018.
+
+ARTÍCULO 14.- Los PICs de la presente Sección, que posean como objeto de inversión desarrollos inmobiliarios
+en los términos de lo indicado en el inciso (a) del primer párrafo del artículo 206 de la Ley N° 27.440, deberán
+dar inicio de ejecución a las inversiones correspondientes al objeto específico en un plazo que no podrá superar
+los TRESCIENTOS SESENTA Y CINCO (365) días corridos desde la fecha de emisión.
+
+A tales efectos, se entenderá por inicio de ejecución a todo acto que implique la aplicación de al menos un
+VEINTICINCO POR CIENTO (25%) de los fondos resultantes de la colocación en, sin que la enumeración
+resulte taxativa, algunas de las siguientes acciones: adquisición de terrenos y/o de inmuebles, inicio de trámites
+administrativos de permisos de obra, compra de materiales, inicio de desarrollo del proyecto.
+
+En los casos previstos en el primer párrafo del presente artículo, el plazo máximo establecido en el Prospecto o
+Suplemento de Prospecto para la adecuación de las inversiones, de acuerdo con el porcentaje mínimo de inversión
+indicado en el segundo párrafo del artículo 10 del Decreto N° 382/2019, no podrá exceder la mitad del plazo de
+duración del producto del que se trate.
+Cuando el objeto de inversión se corresponda con lo dispuesto en los incisos (b) y (c) del primer párrafo del
+artículo 206 de la Ley N° 27.440, la integración total de las inversiones, conforme el porcentaje mínimo previsto
+en el artículo 10 del Decreto N° 382/2019, no podrá exceder los CIENTO OCHENTA (180) días corridos desde
+la fecha de emisión. Dicho período podrá ser prorrogado por un plazo igual o menor, por única vez, debiendo ser
+comunicada la decisión de prórroga mediante el acceso Hecho Relevante, de la Autopista de la Información
+Financiera, con los fundamentos del caso.
+
+En todos los casos, se deberá hacer constar en nota a los Estados Contables trimestrales y/o anuales respectivos y,
+de corresponder, en el informe trimestral del auditor técnico, designado en los términos del artículo 10 del
+presente Capítulo, el cumplimiento del plan y cronograma de inversión y la afectación de los fondos disponibles a
+la ejecución de las inversiones específicas seleccionadas.
+
+En caso de que no se diera cumplimiento a los plazos dispuestos en el presente artículo, se deberá convocar a una
+asamblea de cuotapartistas o de beneficiarios, según corresponda, en los términos de lo dispuesto en el párrafo
+cuarto del artículo 17 de la presente Sección.
+
+Cuando se enajenaren activos computables, una vez que se hubiere cumplido con el porcentaje establecido por el
+artículo 10 del Decreto N° 382/2019, deberá realizarse en un plazo de TRESCIENTOS SESENTA Y CINCO
+(365) días corridos la reinversión de los fondos obtenidos por dicha enajenación en activos específicos.
+
+CONTENIDO DE PROSPECTO O SUPLEMENTO DE PROSPECTO.
+
+ARTÍCULO 15.- Adicionalmente a lo dispuesto en el artículo 8° de la presente Sección, el Prospecto o
+Suplemento de Prospecto deberá exponer, en la Sección TRATAMIENTO IMPOSITIVO APLICABLE, los
+requisitos establecidos por el artículo 206 de la Ley Nº 27.440 y sus normas reglamentarias, informando las
+consecuencias impositivas derivadas de la adquisición, tenencia y disposición de los valores negociables emitidos
+bajo el presente régimen especial.
+
+Asimismo, se deberá incluir, en la Sección correspondiente a CONSIDERACIONES DE RIESGO DE LA
+INVERSIÓN, una descripción pormenorizada de los riesgos inherentes a este tipo de inversiones y, en particular,
+un detalle de las consecuencias derivadas del incumplimiento sobreviniente de los requisitos establecidos en el
+artículo 206 de la Ley N° 27.440 y sus normas reglamentarias.
+
+En el Prospecto o Suplemento de Prospecto se deberán incluir los lineamientos del plan de inversiones y el
+cronograma de inversión, de acuerdo con lo indicado en el artículo 8° de la presente Sección.
+
+REQUISITOS DE DISPERSIÓN.
+
+ARTÍCULO 16.- La Sociedad Gerente o el Fiduciario, según el caso, deberá controlar el cumplimiento de los
+requisitos de dispersión establecidos en los incisos b) y c) del artículo 206 de la Ley Nº 27.440. A tal efecto,
+corresponderá al Agente Depositario Central de Valores Negociables informar a los agentes intervinientes las
+transferencias operadas.
+
+INCUMPLIMIENTOS.
+
+ARTÍCULO 17.- La Sociedad Gerente y el Fiduciario, deberán informar de manera inmediata a través de la
+Autopista de la Información Financiera, como Hecho Relevante, el incumplimiento de cualquiera de los requisitos
+establecidos en el artículo 206 de la Ley N° 27.440 y sus normas reglamentarias, aplicándose, en el caso de que
+dicho incumplimiento trate sobre alguno de los requisitos enunciados en los tres primeros incisos del artículo 206
+de la Ley N° 27.440, el plazo de subsanación de CIENTO OCHENTA DÍAS (180) dispuesto en el segundo
+párrafo del artículo 12 del Decreto N° 382/2019, salvo lo dispuesto en el párrafo siguiente.
+
+Los incumplimientos sobrevivientes al porcentaje mínimo de inversión, previsto en el artículo 10 del Decreto N°
+382/2019, deberán ser comunicados a la Comisión como Hecho Relevante a través de la Autopista de la
+Información Financiera y subsanados en el plazo de TRESCIENTOS SESENTA Y CINCO (365) días corridos
+desde su configuración. En la misma comunicación, se deberán describir las causas del incumplimiento, junto con
+un plan y cronograma de adecuación que comprenda la afectación de los fondos disponibles al efectivo desarrollo
+de los proyectos de inversión planteados.
+
+Durante dicho período, se deberá hacer constar en nota a los Estados Contables trimestrales y/o anuales
+respectivos y, en su caso, en el informe trimestral del auditor técnico, el cumplimiento de lo dispuesto en el tercer
+párrafo del artículo 10 del Decreto N° 382/2019.
+
+De ser subsanado el incumplimiento, dicha circunstancia deberá ser informada a través de la Autopista de la
+Información Financiera como Hecho Relevante. Si los incumplimientos no fueren subsanados en los plazos
+indicados precedentemente, la Sociedad Gerente o el Fiduciario, en cada caso, deberán comunicar dicha
+circunstancia como Hecho Relevante a través de la Autopista de la Información Financiera y proceder a la
+convocatoria de la asamblea de cuotapartistas o beneficiarios, a los fines de someter a su consideración la
+liquidación del vehículo de inversión colectiva o la continuación del mismo sin las características de la presente
+Sección. En este último caso, se deberán presentar los documentos adaptados a las nuevas circunstancias dentro
+de los TREINTA (30) días corridos de la resolución asamblearia.
+
+La Comisión Nacional de Valores informará a la Agencia de Recaudación y Control Aduanero cualquier
+situación de incumplimiento de los requisitos previstos en esta Sección cuando no fueran debidamente
+subsanados dentro de los plazos estipulados a tal efecto.
+
+SECCIÓN III
+
+PRODUCTOS DE INVERSIÓN COLECTIVA PARA EL DESARROLLO DE INFRAESTRUCTURA.
+
+OBJETO – ACTIVO SUBYACENTE.
+
+ARTÍCULO 18.- Se considerarán PICs para el desarrollo de la infraestructura a aquellos vehículos cuyo objeto se
+encuentre destinado directa o indirectamente al financiamiento, inversión y/o desarrollo de Infraestructura Pública
+o de Infraestructura Privada.
+
+A los fines de cumplir con el objeto, el activo subyacente deberá estar constituido:
+
+1. Cuando se trate de PICS de Infraestructura Pública por activos relacionados de manera directa o indirecta con
+el financiamiento de infraestructura pública en cuyos casos el pago esté garantizado por los flujos de fondos del
+proyecto respectivo o por un flujo de afectación específico.
+
+Cuando el desarrollo de una obra constituya la fuente de pago de los valores negociables emitidos, la misma
+deberá encontrarse adjudicada.
+
+2. Cuando se trate de PICs de Infraestructura Privada por activos relacionados de manera directa o indirecta con
+el financiamiento de infraestructura privada, en los que el pago esté garantizado por los flujos de fondos del
+proyecto o por un flujo de afectación específico.
+
+En ambos casos, podrán incorporarse como activos subyacentes certificados de obra, valores negociables o
+cualquier otro derecho de cobro, tributos o cargos específicos, entre otros.
+
+CONTRATISTA. INFORME AVANCE DE PROYECTO.
+
+ARTÍCULO 19.- En los PICs contemplados en el presente régimen, en los cuales el desarrollo de una obra se
+vincule con la fuente de pago de los valores negociables emitidos, se deberá identificar al contratista.
+
+Asimismo, se deberá publicar de manera trimestral, en la AIF, un informe relativo al avance del respectivo
+proyecto. Adicionalmente, se deberá informar como Hecho Relevante” cualquier desviación significativa que se
+produzca respecto de la información consignada en el Prospecto o Suplemento de Prospecto.
+
+CONTENIDO DEL PROSPECTO O SUPLEMENTO DE PROSPECTO.
+
+ARTÍCULO 20.- Adicionalmente a lo dispuesto en la Sección VII del Capítulo II o en el artículo 21 del Capítulo
+IV del presente Título, el Prospecto o Suplemento de Prospecto deberá contener la siguiente información relativa
+al objeto del instrumento:
+
+1. En el supuesto que el desarrollo de una obra constituya la fuente de pago de los valores negociables emitidos,
+se deberá incluir:
+
+a) Descripción del régimen aplicable según la naturaleza de los proyectos seleccionados y el sector de
+infraestructura relacionado.
+
+b) El plan de obra de la infraestructura, con indicación de las características y condiciones del proyecto,
+incluyendo sus particularidades según surja del contrato o de los pliegos de licitación:
+
+i. Características generales (tipología, zona geográfica, etc.) de los proyectos a desarrollar;
+
+ii. Destino y uso de la/s obra/s;
+
+iii. Esquema de pago de la obra, plazos, moneda, condiciones de ejecución, garantías, en su caso; información
+respecto de quien se encuentre a cargo de tales acciones y el instrumento utilizado para certificar el avance de las
+obras;
+
+iv. Cuando el plan de inversión prevea el financiamiento a través de un vehículo o instrumento particular, o la
+cesión de derechos de cobro o créditos, deberán detallarse los términos de su constitución, acompañando en su
+caso los documentos respectivos, de los cuales deberá surgir su vinculación con el proyecto descripto.
+
+c) Descripción del contratista, en los términos del artículo 21, inciso 8.), apartados a), b), d), e), f) incs. 1) y 2), e
+i) del Capítulo IV o del artículo 2° del Capítulo VI del Título V de estas Normas, según el caso. Adicionalmente
+se deberá consignar los proyectos en los que se encuentre participando y demás antecedentes profesionales.
+
+En aquellos PICs de Infraestructura Privada en los cuales el contratista no se encuentre identificado, se deberán
+establecer las condiciones de elegibilidad del mismo y, en oportunidad de su designación, presentar toda la
+información requerida en el presente como Hecho Relevante a través de la Autopista de la Información
+Financiera.
+
+d) Detalle del proceso de contratación.
+
+2. En los casos en que el activo subyacente se encuentre constituido por certificados de obra, valores negociables,
+tributos o cargos específicos, o cualquier instrumento de reconocimiento de derechos de cobro, entre otros, se
+deberá consignar la siguiente información:
+
+a) los términos indicativos de la emisión, a saber: el emisor, la fecha de emisión, el plazo de vencimiento,
+moneda, tasa de interés, pagos de capital e intereses, los activos o flujos afectados al pago o en garantía de los
+compromisos asumidos, según corresponda;
+
+b) un apartado especial que contenga una descripción del o los emisores con especial indicación de la normativa
+aplicable a ello.
+
+INVERSORES CALIFICADOS.
+
+ARTÍCULO 21.- Los valores negociables que se emitan en el marco de los PICs para el Desarrollo de
+Infraestructura solo podrán ser adquiridos por Inversores Calificados definidos en la Sección I del Capítulo VI del
+Título II de estas Normas.
+
+SECCIÓN IV
+
+PRODUCTOS DE INVERSIÓN COLECTIVA DE CAPITAL EMPRENDEDOR.
+
+OBJETO – ACTIVO SUBYACENTE.
+
+ARTÍCULO 22.- Se considerarán comprendidos en la presente Sección aquellos PICs con autorización de oferta
+pública de sus cuotapartes o valores negociables fiduciarios por esta Comisión cuyo objeto se encuentre destinado
+al financiamiento o inversión en capital emprendedor.
+
+A tales fines los PICs deberán constituirse con inversiones de capital de manera directa o a través de instrumentos
+o valores convertibles en acciones en empresas que se encuentren en etapa temprana de desarrollo o bien en etapa
+de expansión, y que al momento de la inversión no se encuentren autorizadas para ofertar ni para negociar
+públicamente valores negociables en el país ni en el exterior.
+
+Podrán además prever el cumplimiento de lo dispuesto en el párrafo precedente, mediante la inversión en
+vehículos, cuyo objeto de inversión resulte consistente con lo establecido bajo el presente régimen.
+
+La Sociedad Gerente o el Fiduciario deberá verificar en tales casos que las políticas de inversión, diversificación,
+seguimiento y desinversión de los vehículos invertidos resulten consistentes con las establecidas en el Prospecto o
+Suplemento de Prospecto.
+
+CAPITAL EMPRENDEDOR.
+
+ARTÍCULO 23.- A los fines del presente régimen se entenderá comprendida en la definición de Capital
+Emprendedor a aquellas estrategias de inversión que canalizan financiación de forma directa o indirecta a
+empresas. El Capital Emprendedor comprende desde el desarrollo de una idea donde el capital semilla es crucial,
+las primeras fases de la actividad productiva, las etapas de expansión y crecimiento donde la financiación puede
+permitir dar el salto cualitativo a una dimensión, madurez y competitividad mayores.
+
+EMISIÓN DE CUOTAPARTES DE CONDOMINIO O CERTIFICADOS DE PARTICIPACIÓN.
+
+ARTÍCULO 24.- A los efectos de lo dispuesto en el presente régimen solo podrán emitirse cuotapartes de
+condominio o certificados de participación.
+
+INVERSORES CALIFICADOS.
+
+ARTÍCULO 25.- Los valores emitidos bajo el presente régimen sólo podrán ser adquiridos por Inversores
+Calificados, definidos en la Sección I del Capítulo VI del Título II de estas Normas.
+
+GESTOR PROFESIONAL.
+
+ARTÍCULO 26.- Las funciones propias de la actividad de selección y gestión de los activos invertidos deberán
+ser desarrolladas por un Gestor Profesional, sin que ello implique el desplazamiento de la responsabilidad que
+pudiera corresponderle a la Sociedad Gerente o al Fiduciario. Al respecto el Gestor deberá actuar con la prudencia
+y diligencia del buen hombre de negocios que actúa sobre la base de la confianza depositada en él.
+
+El Gestor Profesional deberá ser una persona jurídica, experto en la administración de los activos específicos
+objetos de inversión, con amplia experiencia en el ámbito nacional o internacional.
+
+A los fines de la identificación de quienes tengan a su cargo tales funciones de gestión, se deberá incluir una
+Sección especial en el Prospecto o Suplemento de Prospecto en la cual se incluya la información en los términos
+requeridos por el artículo 21, inciso 8., apartados a), b), d), e) y f) del Capítulo IV o por el artículo 2° del Capítulo
+VI del Título V de estas Normas, según el caso, con indicación de los antecedentes de la gestión llevada a cabo en
+sociedades de similares características a las sociedades elegibles.
+
+La función de Gestor podrá ser ejercida por la Sociedad Gerente o por el Fiduciario siempre que acredite contar
+con la idoneidad suficiente para llevar a cabo las funciones respectivas.
+
+Se deberá presentar copia de instrumento suficiente del Gestor por la cual resuelve su participación en el vehículo
+respectivo.
+
+COMITÉ DE INVERSIONES.
+
+ARTÍCULO 27.- En igual sentido se podrá designar un comité de inversiones.
+
+El comité de inversiones tendrá a su cargo el asesoramiento en la ejecución de la política de inversión y
+desinversión del vehículo, así como la selección y análisis de las sociedades elegibles sin que ello implique el
+desplazamiento de la responsabilidad que pudiera corresponderle a la Sociedad Gerente o al Fiduciario.
+
+El comité deberá ser integrado por expertos en el objeto de las sociedades en las que se pretenda invertir, con
+amplia experiencia y formación profesional en el ámbito nacional o internacional y con al menos un miembro por
+la Sociedad Gerente o el Fiduciario Financiero.
+
+En el supuesto en que el instrumento contemple más de un rubro o sector de inversión se podrán conformar
+comités específicos en la materia de que se trate.
+A los fines de la identificación de quienes integren el comité y su actuación, se deberá incluir una Sección
+especial en el Prospecto o Suplemento de Prospecto en la cual se incluya la siguiente información:
+
+1. Identificación de todos sus participantes.
+
+2. Datos relativos a la actividad profesional y su matriculación.
+
+3. Antecedentes profesionales con indicación de los antecedentes de la gestión llevada a cabo en sociedades de
+similares características a las sociedades elegibles.
+
+4. Modalidad operativa de las reuniones de comité.
+
+5. Políticas de actuación.
+
+CONTENIDO DEL PROSPECTO O SUPLEMENTO DE PROSPECTO.
+
+ARTICULO 28.- Adicionalmente a lo dispuesto en la Sección VII del Capítulo II o en el artículo 21 del Capítulo
+IV del presente Título, el Prospecto o Suplemento de Prospecto deberá contener la siguiente información:
+
+1. Una descripción pormenorizada en la Sección de ADVERTENCIAS de los riegos propios de la inversión. Al
+respecto deberán contemplarse en forma destacada, los riesgos inherentes a la inversión en capital emprendedor, y
+en particular los asociados a la etapa de desarrollo de las sociedades elegibles y el o los sectores de actividad
+económica en los cuales se realizarán las inversiones, entre otros. Asimismo, deberá incluirse la siguiente
+leyenda: “La inversión en el presente Producto de Inversión Colectiva de Capital Emprendedor implica la
+asunción de un alto riesgo, por lo que puede verse afectado el recupero total o parcial del capital invertido.”
+
+2. La descripción de los activos elegibles y contemplar el plan y cronograma de inversión con indicación de las
+sociedades objeto de inversión y/o las características y condiciones de elegibilidad, información sobre los sectores
+de la actividad económica involucrados, localización, pautas mínimas de diversificación, incluyendo cantidades
+mínimas y máximas de sociedades elegibles, así como límites mínimos y máximos de inversión por sociedad. El
+cronograma y la estrategia de inversión deberá contemplar plazos acordes con el plazo de vigencia de manera de
+garantizar el cumplimiento del objeto del vehículo que se trate.
+
+3. La descripción del Gestor Profesional y de los miembros del comité de inversiones, de corresponder y los
+antecedentes personales, técnicos y empresariales de los demás sujetos que participen en el asesoramiento,
+gestión o control de las inversiones, incluyendo información sobre el grupo económico, sus vinculaciones
+económicas y jurídicas, sus directivos y/o grupo económico, con las sociedades elegibles.
+
+4. La metodología de valuación de las inversiones.
+
+5. Pautas y procedimiento de selección de las sociedades elegibles.
+
+6. La descripción de las políticas de seguimiento de las sociedades invertidas, con descripción de la composición,
+atribuciones y funcionamiento del comité de control, de corresponder.
+
+7. Las políticas relacionadas con los posibles conflictos de interés, su prevención, identificación, tratamiento,
+mitigación y seguimiento.
+
+8. Las políticas de salida o estrategias de desinversión y el procedimiento que se aplicará a fin de llevar a cabo la
+liquidación del PIC.
+
+9. El flujo de fondos teórico proyectado como mínimo en TRES (3) escenarios, detallando los supuestos
+contemplados en su elaboración.
+
+En los supuestos en que se prevea la inversión indirecta el Prospecto o Suplemento de Prospecto deberá contener,
+adicionalmente, las condiciones de elegibilidad del vehículo particular, el cual deberá contemplar políticas
+consistentes con las descriptas en los apartados precedentes.
+
+En el caso que se prevea la inversión exclusiva en un solo vehículo de inversión, tal previsión deberá estar
+debidamente explicitada en el Prospecto o Suplemento de Prospecto.
+
+INFORME TRIMESTRAL DE VALUACIÓN.
+
+ARTÍCULO 29.- Se deberá elaborar un informe de valuación por un contador público independiente matriculado
+en el Consejo Profesional respectivo con una antigüedad en la matrícula no inferior a CINCO (5) años, el cual
+deberá contener la valuación de las inversiones realizadas conforme al método establecido en el Prospecto, y, de
+existir, en función a las operaciones de Mercado ocurridas, avaladas con la debida documentación respaldatoria.
+
+El Prospecto o Suplemento de Prospecto deberá contener un detalle del método de valuación que se utilizará a fin
+de valuar los activos a valores de Mercado.
+
+Los informes deberán contar con la firma legalizada por el Consejo Profesional respectivo y publicarse de manera
+trimestral en el sitio web de la Comisión, a través de la Autopista de la Información Financiera, en un plazo que
+no podrá exceder de los CUARENTA Y DOS (42) días corridos luego del cierre de cada trimestre.
+
+REGIMEN INFORMATIVO ESPECIAL.
+
+ARTÍCULO 30.- Se tendrá por cumplimentada la exigencia, según el caso, del inciso b) del artículo 34 de la
+Sección VII del Capítulo II o del artículo 33 2. de la Sección XIV del Capítulo IV del presente Título con la
+presentación de los informes trimestrales de valuación enunciados en el artículo precedente. En su caso, se deberá
+dejar constancia de la opción ejercida en el Prospecto o Suplemento de Prospecto a fin de advertir al público
+inversor.
+
+Por su parte, y en relación con la exigencia de presentación de Estados Contables por períodos anuales, se
+requerirá la publicación en la Autopista de la Información Financiera de los Estados Contables respectivos dentro
+de los CIENTO VEINTE (120) días de cerrado el ejercicio.
+
+ARTÍCULO 31.- La Sociedad Gerente o el Fiduciario deberá proceder a la publicación con periodicidad
+trimestral de un informe sobre la evolución de las inversiones realizadas y de la aplicación de los fondos,
+indicando el nivel de cumplimiento del plan de negocios y los eventuales desvíos detectados durante su
+implementación, justificando los motivos.
+
+En los supuestos en los cuales la inversión se realice a través de vehículos, la Sociedad Gerente o el Fiduciario
+deberá procurar la difusión de la información periódica emitida por los vehículos elegibles, en relación con las
+respectivas inversiones en los términos de lo dispuesto en el párrafo precedente.
+
+El presente informe deberá ser publicado a través de la Autopista de la Información Financiera, en un plazo que
+no podrá exceder de los QUINCE (15) días hábiles luego del cierre de cada trimestre de que se trate.
+PROHIBICIONES Y CONFLICTOS DE INTERÉS.
+
+ARTÍCULO 32.- Las inversiones en una misma sociedad elegible no podrán superar, al momento de realizarse la
+inversión, el VEINTE POR CIENTO (20%) del patrimonio del fondo común de inversión o del fideicomiso
+financiero ni más del TREINTA Y CINCO POR CIENTO (35%) en sociedades pertenecientes a un mismo grupo
+económico.
+
+Tales restricciones no serán de aplicación cuando la inversión se efectúe a través de un vehículo particular, en
+cuyo caso deberá verificarse que las inversiones realizadas por el vehículo poseen adecuados niveles de
+diversificación.
+
+En caso de que se proponga invertir el patrimonio del fondo común de inversión o del fideicomiso en sociedades
+que mantengan vinculaciones con la Sociedad Gerente o el Fiduciario, el gestor o los miembros integrantes del
+comité de inversiones, se deberá contar con una valuación independiente al momento de la inversión y proceder
+conforme lo dispuesto en el inciso 7 del artículo 28 de la presente Sección.
+
+DETERMINACIÓN DE LAS INVERSIONES.
+
+ARTÍCULO 33.- En los casos de los PICs que no cuenten con la determinación de las sociedades elegibles al
+momento de su constitución, una vez efectivizada la inversión, de manera directa o indirecta, la Sociedad Gerente
+o el Fiduciario deberá remitir, mediante Hecho Relevante publicado en la Autopista de la Información Financiera,
+información sobre la operación incluyendo, antecedentes, denominación social, objeto y actividad de la sociedad
+invertida, el monto de la inversión y el porcentaje de la participación en el capital social, plan de negocios e
+inversiones previstas, así como los términos indicativos del contrato de suscripción y de los convenios de
+gobierno y administración, junto con el informe de valuación inicial y, en su caso, el informe respectivo del
+comité de inversiones, de corresponder.
+
+PROCESOS DE DESINVERSIÓN.
+
+ARTÍCULO 34.- En oportunidad de producirse la desinversión total o parcial en una sociedad elegible, se deberá
+proceder a la difusión correspondiente, mediante Hecho Relevante publicado en la Autopista de la Información
+Financiera, con indicación de los aspectos relevantes de la operación (sociedad elegible, monto de la inversión,
+porcentaje en el patrimonio del PIC valor de la operación y metodología de valuación aplicada, entre otros).
+
+SECCIÓN V
+
+PRODUCTOS DE INVERSIÓN COLECTIVA PARA EL FOMENTO DEL DESARROLLO PRODUCTIVO Y
+DE LAS ECONOMIAS REGIONALES.
+
+OBJETO – ACTIVO SUBYACENTE.
+
+ARTÍCULO 35.- A los efectos de lo dispuesto en la presente Sección se considerarán PICs para el fomento del
+desarrollo productivo y de las economías regionales a aquellos cuyo objeto se encuentre destinado al desarrollo,
+el financiamiento y/o la inversión en productos de la economía real, incluyendo cadenas de valor, que tenga por
+finalidad mejorar los niveles de productividad y/o el desempeño ambiental y/o propender el desarrollo de
+capacidades de actores y sectores económicos relevantes en la República Argentina.
+
+A fin de cumplir con el objeto, el activo subyacente podrá constituirse con derechos de exportación, derechos
+crediticios o derechos de cobro de sumas de dinero, de cualquier naturaleza, con o sin garantía incluyendo sin
+limitación créditos prendarios, facturas, facturas de crédito, pagarés, cheques, letras de cambio, warrants,
+contratos y cualquier otro tipo de créditos y/o derechos.
+
+GARANTÍAS.
+
+ARTÍCULO 36.- El activo subyacente que conforme los PICs que se constituyan en los términos de la presente
+Sección podrá ser garantizado por una o más entidades de garantía inscriptas en la nómina de entidades
+habilitadas para garantizar instrumentos en el mercado de capitales.
+
+SECCIÓN VI
+
+PRODUCTOS DE INVERSIÓN COLECTIVA SUSTENTABLES.
+
+OBJETO.
+
+ARTÍCULO 37.- Serán considerados “Fondos Comunes de Inversión cerrados o Fideicomisos Financieros
+Sustentables” aquellos que se constituyan de acuerdo a lo establecido en los “Lineamientos para la Emisión de
+Valores Negociables Temáticos en Argentina”, contenidos en el Anexo III del Capítulo I del Título VI de estas
+Normas.
+
+DESTINO DE LOS FONDOS.
+
+ARTÍCULO 38.- A los fines de dar cumplimiento con el objeto del presente régimen el activo subyacente deberá
+destinarse de manera directa o indirecta al financiamiento o refinanciamiento, ya sea en parte o en su totalidad, de
+proyectos o actividades nuevos o existentes con beneficios ambientales, sociales y/o sustentables. Asimismo,
+podrán, además, prever el cumplimiento de lo dispuesto en el artículo 37 mediante la inversión en vehículos cuyo
+objeto resulte consistente con lo establecido bajo el presente régimen. La divulgación acerca del destino de los
+fondos podrá realizarse siguiendo los estándares reconocidos en los “Lineamientos para la emisión de Valores
+Negociables Temáticos en Argentina” o los “Estándares de Impacto para Bonos y Fondos ODS de SDG Impact
+(PNUD)”.
+
+LISTADO EN PANEL O SEGMENTO ESPECIAL DE MERCADO.
+
+ARTÍCULO 39.- A los fines del presente régimen la Sociedad Gerente o el Fiduciario deberá solicitar, junto con
+la tramitación de la autorización de oferta pública, la autorización de listado en un Mercado que cuente con
+segmentos y/o paneles de negociación para valores negociables verdes, sociales y sustentables, y contar con su
+conformidad respecto a la citada calificación. Los fondos comunes de inversión cerrados o fideicomisos
+financieros de este régimen deberán estar listados en el segmento y/o panel del Mercado que haya prestado su
+conformidad.
+
+REVISIÓN EXTERNA.
+
+ARTÍCULO 40.- Los fondos comunes de inversión cerrados o fideicomisos financieros deberán contar con una
+revisión externa elaborada por un tercero independiente, con experiencia en materia ambiental y/o social, y su
+informe deberá adecuarse a los requisitos que dispongan los reglamentos de listado de los Mercados que cuenten
+con segmentos o paneles específicos para estos valores negociables. Sin perjuicio de ello, a efectos de una
+adecuada divulgación de información al público inversor, el Prospecto o Suplemento de Prospecto deberá
+identificar al tercero independiente a cargo de la revisión externa indicando al menos su nombre o razón social,
+domicilio de su oficina y, asimismo, indicar su experiencia en la materia, a través de credenciales, certificaciones
+o cualquier otro elemento que permita evidenciar su idoneidad para llevar a cabo la revisión.
+
+INFORME DEL REVISOR EXTERNO. RÉGIMEN INFORMATIVO.
+
+ARTÍCULO 41.- Los fondos comunes de inversión cerrados o fideicomisos financieros que se constituyan en los
+términos de esta Sección deberán acompañar ante la Comisión el informe de revisión inicial a ser presentado en el
+Mercado respectivo, así como también publicar a través de la AIF los informes periódicos sucesivos.
+
+CONTENIDO DEL PROSPECTO O SUPLEMENTO DE PROSPECTO.
+
+ARTÍCULO 42.- Adicionalmente a lo dispuesto en la Sección VII del Capítulo II y artículo 21 del Capítulo IV
+del presente Título, el Prospecto o Suplemento de Prospecto deberá contener la siguiente información:
+
+1. La leyenda indicada en el artículo 7° del Capítulo IX Título II de estas Normas.
+
+2. Descripción de quien resulte revisor externo.
+
+3. Descripción del o los proyectos, o categorías de proyectos sociales, verdes y/o sustentables, que se pretenden
+financiar con el producido de la colocación de los valores negociables. En este último caso, deberá indicarse el
+proceso de evaluación que se utilizará para la selección de proyectos, mencionando los criterios de elegibilidad y
+de exclusión que se emplearán, como así también los mecanismos de control y reporte para informar sobre su
+avance.
+
+4. Detalle de los mecanismos a ser utilizados para garantizar la trazabilidad de los proyectos a ser financiados y la
+transparencia en el uso de los fondos disponibles y de los procedimientos diseñados para monitorear dichos
+fondos hasta su asignación total, admitiéndose que puedan ser invertidos de forma temporal en instrumentos
+financieros que se encuentren definidos en el Prospecto o Suplemento de Prospecto.
+
+5. Tiempo y cronograma estimado para la asignación total de los fondos.
+
+6. Descripción de las consecuencias que derivarían del incumplimiento en la aplicación de los fondos disponibles
+a la financiación o refinanciación total o parcial de los proyectos que componen el objeto exclusivo y específico
+del fondo común de inversión cerrado o fideicomiso financiero.
+
+7. Cuando el plan de inversión prevea la inversión a través de un vehículo particular, deberá detallarse los
+términos de su constitución, acompañando en su caso el contrato constitutivo respectivo, del cual deberá surgir el
+objeto de creación consistente con lo establecido bajo el presente régimen.
+
+8. Según las características de la inversión, la descripción, los antecedentes personales, técnicos y empresariales
+de los sujetos que participen en el asesoramiento y gestión de las inversiones, incluyendo información sobre el
+grupo económico, como así también sus vinculaciones económicas y jurídicas, sus directivos y/o grupo
+económico, con los activos elegibles.
+
+9. Proceso de selección y evaluación de los activos con descripción, y en su caso, de la composición, atribuciones
+y funcionamiento del órgano integrado a tales fines.
+
+10. Descripción de las políticas de seguimiento de las inversiones, con descripción de la composición,
+atribuciones y funcionamiento del órgano conformado a tales fines.
+
+INCUMPLIMIENTO.
+
+ARTÍCULO 43.- En el supuesto que, por algún motivo, el fondo común de inversión cerrado o fideicomiso
+financiero sea excluido del segmento o panel específico de valores negociables sociales, verdes o sustentables en
+el que se encontraba listado, se deberán adaptar los documentos a la nueva circunstancia. A todo efecto, se deberá
+contar con el consentimiento de los cuotapartistas o beneficiarios, a fin de proseguir con el fondo común de
+inversión o fideicomiso financiero de que se trate, salvo que dicha circunstancia y sus particularidades se
+encontraren advertidas y debidamente descriptas en los instrumentos de la transacción.
+
+SECCIÓN VII
+
+RÉGIMEN DE PRODUCTOS DE INVERSIÓN COLECTIVA DE CESE LABORAL
+
+OBJETO.
+
+ARTÍCULO 44.- En los términos y con el alcance previsto en el Decreto N° 847/2024, se considerarán
+“Productos de Inversión Colectiva de Cese Laboral” (PICs de Cese Laboral) a los fondos comunes de inversión
+abiertos y a los fideicomisos financieros que se constituyan en los términos del artículo 11 del Anexo II del
+mencionado Decreto con las exigencias allí dispuestas.
+
+NOTIFICACIÓN FEHACIENTE.
+
+ARTÍCULO 45.- Los PICs de Cese Laboral que se constituyan en los términos del presente Capítulo deberán
+precisar en el contrato de fideicomiso o en el reglamento de gestión, un mecanismo de notificación fehaciente
+–que podrá comprender medios electrónicos- mediante el cual se comunicará al Fiduciario Financiero o a los
+órganos del FCI, según corresponda, del acaecimiento de la causal que torne exigible el pago de las sumas
+resultantes del sistema de cese o el cambio de titularidad de las cuotapartes en favor del trabajador.
+
+CAPÍTULO VI
+
+DISPOSICIONES PROPIAS APLICABLES A REGÍMENES ESPECIALES DE FONDOS COMUNES DE
+INVERSIÓN CERRADOS
+
+SECCIÓN I
+
+APLICACIÓN SUPLETORIA.
+
+ARTÍCULO 1°.- La constitución de fondos comunes de inversión cerrados se regirá por su régimen especial y, de
+manera supletoria, por las disposiciones de la Sección VII, Capítulo II del presente Título.
+
+PARTICIPANTES.
+
+ARTÍCULO 2°.- A los fines de la identificación de quienes tengan a su cargo las funciones de desarrollador,
+administrador inmobiliario, contratista, gestor y/o asimilables, según el régimen aplicable, se deberá incluir una
+Sección especial en el Prospecto en la cual se incluya la siguiente información:
+
+1. Denominación social, CUIT, domicilio y teléfono, sitio web y dirección de correo electrónico.
+2. Datos de la respectiva inscripción en el Registro Público u otra autoridad de contralor que corresponda.
+
+3. Nómina de los miembros de sus órganos de administración y fiscalización, indicando la vigencia de tales
+mandatos en consonancia con la fecha de cierre del ejercicio respectivo.
+
+4. Historia y desarrollo, información sobre el grupo económico que integre, descripción de la actividad, estructura
+y organización de la entidad, antecedentes en el ámbito del mercado de capitales.
+
+5. Información contable:
+
+i) Estado de situación patrimonial y estado de resultados correspondientes a los TRES (3) últimos ejercicios
+anuales o desde su constitución, si su antigüedad fuere menor.
+
+En los casos en que los Estados Contables arrojaran resultado de ejercicio negativo se deberán consignar los
+motivos que originaron dicha circunstancia en el Prospecto.
+
+ii) Los siguientes índices correspondientes a los TRES (3) últimos ejercicios anuales o desde su constitución, si su
+antigüedad fuere menor.
+
+
+
+
+    SOLVENCIA                       PATRIMONIO NETO / PASIVO
+
+
+
+
+  RENTABILIDAD          RESULTADO DEL EJERCICIO / PATRIMONIO NETO
+
+
+
+
+                           (ACTIVO CORRIENTE - BIENES DE CAMBIO) /
+ LIQUIDEZ ÁCIDA
+                                     PASIVO CORRIENTE
+
+
+
+
+ENDEUDAMIENTO                       PASIVO / PATRIMONIO NETO
+
+
+6. Flujo de efectivo por los últimos SEIS (6) meses conforme el método directo dispuesto por la normativa
+contable. En su caso, se deberán especificar las causas de los saldos negativos en cada período.
+
+7. El número de empleados al cierre del período, para cada uno de los últimos TRES (3) ejercicios comerciales (y
+los motivos de los cambios en tales números si fueran significativos a la fecha del Prospecto).
+
+8. Indicación de los proyectos en los que se encuentre participando y antecedentes profesionales.
+
+A los efectos del cumplimiento de lo dispuesto en los apartados 6 y 7, la información requerida deberá
+encontrarse actualizada al último día del mes previo al mes inmediato anterior a la fecha de autorización de oferta
+pública.
+
+En los Fondos Comunes de Inversión cerrados Inmobiliarios, las funciones propias del administrador inmobiliario
+podrán ser ejercidas por la Sociedad Gerente.
+
+DETERMINACIÓN DEL ACTIVO.
+
+ARTÍCULO 3°.- En los casos de los fondos comunes de inversión cerrados que no cuenten con el activo inicial
+predeterminado, ni con la identificación de sus participantes, según el caso, en el Prospecto de la emisión deberá
+informarse de manera destacada tal situación mediante la incorporación de las advertencias y consideraciones de
+riesgo respectivas.
+
+Una vez efectivizada la inversión, la Sociedad Gerente deberá remitir mediante Hecho Relevante publicado en la
+Autopista de la Información Financiera, la información respectiva en los términos del régimen correspondiente.
+
+PREVENCIÓN DE CONFLICTOS DE INTERES
+
+ARTÍCULO 4°.- En el caso de que se resuelva la inversión del patrimonio del FCI en activos que mantengan
+vinculaciones con sus participantes , sus directivos y/o grupo económico, se deberá acreditar las medidas
+adoptadas para mitigar los riesgos derivados de dicha situación.
+
+SECCIÓN II
+
+FONDOS COMUNES DE INVERSIÓN CERRADOS PARA EL DESARROLLO INMOBILIARIO.
+
+OPERACIONES CON SOCIEDADES VINCULADAS A LA SOCIEDAD GERENTE Y/O A LA SOCIEDAD
+DEPOSITARIA.
+
+ARTÍCULO 5°.- En el caso que se prevea la inversión del patrimonio del FCI en activos de titularidad de una
+Sociedad perteneciente al mismo grupo económico de la Sociedad Gerente y/o de la Sociedad Depositaria, en los
+documentos de la oferta deberá encontrarse individualizado el activo y el proyecto inmobiliario; el precio de
+adquisición y/o método de valuación, así como los mecanismos tendientes a mitigar los riesgos derivados de
+dicha situación.
+
+La adquisición del activo inmobiliario en dichos supuestos deberá ser a un valor igual o menor al determinado por
+dos tasaciones independientes, las cuales serán incluidas en el Prospecto de la emisión junto con una descripción
+de los antecedentes de las entidades designadas para dicha tarea. Adicionalmente, la Sociedad Gerente y la
+Sociedad Depositaria (esta última únicamente respecto de la inversión vinculada a una sociedad de su mismo
+grupo económico) mediante los respectivos órganos de administración, en oportunidad de aprobar la emisión
+correspondiente deberán dar tratamiento expreso a los términos de la operación, verificando y haciendo constar
+que la misma se realiza en condiciones razonablemente adecuadas a las condiciones normales y habituales del
+Mercado.
+
+La inversión deberá contar, en su caso, con la opinión favorable del comité de inversiones -debiendo abstenerse
+de votar en este supuesto aquellos integrantes que resulten relacionados- y/o del tercero independiente designado
+para las tareas de asesoramiento en la ejecución de la política de inversión, debiendo ser difundidos los informes
+respectivos como Hecho Relevante en la Autopista de la Información Financiera.
+En el caso en que sea prevista la participación de Desarrolladores y/o Administradores Inmobiliarios
+pertenecientes al mismo grupo económico de la Sociedad Gerente y/o de la Sociedad Depositaria, se deberá
+proceder a su individualización en los documentos de la oferta, con detalle de la información respectiva conforme
+lo estipulado en el artículo 2º precedente; indicando los términos de la contratación y que la misma es realizada en
+condiciones de Mercado, lo cual deberá ser acreditado mediante la presentación de al menos un informe de
+evaluador independiente a ser difundido junto con el Prospecto de la Emisión como Hecho Relevante en la
+Autopista de la Información Financiera.
+
+Asimismo, la Sociedad Gerente y la Sociedad Depositaria, mediante los respectivos órganos de administración,
+deberán dar tratamiento expreso a los términos de la contratación, verificando y haciendo constar que la misma se
+realiza en condiciones razonablemente adecuadas a las condiciones normales y habituales del Mercado.
+
+En los casos de los Fondos Comunes de Inversión Inmobiliarios que hayan incluido en sus documentos
+constitutivos alguna de las previsiones antes enunciadas, pero no cuenten con el activo inicial predeterminado, ni
+con la identificación del desarrollador o administrador inmobiliario, una vez efectivizada la inversión, la Sociedad
+Gerente deberá dar cumplimiento con la difusión de la totalidad de la información requerida en el presente
+artículo mediante Hecho Relevante publicado en la Autopista de la Información Financiera.
+
+En el caso que en el documento de la oferta prevea la co-inversión del patrimonio del FCI con una Sociedad
+perteneciente al mismo grupo económico de la Sociedad Gerente y/o de la Sociedad Depositaria, corresponderá la
+adopción de los recaudos establecidos en el presente artículo, procediendo la individualización de la inversión
+junto con los términos de la contratación y la acreditación de que la operación es realizada en condiciones de
+Mercado.
+
+En ningún caso la Sociedad Gerente podrá realizar, para los fondos comunes de inversión bajo su administración,
+operaciones con activos de titularidad de la Sociedad Gerente o de la Sociedad Depositaria, de los directores,
+gerentes, empleados y miembros de los órganos de fiscalización de la Sociedad Gerente, de la Sociedad
+Depositaria, o de sus sociedades controlantes; así como de las personas humanas que tengan el control sobre el
+capital de la Sociedad Gerente, de la Depositaria o el de sus sociedades controlantes.
+
+SECCIÓN III
+
+FONDOS COMUNES DE INVERSIÓN CERRADOS PARA EL DESARROLLO DE INFRAESTRUCTURA.
+
+OTRAS DISPOSICIONES
+
+ARTÍCULO 6°.- Los fondos comunes de inversión cerrados autorizados bajo este régimen especial podrán
+invertir en cuotapartes de fondos comunes de inversión abiertos administrados por otra Sociedad Gerente, cuyo
+objeto de inversión resulte consistente con lo establecido en la presente Sección. En ningún caso podrá invertir
+más del 20% en un mismo FCI.
+
+SECCIÓN IV
+
+FONDOS COMUNES DE INVERSIÓN CERRADOS DE CAPITAL EMPRENDEDOR.
+
+OBJETO.
+
+ARTÍCULO 7°.- No resultará de aplicación lo dispuesto en el segundo párrafo del artículo 31 de la Sección VII
+del Capítulo II del presente Título, a los FCI autorizados bajo el presente régimen y que se encuentren destinados
+al financiamiento de capital emprendedor de sociedades constituidas en el país con potencial expansión regional o
+internacional en virtud de su actividad.
+
+En dichos supuestos, los FCI autorizados bajo el presente podrán mantener su participación de capital en
+sociedades constituidas en el país que, con posterioridad a su adquisición, sean objeto de canje por otros
+instrumentos representativos de capital en el marco de un proceso de fusión con una controlante del exterior.
+
+SECCIÓN V
+
+FONDOS COMUNES DE INVERSIÓN CERRADOS PARA EL FOMENTO DEL DESARROLLO
+PRODUCTIVO Y DE LAS ECONOMÍAS REGIONALES.
+
+CONTENIDO DEL PROSPECTO Y REGLAMENTO DE GESTIÓN.
+
+ARTÍCULO 8°.- Adicionalmente al contenido dispuesto en la Sección VII del Capítulo II del presente Título, el
+Prospecto de emisión y el reglamento de gestión deberán incluir la información que a continuación se detalla:
+
+a) En el caso que se prevea la inversión de manera directa, se deberá detallar los activos elegibles y contemplar el
+plan de inversión con indicación del objeto de inversión y/o las características y condiciones de elegibilidad de las
+inversiones, información sobre los sectores de la actividad económica involucrados, localización, pautas mínimas
+de diversificación incluyendo cantidades mínimas y máximas de activos elegibles, así como límites mínimos y
+máximos de inversión por activo.
+
+b) Cuando el plan de inversión prevea la inversión a través de un vehículo particular, deberá detallarse los
+términos de su constitución, acompañando en su caso el contrato constitutivo respectivo, del cual deberá surgir el
+objeto exclusivo de creación.
+
+c) En los supuestos de participación de entidades de garantía inscriptas, deberá incluirse una leyenda indicando
+que la información sobre la sociedad de garantía recíproca, fondo de garantía o entidad financiera interviniente se
+encuentra disponible en el sitio web de la CNV en los términos de lo dispuesto en Capítulo VII del Título II de las
+NORMAS (N.T. 2013 y mod.).
+
+d) Según las características de la inversión, la descripción, los antecedentes personales, técnicos y empresariales
+de los sujetos que participen en el asesoramiento y gestión de las inversiones, incluyendo información sobre el
+grupo económico; y sus vinculaciones económicas y jurídicas, sus directivos y/o grupo económico, con los
+activos elegibles.
+
+e) Políticas relacionadas con los posibles conflictos de interés, su prevención, identificación, tratamiento,
+mitigación y seguimiento.
+
+f) Criterios de valuación y procedimiento previsto para la selección de los activos con descripción, en su caso, de
+la composición, atribuciones y funcionamiento del órgano integrado a tales fines.
+
+g) Descripción de las políticas de seguimiento de las inversiones; con descripción en su caso de la composición,
+atribuciones y funcionamiento del órgano conformado a tales fines.
+
+RÉGIMEN INFORMATIVO PERIÓDICO.
+ARTÍCULO 9°.- La Sociedad Gerente deberá proceder a la publicación, con periodicidad trimestral, de un
+informe sobre la evolución de las inversiones elegibles y la aplicación de los fondos, indicando el nivel de
+cumplimiento del plan de inversión y los eventuales desvíos detectados durante su implementación.
+
+Dicho informe deberá ser remitido como Hecho Relevante, a través de la Autopista de la Información Financiera,
+en un plazo que no podrá exceder de los QUINCE (15) días hábiles del cierre de cada trimestre.
+
+Asimismo, atendiendo a la naturaleza del activo específico, deberá publicarse, con periodicidad mensual, un
+informe en los términos de la Sección VIII del Capítulo II del presente Título.
+
+En su caso, la Sociedad Gerente deberá proceder a la difusión de la información periódica reportada por los
+vehículos elegibles, en relación con las respectivas inversiones, en los términos de lo dispuesto en los párrafos
+precedentes.
+
+SECCIÓN VI
+
+FONDOS COMUNES DE INVERSIÓN CERRADOS SUSTENTABLES.
+
+INVERSIONES EN FONDOS ASG
+
+ARTÍCULO 10.- Los fondos comunes de inversión cerrados autorizados bajo este régimen especial podrán
+invertir en cuotapartes de fondos comunes de inversión abiertos, los cuales no podrán ser administrados por la
+misma Sociedad Gerente, ni podrán tener participaciones recíprocas, siempre que su objeto de inversión resulte
+consistente con el presente régimen.
+
+CAPÍTULO VII
+
+REGÍMENES ESPECIALES DE FONDOS COMUNES DE INVERSIÓN ABIERTOS
+
+SECCIÓN I
+
+APLICACIÓN SUPLETORIA.
+
+ARTÍCULO 1°.- Las disposiciones del presente Capítulo serán aplicables a los fondos comunes de inversión
+abiertos que contemplen los objetos especiales de inversión aquí contemplados. Supletoriamente, tales fondos se
+regirán también por las disposiciones aplicables en general para los fondos comunes de inversión abiertos.
+
+SECCIÓN II
+
+RÉGIMEN ESPECIAL PARA LA CONSTITUCIÓN DE FONDOS COMUNES DE INVERSIÓN ABIERTOS
+ASG.
+
+OBJETO. ACTIVOS ELEGIBLES.
+
+ARTÍCULO 2°.- El SETENTA Y CINCO POR CIENTO (75%), como mínimo, del patrimonio de los fondos
+comunes de inversión cuyo objeto especial de inversión lo constituyan valores negociables con impacto
+Ambiental, Social y de Gobernanza (FCI ASG) deberá invertirse en activos que compongan el objeto especial de
+inversión, conforme se detalla a continuación:
+
+i. Valores negociables listados en segmentos y/o paneles de negociación SVS+ en Mercados autorizados por la
+Comisión.
+
+ii. Valores negociables cuyas Emisoras se encuentren listadas en paneles de Mercados autorizados por la
+Comisión que destaquen la aplicación de buenas prácticas de Gobierno Corporativo, Social y/o Medioambiental,
+y/o que formen parte de índices de sustentabilidad que contemplen en su análisis las variables ASG. Dichos
+valores negociables deberán haber sido emitidos durante el período de permanencia de la emisora en el panel o
+índice correspondiente.
+
+Asimismo, los valores negociables emitidos conforme lo dispuesto en el párrafo anterior, seguirán siendo
+computables dentro del porcentaje arriba indicado, incluso si la emisora hubiera dejado de formar parte del panel
+o índice del que se trate.
+
+iii. Valores negociables que cuenten con revisión externa, de acuerdo con los “Lineamientos para la Emisión de
+Valores Negociables Temáticos en Argentina” establecidos en el Anexo III del Capítulo I del Título VI de estas
+Normas.
+
+Será admitida la inversión en cuotapartes de fondos comunes de inversión cerrados administrados por otra
+Sociedad Gerente que cumplan con los requisitos mencionados en los apartados i. y iii. del presente artículo, no
+pudiendo exceder el DIEZ POR CIENTO (10%) del patrimonio neto del FCI.
+
+REGLAMENTO DE GESTIÓN.
+
+ARTÍCULO 3°.- El reglamento de gestión podrá contener lo siguiente:
+
+a) Información referida a los objetivos en materia ASG, categorías de proyectos verdes, sociales o sustentables
+elegibles, criterios de elegibilidad a aplicar, proceso de evaluación y selección de activos, criterios de exclusión y
+criterios de control y reporte, en caso que se decida aplicar alguno.
+
+b) Fijar un período para la conformación definitiva de la cartera de inversión, en los términos del artículo anterior,
+de hasta CIENTO OCHENTA (180) días corridos desde el lanzamiento del FCI.
+
+Dicho período podrá ser prorrogado por un plazo igual o menor, por única vez, debiendo ser comunicada la
+decisión de prórroga mediante el acceso Hecho Relevante de la Autopista de la Información Financiera (AIF),
+con los fundamentos del caso.
+
+c) Establecer un plazo de preaviso que no podrá exceder los QUINCE (15) días hábiles para solicitar el rescate de
+cuotapartes cuando el monto del reembolso supere el DIEZ POR CIENTO (10%) del patrimonio neto del FCI.
+
+d) Establecer un plazo más prolongado para hacer efectivo el pago del rescate, el cual no podrá exceder los DIEZ
+(10) días hábiles.
+
+e) De no conformarse el patrimonio del FCI, de acuerdo con lo exigido en el artículo anterior, y dentro del
+período estipulado en el inciso b) del presente artículo, deberá procederse a la inmediata cancelación del FCI
+ASG o a la reforma del reglamento de gestión.
+
+f) En toda la documentación relativa al FCI deberá constar la mención “Fondo Común de Inversión ASG”, junto
+con la respectiva identificación particular.
+
+SECCIÓN III
+RÉGIMEN ESPECIAL PARA LA CONSTITUCIÓN DE FONDOS COMUNES DE INVERSIÓN PyMEs.
+
+ARTÍCULO 4°.- Los fondos comunes de inversión cuyo objeto especial de inversión lo constituyan instrumentos
+destinados al financiamiento PyMEs se regirán por el régimen especial que se desarrolla seguidamente:
+
+a.1) El SETENTA Y CINCO POR CIENTO (75%), como mínimo, del patrimonio neto del fondo común de
+inversión deberá invertirse en:
+
+(i) Valores Negociables emitidos por PyMEs –como ser Acciones, Obligaciones Negociables, Valores
+Representativos de Deuda de Corto Plazo, Cheques de Pago Diferido, Pagarés, Facturas de Crédito Electrónicas
+MiPymes en los términos del Título I de la Ley N° 27.440 y demás valores.
+
+(ii) Valores Negociables emitidos por otras entidades cuya emisión tenga por objeto o finalidad el financiamiento
+PyMEs; quedando excluidas las obligaciones negociables emitidas por entidades financieras.
+
+(iii) Instrumentos emitidos por otras entidades descontados en primer endoso por PyMEs, en Mercados
+autorizados.
+
+(iv) Certificados de obra pública, en los términos del artículo 217 de la Ley N° 27.440, descontados en primer
+endoso por PyMEs, en Mercados autorizados.
+
+a.2) Será admitida dentro del porcentaje indicado en el inciso a.1), no pudiendo exceder el VEINTE POR
+CIENTO (20%) del patrimonio neto del FCI, la inversión en valores negociables con oferta pública (incluidos
+Cheques de Pago Diferido y Pagarés emitidos o descontados, para su negociación en el segmento directo
+(garantizado y no garantizado) en primer endoso), emitidos por sociedades que no sean consideradas “Empresas
+Grandes” en los términos establecidos y el listado publicado periódicamente por la Agencia de Recaudación y
+Control Aduanero (ARCA).
+
+a.3) Serán admitidas dentro del porcentaje indicado en el inciso a.1), no pudiendo exceder en cada caso el CINCO
+POR CIENTO (5%) del patrimonio neto del FCI, las siguientes inversiones:
+
+(i) Obligaciones Negociables emitidas bajo el Régimen Simplificado y Garantizado para Emisiones con Impacto
+Social de acuerdo con los términos definidos por las NORMAS (N.T. 2013 y mod.); y
+
+(ii) Cuotapartes de fondos comunes de inversión cerrados, administrados por otra Sociedad Gerente y cuyo objeto
+de inversión consista en el financiamiento de PyMEs.
+
+b) Para solicitar el rescate de cuotapartes cuando el monto del reembolso supere el DIEZ POR CIENTO (10%)
+del patrimonio neto del fondo común de inversión, en el reglamento de gestión podrá establecerse un plazo de
+preaviso que no podrá exceder de DIEZ (10) días hábiles.
+
+c) En toda la documentación relativa al FCI deberá constar la mención “Fondo Común de Inversión Abierto
+PyMEs” junto con la respectiva identificación particular. Al exclusivo efecto de acceder al régimen especial
+previsto en el presente artículo se considerarán PyMEs a las empresas que califiquen como PyME CNV de
+acuerdo con los términos definidos por las NORMAS (N.T. 2013 y mod.).
+
+SECCIÓN IV
+
+RÉGIMEN ESPECIAL PARA LA CONSTITUCIÓN DE FONDOS COMUNES DE INVERSIÓN ABIERTOS
+PARA EL FINANCIAMIENTO DE LA INFRAESTRUCTURA Y LA ECONOMÍA REAL.
+
+ARTÍCULO 5°.- Los fondos comunes de inversión cuyo objeto especial de inversión, lo constituyan instrumentos
+destinados al financiamiento de proyectos de infraestructura o de proyectos con impacto en la economía real, se
+regirán por el régimen especial que se desarrolla seguidamente:
+
+a) El SETENTA Y CINCO POR CIENTO (75%), como mínimo, del patrimonio neto del FCI deberá invertirse en
+“Activos elegibles” que compongan el objeto especial de inversión antes señalado, conforme se detalla a
+continuación:
+
+Definiciones:
+
+i) Activos Elegibles: Estarán compuestos por la sumatoria de “Activos de Destino Específico” y “Activos
+Multidestino”.
+
+ii) Activos de Destino Específico: son aquellos valores negociables cuyo objeto de financiamiento se encuentre
+destinado, al menos en un SETENTA Y CINCO POR CIENTO (75%), al desarrollo y/o inversión directa o
+indirecta de proyectos productivos con impacto en la economía nacional. A modo enunciativo, estos proyectos
+pueden implicar, adquisición de bienes de capital, fondos de comercio, financiación de capital de trabajo en
+proyectos que se ejecuten en el país vinculados a infraestructura (provisión de servicios públicos, obra pública,
+transporte, logística, puertos, aeropuertos, sistema sanitario, educativo, entre otros); proyectos inmobiliarios;
+proyectos industriales (energía; telecomunicaciones; minera, alimenticia; automotriz); desarrollo de economías
+regionales; capital emprendedor; proyectos productivos (explotación agrícola, ganadera, forestal y pesca,
+extracción, producción, procesamiento, transporte de materias primas) y proyectos sustentables.
+
+iii) Activos Multidestino: son aquellos valores negociables cuyo objeto de financiamiento se encuentra destinado
+parcialmente a las actividades descriptas en el apartado ii) precedente, sin alcanzar el porcentaje mínimo de
+destino allí indicado.
+
+A los efectos de la identificación de un Activo de Destino Específico o de un Activo Multidestino, se considerará
+el uso de fondos previsto en el Prospecto de oferta pública del valor negociable.
+
+Los Activos de Destino Específico serán imputados en su totalidad dentro de los activos elegibles de Destino
+Específico, independientemente del porcentaje del valor negociable que efectivamente tenga un destino
+específico.
+
+Los valores negociables que se emitan con el objeto de refinanciar Activos de Destino Específico o Activos
+Multidestino, cualquiera sea la operatoria de Mercado utilizada a tal fin por el emisor, tendrán igual calificación
+que los valores negociables que reemplacen.
+
+Límites de Inversión:
+
+iv) La inversión total en Activos Multidestino no podrá superar el CUARENTA Y CINCO POR CIENTO (45%)
+del patrimonio neto del FCI.
+
+v) Podrá invertirse hasta el DIEZ POR CIENTO (10%) del patrimonio neto del FCI en cuotapartes de fondos
+comunes de inversión cerrados cuyo objetivo de inversión sea compatible con el presente régimen y sean
+administrados por otra Sociedad Gerente.
+En ningún caso, la inversión en cuotapartes de fondos comunes de inversión cerrados podrá exceder el límite
+mencionado en el párrafo precedente.
+
+b) En el reglamento de gestión se podrá disponer lo siguiente:
+
+i) Fijar un período para la conformación definitiva de la cartera de inversión en los términos antes exigidos, el que
+no podrá exceder los TRESCIENTOS SESENTA Y CINCO (365) días corridos, contados a partir del
+lanzamiento del FCI.
+
+ii) Establecer un plazo de preaviso para solicitar el rescate de cuotapartes, que no podrá exceder los
+VEINTICINCO (25) días hábiles.
+
+iii) Establecer un plazo especial para hacer efectivo el pago del rescate, el cual no podrá exceder los DIEZ (10)
+días hábiles.
+
+c) En la denominación de los FCI deberá constar la mención “Fondo Común de Inversión Abierto para el
+Financiamiento de la Infraestructura y la Economía Real”.
+
+SECCIÓN V
+
+RÉGIMEN ESPECIAL PARA LA CONSTITUCIÓN DE FONDOS COMUNES DE INVERSIÓN ABIERTOS
+DE TÍTULOS DEL TESORO.
+
+ARTÍCULO 6°.- Los fondos comunes de inversión abiertos, cuyo objeto especial de inversión lo constituyan
+títulos de deuda pública nacional adquiridos en colocación primaria, con un vencimiento menor o igual a UN (1)
+año, deberán invertir el CINCUENTA Y CINCO POR CIENTO (55%), como mínimo, de su patrimonio neto en
+activos que compongan su objeto especial de inversión.
+
+ARTÍCULO 7°.- Podrá invertirse hasta el CUARENTA Y CINCO POR CIENTO (45%) del patrimonio neto del
+FCI en cuotapartes de otros fondos comunes de inversión, encuadrados bajo las previsiones del inciso b) del
+artículo 4° de la Sección II del Capítulo II del Título V de estas Normas, que no podrán ser administrados por la
+misma Sociedad Gerente ni podrán resultar participaciones reciprocas.
+
+SECCIÓN VI
+
+FONDOS COMUNES DE INVERSIÓN DE CESE LABORAL.
+
+ARTÍCULO 8°.- La constitución y el funcionamiento de los “Fondos Comunes de Inversión de Cese Laboral” se
+regirán por la presente Sección, por las disposiciones comunes del Régimen de Productos de Inversión Colectiva
+de Cese Laboral y, suplementariamente, por las disposiciones aplicables en general para los fondos comunes de
+inversión abiertos.
+
+SUSCRIPCIÓN DE CUOTAPARTES.
+
+ARTÍCULO 9º.- Los fondos que correspondan a la suscripción de cuotapartes de los Fondos Comunes de
+Inversión abiertos de Cese Laboral deberán provenir, de manera directa o indirecta, de contribuciones y/o aportes
+de empleadores y/o trabajadores, en el marco de lo dispuesto por el artículo 15 del Anexo II del Decreto Nº
+847/2024.
+REGLAMENTO DE GESTIÓN.
+
+ARTÍCULO 10.- Los Fondos Comunes de Inversión abiertos de Cese Laboral no utilizarán el reglamento de
+gestión tipo establecido por el artículo 18 de la Sección IV del Capítulo II del presente Título debiendo elaborar
+un reglamento de gestión que se ajuste a las particularidades del presente régimen especial.
+
+Sin perjuicio de que no se utilizará el reglamento de gestión tipo mencionado, las previsiones contenidas en el
+citado artículo 18 vinculadas al funcionamiento, operatoria, valuación de activos en carteras y diversificación de
+las inversiones gozarán de plena vigencia.
+
+Particularmente el reglamento de gestión deberá contener las medidas a adoptar ante el acaecimiento de los
+distintos supuestos previstos en el artículo 8º del Anexo II del citado Decreto, incluyendo el mecanismo de
+notificación fehaciente regulado en el presente régimen, así como, el destino de los fondos ante el supuesto de
+desvinculación del trabajador sin configurarse una causal de transferencia de cuotapartes.
+
+OBJETIVO Y POLÍTICA DE INVERSIÓN. ACTIVOS AUTORIZADOS.
+
+ARTÍCULO 11.- El reglamento de gestión deberá establecer claramente el objetivo y la política de inversión de
+cada FCI que deberán resultar consistentes con la naturaleza del presente régimen especial.
+
+Asimismo, el reglamento de gestión deberá indicar bajo cuál de los incisos del artículo 4º de la Sección II del
+Capítulo II del presente Título estará encuadrado el FCI, debiendo definir, en función de ello, la nómina de
+activos autorizados y, en su caso, la política de liquidez.
+
+No se admitirá la adquisición de valores negociables y/o instrumentos financieros emitidos por o cuya finalidad
+de financiamiento sean el o los empleadores.
+
+Adicionalmente a las reglas de diversificación de inversiones aplicables a los fondos comunes de inversión
+abiertos, los FCI que se constituyan bajo el presente régimen deberán evitar una concentración por industria
+mayor al TREINTA POR CIENTO (30%) de su patrimonio neto.
+
+En ningún caso se admitirán las inversiones indicadas en el último párrafo del artículo 16 del Anexo II del
+Decreto Nº 847/2024.
+
+SOCIEDAD DEPOSITARIA. REGISTRO DE CUOTAPARTES.
+
+ARTÍCULO 12.- La Sociedad Depositaria deberá arbitrar los medios necesarios que le permitan llevar el registro
+de cuotapartes y el de subcuentas correspondientes a las cuotapartes condicionalmente cedidas a favor de los
+trabajadores, de la empresa o sector, en los términos y alcances definidos en el último párrafo del artículo 15 del
+Anexo II del Decreto Nº 847/2024.
+
+Para la confección del registro de las subcuentas mencionadas, la Sociedad Depositaria se valdrá de los datos
+referidos a los trabajadores provistos por las empresas y/o sectores que hayan suscripto cuotapartes.
+
+El total de cuotapartes emitidas deberá, en todo momento, ser coincidente en ambos registros.
+
+Debido a la naturaleza de los fondos comunes de inversión abiertos de cese laboral, no podrán intervenir en la
+suscripción y rescate de cuotapartes los Agentes de Colocación y Distribución Integral.
+CAMBIO DE TITULARIDAD DE LAS CUOTAPARTES.
+
+ARTÍCULO 13.- En caso de producirse el cambio de titularidad de las cuotapartes en favor del trabajador, éste
+dispondrá libremente de ellas, pero no podrá efectuar nuevas suscripciones en el fondo común de inversión.
+
+CLASES DE CUOTAPARTES.
+
+ARTÍCULO 14.- Podrán emitirse distintas clases de cuotapartes cuyas características específicas deberán
+encontrarse plasmadas en el reglamento de gestión y cuya asignación podrá ser exclusiva para cada aportante.
+
+CONSIDERACIONES DE RIESGO.
+
+ARTÍCULO 15.- El reglamento de gestión deberá contener un acápite especial detallando las consideraciones de
+riesgo para la inversión en este tipo de FCI que vinculen la naturaleza especial del régimen y, en su caso, el
+objetivo y política de inversión elegida.
+
+RESCATES. LIQUIDACIÓN Y CANCELACIÓN.
+
+ARTÍCULO 16.- En atención a la naturaleza de estos FCI, el reglamento de gestión deberá indicar el
+procedimiento aplicable a la liquidación y cancelación del FCI, debiendo resguardar en todo momento los
+derechos de los empleadores y trabajadores.
+
+CAPÍTULO VIII
+
+DISPOSICIONES        PROPIAS      APLICABLES        A   REGÍMENES        ESPECIALES        DE    FIDEICOMISOS
+FINANCIEROS
+
+SECCIÓN I
+
+DISPOSICIONES GENERALES.
+
+ARTÍCULO 1°.- Los fideicomisos financieros que se constituyan bajo alguno de los regímenes especiales
+consignados en el Capítulo V, se regirán adicionalmente por las disposiciones del presente Capítulo y,
+complementariamente por lo dispuesto en el Capítulo IV del Título V de estas Normas.
+
+Los fideicomisos financieros del presente Capítulo podrán constituirse en los términos de los artículos 4° y 35 del
+Capítulo IV del Título V de estas Normas.
+
+INTEGRACIÓN DIFERIDA.
+
+ARTÍCULO 2°.- Salvo en el supuesto de lo dispuesto para los “Fideicomisos Financieros Hipotecarios”, los
+restantes regímenes especiales previstos en este Capítulo podrán disponer mecanismos de integración diferida del
+precio de suscripción. En tal sentido, se deberá establecer en el contrato de fideicomiso las consecuencias ante la
+mora en la integración y, en su caso, la afectación de los derechos de los tenedores de los valores negociables
+fiduciarios.
+
+EMISIÓN DE VALORES FIDUCIARIOS ADICIONALES EN TRAMOS. CONDICIONES PARA LA
+EMISIÓN. REAPERTURA DEL PERIODO DE COLOCACIÓN.
+
+ARTÍCULO 3°.- Los regímenes especiales comprendidos en las Secciones II, III y IV del Capítulo V podrán
+disponer de alguno de los procedimientos indicados en los artículos subsiguientes, en tanto cumplan las
+exigencias allí dispuestas.
+
+ARTÍCULO 4°.- Los fideicomisos mencionados en el artículo 3° anterior que opten por una emisión individual
+de valores negociables fiduciarios de acuerdo a lo dispuesto en el artículo 12 inciso 1. del Capítulo IV del
+presente Título, podrán prever la emisión de valores negociables fiduciarios adicionales en tramos, sujeto al
+análisis de esta Comisión, siempre que se cumplan los siguientes requisitos:
+
+1. Se encuentre previsto en el contrato de fideicomiso. 2. Se consigne dicha circunstancia en la Sección de
+ADVERTENCIAS del Prospecto original, indicándose prioridades de pago y el monto máximo de emisión.
+
+3. Las características propias del activo subyacente permitan garantizar la emisión de los futuros tramos.
+
+4. Las resoluciones sociales de las partes contemplen la emisión de valores negociables fiduciarios adicionales y
+el monto máximo de dicha emisión.
+
+Cumplidos los extremos detallados, se podrá prescindir del consentimiento de los beneficiarios de los valores
+negociables fiduciarios en circulación para la emisión de los nuevos tramos, destacando tal circunstancia en el
+Prospecto y en el contrato de fideicomiso.
+
+Por otra parte, atendiendo a las características propias de la estructura que se trate, se podrá prever la ampliación
+del monto de emisión autorizado de los fideicomisos financieros emitidos en los términos del presente artículo, a
+cuyo efecto deberán acreditarse los siguientes extremos: i) (a) que dicha circunstancia se encontrare dispuesta en
+el contrato de fideicomiso original, o de lo contrario, (b) contar con el consentimiento unánime de los tenedores
+de los valores fiduciarios en circulación, o contar con las mayorías requeridas por la normativa vigente en caso de
+que se trate de un supuesto de insuficiencia patrimonial;
+
+ii) el procedimiento deberá ser indispensable a los efectos de cumplir el objeto original del fideicomiso, y;
+
+iii) se encuentren colocados en su totalidad los valores negociables fiduciarios emitidos.
+
+DOCUMENTACIÓN RELATIVA A LA EMISIÓN DE CADA TRAMO.
+
+ARTÍCULO 5°.- En oportunidad de la emisión de cada tramo, la solicitud deberá estar acompañada de la
+siguiente documentación:
+
+1. Copia de la resolución social del Fiduciante por la cual se resuelve la emisión de los valores fiduciarios
+adicionales incluido el monto máximo de emisión y la decisión de transferir los bienes fideicomitidos con
+indicación del monto máximo a ser cedido en propiedad fiduciaria. La determinación del monto a ser cedido
+podrá delegarse expresamente en la resolución social que aprueba la emisión.
+
+2. Copia de la resolución social o instrumento suficiente del Fiduciario por la cual se resuelve la emisión de los
+valores fiduciarios adicionales incluido el monto máximo de emisión y las delegaciones relativas a la tramitación
+del fideicomiso financiero.
+
+3. Informe de Control y Revisión, de corresponder.
+
+4. UN (1) ejemplar del Prospecto que contemple la emisión de los valores negociables fiduciarios adicionales.
+5. Copia de la adenda al contrato de fideicomiso incluyendo los términos y condiciones de emisión de los valores
+negociables fiduciarios a ser emitidos.
+
+REAPERTURA DEL PERÍODO DE COLOCACIÓN.
+
+ARTÍCULO 6°.- En el caso de constitución de fideicomisos mencionados en el artículo 3° precedente, se podrá
+prever la reapertura del período de colocación de los valores fiduciarios autorizados por un plazo que no podrá
+exceder de los CINCO (5) años desde iniciado el período de colocación original o hasta alcanzar el monto
+autorizado, en caso de que durante el mismo no se hubiere suscripto la totalidad del monto autorizado.
+
+Al respecto se deberán cumplimentar los siguientes extremos:
+
+1. La reapertura del período de colocación -y sus particularidades incluyendo el método de determinación del
+precio de los valores negociables fiduciarios- deberá encontrarse prevista al momento de autorización de oferta
+pública e informada en el Prospecto o Suplemento de Prospecto.
+
+2. Cada reapertura del periodo de colocación deberá cumplimentar los plazos que disponga la normativa vigente
+respecto de los períodos de difusión y de licitación, respectivamente.
+
+3. Previo a cada reapertura –y con al menos CINCO (5) días hábiles de antelación- se deberá informar dicha
+circunstancia a la CNV.
+
+4. En cada oportunidad se publicará un aviso de suscripción en el que se consignará, adicionalmente a la
+información requerida en la Norma, el monto adjudicado a la fecha de reapertura y los saldos remanentes.
+
+5. En oportunidad de publicar los avisos de suscripción relativos a las reaperturas se deberá publicar como
+información complementaria en la AIF (a) la actualización respecto de la última información financiera publicada
+en la AIF y/o en el Prospecto o Suplemento de Prospecto, (b) una descripción del avance de los proyectos, cuando
+existieran; y (c) toda otra modificación existente respecto de la información proporcionada en el Prospecto o en el
+Suplemento de Prospecto autorizado.
+
+SECCIÓN II
+
+FIDEICOMISOS FINANCIEROS PARA EL DESARROLLO INMOBILIARIO.
+
+FUNCIONES DEL FIDUCIARIO.
+
+ARTÍCULO 7°.- Las funciones propias del desarrollador y del administrador inmobiliario podrán ser ejercidas
+por el Fiduciario. En caso de que estas sean delegadas en el contrato de fideicomiso se deberá especificar el
+alcance de las responsabilidades. El contrato no podrá eximir la responsabilidad del Fiduciario ante terceros por el
+incumplimiento de sus obligaciones legales, sin perjuicio de los derechos que pudiere tener.
+
+ARTÍCULO 8°.- Se podrá prescindir de la designación de Agente de Control y Revisión en el caso de
+Fideicomisos Financieros Inmobiliarios en los que se haya contratado a un auditor técnico.
+
+SECCIÓN III
+
+FIDEICOMISOS FINANCIEROS DE CAPITAL EMPRENDEDOR.
+AGENTE DE CONTROL Y REVISIÓN.
+
+ARTÍCULO 9°.- En atención a las características propias de los fideicomisos financieros bajo el presente
+régimen, no será de aplicación lo dispuesto en los artículos 27, 28 y 29 de la Sección XII del Capítulo IV del
+Título V de estas Normas.
+
+SECCIÓN IV
+
+FIDEICOMISOS FINANCIEROS PARA EL FOMENTO DEL DESARROLLO PRODUCTIVO Y DE LAS
+ECONOMÍAS REGIONALES.
+
+PROSPECTO O SUPLEMENTO DE PROSPECTO SIMPLIFICADO PARA FIDEICOMISOS FINANCIEROS
+EN LOS QUE INTERVENGA UNA O MAS ENTIDADES DE GARANTÍA.
+
+ARTÍCULO 10.- Los fideicomisos financieros que se constituyan conforme lo dispuesto en el artículo 36 del
+Capítulo V, deberán presentar los prospectos o suplementos de prospectos conforme las especificaciones del
+artículo 21 del Capítulo IV del presente Título, excepto el inciso 8. Descripción del o de los Fiduciante/s. Al
+respecto, deberá incluirse una Sección especial denominada DESCRIPCIÓN DE LA ENTIDAD DE
+GARANTÍA, que deberá contener información indicada en el artículo 41 del Capítulo IV del Título V de estas
+Normas.
+
+DOCUMENTACIÓN.
+
+ARTÍCULO 11.- A los fines de lo dispuesto en el artículo 13 del Capítulo IV del presente Título, y siempre que
+participe una entidad que garantice la emisión, no será necesaria la presentación de las resoluciones sociales de
+los Fiduciantes intervinientes, las cuales serán sustituidas por la resolución social de la entidad de garantía
+respectiva que deberá contener los términos y condiciones de la emisión, la identificación de cada uno de los
+Fiduciantes y la proporción de las garantías.
+
+SECCIÓN V
+
+FIDEICOMISOS FINANCIEROS HIPOTECARIOS.
+
+OBJETO.
+
+ARTÍCULO 12.- Los fideicomisos financieros que se constituyan en los términos de la presente Sección y que
+contengan como activo subyacente hipotecas, hipotecas divisibles, letras hipotecarias, créditos hipotecarios o
+instrumentos asimilables se regirán por las disposiciones de la presente y, complementariamente, por el régimen
+general previsto en el Capítulo IV del Título V de estas Normas.
+
+PAUTAS Y CONTENIDOS MÍNIMOS PARA LA CESIÓN DE DERECHOS HIPOTECARIOS. LETRAS
+HIPOTECARIAS.
+
+ARTÍCULO 13.- A los fines de proceder a la titulización de derechos hipotecarios en los términos dispuestos en
+la presente Sección, los documentos que instrumenten dichos créditos deberán cumplir con el conjunto de pautas,
+prácticas y procedimientos previstos por el Banco Central de la República Argentina en el “Manual de
+originación y administración de préstamos”. Dicha circunstancia deberá encontrarse declarada en el
+Prospecto/Suplemento de Prospecto.
+Adicionalmente, en caso de que los documentos que instrumenten los créditos no contengan las previsiones de los
+artículos 70 a 72 de la Ley N° 24.441 se deberá notificar a los deudores cedidos por los medios alternativos
+previstos por la ley.
+
+En caso de que los documentos a través de los cuales se origine el activo subyacente de los fideicomisos
+financieros mencionados no cumplan las pautas, prácticas y procedimientos establecidas por el Banco Central de
+la República Argentina, se deberá solicitar la autorización de oferta pública en los términos del régimen general
+previsto en el Capítulo IV del Título V de estas Normas.
+
+REAPERTURA DEL PERÍODO DE COLOCACIÓN.
+
+ARTÍCULO 14.- En los fideicomisos financieros que se constituyan en los términos de la presente Sección se
+podrá prever la reapertura del período de colocación de los valores negociables fiduciarios ya autorizados por un
+plazo que no podrá exceder de los DOS (2) años, contados a partir del inicio del período de colocación original o
+hasta alcanzar el monto máximo autorizado, en caso de que durante el mismo no se hubiere suscripto la totalidad
+del monto autorizado. A sus efectos, se deberán cumplir los siguientes extremos:
+
+1. La reapertura del período de colocación -y sus particularidades incluyendo el método de determinación del
+precio de los valores fiduciarios- deberá encontrarse prevista al momento de autorización de oferta pública e
+informada en el Prospecto o Suplemento de Prospecto.
+
+2. Cada reapertura del período de colocación deberá cumplir con los plazos que disponga la normativa vigente
+respecto de los períodos de difusión y de licitación, respectivamente.
+
+3. Previo a cada reapertura –y con al menos DOS (2) días hábiles de antelación- se deberá informar dicha
+circunstancia a la CNV.
+
+4. Adicionalmente a la información requerida en la normativa, se publicará, en cada oportunidad, un aviso de
+suscripción en el que se consignará el monto adjudicado a la fecha de reapertura y los saldos remanentes.
+
+5. En oportunidad de publicar los avisos de suscripción relativos a las reaperturas se deberá publicar como
+información complementaria a través de la AIF: a) la actualización respecto de la última información financiera
+publicada en la AIF y/o en el Prospecto o Suplemento de Prospecto, y b) toda otra modificación existente
+respecto de la información proporcionada en el Prospecto o en el Suplemento de Prospecto autorizado.
+
+EMISIÓN DE VALORES FIDUCIARIOS ADICIONALES. CONDICIONES.
+
+ARTÍCULO 15.- Los fideicomisos que se constituyan en los términos de la presente Sección y de conformidad
+con lo dispuesto en el artículo 12 inciso 1. o 2. del Capítulo IV del Título V de estas Normas, podrán prever al
+momento de su constitución la emisión de valores negociables fiduciarios adicionales, siempre que se cumplan
+los siguientes requisitos:
+
+1. Se encuentre expresamente establecido en el Prospecto o Suplemento de Prospecto y en el contrato de
+fideicomiso disponiéndose el monto máximo respecto del cual podrán emitirse valores negociables fiduciarios
+adicionales.
+
+2. Se consigne dicha circunstancia en la sección de ADVERTENCIAS del Prospecto/Suplemento de Prospecto
+original, indicándose las prioridades de pago, el monto máximo de emisión y que el patrimonio fideicomitido para
+hacer frente a las obligaciones contraídas en el fideicomiso financiero será único.
+
+3. En caso de cederse activo subyacente en oportunidad de cada emisión, las características del mismo deberán
+ser idénticas al originalmente cedido de manera tal de no lesionar el derecho de los tenedores iniciales ni
+perjudicar el riesgo de la estructura.
+
+4. Las resoluciones sociales de las partes, contemplen la emisión de valores fiduciarios adicionales y el monto
+máximo de dicha emisión.
+
+Cumplidos los extremos detallados, se podrá prescindir del consentimiento de los beneficiarios de los valores
+fiduciarios en circulación para las nuevas emisiones, destacando tal circunstancia en el Prospecto/Suplemento de
+Prospecto y en el contrato de fideicomiso.
+
+DOCUMENTACIÓN RELATIVA A CADA EMISIÓN ADICIONAL.
+
+ARTÍCULO 16.- En oportunidad de cada emisión adicional, la sociedad deberá disponer de:
+
+1. UN (1) ejemplar del Prospecto/Suplemento de Prospecto que contemple la emisión de los valores fiduciarios
+adicionales con especial indicación de que se trata de la emisión de valores adicionales de un fideicomiso
+financiero ya constituido;
+
+2. Adenda al contrato de fideicomiso incluyendo los términos y condiciones de emisión de los valores fiduciarios
+a ser emitidos.
+
+MECANISMO DE AUTORIZACIÓN DE LOS VALORES FIDUCIARIOS ADICIONALES.
+
+ARTÍCULO 17.- A los efectos de cumplir con las exigencias del presente régimen, el Fiduciario deberá preparar
+un Prospecto/Suplemento de Prospecto conforme lo establecido en el artículo siguiente. El mismo no estará sujeto
+a aprobación ni revisión por parte de la Comisión, debiendo ser publicado a más tardar el mismo día de comienzo
+del plazo de difusión de los valores negociables fiduciarios adicionales de que se trate a través de la Autopista de
+la Información Financiera y en los sistemas de información de los Mercados autorizados donde listen y/o
+negocien los valores fiduciarios.
+
+CONTENIDO DEL PROSPECTO PARA LA EMISIÓN DE VALORES ADICIONALES.
+
+ARTÍCULO 18.- El Fiduciario que acceda al régimen deberá confeccionar y dar a conocer un Prospecto que
+deberá contener como mínimo, la siguiente información, respetando el orden que se indica a continuación.
+
+Se pone de resalto que la información a ser volcada en este Prospecto de emisión deberá ser la que corresponda a
+la emisión de valores fiduciarios adicionales, y a las eventuales actualizaciones si existieran, pero no podrá incluir
+información alguna que importe alterar los derechos de los beneficiarios existentes.
+
+1. PORTADA.
+
+Se deberá consignar una leyenda especial, en caracteres destacados, conforme el texto indicado, adaptado, en su
+caso, a las características de la emisión “Oferta pública efectuada en los términos de la Ley Nº 26.831 y la
+Sección V del Capítulo VIII del Título V de las Normas de la Comisión Nacional de Valores. Al respecto, la
+presente emisión refiere a una ampliación de valores fiduciarios relativos al FIDEICOMISO FINANCIERO [ ]
+cuya oferta pública fue autorizada por la Comisión Nacional de Valores con fecha [ ]. Sin perjuicio de dicha
+autorización se hace saber que, respecto de esta emisión de adicionales en particular, la Comisión Nacional de
+Valores no ha emitido juicio sobre el documento ni ha efectuado control alguno. La veracidad de la información
+suministrada es exclusiva responsabilidad, según corresponda, del Fiduciario y del Fiduciante y demás
+responsables contemplados en los artículos 119 y 120 de la Ley Nº 26.831.
+
+El Fiduciario y el Fiduciante manifiestan, con carácter de declaración jurada, que el presente documento contiene
+a la fecha de su publicación, información veraz, suficiente y actualizada, sobre todo hecho relevante y de toda
+aquella que deba ser de conocimiento del público inversor con relación a la presente emisión, conforme a las
+normas vigentes.
+
+El Fiduciario y el Fiduciante declaran que la presente emisión adicional, no lesiona ni menoscaba los derechos de
+los tenedores previos”.
+
+Adicionalmente, deberá incluir una leyenda en los términos de la cual se remita al documento original a los fines
+de verificar la información relativa a la emisión que no se encuentre contenida en el presente.
+
+2. ADVERTENCIAS.
+
+3. RESUMEN DE TÉRMINOS Y CONDICIONES PROPIOS DE LA EMISIÓN DE VALORES FIDUCIARIOS
+ADICIONALES.
+
+4. DESCRIPCIÓN DEL O LOS FIDUCIANTE/S.
+
+5. DESCRIPCIÓN DEL HABER DEL FIDEICOMISO. La Sección deberá contener la actualización de la
+información incorporada oportunamente en el Prospecto original y la propia del subyacente de la emisión.
+
+6. FLUJO DE FONDOS TEÓRICO.
+
+7. CRONOGRAMA TEÓRICO DE PAGOS DE SERVICIOS de interés y capital de los valores fiduciarios.
+
+8. PROCEDIMIENTO DE COLOCACIÓN con indicación de las fechas en las cuales se llevará a cabo el período
+de difusión y licitación, y la fecha de emisión de los valores fiduciarios.
+
+9. TRANSCRIPCIÓN DE LA ADENDA AL CONTRATO DE FIDEICOMISO. La misma deberá contener
+únicamente los términos y condiciones relativos a la nueva emisión. Cualquier cambio adicional que se pretenda,
+deberá contener el consentimiento de los beneficiarios con las mayorías requeridas por la normativa vigente.
+
+NOTIFICACIÓN.
+
+ARTÍCULO 19.- El fiduciario que opte por la emisión de valores negociables fiduciarios adicionales deberá
+notificar, a más tardar el mismo día de inicio del plazo de difusión, la información que a continuación se detalla:
+
+a) Los datos estructurados a través de la Autopista de la Información Financiera de acuerdo con lo requerido en
+las pantallas de acceso al sistema de fideicomisos financieros.
+
+b) El Prospecto a través de la Autopista de la Información Financiera y en los sistemas de información de los
+Mercados autorizados donde listen y/o se negocien los valores fiduciarios. En simultaneo deberá presentar a esta
+Comisión el documento a través de la Plataforma TAD en el marco del expediente originalmente creado.
+c) Publicar el aviso de suscripción. Asimismo, deberá publicar la adenda al contrato de fideicomiso en el plazo
+dispuesto en el artículo 52 de la Sección XX del Capítulo IV del Título V de estas Normas.
+
+RÉGIMEN INFORMATIVO.
+
+ARTÍCULO 20.- Los fideicomisos financieros constituidos en el marco de la presente Sección – incluyendo la
+emisión de valores fiduciarios adicionales- deberán dar cumplimiento al régimen informativo general dispuesto
+en el Capítulo IV del Título V de estas Normas.
+
+SECCIÓN VI
+
+FIDEICOMISOS FINANCIEROS DE CESE LABORAL.
+
+PROSPECTOS.
+
+ARTÍCULO 21.- El fiduciario que constituya un fideicomiso en los términos del Capítulo V Sección VII (los
+“Fideicomisos Financieros de Cese Laboral”) no estará obligado a preparar, presentar y/o publicar en el sitio web
+de la Comisión Nacional de Valores, un Prospecto o Suplemento de Prospecto para su aprobación. En caso de
+preparar algún documento, el mismo no estará sujeto a la aprobación ni revisión por parte de esta Comisión
+(excepto por las facultades de fiscalización de esta), pero deberá ser publicado en la Autopista de la Información
+Financiera.
+
+INCORPORACIÓN DE FIDUCIANTES.
+
+ARTÍCULO 22.- Se admitirá la incorporación de Fiduciantes durante la vigencia de los Fideicomisos Financieros
+que se constituyan en los términos del presente en tanto dicha circunstancia se encuentre prevista en el contrato de
+fideicomiso. En tal sentido, el contrato deberá estipular los criterios de elegibilidad de quienes actúen como
+Fiduciantes en los términos de lo dispuesto por el Decreto N° 847/2024.
+
+En oportunidad de perfeccionarse cada incorporación, se deberá publicar un Hecho Relevante a través de la AIF.
+
+VALORES NEGOCIABLES FIDUCIARIOS.
+
+ARTÍCULO 23.- Los Fideicomisos Financieros de Cese Laboral sólo podrán emitir certificados de participación.
+
+Los fondos que correspondan a la suscripción de los certificados de participación deberán provenir, de manera
+directa o indirecta, de contribuciones y/o aportes de empleadores y/o trabajadores, en el marco de lo dispuesto por
+el artículo 15 del Anexo II del Decreto Nº 847/2024.
+
+CONTENIDO DEL CONTRATO DE FIDEICOMISO.
+
+ARTÍCULO 24.- El contrato de fideicomiso deberá contener, además de los requisitos establecidos en el Capítulo
+IV del Título V de estas Normas, las previsiones que resulten exigibles en los términos del Decreto N° 847/2024.
+
+Al respecto, y en atención a la naturaleza de los Fideicomisos Financieros de Cese Laboral, el contrato de
+fideicomiso deberá indicar el procedimiento aplicable al pago de las sumas resultantes al trabajador a través del
+sistema de cese laboral incluyendo los plazos y las modalidades de pago; el funcionamiento del vehículo ante los
+diferentes supuestos de extinción laboral detallados en el artículo 8° del mencionado Decreto; el proceso atinente
+a la liquidación y cancelación del fideicomiso; el destino de fondos remanentes en caso que no opere causal
+alguna que importe la asignación de las sumas correspondientes al trabajador.
+
+Adicionalmente, el contrato de fideicomiso deberá detallar la política de inversión, conforme lo indicado en el
+artículo 25 de la presente Sección, indicando:
+
+1. Forma de valuación.
+
+2. Niveles mínimos de liquidez.
+
+3. Información relativa a la diversificación de las inversiones en línea con lo establecido por el referido Decreto,
+en virtud del cual las inversiones deberán evitar una concentración por industria mayor al TREINTA POR
+CIENTO (30%) del patrimonio neto del fideicomiso.
+
+4. Mecanismos de identificación de aportes de modo de verificar el ingreso de flujos de empleadores
+determinados en caso de que se trate de vehículos en los cuales participa más de un empleador.
+
+POLÍTICAS DE INVERSIÓN.
+
+ARTÍCULO 25.- Los Fideicomisos Financieros de Cese Laboral sólo podrán invertir en los activos identificados
+en el primer párrafo del artículo 1° de la Ley N° 24.083.
+
+No se admitirá la adquisición de valores negociables y/o de instrumentos financieros emitidos por o cuya
+finalidad de financiamiento sean el o los empleadores.
+
+Las políticas de inversión que se establezcan en cada fideicomiso financiero deberán resultar consistentes con la
+naturaleza del presente régimen especial y el propio objeto del vehículo.
+
+INFORME DE VALUACIÓN.
+
+ARTÍCULO 26.- Se deberá elaborar un informe de valuación del activo subyacente, el cual deberá contener la
+valuación de las inversiones realizadas conforme la periodicidad, publicidad y criterios de valuación admitidos
+para los fondos comunes de inversión.
+
+Los informes deberán presentarse una vez que se encuentre operativo el fideicomiso financiero y publicarse en el
+sitio web de la Comisión, a través de la AIF.
+
+EMISIÓN DE VALORES FIDUCIARIOS ADICIONALES. CONDICIONES.
+
+ARTÍCULO 27.- Los Fideicomisos Financieros de Cese Laboral podrán prever al momento de su constitución la
+emisión de certificados de participación adicionales, siempre que se encuentre expresamente establecido en el
+contrato de fideicomiso.
+
+DOCUMENTACIÓN RELATIVA A CADA AMPLIACIÓN DE EMISIÓN.
+
+ARTÍCULO 28.- En oportunidad de cada ampliación de emisión, la sociedad deberá publicar a través de la AIF
+una adenda al contrato de fideicomiso con la información correspondiente a la nueva emisión.
+
+MECANISMO DE AUTORIZACIÓN DE LOS VALORES FIDUCIARIOS AMPLIADOS.
+
+ARTÍCULO 29.- La documentación mencionada en el artículo que antecede relativa a la emisión de valores
+fiduciarios adicionales, no estará sujeta a aprobación ni revisión por parte de la Comisión en tanto se haya
+consignado en los documentos de la oferta un monto máximo de emisión y/o una cantidad máxima de certificados
+de participación los que -en su caso- podrán guardar relación con la nómina de trabajadores de la empresa
+respectiva.
+
+RÉGIMEN INFORMATIVO.
+
+ARTÍCULO 30.- Los Fideicomisos Financieros de Cese Laboral deberán:
+
+1. Publicar los datos estructurados a través de la AIF, de acuerdo con lo requerido en las pantallas de acceso al
+sistema de fideicomisos financieros.
+
+2. Presentar anualmente los Estados Contables indicados en al artículo 32 de la Sección XIV del Capítulo IV del
+Título V de estas Normas.
+
+3. Publicar a través de la Autopista de la Información Financiera el contrato de fideicomiso en los términos del
+artículo 52 de la Sección XX del Capítulo IV del Título V de estas Normas.
+
+El Fiduciario que cumpla con las exigencias del presente no estará sujeto a regímenes informativos adicionales al
+aquí establecido, ni deberá cumplir con ninguna de las obligaciones contempladas en el Título XV de estas
+Normas, con excepción de las especialmente dispuestas.
+
+INFORMACIÓN A LOS TRABAJADORES.
+
+ARTÍCULO 31.- Los Fideicomisos Financieros de Cese Laboral deberán prever mecanismos de información a fin
+de mantener debidamente informados a los trabajadores de sus tenencias con una periodicidad no mayor a UN (1)
+mes.
+
+ASESOR DE INVERSIÓN. COMITÉ DE INVERSIONES.
+
+ARTÍCULO 32.- Los Fideicomisos Financieros de Cese Laboral podrán consignar en su contrato constitutivo la
+participación de un comité de inversiones o de un asesor de inversiones, quien tendrá a su cargo el asesoramiento
+en la ejecución de la política de inversión y desinversión del vehículo.
+
+A los fines de la constitución del comité de inversiones o de la designación de un asesor de inversiones quienes
+participen en tal carácter no podrán tener vinculación con ninguna asociación sindical.
+
+Se admitirán las participaciones mencionadas en tanto los costos sean razonables y transparentes.
+
+AGENTE DE CONTROL Y REVISIÓN.
+
+ARTÍCULO 33.- En atención a las características propias de los fideicomisos financieros bajo el presente
+régimen, no será de aplicación lo dispuesto en los artículos 27, 28 y 29 de la Sección XII del Capítulo IV del
+Título V de estas Normas.
+
+ESFUERZOS DE COLOCACIÓN.
+
+ARTÍCULO 34.- No será de aplicación las disposiciones establecidas en el artículo 3° de la Sección I del
+Capítulo IV del Título VI de estas Normas, siendo suficiente la acreditación de los esfuerzos de colocación
+mediante la difusión del contrato de fideicomiso entre los trabajadores de la empresa que adhiera al mismo.
+
+ARTÍCULO 35.- Conforme las particularidades de los instrumentos a ser constituidos en los términos de lo
+dispuesto en el Decreto N° 847/2024, los Fideicomisos Financieros de Cese Laboral prescindirán de la colocación
+primaria de valores negociables a través del mecanismo previsto en el artículo 1° de la Sección I del Capítulo IV
+del Título VI de estas Normas, y de su listado y/o negociación en un Mercado autorizado.
+
+CAPÍTULO IX
+
+PRODUCTOS DE           INVERSIÓN       COLECTIVA.       TRATAMIENTO         IMPOSITIVO       DE    REGÍMENES
+ESPECIALES.
+
+SECCIÓN I
+
+IMPUESTO A LAS GANANCIAS E IMPUESTO SOBRE LOS BIENES PERSONALES. DEBER DE
+INFORMAR.
+
+PRODUCTOS DE INVERSIÓN COLECTIVA. IMPUESTO A LAS GANANCIAS E IMPUESTO SOBRE LOS
+BIENES PERSONALES. LISTADO DE ACTIVOS EXENTOS. DEBER DE INFORMAR.
+
+ARTÍCULO 1°.- Quedarán comprendidos en los incisos a) y b), primer párrafo, del artículo sin número a
+continuación del artículo 80 de la Reglamentación de la Ley N° 20.628; y en los incisos a) y b), primer párrafo,
+del primer artículo sin número a continuación del artículo 11 del Decreto N° 127/1996 , reglamentario del Título
+VI de la Ley N° 23.966, los fideicomisos financieros y los fondos comunes de inversión emitidos en moneda
+nacional que se encuentren encuadrados dentro de los regímenes especiales citados en el Anexo I del presente
+Capítulo.
+
+En virtud de lo establecido por el Decreto N° 621/2021, a los fines de que esta Comisión Nacional informe a la
+Agencia de Recaudación y Control Aduanero, los Fiduciarios Financieros y las Sociedades Gerentes que
+administren, respectivamente, fideicomisos financieros y fondos comunes de inversión emitidos en moneda
+nacional que se encuadren en alguno de los regímenes especiales citados en el Anexo I del presente Capítulo,
+deberán presentar a través de la Autopista de la Información Financiera, con carácter de declaración jurada, el
+Formulario “DDJJ DR 621/2021” correspondiente a cada uno dichos instrumentos.
+
+El Formulario indicado en el párrafo precedente deberá ser presentado, con fecha de cierre al último día de cada
+mes, dentro de los TRES (3) días hábiles de finalizado el mismo.
+
+IMPUESTO SOBRE LOS BIENES PERSONALES. DEBER DE INFORMAR.
+
+ARTÍCULO 2°.- En virtud de lo establecido por el Decreto N° 621/2021, a los fines de que esta Comisión
+informe a la Agencia de Recaudación y Control Aduanero, los Fiduciarios Financieros y las Sociedades Gerentes
+que administren, respectivamente, fideicomisos financieros y fondos comunes de inversión que cumplan con el
+porcentaje y demás condiciones indicadas en el segundo artículo sin número a continuación del artículo 11 del
+Decreto N° 127/1996, reglamentario del Título VI de la Ley N° 23.966, deberán presentar a través de la Autopista
+de la Información Financiera y con carácter de declaración jurada, el Formulario “DDJJ RG 621/2021”
+correspondiente a cada uno dichos instrumentos, con fecha de cierre al último día de cada año calendario, en un
+plazo que no podrá exceder de VEINTE (20) días hábiles de finalizado el mismo.
+ARTÍCULO 3°.- En el caso de los fondos comunes de inversión abiertos y de los fondos comunes de inversión
+cerrados cuyos patrimonios sean integrados exclusivamente por los mismos activos autorizados para los fondos
+comunes de inversión abiertos, la Sociedad Gerente respectiva deberá publicar en su sitio web, al cierre de las
+operaciones del día, si el FCI cumple o no con la condición que configura la existencia de un activo subyacente
+principal, cuando una misma “clase de depósitos o bienes”, o el conjunto de estos, representen como mínimo, el
+porcentaje indicado en el primer párrafo del segundo artículo sin número a continuación del artículo 11 del
+Decreto N° 127/1996, reglamentario del Título VI de la Ley N° 23.966, debiéndose efectuar en todos los canales
+a través de los cuales se promocionen y/o vendan las cuotapartes una remisión a la mencionada publicación.
+
+Dicha publicación también se considerará cumplida con la incorporación en el sitio web de la Sociedad Gerente
+de un link de acceso público al sitio web de la Cámara Argentina de fondos comunes de inversión donde se
+consigne la información requerida.
+
+ARTÍCULO 4°.- En la publicación requerida en el artículo precedente, la Sociedad Gerente también deberá
+informar la cantidad acumulada de días (dentro del período fiscal correspondiente) en los que el fondo común de
+inversión no hubiere cumplido con la condición citada en dicho artículo, ya sea desde el inicio del período fiscal o
+desde la constitución del FCI si esta fuere posterior, debiéndose consignar en la publicación la fecha de inicio del
+conteo de los días.
+
+En el caso en el que el fondo común de inversión hubiere superado la cantidad de días indicada en tercer párrafo
+del segundo artículo sin número a continuación del artículo 11 del Decreto N° 127/1996, reglamentario del Título
+VI de la Ley N° 23.966, en los cuales no se hubiere cumplido con la condición citada en el artículo precedente, la
+publicación también deberá contener una leyenda que indique expresamente que la tenencia de cuotapartes de
+dicho FCI no se encuentra exenta del Impuesto sobre los Bienes Personales.
+
+ANEXO I
+
+IMPUESTO A LAS GANANCIAS E IMPUESTO SOBRE LOS BIENES PERSONALES. LISTADO DE
+REGÍMENES ESPECIALES DE PRODUCTOS DE INVERSIÓN COLECTIVA EXENTOS.
+
+
+                  INSTRUMENTO                                 NORMA CNV
+
+
+       Fideicomisos Financieros destinados al              Título V Capítulo IV
+             financiamiento de PyMES                           Sección XVI
+
+
+                                                           Título V Capítulo V
+       Fondos Comunes de Inversión cerrados
+                                                         Sección II y Capítulo VI
+                 Inmobiliarios
+                                                                Sección I
+
+
+                                                          Título V Capítulo V
+       Fideicomisos Financieros Inmobiliarios           Sección II y Capítulo VIII
+                                                               Sección II
+                                                     Título V Capítulo V
+    Fondos Comunes de Inversión cerrados de
+                                                   Sección III y Capítulo VI
+               Infraestructura
+                                                          Sección III
+
+
+                                                     Título V Capítulo V
+    Fideicomisos Financieros de Infraestructura
+                                                          Sección III
+
+
+                                                     Título V Capítulo V
+ Fondos Comunes de Inversión cerrados de Capital
+                                                   Sección IV y Capítulo VI
+                Emprendedor
+                                                          Sección IV
+
+
+                                                   Título V Capítulo V
+Fideicomisos Financieros de Capital Emprendedor Sección IV y Capítulo VIII
+                                                        Sección III
+
+
+  Fondos Comunes de Inversión cerrados para el       Título V Capítulo V
+   Fomento del Desarrollo Productivo y de las      Sección V y Capítulo VI
+            Economías Regionales                          Sección V
+
+
+  Fideicomisos Financieros para el Fomento del        Título V Capítulo V
+    Desarrollo Productivo y de las Economías       Sección V y Capítulo VIII
+                   Regionales                              Sección IV
+
+
+                                                    Título V Capítulo V
+Fondos Comunes de Inversión cerrados Sustentables Sección VI y Capítulo VI
+                                                         Sección VI
+
+
+                                                     Título V Capítulo V
+      Fideicomisos Financieros Sustentables
+                                                          Sección VI
+
+
+                                                     Título V Capítulo VII
+  Fondos Comunes de Inversión abiertos PyMEs
+                                                          Sección III
+
+
+                                                     Título V Capítulo VII
+   Fondos Comunes de Inversión abiertos ASG
+                                                           Sección II
+
+
+  Fondos Comunes de Inversión abiertos para el       Título V Capítulo VII
+ Financiamiento de la Infraestructura y la Economía          Sección IV
+                        Real
+
+
+ARTÍCULO 5°.- Derogar los Capítulos X y XI del Título V de las NORMAS (N.T. 2013 y mod.).
+
+ARTÍCULO 6°.- La presente Resolución General entrará en vigencia a partir del día siguiente de su publicación
+en el Boletín Oficial de la República Argentina.
+
+ARTÍCULO 7°.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio              Digitally signed by HERBON Laura Ines
+Date: 2025.09.16 13:10:19 ART                            Date: 2025.09.16 13:12:27 ART
+Location: Ciudad Autónoma de Buenos Aires                Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                                  Laura Ines Herbon
+Vocal                                                    Vocal
+Directorio                                               Directorio
+Comisión Nacional de Valores                             Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana            Digitally signed by SILVA Roberto Emilio
+Date: 2025.09.16 13:15:33 ART                            Date: 2025.09.16 13:18:54 ART
+Location: Ciudad Autónoma de Buenos Aires                Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                                Roberto Emilio Silva
+Vicepresidente                                           Presidente
+Directorio                                               Directorio
+Comisión Nacional de Valores                             Comisión Nacional de Valores
+
+
+
+
+                                                                                                     Digitally signed by GESTION DOCUMENTAL
+                                                                                                     ELECTRONICA - GDE
+                                                                                                     Date: 2025.09.16 13:18:58 -03:00
+

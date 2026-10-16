@@ -1,0 +1,159 @@
+                               República Argentina - Poder Ejecutivo Nacional
+                                        Año de la Grandeza Argentina
+
+                                              Resolución General
+
+Número: RESGC-2026-1156-APN-DIR#CNV
+
+                                                                                  CIUDAD DE BUENOS AIRES
+                                                                                      Jueves 16 de Julio de 2026
+
+Referencia: EX-2026-40693460- -APN-GAYM#CNV "MODIFICACIÓN NORMATIVA TÍTULO VII –
+RÉGIMEN INFORMATIVO SOBRE INDICADORES FINANCIEROS PARA LOS ALYC"
+
+
+
+VISTO el Expediente N° EX-2026-40693460- -APN-GAYM#CNV, caratulado “MODIFICACIÓN
+NORMATIVA TÍTULO VII – RÉGIMEN INFORMATIVO SOBRE INDICADORES FINANCIEROS PARA
+LOS ALYC”, lo dictaminado por la Subgerencia de Supervisión de Agentes, la Gerencia de Agentes y Mercados,
+la Subgerencia de Normativa y la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales tiene por objeto el desarrollo del mercado de capitales y la regulación de los
+sujetos y valores negociables comprendidos dentro de dicho mercado, siendo la CNV su autoridad de aplicación y
+contralor.
+
+Que el artículo 19 de la citada Ley, en su inciso d), establece como atribución de la CNV llevar el registro,
+otorgar, suspender y revocar la autorización para funcionar de los mercados, las cámaras compensadoras, los
+agentes registrados y las demás personas humanas y/o jurídicas que, por sus actividades vinculadas al mercado de
+capitales, y a criterio de la CNV queden comprendidas bajo su competencia.
+
+Que, asimismo, los incisos g) y o) del artículo citado facultan a la CNV a dictar las reglamentaciones que deberán
+cumplir las personas humanas y/o jurídicas y las entidades autorizadas en los términos del referido inciso d),
+desde su inscripción hasta la baja del registro respectivo, como así también, a fijar los requerimientos
+patrimoniales que deberán acreditar las entidades bajo fiscalización.
+
+Que mediante la RG N° 1130 se incorporó la obligatoriedad para los ALyC de remitir información vinculada a
+determinados indicadores financieros y se establecieron ciertos límites en materia de liquidez y de nivel de
+apalancamiento, tomando en consideración el excedente entre el patrimonio neto total del Agente y el patrimonio
+neto mínimo total requerido por la normativa vigente, teniendo en consideración para ello las diferentes
+categorías en las que se encuentren inscriptos.
+Que posteriormente, mediante la RG N° 1144, se establecieron precisiones respecto del alcance de la información
+a ser remitida a esta CNV en el marco de la normativa antes citada.
+
+Que, en esta instancia, resulta necesario revisar la esfera de aquellos Agentes alcanzados por las normativas
+citadas, teniendo en consideración para ello sus características propias, así como también las distintas
+subcategorías de inscripción que detenten.
+
+Que, en ese marco, corresponde precisar los rubros y partidas contables que deberán ser considerados para el
+cálculo de los índices previstos en las Resoluciones Generales antes citadas, respecto de los ALyC I AGRO y de
+aquellos ALyC que se encuentran también inscriptos ante el INAES como asociación mutual.
+
+Que, a tales efectos, corresponde establecer que, para el cálculo de los referidos índices, los mencionados Agentes
+no deberán computar las partidas contables vinculadas a la actividad agroindustrial o, según corresponda, a la
+actividad mutualista, en tanto estas responden a actividades ajenas a la operatoria propia de los ALyC y, por ende,
+no constituyen parámetros adecuados para reflejar su exposición financiera en el marco de la actividad regulada
+por esta CNV.
+
+Que la presente RG no importa la creación de nuevas obligaciones ni afecta situaciones jurídicas preexistentes,
+toda vez que, en concordancia con la normativa vigente, busca favorecer al administrado, razón por la cual lo
+dispuesto en la presente resultará aplicable a partir del día 29 de abril de 2026, fecha de entrada en vigencia de la
+RG N° 1130.
+
+Que, por otro lado, cabe precisar que diversos términos utilizados en esta RG, tanto en los considerandos como en
+el articulado, se encuentran definidos en el Título I de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 19, incisos a), d), g), o), y) y z), de
+la Ley de Mercado de Capitales.
+
+
+
+Por ello,
+
+                                    LA COMISIÓN NACIONAL DE VALORES
+
+                                                     RESUELVE:
+
+ARTÍCULO 1°.- Sustituir el artículo 39 del Capítulo II del Título VII de las NORMAS (N.T. 2013 y mod.), por
+el siguiente texto:
+
+“PARTIDAS A CONSIDERAR PARA EL CÁLCULO DE LOS ÍNDICES.
+
+ARTÍCULO 39.- Para el cálculo de los índices establecidos en el artículo precedente, se deberá considerar:
+
+1. Saldos acreedores de comitentes: para el cómputo de la presente partida deberán considerarse los saldos
+acreedores utilizando criterio de “concertación” para todos los indicadores requeridos, excepto respecto de los
+Índices de Liquidez II y III que deberán confeccionarse utilizando el criterio de “liquidación”, es decir utilizando
+los saldos exigibles de comitentes. No podrán considerarse los saldos deudores para descontar del monto
+computable ni netearse saldos entre comitentes.
+2. Disponibilidades: para el cómputo de este rubro, solo se considerarán los montos bancarizados, ya sea en
+moneda nacional o extranjera. No se computarán los montos en efectivo ni los montos resguardados en cajas de
+seguridad, aun cuando estas se encuentren registradas a nombre del Agente.
+
+3. Inversiones corrientes disponibles: para el cómputo de este rubro no se considerarán los cheques de pago
+diferido ni los pagarés no garantizados. En cambio, se computarán las demás posiciones que se encuentren
+depositadas en un ADCVN o en un ACRyP, así como las cuotapartes de los FCI, los depósitos a plazo fijo y otras
+colocaciones de naturaleza similar. Asimismo, se podrán considerar los activos entregados por los Agentes a los
+Mercados y/o Cámaras Compensadoras en concepto de garantías, siempre que sean de libre disponibilidad o no se
+encuentren afectadas a la operatoria de aquellos.
+
+4. Neteo de posiciones: Se admitirá que se utilicen las Cauciones Tomadoras Netas para el cálculo de los índices
+antes referidos.
+
+5. Todos los índices (no sólo los que están sujetos a límites) deberán considerar por separado las variables en
+pesos, y las variables en moneda extranjera (la que deberá expresarse en dólares estadounidenses), así como un
+índice consolidado expresado en pesos convirtiendo la moneda extranjera, en su caso, conforme lo previsto en la
+Comunicación “A” 3500 del BCRA o, si se trata de una moneda extranjera distinta al dólar estadounidense, al
+tipo de cambio vendedor divisa del BNA, en ambos casos, al último día hábil del mes de la presentación de los
+indicadores referidos.
+
+Los activos denominados y pagaderos en moneda extranjera, o cuyos activos subyacentes se encuentren
+denominados y pagaderos en moneda extranjera, deberán tomarse en cuenta para los índices en moneda
+extranjera, aunque se negocien en pesos.
+
+6. Exclusivamente para el cálculo de Índice de apalancamiento computable, el patrimonio neto a considerarse en
+el denominador será el total que surja de la contabilidad del ALyC, sin apertura por moneda. En consecuencia,
+para calcular el índice en dólares estadounidenses, deberá convertirse el monto total del patrimonio neto a dólares,
+conforme el inciso 5 precedente.
+
+En el caso de: (i) los ALyC I AGRO, no se deberán considerar aquellas partidas contables que correspondan a su
+actividad agroindustrial; y (ii) los ALyC que se encuentren también inscriptos ante el INAES como asociación
+mutual, no se deberán considerar aquellas partidas contables que correspondan a su actividad mutualista”.
+
+ARTÍCULO 2°.- Las disposiciones establecidas en la presente resultarán aplicables a partir del día 29 de abril de
+2026.
+
+ARTÍCULO 3°.- La presente RG entrará en vigencia a partir del día siguiente al de su publicación en el B.O.
+
+ARTÍCULO 4°.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+Digitally signed by CALDERON Manuel Ignacio     Digitally signed by HERBON Laura Ines
+Date: 2026.07.16 11:25:31 ART                   Date: 2026.07.16 11:28:43 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                         Laura Ines Herbon
+Vocal                                           Vocal
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana   Digitally signed by SILVA Roberto Emilio
+Date: 2026.07.16 11:31:32 ART                   Date: 2026.07.16 11:33:33 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                       Roberto Emilio Silva
+Vicepresidente                                  Presidente
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+                                                                                            Digitally signed by GESTION DOCUMENTAL
+                                                                                            ELECTRONICA - GDE
+                                                                                            Date: 2026.07.16 11:33:52 -03:00
+

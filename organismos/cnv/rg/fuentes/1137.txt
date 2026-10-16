@@ -1,0 +1,534 @@
+                               República Argentina - Poder Ejecutivo Nacional
+                                        Año de la Grandeza Argentina
+
+                                               Resolución General
+
+Número: RESGC-2026-1137-APN-DIR#CNV
+
+                                                                                   CIUDAD DE BUENOS AIRES
+                                                                                      Jueves 30 de Abril de 2026
+
+Referencia: EX-2026-42210024- -APN-GED#CNV “PROYECTO RG TOKENIZACIÓN - OFERTA
+AUTOMÁTICA Y PRÓRROGA SANDBOX”
+
+
+
+VISTO el Expediente Nº EX-2026-42210024- -APN-GED#CNV, caratulado “PROYECTO RG
+TOKENIZACIÓN - OFERTA AUTOMÁTICA Y PRÓRROGA SANDBOX”, lo dictaminado por la Subgerencia
+Fideicomisos Financieros de Consumo, la Subgerencia Fideicomisos Financieros de Inversión, la Gerencia de
+Fondos Comunes de Inversión, la Gerencia de Emisoras, la Subgerencia de Normativa y la Gerencia de Asuntos
+Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales tiene por objeto, entre otros, el desarrollo del mercado de capitales y la
+regulación de los sujetos y valores negociables comprendidos en su ámbito, siendo la CNV su autoridad de
+aplicación y control.
+
+Que, mediante el dictado de la Ley de Financiamiento Productivo, se propició la modernización y adaptación de
+la normativa a las necesidades actuales del mercado, el que ha experimentado una importante evolución en los
+últimos años.
+
+Que el artículo 19, inciso h), de la Ley de Mercado de Capitales otorga a la CNV atribuciones para dictar las
+reglamentaciones que se deberán cumplir para la autorización de los valores negociables, instrumentos y
+operaciones del mercado de capitales, hasta su baja del registro, contando con facultades para establecer las
+disposiciones que fueren necesarias para complementar las que surgen de las diferentes leyes y decretos
+aplicables a éstos, así como resolver casos no previstos e interpretar las normas allí incluidas dentro del contexto
+económico imperante, para el desarrollo del mercado de capitales.
+
+Que, el artículo 37 de la Ley N° 27.739, como norma especial y posterior a la Ley de Mercado de Capitales,
+otorga a la CNV amplias facultades de supervisión, regulación, inspección, fiscalización y sanción, respecto a los
+PSAVs, funcionando como marco protectorio y garantía de los derechos de los inversores y ampliando la
+competencia de la CNV respecto a los PSAV y su ámbito de actuación.
+Que, la creciente digitalización de los mercados financieros y la evolución de las tecnologías de registro
+distribuido (TRD) han generado nuevas oportunidades para optimizar la emisión, negociación, liquidación y
+custodia de valores negociables, siendo que la utilización de TRD o tecnologías similares permiten, en general, la
+“tokenización” de distintos tipos de activos.
+
+Que, la regulación de la tokenización redunda en una mayor seguridad jurídica, validación tecnológica, inclusión
+financiera real, potencial para productos financieros más dinámicos, mientras que al mismo tiempo consolida a la
+República Argentina como un hub regional para las finanzas digitales y la mantiene a la vanguardia de desarrollos
+significativos en servicios financieros.
+
+Que la RG N° 1069 reglamentó, en una primera etapa, la representación digital de algunos valores negociables
+con autorización de oferta pública en los términos de la Ley de Mercado de Capitales, mientras que la RG N°
+1081, en una segunda etapa, amplió los valores negociables que pueden representarse digitalmente, entre otras
+modificaciones.
+
+Que, posteriormente, la RG N° 1087 admitió expresamente la posibilidad de tokenizar ciertos valores negociables
+emitidos bajo ciertos Regímenes de Oferta Pública Automática.
+
+Que, a través de la RG N° 1125, se incorporó, entre otras cosas y con relación a los Regímenes de Oferta Pública
+con Autorización Automática de Valores Negociables por su Bajo y Mediano Impacto, esquemas de colocación
+orientados al Financiamiento Colectivo, permitiendo la participación de inversores no calificados bajo límites
+objetivos y verificables, sin alterar las condiciones técnicas del régimen base.
+
+Que, atento a que la última modificación introducida en materia de tokenización obtuvo buena recepción por
+parte de los diversos agentes del mercado de capitales y del público inversor, se propone ahora la posibilidad de
+tokenizar aquellos valores negociables que encuadren bajo los distintos Regímenes de Autorización Automática
+previstos en las NORMAS CNV, con excepción de aquellos aplicables a los FCIA.
+
+Que, si bien no es obligatorio elaborar un prospecto para acogerse a los distintos Regímenes de Oferta Pública
+con Autorización Automática de Valores Negociables por su Bajo Impacto, aquellos emisores que decidan
+voluntariamente elaborar un prospecto y solicitar a esta Comisión la autorización de representación digital,
+podrán tokenizar las emisiones referidas.
+
+Que, continuando con las medidas adoptadas, mediante las RG N° 1132, N° 1133 y N° 1135, se propone receptar
+regímenes de autorización automática de oferta pública (en su modalidad ampliada u otra) aplicable a las
+Emisoras, a los FFs y a los FCIC, respectivamente, por lo que, tratándose de una variante más de los Regímenes
+de Autorización Automática, se propicia incorporar expresamente la posibilidad de que los valores negociables
+emitidos bajo aquella modalidad también puedan ser tokenizados.
+
+Que, por lo expuesto, resulta necesario modificar los artículos 1° y 5° del Capítulo I del Título XXII de las
+NORMAS (N.T. 2013 y mod.), a fin de incorporar los cambios reseñados en los considerandos que anteceden.
+
+Que, atento a que la CNV ha autorizado la representación digital de valores negociables, y existiendo un
+renovado interés por parte de los agentes del mercado de capitales y el público inversor por la utilización de TRD
+en el mercado de capitales local, se proyecta, en línea con el constante compromiso de la CNV con la innovación
+sin desproteger al inversor, prorrogar el sandbox regulatorio previsto en la Sección IX del Capítulo I del Título
+XXII de las NORMAS (N.T. 2013 y mod.) hasta el 31 de diciembre de 2027.
+Que se propicia la actualización de ciertos artículos correspondientes al Capítulo I del Título XXII de las
+NORMAS (N.T. 2013 y mod.), a la vez que se incorporan nuevas definiciones a aquel Título.
+
+Que, atendiendo a las circunstancias descriptas y como continuidad de la política adoptada por la CNV en materia
+reglamentaria, corresponde la aplicación del procedimiento de “Elaboración Participativa de Normas”, aprobado
+por el Decreto N° 1172/2003, el cual es una herramienta fundamental para fomentar el diálogo del Organismo con
+los distintos participantes del mercado de capitales en la producción de normas y transparencia.
+
+Que, conforme lo determina el referido Decreto, la “Elaboración Participativa de Normas” es un procedimiento
+que, a través de consultas no vinculantes, involucra a sectores interesados y a la ciudadanía en general, en la
+elaboración de normas administrativas, cuando las características del caso, respecto de su viabilidad y
+oportunidad, así lo impongan.
+
+Que, por último, cabe precisar que diversos términos utilizados en esta RG, tanto en los considerandos como en el
+articulado, se encuentran definidos en el Título I de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente se dicta en ejercicio de las atribuciones conferidas por los artículos 19, incisos h), r) y u), y 81 de
+la Ley de Mercado de Capitales y 1691 del CCCN y el Decreto N° 1172/2003.
+
+
+
+Por ello,
+
+                                   LA COMISIÓN NACIONAL DE VALORES
+
+                                                    RESUELVE:
+
+ARTÍCULO 1°.- Establecer la aplicación del procedimiento de “Elaboración Participativa de Normas”, aprobado
+por el Decreto Nº 1172/2003, invitando a la ciudadanía a expresar sus opiniones y/o propuestas respecto de la
+adopción de una reglamentación sobre “PROYECTO RG TOKENIZACIÓN - OFERTA AUTOMÁTICA Y
+PRÓRROGA SANDBOX”, tomando en consideración el texto contenido en el Anexo I (IF-2026-43499185-
+APN-GAL#CNV), que forma parte integrante de la presente Resolución.
+
+ARTÍCULO 2°.- Designar al Dr. Emanuel LÓPEZ SENA para dirigir el procedimiento de “Elaboración
+Participativa de Normas” conforme al Decreto N° 1172/2003.
+
+ARTÍCULO 3°.- Autorizar a ingresar las opiniones y/o propuestas y a tomar vista del Expediente N° EX-2026-
+42210024- -APN-GED#CNV a través del sitio web www.argentina.gob.ar/cnv.
+
+ARTÍCULO 4°.- Aprobar el Formulario que como Anexo II (IF-2026-43500254-APN-GAL#CNV) forma parte
+integrante de la presente Resolución, como modelo para ingresar las opiniones y/o propuestas a través del sitio
+web www.argentina.gob.ar/cnv.
+
+ARTÍCULO 5°.- Fijar un plazo de QUINCE (15) días hábiles para realizar la presentación de opiniones y/o
+propuestas, las que deberán efectuarse a través del sitio web www.argentina.gob.ar/cnv.
+
+ARTÍCULO 6°.- Publíquese la presente Resolución General por el término de DOS (2) días en el B.O., cuya
+entrada en vigencia será a partir del día siguiente al de su última publicación.
+ARTÍCULO 7°.- Regístrese, publíquese, comuníquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web www.argentina.gob.ar/cnv, y oportunamente archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio          Digitally signed by HERBON Laura Ines
+Date: 2026.04.30 09:59:06 ART                        Date: 2026.04.30 10:04:48 ART
+Location: Ciudad Autónoma de Buenos Aires            Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                              Laura Ines Herbon
+Vocal                                                Vocal
+Directorio                                           Directorio
+Comisión Nacional de Valores                         Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana        Digitally signed by SILVA Roberto Emilio
+Date: 2026.04.30 10:05:59 ART                        Date: 2026.04.30 10:14:11 ART
+Location: Ciudad Autónoma de Buenos Aires            Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                            Roberto Emilio Silva
+Vicepresidente                                       Presidente
+Directorio                                           Directorio
+Comisión Nacional de Valores                         Comisión Nacional de Valores
+
+
+
+
+                                                                                                 Digitally signed by GESTION DOCUMENTAL
+                                                                                                 ELECTRONICA - GDE
+                                                                                                 Date: 2026.04.30 10:14:14 -03:00
+                                       ANEXO I
+ARTÍCULO 1°.- Incorporar en el artículo 2° de la Sección II del Capítulo II del Título I
+de las NORMAS (N.T. 2013 y mod.), el siguiente texto:
+“TÉRMINOS DEFINIDOS.
+ARTÍCULO 2°.- A los fines de las presentes Normas y de las notas, informes,
+dictámenes, resoluciones y demás documentos que emita la CNV, los siguientes
+términos o siglas, cuando se consignen con mayúscula, tendrán los significados que se
+indican a continuación, los cuales serán aplicables en todo el texto de las anteriores,
+salvo que del contexto surja un sentido distinto, siendo igualmente válidos tanto en
+singular como en plural:
+(…)
+“AAPIC” significa Agentes de administración de productos de inversión colectiva.
+(…)
+“TRD” significa Tecnología de Registro Distribuido o Tecnologías de Registro
+Distribuido, según el caso.
+(…)”.
+ARTÍCULO 2°.- Sustituir los artículos 1° y 2° de la Sección I del Capítulo I del Título
+XXII de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+“ARTÍCULO 1°.- La “tokenización” a través de la representación digital será admisible
+para los siguientes valores negociables:
+a) acciones (incluidas aquellas que cuentan con doble listado).
+b) obligaciones negociables.
+c) CEDEARS.
+d) valores representativos de deuda o certificados de participación de fideicomisos
+financieros con oferta pública en los términos de la Ley de Mercado de Capitales, cuyo
+activo subyacente esté compuesto principalmente por los llamados “activos del mundo
+real” (real world assets) u otros bienes admisibles, incluyendo, de manera no taxativa,
+valores negociables emitidos por entidades privadas que cuenten o no con oferta pública
+y entes públicos y organismos comprendidos en el artículo 83 de la Ley de Mercado de
+Capitales; y
+e) cuotapartes de fondos comunes de inversión cerrados con oferta pública en los
+términos de la Ley de Fondos Comunes de Inversión, cuyo patrimonio se componga
+principalmente por los llamados “activos del mundo real” (real world assets) u otros
+bienes admisibles, incluyendo, de manera no taxativa, valores negociables emitidos por
+                                                           IF-2026-43499185-APN-GAL#CNV
+
+
+                                                           Página 1 de 9
+entidades privadas que cuenten o no con oferta pública y entes públicos y organismos
+comprendidos en el artículo 83 de la Ley de Mercado de Capitales. Asimismo, serán
+aplicables, en lo que fueran procedentes, las disposiciones previstas en las Normas de
+esta CNV relativas a la constitución de márgenes de liquidez y disponibilidades en los
+casos y con los límites que correspondan y conforme los documentos de emisión
+vinculados con los valores negociables respectivos.
+En todos los casos, podrán ser objeto del presente régimen aquellos derechos accesorios
+inherentes a cada valor negociable que se represente digitalmente.
+No será admisible la tokenización de aquellos valores negociables que cumplan con las
+características de los valores negociables Sociales, Verdes, Sustentables (SVS) y de los
+Vinculados a la Sostenibilidad (VS).
+Será admisible la tokenización de los siguientes valores negociables que se encuadren
+bajo los distintos Regímenes de Oferta Pública con Autorización Automática, con
+excepción de aquellos regímenes de autorización automática aplicables a los FCIA: i)
+acciones; ii) obligaciones negociables; iii) valores representativos de deuda o
+certificados de participación de fideicomisos financieros con oferta pública en los
+términos de la Ley de Mercado de Capitales; y iv) cuotapartes de fondos comunes de
+inversión cerrados con oferta pública en los términos de la Ley de Fondos Comunes de
+Inversión.
+La tokenización de los valores negociables referidos en el párrafo precedente que
+admitan su emisión bajo alguno de los Regímenes de Oferta Pública con Autorización
+Automática por su Bajo Impacto será admisible, aunque solo en el caso de que se decida
+voluntariamente elaborar un Prospecto conforme lo previsto para los Regímenes de
+Oferta Pública Automática por su Mediano Impacto. Adicionalmente, el emisor del
+valor negociable de que se trate deberá solicitar a esta Comisión la autorización de
+representación digital en los términos de los artículos de los artículos 11 y 12, Sección
+II del presente Capítulo. En estos casos, será de aplicación el inciso g) del artículo 5,
+Sección I de este Capítulo.
+Los valores negociables emitidos por los entes públicos y organismos comprendidos en
+el artículo 83 de la Ley de Mercado de Capitales no deberán, a los fines de su
+tokenización, solicitar autorización de representación digital ante la Comisión Nacional
+de Valores.
+Asimismo, no será admitida la tokenización de títulos de deuda pública emitidos por
+otros países o jurisdicciones extranjeras –con la excepción de los valores negociables
+                                                           IF-2026-43499185-APN-GAL#CNV
+
+
+                                                           Página 2 de 9
+soberanos que emitan los países que revistan el carácter de “Estado Parte” del
+MERCOSUR y la República de Chile-, los que tampoco podrán formar parte del activo
+subyacente de los fideicomisos financieros ni del patrimonio de los fondos comunes de
+inversión cerrados referidos en el primer párrafo del presente artículo.
+A los fines del Título V de estas Normas respecto a los fondos comunes de inversión
+cerrados, se tendrán por cumplidos los requisitos de dispersión allí previstos cuando
+existan al menos CINCO (5) inversores de valores negociables representados
+digitalmente y ninguno mantenga directa o indirectamente una participación que exceda
+el equivalente al CINCUENTA Y UN POR CIENTO (51%) de los votos a que den
+derecho dichos valores. En todo momento, en caso de corresponder, a los fines de
+alcanzar la dispersión exigida se considerarán de manera conjunta la cantidad de
+cuotapartistas y los porcentajes de emisión que surjan de las distintas formas de
+representación.
+TECNOLOGÍAS ADMITIDAS.
+ARTÍCULO 2°.- Las disposiciones establecidas en este Capítulo resultan de aplicación
+a la emisión, negociación, liquidación y custodia de los valores negociables referidos en
+el artículo anterior que se representen digitalmente, mediante el uso de TRD o cualquier
+otra tecnología similar que garantice la seguridad y cumpla con las características de
+nominatividad e identificación indubitable del emisor de dicho valor negociable, con el
+alcance previsto en estas Normas.”
+ARTÍCULO 3°.- Sustituir el artículo 5° de la Sección I del Capítulo I del Título XXII
+de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+“DISPOSICIONES COMUNES.
+ARTÍCULO 5°.- Las representaciones digitales adicionales de valores negociables
+referidas en los artículos 3° y 4° del presente Capítulo se regirán por las siguientes
+disposiciones comunes:
+a) Representación tradicional: Los valores negociables deberán ser representados de
+forma cartular o escritural (en adelante, referidas como “forma tradicional” o “formas
+tradicionales”).
+b) Depósito: Los valores negociables deberán ser depositados a nombre de uno o más
+titulares registrales en un ADCVN en una cuenta especialmente individualizada que
+dejará constancia de que su titular actúa por cuenta de terceros (los inversores que
+suscriban o adquieran la representación digital de los valores negociables) y en el marco
+
+
+                                                            IF-2026-43499185-APN-GAL#CNV
+
+
+                                                            Página 3 de 9
+del presente régimen, a través de alguno de los depositantes autorizados en el artículo
+37 de la Sección XII del Capítulo I del Título VIII de estas Normas.
+c) Titulares registrales: El o los titulares registrales deberán ser uno o más PSAV,
+cualquier AAPIC, Sociedad Depositaria o cualquier ALyC Integral y serán,
+precisamente, el o los titulares registrales (holder of record) de los valores negociables
+depositados, actuando por cuenta de los inversores.
+d) Entidad Especializada en TRD: Deberá intervenir una entidad especializada en TRD
+o cualquier otra tecnología similar (que podrá o no estar registrada como PSAV), la que
+se encargará de generar, en una o varias oportunidades, las representaciones digitales de
+los valores negociables. Se deberá utilizar cualquier estándar de representación digital
+idóneo que garantice seguridad, inmutabilidad, verificabilidad, fungibilidad, integridad,
+transferibilidad y trazabilidad. A los fines de su designación, la entidad especializada en
+TRD deberá contar con reconocido prestigio, comprobable experiencia en la materia y
+con una estructura organizativa adecuada a los fines de la actividad desarrollada.
+e) Cotización y negociación: No se requiere que los valores negociables con
+representación digital adicional tengan cotización ni negociación en mercados
+autorizados, con excepción de lo previsto en el artículo 6°, párrafo segundo del presente
+Capítulo. Las representaciones digitales de los valores negociables serán suscriptas,
+colocadas, negociadas y custodiadas digitalmente en las plataformas y/o aplicaciones
+móviles con interoperabilidad entre los PSAV registrados habilitados para ello y que
+hubiesen sido designados en los documentos de emisión, los cuales no podrán ser más
+de CINCO (5), asegurando trazabilidad y equivalencia funcional con los valores
+originales en los términos del artículo 8°. Los PSAV intervinientes en la suscripción,
+colocación, negociación y custodia digital en el marco del presente régimen deberán
+establecer estándares tecnológicos idóneos de interoperabilidad. El estándar referido
+deberá permitir que toda la información necesaria pueda ser compartida de manera
+eficaz y sin demoras entre los PSAV intervinientes en las actividades contempladas, los
+que serán responsables por cualquier divergencia respecto a los valores negociables
+tradicionales depositados en el ADCVN. La infraestructura tecnológica deberá
+garantizar, a su vez, la sincronización en tiempo real, con el objeto de asegurar la
+administración y transmisión sincrónica, oportuna y eficiente de la información relativa
+a los valores negociables representados digitalmente y a sus titulares evitando
+discrepancias de registro entre las plataformas de los PSAV intervinientes.
+Una vez aprobada la representación digital de los valores negociables, estos podrán ser
+                                                            IF-2026-43499185-APN-GAL#CNV
+
+
+                                                            Página 4 de 9
+comercializados, en una o varias oportunidades, no sólo digitalmente, sino también
+mediante cualquier otro mecanismo autorizado por la CNV.
+f) Restricciones: No se podrán transferir ni negociar los valores negociables
+representados digitalmente fuera de los PSAV intervinientes, así como tampoco a/en
+protocolos descentralizados que presten servicios con activos virtuales, conforme el
+artículo 4° bis de la Ley de Lavado. Los valores negociables representados digitalmente
+deberán ser generados bajo contratos inteligentes que impidan transferencias no
+permitidas o incompatibles con las restricciones aplicables.
+g) Representación digital cuando no se apruebe el Prospecto: Los emisores de los
+valores negociables emitidos bajo los distintos Regímenes de Oferta Pública con
+Autorización Automática admitidos, deberán solicitar previamente a la CNV la
+autorización de representación digital, acompañando el capítulo específico adicional al
+que se refiere el artículo 12, Sección II del presente Capítulo, aún en aquellos casos en
+los cuales no tengan la obligación de presentar el Prospecto para su aprobación por la
+CNV.”
+ARTÍCULO 4°.- Sustituir el artículo 10 de la Sección I del Capítulo I del Título XXII
+de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+“REQUISITOS.
+ARTÍCULO 10.- Los valores negociables representados digitalmente deberán reunir las
+siguientes condiciones:
+a) La información deberá estar organizada en una cadena de bloques o en cualquier otra
+TRD o tecnología similar que garantice su seguridad, inmutabilidad, verificabilidad,
+fungibilidad, integridad, transferibilidad y trazabilidad;
+b) la representación digital de valores negociables requerirá que los valores negociables
+en su forma tradicional hayan sido previa o simultáneamente autorizados y emitidos
+conforme a lo dispuesto por las Leyes de Mercado de Capitales, de Fondos Comunes de
+Inversión, el CCCN y las NORMAS (N.T. 2013 y mod.); y
+c) la representación digital del valor negociable se realizará a través de una entidad
+especializada en los términos del artículo 5° del presente Capítulo.”
+ARTÍCULO 5°.- Sustituir el artículo 14 de la Sección III del Capítulo I del Título XXII
+de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+“CATEGORÍAS DE PSAV.
+ARTÍCULO 14.- Sólo podrán participar en el presente régimen los PSAV que se
+encuentren registrados ante esta Comisión, en forma simultánea y durante la vigencia de
+                                                             IF-2026-43499185-APN-GAL#CNV
+
+
+                                                             Página 5 de 9
+la representación digital respectiva, en todas las categorías previstas en el Título XIV,
+Capítulo III de estas NORMAS (N.T. 2013 y mod.).
+No se requerirá, necesariamente, la inscripción como PSAV de aquellos sujetos que
+sólo se limiten a proveer servicios tecnológicos destinados a la representación digital de
+valores negociables que luego serán comercializados por un PSAV, en los términos del
+presente régimen.
+A todo evento, todo sujeto que realice cualquiera de las actividades previstas en el
+artículo 4° bis de la Ley de Lavado, conforme reglamentación del artículo 8, Capítulo
+III, Título XIV de las NORMAS (N.T. 2013 y mod.), deberá cumplir con la registración
+como PSAV ante esta Comisión.”
+ARTÍCULO 6°.- Sustituir el artículo 18 de la Sección IV del Capítulo I del Título XXII
+de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+“TRAZABILIDAD. BLOQUEO. VOTO DIVERGENTE.
+ARTÍCULO 18.- El o los PSAV intervinientes deberán contar con una infraestructura
+técnica adecuada para el registro de participación de los inversores de los valores
+negociables representados digitalmente que garantice la trazabilidad e integridad del
+voto, en los términos previstos en el artículo 15 del presente Capítulo, a fin de poner los
+resultados globales en conocimiento del o los titulares registrales con la anticipación
+necesaria, en su caso.
+En todos los casos, el o los PSAV intervinientes deberán bloquear los valores
+negociables representados digitalmente correspondientes a sus clientes desde el
+momento del otorgamiento de las respectivas instrucciones y hasta la conclusión de la
+asamblea. Deberán recabar dichas instrucciones y comunicarlas al o a los titulares
+registrales, en su caso, en un plazo no menor a CINCO (5) días previos a la celebración
+del acto.
+El o los titulares registrales deberán informar de inmediato en forma fehaciente al
+ADCVN acerca de las instrucciones recibidas, a fin de que éste proceda al bloqueo de
+los valores negociables tradicionales equivalentes que se encuentren depositados en la
+cuenta referida en el artículo 5°, inciso b) del presente Capítulo. En ningún caso la
+comunicación al ADCVN podrá ser posterior al plazo previsto en el artículo 238 de la
+Ley General de Sociedades.
+En tal sentido, el o los titulares registrales podrán emitir su voto en sentido divergente
+únicamente en caso de cumplir los siguientes recaudos:
+
+
+                                                            IF-2026-43499185-APN-GAL#CNV
+
+
+                                                            Página 6 de 9
+a) Para participar en las asambleas, el o los titulares registrales deberán dar
+cumplimiento a lo dispuesto en el artículo 238 de la Ley General de Sociedades,
+dejándose constancia en el libro de asistencia de la pertenencia de los valores
+negociables representados digitalmente correspondientes al presente régimen.
+b) El o los titulares registrales deberán, en la oportunidad prevista en el inciso
+precedente, informar con carácter de declaración jurada la cantidad de valores
+negociables representados digitalmente que tengan en existencia en sus plataformas el o
+los PSAV intervinientes, con relación al instrumento cuya asamblea se realiza.
+c) En caso de voto divergente, el o los titulares registrales deberán individualizar, al
+momento de la votación, las instrucciones de voto recibidas debidamente
+individualizadas con los datos de quienes la emitieron y con qué valores negociables
+vota en uno u otro sentido. A tal fin, en su caso, dicha información deberá ser provista
+al o a los titulares registrales por el o los PSAV intervinientes. Alternativamente, los
+titulares registrales podrán exhibir al emisor, a los fines del presente inciso, una
+constancia emitida por el sistema informático utilizado por el o los PSAV intervinientes,
+de la que surja en forma indubitable el resultado global de las votaciones y/o
+instrucciones emitidas por los inversores de los valores negociables representados
+digitalmente.
+d) En el acta donde se registren los votos, deberán discriminarse los votos del o los
+titulares registrales de acuerdo con el sentido de cada votación.
+e) El o los titulares registrales deberán llevar un registro adecuado de las instrucciones
+de voto recibidas con motivo de cada asamblea. La Comisión podrá requerir al o a los
+titulares registrales que presenten la constancia de haber cumplido dichas instrucciones.
+En todos los casos, tanto el o los PSAV intervinientes como el o los titulares registrales
+deberán garantizar fehacientemente el cumplimiento integral de las obligaciones
+previstas en el presente artículo, adoptando las medidas técnicas, operativas y
+documentales necesarios para asegurar la adecuada trazabilidad, fidelidad y
+transparencia del proceso de votación en asambleas, en resguardo de los derechos
+políticos de los inversores de dichos valores.”
+ARTÍCULO 7°.- Sustituir el artículo 28 de la Sección VI del Capítulo I del Título XXII
+de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+“CERTIFICADOS DE TENENCIA.
+ARTÍCULO 28.- A solicitud del PSAV, en su caso, el o los titulares registrales deberán
+requerir que el ADCVN emita tanta cantidad de certificados de tenencia como
+                                                            IF-2026-43499185-APN-GAL#CNV
+
+
+                                                            Página 7 de 9
+inversores titulares de valores negociables representados digitalmente existan, los que
+serán endosados por el o los titulares registrales, con o sin intervención del o los PSAV
+intervinientes, a favor de los inversores. Los certificados referidos tendrán los efectos
+previstos para el régimen legal de los valores anotados en cuenta o escriturales,
+conforme Título III, Capítulo VII de la Ley de Mercado de Capitales.
+En todo momento, el inversor de los valores negociables representados digitalmente
+podrá solicitar al PSAV interviniente el certificado correspondiente a sus tenencias,
+referido en el párrafo precedente.”
+ARTÍCULO 8°.- Sustituir el artículo 36 de la Sección VIII del Capítulo I del Título
+XXII de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+“SUSPENSION.
+ARTÍCULO 36.- La Comisión podrá, en todo momento, ordenar la suspensión,
+prohibición o cualquier otra medida preventiva de toda provisión de servicios de valores
+negociables representados digitalmente que contraríe estas NORMAS (N.T. 2013 y
+mod.). En caso de que la Comisión interrumpa transitoriamente la oferta pública de los
+valores negociables en los términos dispuestos por el artículo 142 de la Ley de Mercado
+de Capitales, los PSAV deberán arbitrar los medios para suspender la comercialización
+de los valores negociables representados digitalmente en sus plataformas y/o
+aplicaciones móviles, hasta tanto la Comisión disponga el levantamiento de dicha
+medida.”
+ARTÍCULO 9°.- Sustituir los artículos 38 y 39 de la Sección IX del Capítulo I del
+Título XXII de las NORMAS (N.T. 2013 y mod.), el siguiente texto:
+“SANDBOX REGULATORIO.
+ARTÍCULO 38.- Las disposiciones de este Capítulo serán puestas a prueba en un
+entorno regulatorio controlado (sandbox) que se encontrará vigente hasta el día 31 de
+diciembre del 2027, inclusive, sin perjuicio de la posterior validez de las emisiones
+representadas digitalmente bajo la vigencia de este régimen. Una vez transcurrido dicho
+período, no podrán emitirse más valores negociables representados digitalmente ni
+generarse la representación digital de valores negociables existentes bajo el presente
+régimen, salvo en lo necesario para dar cumplimiento al artículo 17.
+Una vez finalizado el plazo referido anteriormente, la Comisión Nacional de Valores
+evaluará la conveniencia de prorrogar su vigencia, así como modificar, ampliar, reducir
+o finalizar las previsiones del presente régimen, mediante la reglamentación pertinente.
+
+
+                                                           IF-2026-43499185-APN-GAL#CNV
+
+
+                                                           Página 8 de 9
+Los valores negociables que hubiesen obtenido la autorización para su representación
+digital y que no hayan sido efectivamente representados digitalmente dentro de los DOS
+(2) años de haberla obtenido, serán excluidos de pleno derecho del presente régimen, lo
+que no implicará la cancelación de oferta pública bajo las demás representaciones.
+ARTÍCULO 39.- A los fines del presente régimen, la negociación de valores
+negociables en las plataformas digitales y/o aplicaciones móviles administradas por los
+PSAV intervinientes será considerada un ámbito autorizado para ofrecer públicamente
+valores negociables en los términos de la Ley de Mercado de Capitales, la Ley de
+Fondos Comunes de Inversión y el CCCN.”
+
+
+
+
+                                                          IF-2026-43499185-APN-GAL#CNV
+
+
+                                                          Página 9 de 9
+                                       ANEXO II
+FORMULARIO PARA LA PRESENTACIÓN DE OPINIONES Y PROPUESTAS EN
+EL PROCEDIMIENTO DE ELABORACIÓN PARTICIPATIVA DE NORMAS.
+NÚMERO DE PRESENTACIÓN:
+• CONTENIDO DE LA NORMA A DICTARSE
+• DATOS DEL PRESENTANTE
+1. NOMBRE Y APELLIDO:
+2. DNI / CUIT o CUIL:
+3. FECHA DE NACIMIENTO:
+4. LUGAR DE NACIMIENTO:
+5. NACIONALIDAD:
+6. DOMICILIO:
+7. TELÉFONO PARTICULAR / CELULAR:
+8. TELÉFONO LABORAL:
+9. DIRECCIÓN DE CORREO ELECTRÓNICO:
+10. CARÁCTER EN QUE SE PRESENTA (marcar con una cruz lo que corresponde).
+( ) Particular interesado (Persona humana)
+( ) Representante de Persona Jurídica (¹)
+(¹) En caso de actuar como representante de PERSONA JURÍDICA, indique los
+siguientes datos de su representada:
+DENOMINACIÓN / RAZÓN SOCIAL:
+CUIT:
+DOMICILIO:
+INSTRUMENTO QUE ACREDITA LA PERSONERÍA INVOCADA:
+• CONTENIDO DE LA OPINIÓN Y/O PROPUESTA.
+En caso de adjuntarla/s por instrumento separado, marcar la opción correspondiente(²)
+.............................………………………………………………………………..……
+(²) () Se adjunta informe por separado.
+• DETALLE DE LA DOCUMENTACIÓN ACOMPAÑADA.
+............................………………………………………………………………………
+_________________                            ___________________________
+        FIRMA                                             ACLARACIÓN
+
+
+
+                                                          IF-2026-43500254-APN-GAL#CNV
+
+
+                                                          Página 1 de 1
+

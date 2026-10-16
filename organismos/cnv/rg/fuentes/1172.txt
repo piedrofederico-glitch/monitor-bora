@@ -1,0 +1,1792 @@
+                               República Argentina - Poder Ejecutivo Nacional
+                                        Año de la Grandeza Argentina
+
+                                              Resolución General
+
+Número: RESGC-2026-1172-APN-DIR#CNV
+
+                                                                                 CIUDAD DE BUENOS AIRES
+                                                                                Miércoles 14 de Octubre de 2026
+
+Referencia: EX-2026-98381106- -APN-GRC#CNV “MODIFICACIÓN DEL CAPÍTULO III DEL TÍTULO
+XIV DE LAS NORMAS”
+
+
+
+VISTO el Expediente N° EX-2026-98381106- -APN-GRC#CNV caratulado “MODIFICACIÓN DEL
+CAPÍTULO III DEL TÍTULO XIV DE LAS NORMAS”, lo dictaminado por la Gerencia de Registro y Control,
+la Subgerencia de Normativa y la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley N° 27.739 incorporó la definición de “Proveedor de Servicio de Activos Virtuales (PSAV)” en el
+artículo 4° bis de la Ley de Lavado. Esta definición abarca a cualquier persona humana o jurídica que, como
+negocio, realiza UNA (1) o más de las siguientes actividades u operaciones para o en nombre de otra persona
+humana o jurídica: i) intercambio entre Activos Virtuales y monedas de curso legal (monedas fiduciarias); ii)
+intercambio entre UNA (1) o más formas de Activos Virtuales; iii) transferencia de Activos Virtuales; iv)
+custodia y/o administración de Activos Virtuales o instrumentos que permitan el control sobre los mismos; y v)
+participación y provisión de servicios financieros relacionados con la oferta de un emisor y/o venta de un Activo
+Virtual.
+
+Que, en concordancia con ello, dispuso, en su artículo 37, que la CNV como autoridad de aplicación de los
+sujetos referidos, centralizará el Registro de PSAV, reuniendo la información adecuada, precisa y actualizada y
+ejercerá todas las facultades de supervisión, regulación, inspección, fiscalización y sanción contenidas en el
+artículo 19 de la Ley de Mercado de Capitales respecto de ellos.
+
+Que el mencionado artículo 19, en su inciso d), establece como atribuciones de la CNV llevar el registro, otorgar,
+suspender y revocar la autorización para funcionar de los Mercados, los Agentes Registrados y las demás
+personas humanas y jurídicas que, por sus actividades vinculadas al mercado de capitales, y a criterio de la CNV
+queden comprendidas bajo su competencia.
+
+Que, por su parte, el inciso g) del artículo citado faculta a la CNV a dictar las reglamentaciones que deberán
+cumplir las personas humanas y jurídicas y las Entidades autorizadas en los términos del referido inciso d), desde
+su inscripción hasta la baja del registro respectivo.
+
+Que, en el marco de la Ley N° 27.739, la CNV posee facultades para regular exclusivamente la actividad de los
+PSAV, no extendiéndose dicha competencia a la regulación de los Activos Virtuales, excepto que éstos encuadren
+en la definición de valores negociables, en los términos del artículo 2° de la Ley de Mercado de Capitales.
+
+Que, en consecuencia, la CNV dictó la RG N° 994, incorporando en su normativa el Registro de PSAV y los
+requisitos para la inscripción en el mismo a los efectos de identificar a las personas humanas y jurídicas, que
+realicen en la República Argentina actividades u operaciones relativas a Activos Virtuales, ello, en aras de
+garantizar el cumplimiento de los estándares fijados en la Recomendación (R) 15 del GAFI en la lucha contra el
+lavado de activos, el financiamiento del terrorismo y la proliferación de armas de destrucción masiva.
+
+Que, posteriormente, mediante la RG N° 1058 se avanzó en la reglamentación integral de la actividad de los
+PSAV, estableciendo los principios, requisitos y condiciones aplicables para la prestación de sus servicios y su
+permanencia en el Registro mencionado.
+
+Que, por otra parte, mediante el Decreto N° 90/2025, se dispuso que las jurisdicciones y Entidades comprendidas
+en el artículo 8°, inciso a), de la Ley de Administración Financiera y de los Sistemas de Control del Sector
+Público Nacional efectuarán un relevamiento normativo con el objeto de identificar las normas vigentes, y
+proponer la derogación de aquellas que resulten obsoletas, innecesarias o que encuadren dentro de los criterios
+establecidos en el artículo 3° del referido decreto, siendo el Ministerio de Desregulación y Transformación del
+Estado la Autoridad de Aplicación, quien se encuentra facultado para dictar las normas complementarias y
+operativas necesarias para la correcta implementación de lo dispuesto.
+
+Que, en línea con ello, en lo que respecta al mercado de capitales, la CNV continúa avanzando en el proceso de
+armonización normativa, procurando unificar criterios regulatorios con el fin de otorgar previsibilidad y seguridad
+jurídica a los participantes en el mercado de capitales.
+
+Que esta iniciativa constituye un esfuerzo coordinado para eliminar trabas, agilizar la operatoria y alinear la
+normativa con tendencias internacionales, transformando el mercado de capitales en un ámbito más accesible y
+eficiente.
+
+Que, asimismo, se encuentra vigente el Decreto N° 891/2017 por el cual se aprobaron las buenas prácticas en
+materia de simplificación aplicables para el funcionamiento del Sector Público Nacional, el dictado de normativa
+y sus regulaciones, que señala que es indispensable elaborar una estrategia sistémica e integral que establezca
+como premisa básica la mejora regulatoria como una labor continua del sector público y abierta a la participación
+de la sociedad, que incluya la reducción de los trámites excesivos, la simplificación de procesos y la elaboración
+de normas de manera tal que nos lleve a un Estado eficiente, predecible, y capaz de responder a las necesidades
+ciudadanas.
+
+Que, a partir de la experiencia recogida desde la implementación del régimen establecido por la RG N° 1058,
+resulta oportuno introducir determinadas adecuaciones y precisiones al marco regulatorio aplicable a los PSAV
+que se encuentra en el Capítulo III del Título XIV de las NORMAS (N.T. 2013 y mod.), con el objeto de
+promover textos claros, precisos y coherentes, y avanzar así en el proceso de simplificación y armonización
+normativa, favoreciendo su adecuada aplicación y una mayor eficiencia y racionalidad en los procedimientos
+involucrados.
+
+Que, en particular, resulta necesario establecer el procedimiento aplicable a los supuestos en que los PSAV
+inscriptos pretendan incorporar nuevas categorías de actividades a aquellas comprendidas en su inscripción o
+modifiquen su denominación social, determinando las condiciones y requisitos que deberán observar en cada caso
+para la correspondiente actualización de su inscripción en el Registro.
+
+Que, asimismo, corresponde incorporar al texto de las NORMAS (N.T. 2013 y mod.) las precisiones contenidas
+en los Criterios Interpretativos N° 95, 96 y 97, relativas a los requisitos aplicables a las sociedades constituidas en
+el país y a las sucursales o representaciones permanentes de sociedades extranjeras, a la acreditación del
+patrimonio neto mínimo y al tratamiento del capital y de los aportes irrevocables, así como a los requisitos
+relativos al objeto y estatuto social de los PSAV, dejándose sin efecto dichos Criterios Interpretativos.
+
+Que, en tal sentido, resulta conveniente sistematizar dichas pautas en el texto normativo, a fin de otorgar mayor
+claridad respecto de los requisitos exigibles al momento de la inscripción y durante la permanencia de los PSAV
+en el Registro.
+
+Que, del mismo modo, resulta necesario establecer determinadas condiciones aplicables a la cancelación de la
+inscripción en el Registro de PSAV o al cese de una o más categorías de inscripción, contemplando la
+comunicación previa a los clientes, la adopción de las medidas necesarias respecto de los saldos existentes y la
+acreditación de su cumplimiento, según corresponda.
+
+Que, a tales efectos, corresponde incorporar como Anexo I del Capítulo III del Título XIV de las NORMAS (N.T.
+2013 y mod.), un instructivo para el cumplimiento del régimen informativo de los PSAV.
+
+Que, en virtud de la incorporación del referido instructivo, corresponde adecuar la denominación del formulario
+PSAV_014 previsto en el subinciso 18) del inciso S) del artículo 11 de la Sección IV del Capítulo I del Título XV
+de las NORMAS (N.T. 2013 y mod.), a fin de reflejar con mayor precisión su contenido informativo.
+
+Que, por otra parte, corresponde adecuar las modalidades de presentación de la información previstas en el inciso
+b) del artículo 40 del Capítulo III del Título XIV de las NORMAS (N.T. 2013 y mod.), estableciendo pautas para
+su remisión a fin de procurar uniformidad en la información presentada.
+
+Que las modificaciones propiciadas se enmarcan en el proceso de revisión y actualización del régimen aplicable a
+los PSAV, atendiendo a la evolución de las actividades comprendidas, la experiencia adquirida desde su
+implementación y las necesidades advertidas en su aplicación práctica.
+
+Que, por otro lado, cabe precisar que diversos términos utilizados en esta RG, tanto en los considerandos como en
+el articulado, se encuentran definidos en el Título I de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 19, incisos d), g) y u), de la Ley de
+Mercado de Capitales y los artículos 37 y 38 de la Ley N° 27.739.
+
+
+
+Por ello,
+
+                                   LA COMISIÓN NACIONAL DE VALORES
+
+                                                    RESUELVE:
+
+ARTÍCULO 1°. – Incorporar en el artículo 2° de la Sección II del Capítulo II del Título I de las NORMAS (N.T.
+2013 y mod.), los siguientes términos definidos:
+
+“(…)
+
+“ARS” o “PESOS” significa la moneda de curso legal en la República Argentina.
+
+(…)
+
+“BTC” significa Bitcoin.
+
+(…)
+
+“USD” significa dólares estadounidenses.
+
+“USDC” significa la moneda estable denominada en dólares estadounidenses emitida por Circle.
+
+“USDT” significa la moneda estable denominada en dólares estadounidenses emitida por Tether.
+
+(…)”.
+
+ARTÍCULO 2°. – Sustituir el Capítulo III del Título XIV de las NORMAS (N.T. 2013 y mod.), por el siguiente
+texto:
+
+“CAPÍTULO III
+
+PSAV
+
+REGISTRO.
+
+ARTÍCULO 1º.- Las personas humanas residentes en la República Argentina y las personas jurídicas constituidas
+en la República Argentina que realicen una o más de las actividades u operaciones comprendidas en la definición
+de PSAV incluida en el artículo 4° bis de la Ley de Lavado (la Definición de PSAV), deberán inscribirse en el
+Registro de PSAV (el Registro), habilitado por la Comisión a tal fin, con anterioridad a la realización de dichas
+actividades u operaciones.
+
+Las personas jurídicas constituidas fuera de la República Argentina que realicen de forma directa una o más de las
+actividades u operaciones comprendidas en la Definición de PSAV, deberán inscribirse en el Registro con
+anterioridad a la realización de dichas actividades u operaciones, siempre que las realicen bajo cualquiera de las
+modalidades mencionadas en el artículo 4° del presente Capítulo, constituyendo una sociedad en el país en los
+términos del artículo 123 de la Ley General de Sociedades, o inscripta en los términos del artículo 118 de dicha
+ley, bajo cualquiera de las formas previstas —sucursal, asiento o cualquier otra especie de representación
+permanente.
+
+La inscripción en el Registro de PSAV de las personas humanas procederá solo cuando tales actividades u
+operaciones superen, de manera agregada, un monto equivalente a UVA TREINTA Y CINCO MIL (UVA
+35.000) por mes calendario. A efectos de su determinación, deberá aplicarse a la totalidad de las actividades u
+operaciones registradas en el mes calendario, el valor de la UVA correspondiente al último día de dicho mes.
+
+NO OBLIGATORIEDAD DE REGISTRO.
+ARTÍCULO 2°- No se encuentran alcanzados por la Definición de PSAV:
+
+i) Aquellas personas humanas o jurídicas que realicen para sí, es decir a título personal, intercambio entre Activos
+Virtuales, tal como se definen en el artículo 4° bis de la Ley de Lavado y moneda de curso legal (moneda
+fiduciaria) y/o intercambio entre diversos Activos Virtuales, cualquiera sea el monto.
+
+ii) Aquellas personas humanas o jurídicas que reciban o entreguen Activos Virtuales como contraprestación por la
+compraventa o prestación de sus productos o servicios, cualquiera sea el monto.
+
+iii) Protocolos descentralizados que prestan servicios con Activos Virtuales, siempre que no exista una persona
+humana o jurídica que, ejerciendo control o influencia suficiente sobre su funcionamiento, preste servicios
+comprendidos en la definición de PSAV.
+
+iv) Quienes provean exclusivamente servicios de software o hardware de billeteras de autocustodia, siempre que
+no realicen actividades comprendidas en la definición de PSAV. A estos efectos, se entenderá por billeteras de
+autocustodia aquellas en las que el usuario conserve el control de sus Activos Virtuales y de los medios de acceso
+a ellos, sin que el proveedor disponga de facultades de custodia, administración o disposición, sobre dichos
+activos.
+
+No se encuentran alcanzados por la obligación de registro aquellas personas jurídicas constituidas fuera de la
+República Argentina que participen, por si o a través de una sociedad de su mismo grupo económico, en una
+sociedad constituida en el país en los términos del artículo 123 de la Ley General de Sociedades registrada como
+PSAV en la CNV; siempre que no exista relación contractual directa con clientes en la República Argentina ni
+queden alcanzadas por el artículo 4° del presente Capítulo.
+
+PROHIBICION DE OPERAR.
+
+ARTÍCULO 3º.- Toda persona humana o jurídica que no se encuentre inscripta en el Registro, en los términos
+indicados en el artículo 1° precedente, deberá abstenerse de realizar en el país cualquiera de las actividades u
+operaciones comprendidas en la Definición de PSAV. Los incumplimientos a la normativa serán pasibles de
+sanciones de acuerdo con lo dispuesto en el artículo 37 de la Ley N° 27.739.
+
+PUNTOS DE CONTACTO.
+
+ARTÍCULO 4º.- Se entenderá que una persona jurídica constituida fuera de la República Argentina realiza en el
+país actividades u operaciones comprendidas en la Definición de PSAV y, en consecuencia, deberá inscribirse en
+el Registro de PSAV, cuando las mismas se lleven a cabo bajo cualquiera de las modalidades que a continuación
+se mencionan:
+
+1. Que utilicen cualquier dominio “.ar” para llevar a cabo sus actividades u operaciones.
+
+2. Que tengan acuerdos comerciales con terceros o subsidiarias o vinculadas que les permitan recibir localmente
+fondos de residentes argentinos para la realización de las actividades u operaciones (o cualquier actividad similar
+de las que se conocen como servicios de rampa).
+
+3. Que tengan un claro direccionamiento a residentes en la República Argentina.
+
+4. Que efectúen publicidad claramente dirigida a residentes en la República Argentina, no incluyéndose cuando el
+cliente, por su exclusiva iniciativa, sea quien contacte a la persona jurídica constituida fuera de la República
+Argentina (reverse solicitation).
+
+5. Que su volumen de negocios en la República Argentina exceda el VEINTE POR CIENTO (20%) de su
+volumen total de negocios. A tal efecto, se considerará solamente el volumen total de negocios de la o las
+actividades por las que debe inscribirse en el Registro.
+
+EXCLUSIONES.
+
+ARTÍCULO 5º.- No podrán operar como PSAV ni realizar las actividades que realizan los PSAV:
+
+a) Las personas humanas o jurídicas que se encuentren inscriptas en la CNV como Mercados, Cámaras
+Compensadoras, Agentes Registrados. No obstante, los PSAV podrán desarrollar su actividad integrando sus
+respectivas plataformas con infraestructuras o servicios provistos por los anteriores sujetos, siempre y cuando ello
+no se encuentre expresamente prohibido o limitado por una norma de la CNV o de otra autoridad que regule al
+Agente Registrado del que se trate.
+
+b) Las personas humanas o jurídicas sujetas a una regulación específica que no permita su operación como PSAV.
+
+c) No podrán inscribirse en el Registro, las personas humanas que se encuentren alcanzadas por las
+incompatibilidades previstas en el artículo 8° del presente Capítulo.
+
+LEYENDA. INSCRIPCIÓN.
+
+ARTÍCULO 6º.- Las personas humanas y jurídicas inscriptas en el Registro deberán indicar claramente en su sitio
+web, en su aplicación móvil y en cualquier red social, la siguiente leyenda: “Inscripto bajo el N°…. en el Registro
+de PSAV de la CNV (República Argentina)”.
+
+REQUISITOS PARA LA SOLICITUD DE INSCRIPCIÓN EN CARÁCTER DE PSAV. DOCUMENTACIÓN
+A PRESENTAR.
+
+ARTÍCULO 7º.- Los PSAV deberán solicitar la inscripción en el Registro de PSAV, acompañando la
+información y documentación que se detalla a continuación:
+
+a) Personas humanas residentes en el país:
+
+1) Nombre y apellido, número de DNI y copia simple del mismo.
+
+2) Nacionalidad y fecha de nacimiento.
+
+3) Estado civil.
+
+4) CUIT, CUIL o la clave de identificación que en el futuro sea creada por la ARCA. Se deberá acompañar copia
+simple de la constancia correspondiente.
+
+5) Direcciones y datos completos del domicilio real, operativo -donde se realiza la actividad en el país- y legal,
+éste último disponible para los clientes.
+
+6) Número de teléfono.
+
+7) Dirección de correo electrónico constituido, declarado como válido a los efectos de notificaciones por parte de
+la CNV.
+
+8) Dirección de correo electrónico para atención de reclamos de clientes, sin perjuicio de otros medios de
+atención de usuarios que puedan tener disponibles.
+
+9) Sitio web, plataforma o aplicación y nombre de usuario, a través de los que operará en redes sociales u otros
+medios.
+
+10) Identificar la o las actividades u operaciones que realiza de la Definición de PSAV y la/s categoría/s
+especificada/s en el artículo 9° del presente Capítulo bajo la/s cual/es solicita su inscripción. A tal efecto, se
+deberá acompañar certificación de contador público independiente con firma legalizada por el Consejo
+Profesional respectivo que acredite que la persona humana realizó como negocio actividades u operaciones para o
+en nombre de otra persona, por un monto superior al indicado en el artículo 1° del presente Capítulo.
+
+11) Certificado de antecedentes penales.
+
+12) Manifestación de bienes y deudas certificada por contador público independiente con firma legalizada por el
+Consejo Profesional respectivo que acredite el cumplimiento de la exigencia patrimonial de acuerdo con la
+categoría cuya inscripción se solicite en el Registro de PSAV. El patrimonio deberá ser determinado al mes
+previo al inmediato anterior a la fecha de la presentación de la solicitud de registro e informado en dólares
+estadounidenses a dicha fecha, aplicando el tipo de cambio establecido por la Comunicación “A” 3500 del
+BCRA.
+
+13) DDJJ de PLA/FT/FP: Deberá ser completada y suscripta informando que no cuenta con condenas por delitos
+de lavado de activos, financiamiento del terrorismo y de la proliferación de armas de destrucción masiva, ni
+figura en listas de terroristas u organizaciones terroristas emitidas por el CSNU.
+
+14) Formulario AIF DDJJ para el ingreso de información a través de la AIF, conforme el texto del Anexo I del
+Título XV de estas Normas.
+
+15) Informe de idóneo informático requerido en el artículo 13 del presente Capítulo; información de convenios
+con terceros requerida en el artículo 36 del presente Capítulo; y DDJJ suscripta por el solicitante manifestando
+que cumple con la totalidad de las exigencias establecidas en el presente Capítulo, para la prestación de la/s
+actividad/es que pretende realizar en calidad de PSAV.
+
+b) Personas jurídicas constituidas en el país, bajo la forma de sociedad anónima o sociedad de responsabilidad
+limitada conforme la Ley General de Sociedades, y personas jurídicas constituidas en el extranjero, inscriptas
+como sucursal o representación permanente en los términos del artículo 118 de la Ley General de Sociedades;
+
+1) Denominación o razón social y nombre comercial.
+
+2) CUIT o clave de identificación que en el futuro sea creada por la ARCA.
+
+3) Contrato Social y Estatuto: Copia simple del acta constitutiva de la sociedad y estatuto social vigente, inscripto
+en el Registro Público correspondiente a la jurisdicción donde tenga asentada su sede social.
+
+El objeto social de la sociedad constituida en la República Argentina deberá prever de manera expresa la
+actuación de la sociedad en carácter de PSAV, no admitiéndose formulaciones genéricas o ambiguas que puedan
+interpretarse como implícitas. En el caso de sucursal o representación permanente de sociedad extranjera inscripta
+en los términos del artículo 118 de la Ley General de Sociedades, podrá admitirse que el objeto social de la matriz
+incluya las actividades propias de un PSAV en forma expresa o implícita siempre que ello sea consistente con la
+normativa aplicable en su jurisdicción de origen y con las actividades que desarrollará la sucursal o
+representación en el país.
+
+El texto ordenado del estatuto social vigente, debidamente inscripto en el Registro Público deberá ser publicado
+en la AIF y mantenerse actualizado durante todo el período en que el PSAV permanezca inscripto en el Registro.
+
+4) Identificación del representante legal o apoderado, acompañando copia simple de la constancia
+correspondiente. Identificación del o los representantes designados en el caso de sociedades extranjeras inscriptas
+en los términos del artículo 118 de la Ley General de Sociedades.
+
+5) Domicilios: Direcciones y datos completos de sede social inscripta, sucursales, otros domicilios operativos y
+domicilio legal, este último disponible para los clientes.
+
+6) Número de teléfono en el país.
+
+7) Dirección de correo electrónico constituido, declarado como válido a los efectos de las notificaciones por parte
+de la CNV.
+
+8) Dirección de correo electrónico para atención de reclamos de clientes, sin perjuicio de otros medios de
+atención de usuarios que puedan tener disponibles.
+
+9) Sitio web institucional de la persona jurídica la cual deberá tener un dominio “.ar”, plataforma, aplicación
+móvil, nombre de usuario a través de los que operará en las redes sociales u otros medios, en caso de poseer.
+
+10) Identificar la o las actividades que realiza de la Definición de PSAV y la/s Categoría/s especificada/s en el
+artículo 9° del presente Capítulo bajo la/s cual/es solicita su inscripción.
+
+11) Accionistas: Copia simple del registro de accionistas a la fecha de la presentación. No podrán ser accionistas
+quienes se encuentren alcanzados por las incompatibilidades dispuestas en el siguiente artículo.
+
+12) Nómina de los integrantes de los órganos de administración (titulares y suplentes) y fiscalización en caso de
+existir (titulares y suplentes) o de sus representantes locales, para el caso de sociedades extranjeras inscriptas en
+los términos del artículo 118 de la Ley General de Sociedades, indicándose domicilio real, teléfonos y correos
+electrónicos. Deberá acompañarse copia simple de los instrumentos que acrediten tales designaciones y la
+distribución de los cargos correspondientes.
+
+Dicha información deberá ser actualizada en oportunidad de eventuales modificaciones, dentro de los DIEZ (10)
+días hábiles de producidas las mismas.
+
+No podrán desempeñarse como directores y síndicos quienes se encuentren alcanzados por las incompatibilidades
+dispuestas en el siguiente artículo.
+
+13) Certificado de antecedentes penales de cada uno de los miembros del órgano de administración y de
+fiscalización, titulares y suplentes, o de sus representantes locales, para el caso de sociedades extranjeras
+inscriptas en los términos del artículo 118 de la Ley General de Sociedades y gerentes generales o especiales
+designados de acuerdo con el artículo 270 de la Ley General de Sociedades.
+14) DDJJ de PLA/FT/FP: Deberá ser completada y suscripta por cada uno de los miembros de los órganos de
+administración y de fiscalización, o de sus representantes locales, para el caso de sociedades extranjeras inscriptas
+en los términos del artículo 118 de la Ley General de Sociedades y gerentes generales o especiales designados de
+acuerdo con el artículo 270 de la Ley General de Sociedades, informando que no cuentan con condenas por
+delitos de lavado de activos, financiamiento del terrorismo y proliferación de armas de destrucción masiva, ni
+figuran en listas de terroristas u organizaciones terroristas emitidas por el CSNU.
+
+15) Identificación del responsable de cumplimiento regulatorio y control interno.
+
+16) Identificación del responsable de relaciones con el público.
+
+17) Formulario AIF: DDJJ para el ingreso de información a través de la AIF, conforme el texto del Anexo II del
+Capítulo III del Título XV de estas Normas, firmada por el representante legal de la Entidad, en la cual se
+informará la dirección de correo electrónico constituido, declarado como válido a los efectos de las notificaciones
+por parte de la CNV.
+
+18) Fecha de cierre del ejercicio económico y acreditación del patrimonio neto mínimo aplicable. A tal efecto se
+deberán presentar los últimos EECC anuales o desde su constitución, si su antigüedad fuere menor, tal como
+fueron presentados por la Sociedad a la respectiva autoridad de contralor, auditados por contador público
+independiente. Si los EECC tuvieran una antigüedad mayor a OCHO (8) meses desde la fecha de presentación de
+la totalidad de la documentación e información requerida para el trámite de inscripción, adicionalmente se deberá
+presentar Certificación de contador público independiente con firma legalizada por el Consejo Profesional
+respectivo sobre el cumplimiento del patrimonio neto mínimo requerido por las Normas. El patrimonio neto
+deberá ser determinado a una fecha no mayor a los DOS (2) meses de la fecha de la presentación antes indicada e
+informado en dólares estadounidenses a dicha fecha, aplicando el tipo de cambio establecido por la Comunicación
+“A” 3500 del BCRA. El patrimonio neto mínimo deberá observar el cumplimiento de los requisitos dispuestos en
+el artículo 10 del presente Capítulo.
+
+19) Acta del órgano de administración o de sus representantes locales, para el caso de sociedades extranjeras
+inscriptas en los términos del artículo 118 de la Ley General de Sociedades, en la que conste con carácter de
+DDJJ que la sociedad cuenta con una organización administrativa propia y adecuada para prestar el servicio como
+PSAV.
+
+20) Informe de idóneo informático requerido en el artículo 13 del presente Capítulo; detalle del sistema de
+custodia requerido por el artículo 16 del presente Capítulo, de corresponder; información de convenios con
+terceros, conforme a lo requerido en el artículo 36 del presente Capítulo; y DDJJ suscripta por el representante
+legal o apoderado, manifestando que la sociedad cumple con la totalidad de las exigencias establecidas en el
+presente Capítulo, para la prestación de la/s actividad/es que pretende realizar en calidad de PSAV.
+
+No podrán inscribirse en el Registro, las personas jurídicas domiciliadas, constituidas, o que residan en dominios,
+jurisdicciones, territorios o Estados asociados que se encuentren incluidos en el listado de jurisdicciones no
+cooperantes a los fines de la transparencia fiscal, en los términos del artículo 24 del Anexo integrante del Decreto
+N° 862/2019 que sean considerados como Jurisdicciones de Alto Riesgo sujetas a un llamado a la acción por el
+GAFI.
+
+La información y documentación requerida en los incisos a) y b) del presente artículo debe ser veraz, completa y
+estar actualizada a la fecha de presentación ante la Comisión.
+Sin perjuicio de la documentación detallada anteriormente, la Comisión podrá requerir toda otra información
+complementaria que resulte necesaria a los fines del cumplimiento de su actividad, conforme a las normas y
+reglamentaciones vigentes.
+
+INCOMPATIBILIDADES.
+
+ARTÍCULO 8°.- No podrán ser elegidos para integrar los órganos de administración y fiscalización, ni como
+titulares ni suplentes, ni como responsable de cumplimiento regulatorio y control interno, ni como representantes
+locales, para el caso de sociedades extranjeras inscriptas en los términos del artículo 118 de la Ley General de
+Sociedades:
+
+a) Quienes no puedan ejercer el comercio.
+
+b) Los condenados por los delitos previstos en los artículos 176 a 180 y 303 a 313 del Código Penal de la Nación
+o cometidos con ánimo de lucro o contra la fe pública o que tengan pena principal, conjunta o alternativa de
+inhabilitación, hasta DIEZ (10) años después de cumplida la condena.
+
+c) Los condenados por delitos de lavado de activos, financiamiento del terrorismo o de la proliferación de armas
+de destrucción masiva.
+
+d) Los que figuran en listas de terroristas u organizaciones terroristas emitidas por el CSNU.
+
+e) Los fallidos y los concursados hasta CINCO (5) años después de su rehabilitación.
+
+f) Quienes se encuentren inhabilitados por la aplicación de la sanción dispuesta en el artículo 132, inciso c) de la
+Ley de Mercado de Capitales.
+
+Cuando la incompatibilidad sea posterior a la inscripción, la persona humana implicada deberá informarlo de
+manera inmediata a la Comisión y deberá abstenerse de desempeñar la actividad.
+
+PSAV. CATEGORÍAS.
+
+ARTÍCULO 9°.- Las personas humanas y jurídicas que soliciten su inscripción en el Registro de PSAV deben
+identificar la o las categorías que se indican a continuación, de acuerdo con las actividades que realicen en tal
+carácter:
+
+CATEGORÍA 1°: Intercambio entre Activos Virtuales y monedas de curso legal (monedas fiduciarias).
+
+CATEGORÍA 2°: Intercambio entre una o más formas de Activos Virtuales.
+
+CATEGORÍA 3°: Transferencia de Activos Virtuales.
+
+CATEGORÍA 4°: Custodia o administración de Activos Virtuales o instrumentos que permitan el control sobre
+los mismos, excluidos los servicios en los que el usuario conserve el control exclusivo sobre dichos activos.
+
+CATEGORÍA 5°: Participación y provisión de servicios financieros relacionados con la oferta o venta de un
+Activo Virtual por parte de un emisor. Se considerará en esta categoría a quienes presten servicios a través de
+plataformas, aplicaciones móviles a emisores para la realización de la oferta inicial de Activos Virtuales o como
+medio público de captación de fondos destinados al financiamiento de sus proyectos. El mero acto de emitir un
+Activo Virtual por parte de un emisor no quedará alcanzado en la presente.
+
+Las personas humanas sólo podrán realizar las actividades previstas en las CATEGORÍAS 1° y 2°.
+
+PATRIMONIO NETO MÍNIMO.
+
+ARTÍCULO 10.- Los PSAV que soliciten su inscripción en el Registro y durante su permanencia en el mismo,
+deberán contar con los siguientes patrimonios netos mínimos, según la categoría que corresponda:
+
+a) Para las CATEGORÍAS 1°, 2° y 4°: Un patrimonio neto mínimo equivalente a DÓLARES
+ESTADOUNIDENSES CIENTO CINCUENTA MIL (U$S 150.000).
+
+b) Para la CATEGORÍA 3°: Un patrimonio neto mínimo equivalente a DÓLARES ESTADOUNIDENSES
+SETENTA Y CINCO MIL (U$S 75.000).
+
+c) Para la CATEGORÍA 5°: Un patrimonio neto mínimo equivalente a DÓLARES ESTADOUNIDENSES
+TREINTA Y CINCO MIL (U$S 35.000).
+
+En la medida en que la Entidad tenga menos de DÓLARES ESTADOUNIDENSES DOS MILLONES
+QUINIENTOS MIL (U$S 2.500.000) en volumen transaccionado durante los últimos DOCE (12) meses para el
+caso de las CATEGORÍAS 1°, 2° y 3°, o menos de esa cantidad en volumen custodiado durante los últimos
+DOCE (12) meses, para el caso de la CATEGORÍA 4°, la exigencia de patrimonio neto mínimo será el
+CINCUENTA POR CIENTO (50%) de las dispuestas en los párrafos precedentes.
+
+El PSAV inscripto o la persona jurídica que solicite su inscripción en el Registro bajo DOS (2) o más categorías
+existentes, deberá cumplir exclusivamente con la exigencia de patrimonio neto mínimo correspondiente a la
+categoría más exigente.
+
+El patrimonio neto debe observar el cumplimiento de los siguientes requisitos:
+
+i) Al momento de la inscripción y durante la permanencia en el Registro de PSAV, el capital social deberá estar
+totalmente integrado;
+
+ii) el capital social deberá estar inscripto en el Registro Público;
+
+iii) en caso de existir aportes irrevocables, los mismos deberán encontrarse capitalizados con anterioridad a la
+solicitud de inscripción en el Registro de PSAV y el aumento de capital resultante, debidamente inscripto;
+
+iv) los aportes irrevocables que reciba la sociedad durante la permanencia en el Registro de PSAV, deberán ser
+capitalizados dentro del plazo máximo de SEIS (6) meses contados desde su aceptación por el órgano de
+administración.
+
+Las personas jurídicas constituidas en el extranjero inscriptas como sucursal o representación permanente en los
+términos del artículo 118 de la Ley General de Sociedades deberán cumplir con los siguientes recaudos:
+
+Sucursal: deberá contar con un capital asignado en la República Argentina, el cual deberá ser igual o superior al
+patrimonio neto mínimo exigido y estar totalmente integrado y reflejado en los EECC de la sucursal.
+
+Representación permanente: si no fuera posible asignarle capital, se requerirá la afectación específica (mediante
+fideicomiso de garantía) de activos localizados en la República Argentina bajo titularidad o disponibilidad de la
+representación (no del representante), por un valor, en todo momento, no inferior al mínimo patrimonial exigido.
+
+RECOMPOSICIÓN DEL PATRIMONIO NETO MÍNIMO DURANTE SU PERMANENCIA EN EL
+REGISTRO.
+
+ARTÍCULO 11.- En caso de surgir de los EECC anuales un importe de patrimonio neto inferior al valor
+establecido como mínimo, el PSAV deberá informar como HR dicha circunstancia a la Comisión, acompañando
+en el plazo de DIEZ (10) días hábiles, el detalle de las medidas que adoptará para su recomposición.
+
+MANUALES DE PROCEDIMIENTO.
+
+ARTÍCULO 12.- Los PSAV deberán contar con Manuales de Procedimiento actualizados para –según
+corresponda de acuerdo con su categoría– el tratamiento de las órdenes de compra, venta, intercambio y los
+procedimientos técnicos y operativos utilizados para la custodia, administración o transferencia de Activos
+Virtuales, los cuales deberán estar a disposición de la CNV.
+
+Respecto al registro y preservación de los datos de las órdenes que ingresan al sistema y de las operaciones que se
+registran, debe constar como mínimo: fecha, hora, minutos y segundos en que fueron ingresadas y registradas, la
+cantidad ofertada (compra y venta), tipo de Activo Virtual, número identificador de la transacción interna o
+código HASH en la blockchain (TXID), e identificación del cliente.
+
+SISTEMAS INFORMÁTICOS.
+
+ARTÍCULO 13.- Los PSAV deberán tener a disposición de la CNV un detalle de los sistemas informáticos
+utilizados para el desarrollo de sus actividades, de acuerdo con la categoría correspondiente, los que deberán
+garantizar los principios de protección de los clientes, equidad, eficiencia, transparencia, no fragmentación y
+reducción del riesgo sistémico. Asimismo, los PSAV deberán presentar a través de la AIF un informe de idóneo
+informático respecto de la inalterabilidad de la información registrada, la seguridad del sistema, los
+procedimientos de copia de respaldo o back-up y contingencia, y demás funcionalidades de los sistemas
+informáticos utilizados. Dicha información no será de carácter público.
+
+CIBERSEGURIDAD.
+
+ARTÍCULO 14.- Los PSAV deberán, en todo momento, establecer, implementar y mantener actualizadas
+políticas, procedimientos y controles relacionados con los siguientes aspectos de ciberseguridad, debiendo a
+dichos efectos adoptar un enfoque basado en riesgos:
+
+a) Gobernanza: Deberán establecer procedimientos internos para gestionar los ciberriesgos. Dichos
+procedimientos deben incluir evaluaciones periódicas internas de ciberseguridad, así como la realización de
+auditorías, enfocándose específicamente en la ciberresiliencia de la infraestructura.
+
+b) Identificación: Deberán establecer especial énfasis en crear mecanismos idóneos para salvaguardar la
+información e identificar las debilidades potenciales a sus sistemas informáticos.
+
+El PSAV deberá detectar aquellos procesos y operaciones críticas de su infraestructura que deberán protegerse de
+manera prioritaria frente a las ciberamenazas con el objetivo de priorizar la utilización de los recursos. Los
+procesos y operaciones que deberán incluirse, como mínimo y de acuerdo con la categoría correspondiente, serán
+los siguientes:
+
+i) Sistemas de gestión y ejecución de órdenes de compra y venta o transferencia de cualquier naturaleza de
+Activos Virtuales;
+
+ii) sistemas de gestión de riesgos de la infraestructura;
+
+iii) sistemas de custodia y supervisión de Activos Virtuales o dinero fiduciario;
+
+iv) sistemas de difusión de información; y
+
+v) sistemas de resguardo de información no pública de los usuarios.
+
+c) Protección: La infraestructura de los PSAV deberá implementar mecanismos y medidas de control idóneos. Las
+medidas pueden ser organizativas como la creación de centros de seguridad de las operaciones o técnicas como
+antivirus y sistemas de prevención de intrusos. Dichos mecanismos deberán incluir, como mínimo, lo siguiente:
+
+i) Protección de la información de los usuarios: Se deberá poner especial énfasis en la salvaguarda de información
+de todas las personas, que han transferido, intercambiado, vendido o comprado Activos Virtuales a través del
+PSAV.
+
+ii) Interconexiones: Se deberán establecer medidas protectoras para mitigar los riesgos de las interconexiones con
+otros sistemas informáticos, plataformas o billeteras.
+
+iii) Amenazas internas: Los PSAV deberán realizar sus mejores esfuerzos para prevenir y detectar
+comportamientos anómalos y accesos no autorizados de sus empleados y establecer controles de acceso, con
+asignación, revisión y revocación de permisos para todo el personal autorizado.
+
+iv) Formación: Se deberá capacitar a los empleados cuyas funciones tengan relevancia en temas de
+ciberseguridad, pero particularmente, al personal que tenga acceso a los sistemas y procesos de carácter
+restringido.
+
+d) Detección: Los sistemas informáticos de los PSAV deberán tener la capacidad para reconocer potenciales
+incidentes o en su defecto, detectar que se ha cometido una ruptura de seguridad en los sistemas. Dichos sistemas
+informáticos deberán realizar, por lo menos, lo siguiente:
+
+i) Supervisión continua en tiempo real o con la menor latencia posible con objeto de detectar actividades
+anómalas;
+
+ii) supervisión de un amplio rango de factores externos e internos que puedan representar un riesgo, tales como
+intentos de acceso no autorizados o sospechosos; y
+
+iii) controles de seguridad y acceso en varios niveles para todos los empleados.
+
+e) Respuesta y recuperación. Los sistemas informáticos deberán contar con infraestructura que permita continuar
+con las funciones esenciales, restaurar los sistemas críticos tras un ciberataque y reducir el riesgo sistémico que
+generaría una interrupción en su actividad. La infraestructura deberá contar con la capacidad que se le exija en la
+política de respuesta y recuperación.
+POLÍTICAS DE SEGURIDAD DE LA INFORMACIÓN.
+
+ARTÍCULO 15.- Los PSAV deben contar con políticas de seguridad de la información aprobadas por su órgano
+de administración o de sus representantes locales, para el caso de sociedades extranjeras inscriptas conforme al
+artículo 118 de la Ley General de Sociedades, en los términos que se indican a continuación:
+
+a) Contener descripción de los sistemas y procedimientos técnicos y operativos de generación, almacenamiento,
+respaldo, recuperación y, cuando corresponda, sustitución y eliminación segura utilizados para la custodia de
+llaves privadas y los diferentes tipos de billeteras utilizados por el PSAV. En particular, se debe detallar la
+siguiente información:
+
+i) Definición de una categorización de billeteras en función de sus características operativas para el
+funcionamiento del PSAV (bóveda, transaccional, para interacción con protocolos DeFi, provisión de liquidez,
+etc.);
+
+ii) descripción de los tipos de billetera utilizados para cada categoría; y
+
+iii) detalle de los protocolos de seguridad para la ejecución de transacciones para cada tipo de billetera.
+
+b) Indicar las políticas y procedimientos para brindar o revocar el acceso a las llaves privadas para aquellos roles
+dentro del PSAV que serán parte de su custodia.
+
+c) Indicar los lineamientos técnicos y operativos que hacen a la seguridad y resiliencia de los sistemas vinculados
+con la operatoria y custodia de Activos Virtuales.
+
+Estas políticas deberán revisarse periódicamente y actualizarse ante cambios tecnológicos u operativos relevantes
+o incidentes que evidencien deficiencias en los controles.
+
+DETALLE DEL SISTEMA DE CUSTODIA.
+
+ARTÍCULO 16.- Los PSAV que realicen actividades de la CATEGORÍA 4° deben efectuar una descripción y
+diagrama general de la arquitectura donde se identifique la estructura de billeteras propias y de los clientes, junto
+con un esquema general y subesquemas de billeteras de custodia con las características de cada billetera o
+conjunto de billeteras y su función dentro de la operatoria del negocio. En este sentido, se debe presentar a través
+de la AIF un detalle con la siguiente información, como mínimo:
+
+a) Custodia propia o de una tercera parte (cuenta institucional u operativa del PSAV en otro PSAV),
+identificando, en su caso, a dicho tercero.
+
+b) Redes blockchain o TRD utilizadas para realizar la custodia, identificando la dirección de la billetera o
+billeteras operativas del PSAV.
+
+c) Características técnicas de la billetera:
+
+i) tipo de billetera (cold, warm, hot) y soporte (software, hardware); y
+
+ii) esquema de custodia de la llave privada (multi-sig, MPC, otros) preservando la estricta confidencialidad de la
+misma.
+La información requerida deberá mantenerse actualizada a través de la AIF bajo responsabilidad del PSAV,
+siendo la misma de carácter restringido, no público.
+
+Adicionalmente, los PSAV deberán hacer pública la prueba de reserva a través de su sitio web o aplicación.
+
+SEGREGACIÓN DE ACTIVOS VIRTUALES DE TERCEROS.
+
+ARTÍCULO 17.- Los PSAV que realicen actividades de la CATEGORIA 4° deberán garantizar una clara
+separación entre los Activos Virtuales propios del PSAV, por un lado, y los Activos Virtuales de sus clientes, por
+el otro. A estos fines, los PSAV deberán garantizar que dicha separación de activos quede asentada de forma
+clara, individualizada y actualizada en sus sistemas de registro interno, en las cuentas operativas que tengan
+abiertas en otros PSAV y en las cuentas o billeteras en terceros de los diferentes registros distribuidos donde
+tengan en custodia activos de sus clientes, según corresponda al esquema de custodia que cada PSAV utilice. Esto
+no impedirá que los PSAV mantengan un margen adicional de Activos Virtuales propios en las cuentas o
+billeteras en las que custodien los Activos Virtuales de sus clientes, con el fin de cubrir necesidades inmediatas de
+liquidez o disponibilidad de los Activos Virtuales derivadas de las transacciones de sus clientes, siempre que
+dicho margen adicional se distinga claramente en sus sistemas de registro internos.
+
+En ningún caso los Activos Virtuales de sus clientes se contabilizarán como activos del PSAV ni se computarán
+en el patrimonio neto del PSAV, sino que se contabilizarán como cuentas de orden. La modalidad operativa y
+régimen jurídico del depósito deberá establecerse con claridad en los contratos entre el PSAV y el cliente.
+
+En particular, los PSAV que realicen convenios comerciales con terceros que impliquen delegar en estos últimos
+la custodia o administración de los Activos Virtuales de sus clientes, deberán hacerlo a través de una billetera
+abierta a tal fin en el tercero, la cual será de uso exclusivo para la operatoria con Activos Virtuales de sus clientes
+y deberá encontrarse separada de otras billeteras que los PSAV pudieran tener abiertas para la administración de
+su cartera propia en el tercero con el cual tienen convenio.
+
+REQUISITOS PRUDENCIALES PARA LA CUSTODIA DE ACTIVOS VIRTUALES.
+
+ARTÍCULO 18.- Los PSAV que realicen actividades de la CATEGORIA 4°, deben garantizar que los Activos
+Virtuales en custodia por cuenta de sus clientes se encuentren bajo esquemas de custodia de llaves privadas que
+utilicen mecanismos de seguridad tecnológicos para mitigar los riesgos de robo o extravío de llaves privadas,
+teniendo que incorporar diferentes niveles de verificación y participación humana para emitir transacciones en
+función de umbrales transaccionales previamente definidos y alguno o varios de los mecanismos de seguridad
+complementarios que se mencionan a continuación:
+
+a) El almacenamiento en frío en dispositivos que no estén conectados a internet.
+
+b) La distribución de las llaves o partes de las llaves privadas en diferentes ambientes o dispositivos aislados y
+separados geográficamente.
+
+c) La implementación de políticas de autorización de transacciones a través de multifirmas para las transacciones
+con un esquema de roles, identificando a los responsables.
+
+d) La utilización de listas blancas donde se incorporen direcciones únicas y específicas para las transacciones
+salientes.
+e) Cualquier otro esquema o mecanismo de seguridad que garantice un nivel equivalente de protección de los
+Activos Virtuales de los clientes mitigando el acceso no autorizado a los mismos, ya sea por parte de empleados
+del PSAV o por agentes externos.
+
+SEGREGACIÓN DE FONDOS EN MONEDA FIDUCIARIA.
+
+ARTÍCULO 19.- Con relación al depósito de moneda fiduciaria, los PSAV deben mantener una clara separación
+de los fondos afectados al giro de su actividad comercial, entre aquellos fondos provenientes o aplicados a
+operaciones de sus clientes, por un lado, y los fondos provenientes o aplicados a operaciones por cuenta propia
+por el otro.
+
+A estos fines, los PSAV deberán garantizar que dicha separación de fondos quede asentada de forma clara,
+individualizada y actualizada en sus sistemas de registro interno.
+
+Para ello, los PSAV podrán depositar los fondos de los clientes en una cuenta bancaria abierta a nombre del
+PSAV en una Entidad financiera en el país autorizada por el BCRA o en el exterior que cumpla con estándares
+internacionales de seguridad financiera equivalentes a Basilea III, o se podrán valer de terceras compañías que
+operen como PSP registrados ante el BCRA, en la medida en que la normativa de dicha Entidad de control no lo
+prohíba, en ambos casos, en beneficio de sus clientes.
+
+PROHIBICIÓN DE USO DE ACTIVOS VIRTUALES Y MONEDA FIDUCIARIA DE CLIENTES POR
+CUENTA PROPIA.
+
+ARTÍCULO 20.- Los PSAV que custodien o administren Activos Virtuales o fondos por cuenta de sus clientes no
+podrán disponer ni hacer uso de estos por cuenta propia. Los PSAV deberán gestionar dichos Activos Virtuales y
+fondos de acuerdo con lo instruido expresamente por sus respectivos clientes y transferirlos a las direcciones que
+les sean indicadas por estos, en cada caso.
+
+AUDITORÍA ANUAL DE SISTEMAS.
+
+ARTÍCULO 21.- Los sistemas informáticos utilizados por los PSAV para el ejercicio de sus actividades deberán
+contar con una auditoría anual de sistemas —de acuerdo a la categoría correspondiente—, la que comprenderá,
+como mínimo, el contralor de funcionamiento, actividades, seguridad y continuidad del servicio, la inalterabilidad
+de la información registrada, los procedimientos de copia de respaldo o back-up, la prueba de reservas y demás
+requisitos en la materia exigidos en el presente Capítulo. Cuando la operatoria utilice contratos inteligentes, la
+auditoría deberá comprender la evaluación de su seguridad y funcionamiento.
+
+El informe de auditoría anual de sistemas deberá ser suscripto por idóneo informático, que podrá ser nacional o
+extranjero, con experiencia acreditable en sistemas informáticos y seguridad de Activos Virtuales. El órgano de
+administración del PSAV deberá transcribir en el libro de actas del órgano de administración o libro especial que
+habilite a dicho efecto, las conclusiones del informe incluyendo las recomendaciones que reciban de sus auditores
+de sistemas aun cuando no se hayan detectado deficiencias, y el análisis propio efectuado por el PSAV, indicando
+en su caso las medidas adoptadas para mejorar el sistema o para corregir las deficiencias observadas por los
+auditores. Para el caso de sociedades extranjeras inscriptas en los términos del artículo 118 de la Ley General de
+Sociedades, sus representantes locales, deberán efectuar la transcripción referida precedentemente en el libro
+especial que habiliten al efecto.
+
+DESIGNACIÓN DEL RESPONSABLE DE CUMPLIMIENTO REGULATORIO Y CONTROL INTERNO.
+FUNCIONES.
+
+ARTÍCULO 22.- El órgano de administración o los representantes locales (para el caso de sociedades extranjeras
+inscriptas conforme al artículo 118 de la Ley General de Sociedades) del PSAV deberán evaluar los antecedentes
+personales y profesionales a los fines de la designación de la persona que se desempeñe como responsable de
+cumplimiento regulatorio y control interno, con el objeto de controlar y evaluar el cumplimiento, por parte del
+PSAV y de los empleados afectados a la actividad, de las obligaciones que les incumben en el presente Capítulo y
+en estas Normas.
+
+El responsable designado, quien podrá ser miembro del órgano de administración o representante local, para el
+caso de sociedades extranjeras inscriptas conforme al artículo 118 de la Ley General de Sociedades, tendrá las
+siguientes funciones:
+
+a) Controlar y evaluar la adecuación y eficacia de las medidas y los procedimientos establecidos de conformidad
+con las obligaciones resultantes del presente Capítulo y de estas Normas.
+
+b) Monitorear la eficacia de los mecanismos de control interno, procedimientos, políticas y métodos que el PSAV
+utiliza en sus actividades, así como proponer las medidas a adoptar a los fines de corregir toda posible deficiencia
+detectada. El responsable de cumplimiento regulatorio y control interno determinará la naturaleza y alcance de los
+procedimientos a aplicar considerando la actividad específica de control, el gobierno corporativo de la Entidad, la
+documentación de la actividad de control y la complejidad de las operaciones del PSAV.
+
+c) Controlar el cumplimiento del código de conducta.
+
+d) Corroborar que los reclamos y denuncias de los clientes sean atendidos por el responsable de relaciones con el
+público de acuerdo con los procedimientos referidos en el presente Capítulo.
+
+e) Presentar a la Comisión por medio de la AIF, dentro de los SETENTA (70) días corridos de finalizado el año
+calendario, un informe con los resultados de los exámenes llevados a cabo durante el año como consecuencia de
+las funciones a su cargo.
+
+El responsable de cumplimiento regulatorio y control interno reportará directamente al órgano de administración
+o a los representantes locales, para el caso de sociedades extranjeras inscriptas conforme al artículo 118 de la Ley
+General de Sociedades, cuando no revista además carácter de miembro integrante del mismo.
+
+El órgano de administración o los representantes locales (para el caso de sociedades extranjeras inscriptas
+conforme al artículo 118 de la Ley General de Sociedades) del PSAV deberán garantizar al responsable de
+cumplimiento regulatorio y control interno los recursos y el acceso a toda la información necesaria para el
+cumplimiento adecuado de su función.
+
+CONFIDENCIALIDAD.
+
+ARTÍCULO 23.- En todos los documentos e informes referidos en el presente Capítulo, los PSAV deben
+asegurarse de que, en ningún caso, se revele información que exponga la seguridad de los Activos Virtuales, ni
+que permita asociar roles de gestión y administración de información o Activos Virtuales críticos con personas
+humanas o jurídicas. Se debe evitar la identificación de manera directa de las partes físicas y virtuales que hacen a
+la infraestructura y procesos informáticos aludidos.
+PLA/FT/FP.
+
+ARTÍCULO 24.- Los PSAV deberán dar cumplimiento a las disposiciones relativas a la PLA/FT/FP establecidas
+en el Título XI de estas Normas.
+
+NORMAS DE CONDUCTA. OBLIGACIONES, INTEGRIDAD Y TRANSPARENCIA.
+
+ARTÍCULO 25.- En su actuación general los PSAV deberán:
+
+a) Llevar a cabo sus actividades de manera honesta, imparcial, con profesionalidad, diligencia y lealtad para el
+mejor interés de los clientes, sin anteponer sus propios intereses a los de sus clientes, y velando por el beneficio
+de estos últimos y el buen funcionamiento de los Activos Virtuales que gestionan, comercializan o promocionan.
+
+b) Brindar información adecuada en un lenguaje claro que facilite la comprensión por parte de los usuarios.
+
+c) Comunicarse con los clientes de forma clara, justa, equilibrada y no engañosa, de acuerdo con la naturaleza del
+servicio prestado.
+
+d) Evitar toda práctica que pueda inducir a engaño o confusión, como así también identificar y mitigar posibles
+conflictos de intereses.
+
+e) Abstenerse de anteponer la compraventa de Activos Virtuales para su cartera propia, cuando tengan pendientes
+de concertación operaciones de clientes, de la misma naturaleza de determinado Activo Virtual.
+
+f) Proveer información oportuna, veraz y fácilmente disponible en las plataformas digitales sobre los servicios
+que ofrecen.
+
+g) Abstenerse de percibir comisiones abusivas, respetando siempre los precios, costos y comisiones informadas al
+público general.
+
+h) Evitar la polifuncionalidad del personal de la Entidad en áreas que puedan ocasionar conflictos de intereses.
+
+i) Advertir a los clientes sobre los riesgos inherentes a las operaciones que pretenden realizar.
+
+j) Establecer un servicio de atención al cliente mediante correo electrónico, al que se podrá acceder
+adicionalmente por vía telefónica o cualquier otro medio de fácil acceso.
+
+k) Gestionar y controlar su actividad de manera eficaz, y llevarla a cabo con la debida habilidad, profesionalidad,
+cuidado y diligencia, teniendo en cuenta los riesgos para su actividad y sus clientes.
+
+l) Disponer y aplicar mecanismos eficaces para la protección de los Activos Virtuales y las monedas fiduciarias,
+cuando estos se encuentren bajo su custodia.
+
+m) Disponer y aplicar mecanismos eficaces de gobierno corporativo, cuando corresponda.
+
+n) Implementar sistemas informáticos seguros, manteniendo un alto nivel de calidad y ciberseguridad, de acuerdo
+con criterios y parámetros internacionales.
+
+o) Disponer de sistemas para prevenir, detectar y revelar los riesgos de los delitos financieros, como el lavado de
+dinero, financiamiento del terrorismo o de la proliferación de armas de destrucción masiva.
+p) Verificar la identidad, el origen de los fondos y el perfil transaccional de sus clientes con el fin de detectar
+posibles riesgos u operaciones sospechosas, conforme al proceso conocido como conozca a su cliente.
+
+q) Abstenerse de ofrecer servicios, herramientas o mecanismos diseñados para dificultar la identificación del
+origen y el destino de las transacciones con Activos Virtuales, tales como mezcladores (mixers o tumblers),
+mecanismos de mezcla colaborativa de transacciones y otros servicios de anonimización que oculten o dificulten
+establecer la vinculación entre las direcciones de origen y de destino, en perjuicio de la trazabilidad financiera y
+de las políticas de PLA/FT/FP.
+
+CÓDIGO DE CONDUCTA.
+
+ARTÍCULO 26.- Los PSAV deberán elaborar un código de conducta que estará a disposición de todos sus
+clientes en su sitio web y aplicación móvil, el cual deberá incluir, como mínimo, lo siguiente:
+
+a) Principios generales y específicos que regirán la conducta de todos los empleados del PSAV.
+
+b) Normas de protección al cliente, incluyendo explicación detallada de los derechos y obligaciones que
+incumben a los mismos.
+
+c) Política sobre conflictos de intereses en operaciones, inversionistas o socios, empleados, directivos y
+apoderados.
+
+d) Políticas de trato justo al cliente que aseguren un trato equitativo y transparente hacia estos.
+
+e) Políticas relacionadas con la PLA/FT/FP, en cumplimiento de las regulaciones y disposiciones aplicables.
+
+MANIPULACIÓN. PLATAFORMAS O APLICACIONES MÓVILES DE NEGOCIACIÓN DE ACTIVOS
+VIRTUALES.
+
+ARTÍCULO 27.- Los PSAV deben implementar medidas apropiadas para asegurar que en las plataformas o
+aplicaciones móviles de negociación de los Activos Virtuales se mantenga la integridad, se prevengan abusos en
+la negociación y se eviten acciones que impliquen manipulación, como ser:
+
+a) Dañar o retrasar el funcionamiento de las plataformas o aplicaciones móviles de negociación de Activos
+Virtuales o realizar cualquier otra actividad que pudiera tener dicho efecto.
+
+b) Emitir órdenes que desestabilizan el funcionamiento normal de una plataforma o aplicaciones móviles de
+negociación de Activos Virtuales.
+
+c) Crear una señal falsa o engañosa sobre la oferta, la demanda o el precio de un Activo Virtual.
+
+d) Provocar evoluciones artificiales de precios de los Activos Virtuales admitidos a negociación en la plataforma
+o aplicación móvil o billetera digital que administre, sea en beneficio propio o de terceros.
+
+e) Deberán coadyuvar a la transparencia en la formación de los precios de mercado de Activos Virtuales, evitando
+la divulgación al público de informaciones falsas o inexactas o tendenciosas, así como el uso de información
+privilegiada.
+
+DEBIDA DILIGENCIA OPERATIVA.
+ARTÍCULO 28.- Cada PSAV, en caso de que opere plataformas, billeteras o aplicaciones móviles, deberá contar
+con sistemas informáticos que realicen, como mínimo y de acuerdo con la categoría correspondiente, lo siguiente:
+
+a) Liquidación rápida, correcta y precisa de todas las transacciones realizadas en dichas plataformas, billeteras o
+aplicaciones móviles.
+
+b) Libro electrónico que confirme y lleve un registro exacto, auditable y verificable de cada transacción y que
+incluya todos los detalles de cada transacción, tales como la fecha, el tipo de transacción, los usuarios que
+participaron y el monto total de la operación.
+
+c) Sistema de monitoreo permanente y eficaz de todas las operaciones que permita la detección de errores y fallas
+relevantes. Dicho sistema deberá tener la capacidad de recuperar la información dañada o borrada en las
+operaciones en las que se experimentaron errores, fallas o se generen controversias significativas.
+
+d) Suspensión y cierre de las cuentas de clientes que han incumplido los términos y condiciones para el uso de la
+plataforma, aplicación móvil o billetera digital. Se deberá notificar al cliente los motivos de la suspensión o cierre
+de su cuenta.
+
+MECANISMOS DE GESTIÓN DE RIESGOS.
+
+ARTÍCULO 29.- Los PSAV deberán adoptar y actualizar sus políticas y mecanismos para la gestión de riesgos,
+lo cual requerirá, entre otras acciones; identificarlos, evaluarlos y mitigarlos acorde a las mejores prácticas
+internacionales y a los parámetros y requerimientos definidos por las autoridades competentes. En dichas políticas
+se deberán incluir las medidas que se adoptarán para prevenir posibles incumplimientos a requerimientos
+regulatorios y las que se adoptarán en el caso de que se haya incurrido en ellos, debiendo definir en ambas
+situaciones los parámetros que orientarán la actuación y los responsables de implementarlas.
+
+RESPONSABLE DE RELACIONES CON EL PÚBLICO.
+
+ARTÍCULO 30.- Los PSAV deberán designar una persona como responsable de relaciones con el público, cuya
+función será garantizar que todas las preguntas, inquietudes o reclamos de los clientes sean debidamente
+atendidos.
+
+Los PSAV deberán establecer y mantener un canal de comunicación/contacto directo para los clientes con el
+responsable de relaciones con el público, el cual será informado de manera clara y accesible a todos ellos en el
+sitio web institucional y en la aplicación móvil.
+
+PROCEDIMIENTOS DE GESTIÓN DE RECLAMOS.
+
+ARTÍCULO 31.- Los PSAV establecerán y mantendrán procedimientos eficaces, accesibles y transparentes que
+posibiliten una tramitación expedita, imparcial y coherente de los reclamos presentados por los clientes.
+Asimismo, deberán informar en la AIF y en sus sitios web, plataforma o aplicación móvil una dirección de correo
+electrónico de reclamos para clientes.
+
+COMISIONES Y HONORARIOS.
+
+ARTÍCULO 32.- Los PSAV deberán mantener una estructura de comisiones transparente en relación con los
+servicios que brindan al público minorista en general. Asimismo, deberán hacer pública, de manera destacada en
+su sitio web, plataforma y aplicación móvil, su política de precios, costos y comisiones, asegurando que sea de
+fácil lectura y accesible.
+
+PUBLICIDAD.
+
+ARTÍCULO 33.- La publicidad y difusión que, por cualquier medio, realicen los PSAV, no podrá contener
+declaraciones, alusiones o descripciones que puedan inducir a error, equívocos o confusión al público sobre el
+servicio ofrecido ni sobre los Activos Virtuales involucrados. El PSAV debe asegurarse que toda la información
+sea presentada de manera clara, justa y precisa, sin inducir a error o engaño y ser comunicada de manera
+fácilmente comprensible.
+
+En caso de incumplimiento de lo dispuesto en el presente artículo o en la normativa que al efecto dicte la
+Comisión, ésta podrá ordenar al sujeto infractor que modifique o suspenda la publicidad.
+
+Las personas que promocionen las actividades del PSAV deberán abstenerse de promocionar, publicitar o
+difundir actividades vinculadas al mercado de capitales y viceversa, con excepción de la difusión de servicios
+relacionados con valores negociables representados digitalmente conforme al Título XXII de estas Normas,
+exclusivamente respecto de las actividades que el PSAV se encuentre autorizado a realizar.
+
+ARTÍCULO 34.- Ninguna persona humana o jurídica que no se encuentre inscripta en el Registro de la CNV
+como PSAV podrá utilizar un nombre o una razón social, emitir comunicaciones publicitarias, incluidos los
+avisos patrocinados en medios masivos de comunicación, o valerse de cualquier otro medio de difusión que
+sugiera que es un PSAV o que pueda crear confusión al respecto. Lo anterior no impide que los PSAV registrados
+puedan conceder autorización de uso de su nombre a socios comerciales y para fines publicitarios.
+
+CONVENIOS DE REFERENCIAMIENTO.
+
+ARTÍCULO 35.- El PSAV podrá referenciar clientes a los Agentes Registrados, y ser referenciado por estos
+siempre que ello no esté prohibido por las Normas o por la normativa de otra autoridad que regule al Agente
+Registrado del que se trate.
+
+Asimismo, el PSAV podrá ser referenciado por terceras partes constituidas en el país o en el exterior, incluyendo
+su casa matriz o grupo económico, siempre que ello no esté prohibido por normativa de la autoridad que regule su
+actividad, debiendo asegurarse de que toda publicidad contenga la identificación del PSAV registrado e
+información clara y precisa de los servicios prestados.
+
+La actuación de quien efectúe el referenciamiento deberá limitarse a redireccionar al cliente y facilitar el contacto
+con el prestador de los servicios, sin intervenir en la recepción, transmisión o ejecución de órdenes ni realizar
+actividades que excedan el alcance de su propia autorización o inscripción.
+
+En todos los casos, el referenciamiento deberá ser formalizado en el marco de un convenio a celebrarse entre las
+partes intervinientes e informado dentro de los CINCO (5) días a la CNV a través de la AIF, indicando fecha de
+suscripción, plazo de vigencia si existiere e identificación del Agente Registrado o terceros.
+
+CONVENIOS DEL PSAV CON TERCEROS.
+
+ARTÍCULO 36.- El PSAV podrá celebrar convenios con terceras partes constituidas en el país y que, en su caso,
+estén habilitadas por la autoridad que regule su actividad o en el exterior, relacionadas o no, para la integración de
+operaciones entre sí o delegar funciones inherentes a su actividad como PSAV siempre que incluya, en los
+convenios celebrados con dichas contrapartes, la obligación de proporcionar toda la información necesaria para
+cumplir con el régimen informativo establecido en estas Normas, así como cualquier otra información que sea
+requerida por la CNV o por cualquier otra dependencia competente (judicial, impositiva, de lavado de dinero u
+otra relevante) para dar cumplimiento a los requisitos previstos en el presente Capítulo, en su calidad de PSAV
+registrado ante la CNV. En el caso de convenios celebrados con Entidades del exterior que desarrollen
+actividades propias de un PSAV, estos deberán estar regulados por organismos de control de países que no
+figuren en el listado de jurisdicciones no cooperantes en materia de transparencia fiscal, conforme al artículo 24
+del Anexo del Decreto N° 862/2019. Además, deberán contar con autorización, regulación y supervisión en
+cuanto a la PLA/FT/FP, de acuerdo con las recomendaciones del GAFI en la jurisdicción de origen.
+
+En ningún caso, los convenios podrán pactar una dispensa en la responsabilidad del PSAV sobre el servicio
+prestado. En el supuesto de delegar la ejecución de funciones en terceros, el PSAV seguirá siendo plenamente
+responsable tanto por la gestión de quienes asuman esas funciones como por el cumplimiento de todas las
+obligaciones establecidas en el presente Capítulo. Dentro de los CINCO (5) días de suscripto cada convenio, el
+PSAV deberá comunicar a través de la AIF, la fecha de suscripción, el plazo de vigencia (en caso de existir), una
+descripción del servicio prestado y la identificación del tercero, incluyendo su denominación social y el país de
+constitución. Asimismo, la rescisión de los convenios deberá ser informada de forma inmediata como HR a través
+de la AIF.
+
+Los convenios deberán ser presentados a la Comisión, siempre que esta lo requiera. Dicha información no será de
+carácter público.
+
+DIVULGACIÓN DE RIESGOS DE LOS ACTIVOS VIRTUALES.
+
+ARTÍCULO 37.- El PSAV deberá publicar claramente en su sitio web, plataforma y aplicación móvil, la
+naturaleza y riesgos a los que los clientes están expuestos al realizar operaciones con Activos Virtuales. Los
+riesgos divulgados deben incluir, entre otras advertencias, que:
+
+a) Los Activos Virtuales son altamente volátiles y pueden ser de alto riesgo por lo que los inversores deben tener
+extrema precaución con respecto a los productos;
+
+b) los Activos Virtuales no están contemplados en la Ley de Mercado de Capitales, excepto que los mismos
+encuadren en la definición de valores negociables, en los términos del artículo 2° de dicha ley, ni en las facultades
+conferidas a la CNV por la Ley N° 27.739, por lo que los documentos de oferta o la información del producto
+proporcionada por el emisor no han sido objeto de examen ni aprobación por parte de la Comisión y, en su caso,
+ningún organismo regulador;
+
+c) un Activo Virtual no es una moneda de curso legal en la República Argentina, por ende, no está emitido ni
+respaldado por el gobierno ni las autoridades nacionales;
+
+d) las transacciones con Activos Virtuales pueden ser irreversibles y, en consecuencia, las pérdidas debido a
+transacciones fraudulentas o accidentales pueden ser no recuperables;
+
+e) el valor de un Activo Virtual puede derivarse de la disposición continua de los participantes del mercado para
+intercambiar moneda fiduciaria por un Activo Virtual, lo que significa que el valor de un Activo Virtual en
+particular puede perderse por completo y de manera permanente si el mercado de dicho Activo desaparece. No
+existe garantía de que una persona que acepta un Activo Virtual como pago en el momento lo siga haciendo en el
+futuro. Determinados Activos Virtuales pueden ser aceptados solamente en algunos PSAV y no en otros;
+f) la extrema volatilidad e imprevisibilidad del precio de un Activo Virtual en relación con las monedas
+fiduciarias puede resultar en una pérdida total de la inversión en un corto período de tiempo;
+
+g) los cambios legislativos y regulatorios pueden afectar negativamente el uso, transferencia, intercambio o valor
+de los Activos Virtuales;
+
+h) las transacciones de Activos Virtuales se consideran ejecutadas solo cuando son registradas y confirmadas por
+el sitio web, la plataforma de negociación o aplicación móvil, lo cual no necesariamente coincide con el momento
+en que el cliente inicia la transacción;
+
+i) la naturaleza de los Activos Virtuales los expone a riesgos de fraude o ciberataque, incluidos la suplantación de
+identidad y el robo de credenciales;
+
+j) la naturaleza de los Activos Virtuales significa que cualquier dificultad tecnológica experimentada por el PSAV
+puede implicar que los clientes no puedan acceder a sus Activos Virtuales;
+
+k) la pérdida o robo de las claves privadas puede resultar en la pérdida total del acceso a los Activos Virtuales sin
+posibilidad de recuperación; y
+
+l) las redes de las que dependen los Activos Virtuales pueden enfrentar interrupciones o congestiones debido a
+problemas técnicos, ataques cibernéticos u otros factores.
+
+OFERTA DE ACTIVOS VIRTUALES.
+
+ARTÍCULO 38.- Los PSAV sólo podrán ofrecer a los clientes Activos Virtuales que contengan la información de
+carácter general en el libro blanco (white paper) o piezas informativas con información relevante sobre el Emisor
+y el proyecto, entre otras cuestiones, la cual deberá ser publicada o vinculada en el sitio web, plataforma y
+aplicación móvil del PSAV, debiendo ser de fácil acceso y estar disponible en todo momento en idioma nacional
+o en inglés.
+
+Los PSAV tienen prohibido todo ofrecimiento o intermediación que constituya una oferta pública con Activos
+Virtuales que sean valores negociables comprendidos en los términos del artículo 2° de la Ley de Mercado de
+Capitales, excepto que los mismos cuenten con autorización de oferta pública por parte de la CNV. A tales
+efectos, se atenderá a la naturaleza jurídica y económica de los derechos conferidos y a la operatoria
+efectivamente desarrollada, con independencia de la denominación comercial del producto o la tecnología
+utilizada.
+
+Asimismo, cuando se trate de valores negociables representados digitalmente, la actuación del PSAV deberá
+ajustarse a las disposiciones del Título XXII de estas Normas.
+
+Solo podrán estar disponibles a los usuarios dentro del sitio web, la plataforma y aplicación móvil del PSAV, los
+Activos Virtuales cuyo lanzamiento tenga una antigüedad menor a NOVENTA (90) días, siempre que cuenten
+con una indicación especial a modo de advertencia de que dichos activos tienen menos de NOVENTA (90) días
+de lanzados por lo que podrían conllevar una volatilidad, un riesgo de pérdida del total de los montos alocados a
+esos activos y, en general, un nivel de riesgo, en todos los casos, potencialmente aún superior a otros Activos
+Virtuales que cuentan con mayor historial. Dichos Activos Virtuales deberán ser presentados, al menos durante
+dicho período, en una sección específica, en la que se señalen las advertencias anteriormente mencionadas.
+CONSERVACIÓN DE DOCUMENTACIÓN.
+
+ARTÍCULO 39.- En la prestación de sus servicios de Activos Virtuales, el PSAV deberá conservar los registros
+contables, registros de identidad de los clientes, comunicaciones con clientes y archivos, en ambos casos
+relevantes, así como cualquier comprobante que permita reconstruir el servicio que preste o las operaciones que
+realice por cuenta de sus clientes, por el plazo mínimo de DIEZ (10) años.
+
+El PSAV deberá implementar las medidas y acciones necesarias tendientes a proteger la documentación para
+evitar su destrucción, extravío, uso indebido, y la divulgación de información confidencial.
+
+En caso de decidir tercerizar la guarda de la misma, será bajo su responsabilidad.
+
+RÉGIMEN INFORMATIVO PERIÓDICO.
+
+ARTÍCULO 40.- Los PSAV, de acuerdo con su categoría, deberán presentar a la CNV, a través de la AIF, la
+siguiente información conforme los plazos y formato requerido:
+
+a) Mantener actualizadas las direcciones de las billeteras del PSAV utilizadas para administrar la custodia de los
+Activos Virtuales de sus clientes en el país, identificando las propias y las de terceras partes, en el caso que haya
+delegado la custodia en otra Entidad. Dicha información no será de carácter público.
+
+b) Dentro de los QUINCE (15) días corridos de finalizado cada mes calendario:
+
+i) Cantidad de clientes, clasificados en personas humanas y personas jurídicas;
+
+ii) volumen mensual de operaciones, indicando monto total operado expresado en dólares estadounidenses;
+
+iii) detalle de los DIEZ (10) Activos Virtuales más negociados, indicando la cantidad de cada tipo de Activo
+Virtual; y
+
+iv) en el caso de Activos Virtuales bajo custodia, cantidad total de cada Activo Virtual custodiado.
+
+A los fines de la determinación, cálculo y presentación de la información prevista en los apartados i) a iv),
+deberán observarse las definiciones, los criterios metodológicos y las pautas de exposición establecidos en el
+Anexo I del presente Capítulo.
+
+c) Con periodicidad anual:
+
+1. Informe de auditoría anual de sistemas requerido en el artículo 21 del presente Capítulo, dentro de los
+SETENTA (70) días corridos de finalizado el año calendario.
+
+2. Informe emitido por el responsable de cumplimiento regulatorio y control interno requerido en el artículo 22
+del presente Capítulo, dentro de los SETENTA (70) días corridos de finalizado el año calendario.
+
+3. PSAV Personas Jurídicas: EECC anuales con informe de auditor externo, dentro de los CINCO (5) días de
+presentados ante el Registro Público correspondiente o dentro de los CINCO (5) días de vencido el plazo de
+presentación, lo que ocurra primero.
+
+4. PSAV Personas Humanas: manifestación de bienes y deudas certificada por contador público independiente
+con firma legalizada por el Consejo Profesional respectivo que acredite el cumplimiento de la exigencia
+patrimonial, dentro de los NOVENTA (90) días corridos de finalizado el año calendario. A los efectos del cálculo
+del patrimonio se deberá considerar el valor en dólares estadounidenses a la fecha de finalización de año
+calendario, aplicando el tipo de cambio establecido por la Comunicación “A” 3500 del BCRA.
+
+d) HR: Los PSAV deberán informar a la Comisión, en forma inmediata, directa, veraz, suficiente y oportuna, a
+través de la AIF, todo hecho o situación que, por su importancia, sea apto para afectar en forma sustancial el
+desenvolvimiento de la actividad propia del PSAV.
+
+La enumeración siguiente es ejemplificativa de la obligación de informar los HR y no releva a las personas
+responsables de la obligación de informar todo otro hecho o situación aquí no enunciado:
+
+i) Cambios en el objeto social, alteraciones de importancia en sus actividades o iniciación de otras nuevas.
+
+ii) Fecha efectiva de inicio de sus actividades.
+
+iii) Modificación de las categorías de inscripción de PSAV.
+
+iv) Pérdidas superiores al QUINCE POR CIENTO (15%) del patrimonio neto, computadas en relación con el
+último cierre de los EECC, que comprometan el patrimonio neto.
+
+v) Litigios, causas judiciales, reclamos arbitrales o extrajudiciales de cualquier naturaleza, de importancia
+económica significativa o de trascendencia para el desenvolvimiento de sus actividades; causas judiciales de
+relevancia que contra ella promuevan sus accionistas; y las resoluciones relevantes en el curso de todos esos
+procesos, aun cuando no se encuentren firmes. Se entenderá que existe importancia económica significativa
+cuando el monto reclamado o estimado del mismo, supere el DIEZ POR CIENTO (10%) del patrimonio neto de
+la Entidad, considerándose este en forma individual o juntamente con otros procesos vinculados por su objeto o
+causa.
+
+vi) Situaciones de insolvencia, concurso preventivo o quiebra.
+
+vii) Interrupciones sustanciales en los sistemas tecnológicos que afecten la operatoria.
+
+viii) Ciberataques, fraudes o incidentes de seguridad que comprometan de manera relevante fondos o datos de
+clientes.
+
+ix) Problemas con servicios de custodia, transferencia o intercambio de Activos Virtuales.
+
+x) Eventos tecnológicos que limiten la capacidad de prestar servicios.
+
+xi) Decisión de cese total de actividades como PSAV o de cese de una o más categorías de inscripción, indicando
+la fecha prevista para su efectivización.
+
+xii) Detalle de las medidas que adoptará para la recomposición del patrimonio neto mínimo.
+
+xiii) Rescisión de los convenios del PSAV con terceros.
+
+La restante información que debe ser remitida a través de la AIF y que no cuente con plazos de presentación
+periódicos estipulados, deberá encontrarse actualizada bajo responsabilidad del PSAV, dentro de los CINCO (5)
+días de producida la modificación.
+CUMPLIMIENTO PERMANENTE DE LOS REQUISITOS. INCUMPLIMIENTOS.
+
+ARTÍCULO 41.- Los PSAV inscriptos en la CNV deberán cumplir con la totalidad de los requisitos exigidos por
+estas Normas durante la vigencia de su inscripción.
+
+Los incumplimientos a los requisitos, condiciones y obligaciones dispuestas por la Comisión darán lugar a la
+aplicación de las sanciones establecidas en el Capítulo I del Título IV de la Ley de Mercado de Capitales,
+conforme a lo establecido en el artículo 37 de la Ley N° 27.739.
+
+Ante la comisión de un posible acto ilícito por parte de algún PSAV no inscripto en el Registro de PSAV, este
+Organismo podrá solicitar, entre otras cosas, a la fiscalía especializada o juzgado correspondiente la solicitud del
+bloqueo inmediato de la URL de su sitio web y nombre de usuario a través de los que opera en las redes sociales
+u otros medios.
+
+MODIFICACIÓN DE CATEGORÍA.
+
+ARTÍCULO 42.- El PSAV deberá informar a la CNV toda decisión de modificación de las categorías
+oportunamente declaradas.
+
+A tal efecto, deberá comunicar previamente dicha circunstancia a la casilla institucional del Registro de PSAV
+(RegistroPSAV@cnv.gov.ar), indicando la modificación de categoría que pretende realizar.
+
+La información y documentación necesaria para acreditar el cumplimiento de los requisitos y condiciones
+previstos en el presente Capítulo que resulten aplicables a las categorías involucradas deberá ser presentada a
+través de la AIF, mediante los formularios correspondientes.
+
+Una vez cumplidos los requisitos correspondientes y notificada dicha circunstancia al PSAV, este deberá
+informar la modificación en la AIF, en carácter de HR.
+
+La comunicación deberá contener, como mínimo, la descripción detallada de la modificación de categoría; y la
+identificación de la resolución social adoptada por el órgano competente que resolvió dicha modificación,
+indicando fecha y órgano interviniente.
+
+Asimismo, el PSAV deberá completar en la AIF el Formulario PSAV_003, identificando la totalidad de las
+categorías declaradas en tal carácter.
+
+La Comisión podrá requerir la información o documentación adicional que estime pertinente.
+
+ADECUACIÓN DEL REGISTRO POR CAMBIO DE DENOMINACIÓN SOCIAL.
+
+ARTÍCULO 43.- En caso de modificación de la denominación social, el PSAV deberá informar tal circunstancia
+a la CNV.
+
+A tal efecto, deberá comunicarla a través de la AIF, acompañando la constancia de inscripción registral del
+cambio de denominación social emitida por el Registro Público correspondiente.
+
+La presentación deberá efectuarse a los fines de la adecuación de la inscripción del PSAV en el registro
+respectivo.
+La Comisión podrá requerir la información o documentación adicional que estime pertinente.
+
+DE LA CANCELACIÓN DE LA INSCRIPCIÓN EN EL REGISTRO.
+
+ARTÍCULO 44.- La Comisión cancelará la inscripción registral de los PSAV mediante acto administrativo
+correspondiente, en los siguientes casos:
+
+a) Cuando los PSAV registrados así lo soliciten, pudiendo presentar nuevamente su solicitud de registro, siempre
+y cuando cumplan con los requisitos establecidos por la normativa vigente. A tal fin, la solicitud de cancelación
+deberá tener debidamente acreditada la competencia de quien solicita la baja.
+
+Con carácter previo a la solicitud de cancelación, el PSAV deberá haber comunicado a sus clientes el cese de
+actividades con una antelación no inferior a TREINTA (30) días corridos, haber arbitrado mecanismos necesarios
+para posibilitar el retiro o transferencia de los saldos de sus clientes y efectuado comunicaciones periódicas a sus
+clientes durante dicho plazo.
+
+La solicitud deberá incluir una declaración jurada en la que se manifieste que el PSAV ha cesado las actividades
+comprendidas en el artículo 4° bis de la Ley de Lavado y que ha dado cumplimiento a las medidas previstas para
+el cese de actividades.
+
+La Comisión podrá requerir toda otra información complementaria que resulte necesaria a los fines de proceder a
+la cancelación.
+
+b) Cuando por el ejercicio de las facultades de supervisión, regulación, fiscalización y sanción, contenidas en el
+artículo 19 de la Ley de Mercado de Capitales, la Comisión resuelva la revocación de la inscripción del PSAV.
+
+c) Cuando sea requerido por la UIF, como consecuencia de incumplimientos de los PSAV al régimen informativo
+exigido por dicho Organismo, incluyendo el incumplimiento de la individualización de los beneficiarios finales.
+
+PARTICIPACIÓN EN EVENTOS POR PARTE DE PERSONAS JURÍDICAS CONSTITUIDAS EN EL
+EXTERIOR.
+
+ARTÍCULO 45.- Las personas jurídicas constituidas en el exterior que realicen una o más de las actividades u
+operaciones mencionadas en la Definición de PSAV del artículo 4° bis de la Ley de Lavado, y que no se
+encuentren inscriptas en el Registro de PSAV de la CNV, podrán participar como patrocinadores en eventos
+internacionales celebrados en la República Argentina, siempre que se cumplan con las siguientes condiciones:
+
+1. Advertir a los participantes del evento que la Entidad no se encuentra inscripta en el Registro de la CNV.
+
+2. Abstenerse de realizar en el país cualesquiera de las actividades u operaciones comprendidas en la Definición
+de PSAV del artículo 4° bis de la Ley de Lavado, incluyendo llamados a la inversión en Activos Virtuales.
+
+3. El patrocinante podrá tener un stand dentro del evento siempre que advierta a los participantes que no se
+encuentra registrado en la República Argentina y que, por ende, no puede ofrecer servicios a los residentes
+argentinos.
+
+ANEXO I
+
+RÉGIMEN INFORMATIVO PSAV
+INSTRUCTIVO DE PRESENTACIÓN
+
+I. CARACTERÍSTICAS GENERALES
+
+Objeto informativo: Cantidad de clientes, volumen de operaciones, detalle de Activos Virtuales operados y saldos
+de Activos Virtuales bajo custodia.
+
+Responsables informantes: PSAV inscriptos en el Registro de CNV previsto en el artículo 40 del presente
+Capítulo, que se encuentren activos. Para dichos PSAV, la obligación de presentación subsiste aun cuando en un
+período determinado no registren operaciones ni mantengan Activos Virtuales bajo custodia, debiendo informar
+los valores correspondientes en CERO (0).
+
+En caso de que la sociedad aún no hubiera iniciado sus actividades como PSAV, deberá informar ello mediante la
+carga del Formulario PSAV_015 – HR PSAV, consignando expresamente tal situación. Una vez iniciada la
+actividad en carácter de PSAV deberá informar dicha circunstancia mediante HR y, consecuentemente, dar
+cumplimiento a la presentación mensual del Formulario PSAV_014. Fecha de datos a declarar: Último día del
+mes informado.
+
+Periodicidad: Mensual.
+
+Plazo de presentación: Dentro de los QUINCE (15) días corridos de finalizado cada mes calendario.
+
+Canal de presentación: AIF.
+
+II. ESQUEMA INFORMATIVO
+
+El régimen informativo se organiza en TRES (3) bloques, que agrupan CUATRO (4) conceptos informativos:
+
+
+                                                             Formato
+Bloque      CONCEPTOS INFORMATIVOS
+                                                             presentación
+
+
+            1. Cantidad de clientes, clasificados en personas
+            humanas y personas jurídicas.
+A. Carátula 2. Volumen mensual de operaciones, indicando Formulario
+            monto total operado expresado en miles de
+            dólares (USD).
+
+
+           3. Detalle de, como mínimo, los 10 Activos
+                                                      Archivo     plano
+B. Operado Virtuales más negociados: cantidad de cada
+                                                      (.txt),     según
+(flujo)    Activo Virtual y monto operado en miles de
+                                                      Sección IV.
+           USD.
+
+
+C.          4. Activos Virtuales bajo custodia: cantidad total Archivo      plano
+Custodia    de cada Activo Virtual custodiado y valuación (.txt),           según
+(stock)        en miles de USD.                                     Sección IV.
+
+
+III. CONCEPTOS A INFORMAR.
+
+1. Cantidad de clientes, clasificados en personas humanas y personas jurídicas.
+
+El PSAV debe informar el número total de clientes únicos con cuenta activa al último día del período informado,
+discriminando:
+
+(a) Personas humanas.
+
+(b) Personas jurídicas.
+
+Se consideran clientes activos aquellos titulares que hayan registrado al menos UNA (1) operación o hayan
+mantenido tenencia de Activos Virtuales durante los últimos DOCE (12) meses.
+
+No se contabilizan cuentas cerradas ni duplicaciones en caso de múltiples cuentas de un mismo titular.
+
+En caso de cotitularidad, contabilizar cada titular como cliente.
+
+2. Volumen mensual de operaciones, indicando monto total operado expresado en dólares
+
+El PSAV debe informar el monto bruto total operado en el mes, expresado en miles de dólares estadounidenses
+(USD), conforme los criterios de conversión establecidos en la Nota metodológica — Criterio de conversión a
+USD.
+
+Se entiende por monto bruto el valor total de las transacciones ejecutadas, sin deducir comisiones, spreads,
+bonificaciones, descuentos ni costos de red, y sin compensar compras contra ventas. Para cada operación, el
+monto surge de multiplicar la cantidad de unidades del Activo Virtual operada por el precio concertado.
+
+Debe considerarse el volumen unilateral (single-sided): cada transacción se cuenta una sola vez. Como
+consecuencia, los montos informados en este concepto no serán necesariamente coincidentes con los que se
+informen en el 3 (Operado), que registra separadamente cada Activo Virtual entregado y recibido en las
+operaciones cripto-cripto (ver concepto informativo 3).
+
+Solo deberán incluirse operaciones ejecutadas por cuenta y orden de clientes, aun cuando la contraparte sea el
+PSAV o una Entidad vinculada.
+
+Se deben informar operaciones spot, incluyendo operaciones fiat-cripto, cripto-fiat y cripto-cripto, así como
+operaciones realizadas mediante contratos sobre Activos Virtuales, contratos perpetuos u otras modalidades
+contractuales referenciadas a Activos Virtuales, distintas de las operaciones spot. En este último caso se debe
+reportar el valor nocional del contrato, expresado en miles de USD.
+
+Se excluyen:
+
+Transferencias entre cuentas, subcuentas o wallets del mismo titular.
+
+Movimientos internos del PSAV, tales como rebalanceos, movimientos entre hot y cold wallets o
+reorganizaciones internas de liquidez.
+
+Operaciones por cuenta propia del PSAV, incluyendo tesorería, arbitraje, market making propio o administración
+de cartera propia.
+
+Operaciones con Entidades vinculadas sin orden de cliente.
+
+Cancelaciones, anulaciones y reversiones.
+
+Se deberán informar TRES (3) conceptos:
+
+(a) Volumen total mensual de operaciones, expresado en miles de USD: suma del volumen spot y del volumen de
+otros contratos.
+
+(b) Volumen spot, expresado en miles de USD.
+
+(c) Volumen de otros contratos, expresado en miles de USD.
+
+Si durante el período informado el PSAV no registra operaciones mediante contratos sobre Activos Virtuales,
+contratos perpetuos u otras modalidades contractuales referenciadas a Activos Virtuales, deberá consignar CERO
+(0) en el campo correspondiente.
+
+3. Detalle de, como mínimo, los DIEZ (10) Activos Virtuales más negociados: cantidad de cada Activo Virtual y
+monto operado en miles de USD
+
+El PSAV debe informar, como mínimo, los DIEZ (10) activos virtuales más negociados durante el mes. El PSAV
+podrá informar la totalidad de los Activos Virtuales operados durante el período. Cada activo deberá identificarse
+mediante ticker o símbolo estandarizado.
+
+Formato de envío: esta información debe presentarse en archivo plano (.txt), según la especificación de la Sección
+IV.
+
+Selección de los Activos Virtuales para informar: la determinación de los DIEZ (10) Activos Virtuales más
+negociados debe realizarse según la suma del monto operado expresado en USD para cada ticker.
+
+Criterio general de agregación: la información debe remitirse agregada en líneas homogéneas. Cada línea del
+archivo deberá reflejar el total mensual correspondiente a una misma combinación de período, CUIT del PSAV y
+ticker.
+
+Operaciones cripto-cripto: a diferencia del concepto a informar 2, en el que se aplica un criterio unilateral para el
+volumen total, en este detalle debe aplicarse un criterio bilateral. Esto implica que cada operación cripto-cripto
+debe descomponerse en sus DOS (2) tramos, identificando para cada activo intercambiado la cantidad operada y
+su valuación en USD.
+
+Una vez identificados los tramos correspondientes, estos deben agregarse en líneas homogéneas según el criterio
+general indicado. Por ejemplo, si durante el mes los clientes entregan BTC a cambio de USDT, todos los tramos
+de BTC se agregan en una línea y todos los tramos de USDT en otra línea, acumulando en cada caso la cantidad
+nativa y el monto operado en miles de USD.
+Tramos fiat en pesos argentinos: cuando dentro de una misma combinación de período y ticker existan
+operaciones que incluyan un tramo fiat en pesos argentinos (ARS), deberá informarse adicionalmente el monto
+total asociado exclusivamente a esos tramos fiat, expresado en miles de ARS. Este importe tiene carácter
+complementario y no será equivalente, en general, al monto total operado en miles de USD de la línea, dado que
+este último puede incluir operaciones de distinta naturaleza agregadas conjuntamente. Si no existieran
+operaciones con tramo fiat en ARS para esa combinación, deberá consignarse CERO (0) en el campo
+correspondiente a monto ARS y + en el campo signo correspondiente.
+
+Variables por informar:
+
+(a) Período. Mes al que corresponde la información (formato AAAAMM, ej: 202605).
+
+(b) CUIT del PSAV.
+
+(c) Identificación del activo, mediante ticker o símbolo estandarizado (BTC, USDT, ETH, etc.).
+
+(d) Cantidad en unidad nativa del activo —hasta OCHO (8) decimales.
+
+(e) Monto operado total, expresado en miles de USD, para cada Activo Virtual/ticker.
+
+(f) Monto operado en pesos, expresados en miles de pesos argentinos, cuando exista tramo fiat en ARS dentro de
+la combinación período-ticker informada.
+
+(g) Precio promedio de ejecución, expresado en USD por unidad del activo, calculado como el monto operado en
+unidades de USD (no en miles de USD) dividido por la cantidad operada en unidad nativa del activo, para el
+período y activo informados.
+
+(h) DTI (identificador de token digital), si está disponible.
+
+4. Activos Virtuales bajo custodia: cantidad total de cada Activo Virtual custodiado y valuación en miles de USD.
+
+El PSAV debe informar, para cada Activo Virtual bajo custodia al último día del mes reportado, la cantidad total
+en unidad nativa del activo y su valuación en miles de dólares estadounidenses. Cada evento informativo estará
+definido por cada combinación Activo Virtual-red. La valuación en USD se calculará utilizando el precio de
+cierre del período informado, conforme los criterios de conversión establecidos en la Nota metodológica Criterio
+de conversión a USD.
+
+En caso de que parte de la tenencia que estaba en custodia hubiera sido afectada a algún protocolo para generar
+rendimiento, se deberán informar como activos en custodia los receipt tokens correspondientes en lugar de los
+Activos Virtuales afectados (para evitar duplicaciones).
+
+Formato de envío: esta información debe presentarse en archivo plano (.txt), según la especificación de la Sección
+IV.
+
+Variables por informar:
+
+(a) Fecha de cierre: último día calendario del mes al que corresponde la información (formato AAAAMMDD, ej:
+20260531).
+(b) CUIT del PSAV.
+
+(c) Identificación del Activo Virtual, mediante ticker o símbolo estandarizado (BTC, USDT, ETH, etc.).
+
+(d) Red: blockchain del Activo Virtual (Bitcoin, Ethereum, TRON, etc.).
+
+(e) Cantidad en unidad nativa del Activo Virtual —hasta OCHO (8) decimales.
+
+(f) Valuación, en miles de USD: valuación del saldo custodiado, calculado al precio de cierre del período
+informado.
+
+(i) DTI (identificador de token digital), si está disponible.
+
+Momento de corte: 23:59 UTC-3 (hora argentina) del último día del período.
+
+Verificabilidad: los saldos informados deben ser consistentes con los registros internos y contables del PSAV y
+permitir su conciliación con la documentación respaldatoria disponible.
+
+Nota metodológica — Criterio de conversión a USD
+
+Este criterio metodológico se aplica para calcular los montos y saldos en dólares requeridos en los conceptos
+informativos 2, 3 y 4.
+
+Para la conversión a dólares estadounidenses:
+
+• Para operaciones pactadas en ARS o alguna otra moneda fiduciaria diferente al USD: convertir a USD al tipo de
+cambio de la fecha de la operación.
+
+• Para Activos Virtuales sin cotización directa en USD: convertir según la cotización contra USDT o USDC,
+considerando su paridad 1:1 respecto del USD.
+
+IV. DISEÑO DE LOS REGISTROS DE DATOS (ARCHIVOS TXT).
+
+Los datos de Operado (concepto a informar 3) y Custodia (concepto a informar 4) deben enviarse en archivos
+planos de texto (.txt), conforme a las estructuras y reglas detalladas en esta Sección.
+
+IV.1. Reglas generales de los archivos
+
+
+Elemento                Especificación
+
+
+Separador          de
+                        Punto y coma ( ; )
+campos
+
+
+Separador decimal       Punto ( . )
+
+
+Formato de fecha        AAAAMMDD (ej: 20260531 para 31 de
+                     mayo de 2026)
+
+
+Nomenclatura         OPERADO_CUIT_AAAAMM.txt                                     /
+archivo              CUSTODIA_CUIT_AAAAMM.txt
+
+
+                     Sin separador de miles, punto decimal,
+Valores numéricos
+                     hasta OCHO (8) decimales para cantidades nativas
+
+
+Campos vacíos        Dejar vacío entre separadores (;;)
+
+
+                     Campo Signo ANTES del valor numérico: "+"
+
+Signo de     valores para valores positivos o cero, - para
+numéricos
+                     valores negativos. Los valores en cero
+
+                     deben consignarse con signo +.
+
+
+                     N = Numérico (solo dígitos y punto decimal). A =
+Tipos de dato        Alfanumérico (texto: letras, números y
+
+                     caracteres permitidos).
+
+
+Separador final de Cada línea termina con el separador de campos ( ; ),
+línea              incluido el último campo
+
+
+Presentación sin datos: cuando el PSAV no registre operaciones alcanzadas por el concepto a informar 3, o no
+mantenga Activos Virtuales bajo custodia alcanzados por el concepto a informar 4, deberá presentar cada archivo
+de texto (.txt) correspondiente con una única línea que contenga el período o fecha de cierre, según corresponda,
+y el CUIT del PSAV informados; los restantes campos deberán dejarse vacíos, manteniendo los separadores
+necesarios para respetar el diseño del registro.
+
+IV.2. Estructura del archivo OPERADO (Concepto informativo 3)
+
+Nombre del archivo: OPERADO_CUIT_AAAAMM.txt
+
+Ejemplo nombre archivo: OPERADO_30123456789_202605.txt
+
+El archivo debe generarse sin encabezado. La primera línea contiene datos.
+
+El archivo incluirá una línea por cada Activo Virtual informado. Como mínimo deberán informarse los DIEZ (10)
+Activos Virtuales más negociados, ordenados según el monto operado en USD.
+
+Cuando se informen más de DIEZ (10) Activos Virtuales, deberán mantenerse los mismos campos y criterios de
+valuación para todos los Activos Virtuales incluidos.
+
+El archivo deberá contener los campos que se detallan a continuación.
+
+
+                               Long
+N° Campo                Tipo        Formato            Ejemplo 1   Ejemplo 2
+                               máx
+
+
+                                                       202605      202605
+1 Período               N      6     AAAAMM
+
+
+
+    CUIT
+2                       N      11    Sin guiones       30123456789 30123456789
+
+
+
+    Activo (ticker)                                    USDT        BTC
+3                       A            Mayúsculas
+
+
+
+    Signo cantidad
+4                       A      1     +o-               +           +
+
+
+
+    Cantidad nativa                  Hasta         8               12.5
+5                       N                              1500000
+                                     decimales
+
+
+
+    Signo monto USD
+6                       A      1     +o-               +           +
+
+
+
+    Monto USD, en
+7                       N            2 decimales       1500        1312.50
+    miles de USD
+
+
+8 Signo monto ARS A            1     + o - (o vacío) +             +
+    Monto ARS, en                    2 decimales (o
+9                       N                           950000         0
+                                     vacío)
+    miles ARS
+
+
+   Precio promedio de
+                                                     1             105000
+10 ejecución, en USD N               8 decimales
+    por unidad
+
+
+                                                                   4H95J0R2X
+11 DTI                  A      9                     C9N6ZVN7S
+
+
+
+Ejemplo                 1                  de                   línea               OPERADO:
+202605;30123456789;USDT;+;1500000.00000000;+;1500.00;+;950000.00;1.00000000;C9N6ZVN7S;
+
+Ejemplo                 2                   de                   línea                           OPERADO:
+202605;30123456789;BTC;+;12.50000000;+;1312.50;+;0.00;105000.00000000;4H95J0R2X;
+
+Si no existieran operaciones a informar en el período, deberá presentarse el archivo OPERADO conforme la regla
+de Presentación sin datos prevista en el punto IV.1 del presente Anexo.
+
+Ejemplo sin datos para informar: 202605;30123456789;;;;;;;;;;
+
+IV.3. Estructura del archivo CUSTODIA (Concepto informativo 4)
+
+Nombre del archivo: CUSTODIA_CUIT_AAAAMM.txt
+
+El archivo debe generarse sin encabezado. La primera línea contiene datos.
+
+El archivo incluirá una línea por cada combinación activo-red en custodia. Deben informarse todos los Activos
+Virtuales bajo custodia.
+
+
+                               Long
+N° Campo                Tipo        Formato          Ejemplo 1     Ejemplo 2
+                               máx
+
+
+    Fecha cierre
+1                       N      8    AAAAMMDD 20260531              20260531
+
+
+
+    CUIT
+2                       N      11   Sin guiones      30123456789 30123456789
+    Activo (ticker)
+3                       A           Mayúsculas          BTC         USDT
+
+
+
+4 Red                   A           Texto               Bitcoin     TRON
+
+
+    Signo cantidad
+5                       A     1     +o-                 +           +
+
+
+
+    Cantidad nativa                 Hasta           8
+6                       N                               83.4        5000000
+                                    decimales
+
+
+
+    Signo valuación
+7                       A     1     +o-                 +           +
+
+
+
+  Valuación en miles
+                                    2 decimales
+8 de USD             N                                  8757        5000
+
+
+
+
+9 DTI                   A     9                         4H95J0R2X C9N6ZVN7S
+
+
+
+
+Ejemplo 1 de línea CUSTODIA: 20260531;30123456789;BTC;Bitcoin;+;83.40000000;+;8757.00;4H95J0R2X;
+
+Ejemplo                 2                de                  línea                                  CUSTODIA:
+20260531;30123456789;USDT;TRON;+;5000000.00000000;+;5000.00;C9N6ZVN7;
+
+Si no existieran Activos Virtuales bajo custodia al cierre del período, deberá presentarse el archivo CUSTODIA
+conforme la regla de Presentación sin datos prevista en el punto IV.1 del presente Anexo.
+
+Ejemplo sin datos para informar: 20260531;30123456789;;;;;;;;”.
+
+ARTÍCULO 3°. – Sustituir el subinciso 18) del inciso S) del artículo 11 de la Sección IV del Capítulo I del Título
+XV de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+
+“18) PSAV_014-Informe Mensual: Clientes, Operaciones y Custodia”.
+
+ARTÍCULO 4°.- Incorporar como artículo 5° del Capítulo XIV del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“ARTÍCULO 5°.- Establecer que la información periódica dispuesta en el inciso b) del artículo 40 del Capítulo III
+del Título XIV de las NORMAS (N.T. 2013 y mods.), será aplicable a partir del 1° de noviembre de 2026”.
+
+ARTÍCULO 5°.- La presente RG entrará en vigencia a partir del día siguiente al de su publicación en el B.O.
+
+ARTÍCULO 6°.- Regístrese, publíquese, comuníquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, y archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio                Digitally signed by HERBON Laura Ines
+Date: 2026.10.14 09:28:58 ART                              Date: 2026.10.14 09:37:47 ART
+Location: Ciudad Autónoma de Buenos Aires                  Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                                    Laura Ines Herbon
+Vocal                                                      Vocal
+Directorio                                                 Directorio
+Comisión Nacional de Valores                               Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana              Digitally signed by SILVA Roberto Emilio
+Date: 2026.10.14 09:41:55 ART                              Date: 2026.10.14 09:46:13 ART
+Location: Ciudad Autónoma de Buenos Aires                  Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                                  Roberto Emilio Silva
+Vicepresidente                                             Presidente
+Directorio                                                 Directorio
+Comisión Nacional de Valores                               Comisión Nacional de Valores
+
+
+
+
+                                                                                                       Digitally signed by GESTION DOCUMENTAL
+                                                                                                       ELECTRONICA - GDE
+                                                                                                       Date: 2026.10.14 09:46:26 -03:00
+

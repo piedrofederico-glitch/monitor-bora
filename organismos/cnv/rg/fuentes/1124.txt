@@ -1,0 +1,503 @@
+                               República Argentina - Poder Ejecutivo Nacional
+                                        Año de la Grandeza Argentina
+
+                                               Resolución General
+
+Número: RESGC-2026-1124-APN-DIR#CNV
+
+                                                                                   CIUDAD DE BUENOS AIRES
+                                                                                     Miércoles 1 de Abril de 2026
+
+Referencia: EX-2026-31110099- -APN-GFCI#CNV “PROYECTO DE RESOLUCIÓN GENERAL S/ FONDOS
+COMUNES DE INVERSIÓN ABIERTOS ETF”
+
+
+
+VISTO el Expediente N° EX-2026-31110099- -APN-GFCI#CNV, caratulado “PROYECTO DE RESOLUCIÓN
+GENERAL S/ FONDOS COMUNES DE INVERSIÓN ABIERTOS ETF”, lo dictaminado por la Subgerencia de
+Fondos Comunes de Inversión Abiertos, la Subgerencia de Fondos Comunes de Inversión Cerrados, la Gerencia
+de Fondos Comunes de Inversión, la Subgerencia de Normativa y la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales tiene por objeto, entre otros, el desarrollo del mercado de capitales y la
+regulación de los sujetos y valores negociables comprendidos en su ámbito, siendo la CNV su autoridad de
+aplicación y control.
+
+Que el artículo 19, inciso h, del mencionado cuerpo legal, otorga a la CNV atribuciones para dictar las
+reglamentaciones que se deberán cumplir para la autorización de los valores negociables, instrumentos y
+operaciones del mercado de capitales, hasta su baja del registro, contando con facultades para establecer las
+disposiciones que fueren necesarias para complementar las que surgen de las diferentes leyes y decretos
+aplicables a éstos, así como resolver casos no previstos e interpretar las normas allí incluidas dentro del contexto
+económico imperante, para el desarrollo del mercado de capitales.
+
+Que mediante el dictado de la Ley de Financiamiento Productivo se propició la modernización y adaptación de la
+normativa a las necesidades actuales del mercado, modificándose, entre otras, la Ley de Fondos Comunes de
+Inversión, actualizando el régimen legal aplicable a los FCI, en el entendimiento de que estos constituyen un
+vehículo de captación de ahorro e inversión fundamental para el desarrollo de las economías, permitiendo
+robustecer la demanda de valores negociables en los mercados de capitales, aumentando así su profundidad y
+liquidez.
+
+Que dentro de los objetivos estratégicos de la CNV se destacan como relevantes el de difundir el acceso al
+mercado de capitales en todo el ámbito de la República Argentina; establecer regulaciones y acciones para la
+protección de los inversores; fomentar el desarrollo económico a través de la profundización del mercado de
+capitales; asegurar que el mercado se desenvuelva en forma sana, segura, transparente y competitiva,
+garantizando la eficiente asignación del ahorro hacia la inversión; adoptar medidas para que las operaciones se
+desarrollen en un marco de integridad, responsabilidad y ética; y establecer herramientas necesarias para que los
+inversores cuenten con información plena, completa y necesaria para la toma de decisiones de inversión.
+
+Que, a nivel internacional, los ETF han sido reconocidos y regulados por distintos países, lo que ha permitido el
+desarrollo sostenido de este tipo de instrumentos de inversión en las últimas décadas, superando los nueve
+trillones de dólares estadounidenses de activos gestionados para el año 2022 (IOSCO, Good Practices Relating to
+the Implementation of the IOSCO Principles for Exchange Traded Funds Final Report, 2023, con cita a ETFGI
+LLP).
+
+Que, la reglamentación vigente, admite que ciertos ETF emitidos en el extranjero constituyan el activo
+subyacente de CEDEAR o parte del patrimonio de FCIA.
+
+Que, la Ley de Fondos Comunes de Inversión establece en su artículo 1°, párrafo tercero, que, indistintamente, los
+FCIC y FCIA podrán constituirse de manera tal que repliquen el comportamiento de un determinado índice
+bursátil o financiero o de una canasta de activos, debiendo las cuotapartes de este tipo de fondos tener oferta
+pública y listarse en Mercados autorizados, dejando a la CNV amplias facultades para su reglamentación.
+
+Que, en línea con los estándares internacionales en la materia, la incorporación al mercado local de instrumentos
+con características similares a los ETF amplía la oferta local de valores negociables, propiciando efectos
+favorables tales como el incremento de la liquidez de los activos subyacentes, la modernización del mercado de
+capitales argentino, la mejora en la formación de precios y la especialización de los Agentes.
+
+Que, para la elaboración de la presente Resolución General, se han tenido en cuenta las recomendaciones de
+IOSCO sobre este tipo de instrumento de inversión en el reporte anteriormente citado.
+
+Que, en línea con el tercer párrafo del artículo 1° de la Ley de Fondos Comunes de Inversión, la reglamentación
+establece que los FCIA ETF que se constituyan bajo este régimen deberán destinarse, exclusivamente, a replicar,
+mediante una gestión pasiva, el comportamiento de un determinado índice bursátil o financiero o de una canasta
+de activos, y sus cuotapartes contar con oferta pública y negociarse en mercados secundarios autorizados por la
+CNV.
+
+Que, los FCIA ETF se regirán por el régimen especial establecido en la presente reglamentación y,
+supletoriamente, por las disposiciones aplicables en general para los FCIA y, de corresponder, para los FCIC en
+lo que respecta a la negociación secundaria de las cuotapartes.
+
+Que, se entiende por índice de referencia el índice financiero, bursátil o que represente una determinada canasta
+de activos cuya replicación o seguimiento, con sus ajustes, constituya la política de inversión del ETF, el que
+deberá cumplir con los recaudos establecidos en la presente Resolución General.
+
+Que, a los fines de su correcta identificación, se establece que los FCIA que se constituyan bajo el presente
+régimen deberán incluir la expresión “FCIA ETF” y la identificación del índice de referencia.
+
+Que, con miras al correcto funcionamiento de los FCI ETF y a lograr una mayor liquidez del instrumento, se
+establece que deberán intervenir, como participantes necesarios del esquema, aunque sin revestir el carácter de
+órganos de dichos fondos, las figuras denominadas “Participantes Autorizados” y “Hacedores de Mercado”.
+Que, la replicación o seguimiento del índice de referencia deberá realizarse mediante la adquisición de activos
+que cuenten con autorización de oferta pública en la República Argentina y/o la concertación de operaciones
+realizadas en Mercados autorizados por la CNV, y podrá efectuarse en forma física (completa o por muestreo),
+sintética o mixta.
+
+Que, en cambio, no podrán constituirse FCI ETF que repliquen múltiplos de otros índices (apalancados), el
+inverso de dichos índices o múltiplos de su inverso, con excepción de aquellos FCI ETF que se destinen
+exclusivamente a Inversores Calificados.
+
+Que, se prevé que no resultará de aplicación lo dispuesto en los artículos 7º, 8º primer párrafo, 9º, 10, 11 y 13 de
+la Sección II, Capítulo II, Título V de las NORMAS (N.T. 2013 y mod.), en la medida que la realización de tales
+operaciones sea necesaria para asegurar una adecuada replicación o seguimiento del índice de referencia.
+
+Que, la Sociedad Gerente determinará las condiciones de integración en dinero y/o en especie que deberán
+cumplir los Participantes Autorizados a fin de suscribir las cuotapartes en la colocación primaria, quienes
+deberán, a su vez, asumir el compromiso de suscribir o rescatar cuotapartes, de conformidad a lo establecido en el
+reglamento de gestión y en los convenios particulares que la Sociedad Gerente hubiese celebrado con cada uno de
+ellos, a los efectos de ajustar la cantidad de cuotapartes en circulación a la demanda del mercado y a la
+convergencia entre el precio de negociación de las cuotapartes y el valor del patrimonio neto del FCI.
+
+Que, los FCI ETF que se constituyan deberán contar con reglamento de gestión y, a su vez, con Prospecto de
+emisión, debiendo ambos documentos adecuarse a las previsiones de la presente reglamentación.
+
+Que los agentes que intervengan en la colocación deberán informar en forma clara y precisa al público inversor
+respecto de la naturaleza del producto, sus riesgos, su carácter no garantizado y las diferencias con otros FCI.
+
+Que, por otro lado, cabe precisar que diversos términos utilizados en esta Resolución General, tanto en los
+considerandos como en el articulado, se encuentran definidos en el Título I de las Normas (N.T. 2013 y mod.).
+
+Que atendiendo a las circunstancias descriptas y como continuidad de la política adoptada por la CNV en materia
+reglamentaria, corresponde la aplicación del procedimiento de “Elaboración Participativa de Normas”, aprobado
+por el Decreto N° 1172/2003, el cual es una herramienta fundamental para fomentar el diálogo del Organismo con
+los distintos participantes del mercado de capitales en la producción de normas y transparencia.
+
+Que, conforme lo determina el referido Decreto, la “Elaboración Participativa de Normas” es un procedimiento
+que, a través de consultas no vinculantes, involucra a sectores interesados y a la ciudadanía en general, en la
+elaboración de normas administrativas, cuando las características del caso, respecto de su viabilidad y
+oportunidad, así lo impongan.
+
+Que la presente se dicta en ejercicio de las atribuciones conferidas por los artículos 19, incisos g), h), r) y u), y 81
+de la Ley de Mercado de Capitales, artículos 1º, 27 y 32 de la Ley de Fondos Comunes de Inversión y el Decreto
+N° 1172/2003.
+
+
+
+Por ello,
+
+                                   LA COMISIÓN NACIONAL DE VALORES
+                                                RESUELVE:
+
+ARTÍCULO 1°.- Establecer la aplicación del procedimiento de “Elaboración Participativa de Normas”, aprobado
+por el Decreto Nº 1172/2003, invitando a la ciudadanía a expresar sus opiniones y/o propuestas respecto de la
+adopción de una reglamentación sobre “PROYECTO DE RESOLUCIÓN GENERAL S/ FONDOS COMUNES
+DE INVERSIÓN ABIERTOS ETF”, tomando en consideración el texto contenido en el Anexo I (IF-2026-
+32791442-APN-GAL#CNV), que forma parte integrante de la presente Resolución.
+
+ARTÍCULO 2°.- Designar al Dr. Emanuel LÓPEZ SENA para dirigir el procedimiento de “Elaboración
+Participativa de Normas” conforme al Decreto N° 1172/2003.
+ARTÍCULO 3°.- Autorizar a ingresar las opiniones y/o propuestas y a tomar vista del Expediente N° EX-2026-
+31110099- -APN-GFCI#CNV a través del sitio web www.argentina.gob.ar/cnv.
+
+ARTÍCULO 4°.- Aprobar el Formulario que como Anexo II (IF-2026-32792011-APN-GAL#CNV) forma parte
+integrante de la presente Resolución, como modelo para ingresar las opiniones y/o propuestas a través del sitio
+web www.argentina.gob.ar/cnv.
+
+ARTÍCULO 5°.- Fijar un plazo de QUINCE (15) días hábiles para realizar la presentación de opiniones y/o
+propuestas, las que deberán efectuarse a través del sitio web www.argentina.gob.ar/cnv.
+
+ARTÍCULO 6°.- Publíquese la presente Resolución General por el término de DOS (2) días en el B.O., cuya
+entrada en vigencia será a partir del día siguiente al de su última publicación.
+
+ARTÍCULO 7°.- Regístrese, publíquese, comuníquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web www.argentina.gob.ar/cnv, y oportunamente archívese.
+
+
+
+
+Laura Ines Herbon                                         Sonia Fabiana Salvatierra
+Vocal                                                     Vicepresidente
+Directorio                                                Directorio
+Comisión Nacional de Valores                              Comisión Nacional de Valores
+
+
+
+
+Roberto Emilio Silva
+Presidente
+Directorio
+Comisión Nacional de Valores
+                                       ANEXO I
+ARTÍCULO 1º.- Incorporar como Sección VII del Capítulo VII del Título V de las
+NORMAS (N.T. 2013 y mod.), el siguiente texto:
+“SECCIÓN VII
+FONDOS COMUNES DE INVERSIÓN ABIERTOS ETF (ARTÍCULO 1°, PÁRRAFO
+TERCERO DE LA LEY DE FONDOS COMUNES DE INVERSIÓN).
+ALCANCE.
+ARTÍCULO 17.- Los fondos comunes de inversión abiertos destinados exclusivamente a
+replicar, mediante una gestión pasiva, el comportamiento de un determinado índice
+bursátil o financiero o de una canasta de activos, cuyas cuotapartes cuenten con oferta
+pública y su negociación secundaria se encuentre admitida en Mercados autorizados por
+la CNV, se regirán por el régimen especial establecido en la presente Sección y,
+supletoriamente, por las disposiciones aplicables en general para los FCI abiertos y, de
+corresponder, para los FCI Cerrados en lo que respecta a la negociación secundaria de las
+cuotapartes.
+ÍNDICE DE REFERENCIA.
+ARTÍCULO 18.- A los efectos de la presente Sección, se entiende por índice de referencia
+el índice financiero, bursátil o que represente una determinada canasta de activos cuya
+replicación o seguimiento, con sus ajustes, constituya la política de inversión del ETF.
+ARTÍCULO 19.- La Sociedad Gerente deberá verificar que el índice de referencia cumpla
+con los siguientes criterios:
+a) Su metodología completa de cálculo se encuentre disponible de forma gratuita y en
+sitios web de fácil acceso. Se entiende por metodología completa aquella que indique con
+claridad la composición, la proporción del índice que representa cada activo financiero
+que lo compone, los criterios de rebalanceo y su frecuencia y, en general, demás
+parámetros necesarios para su replicación o seguimiento. La gratuidad referida no implica
+la utilización gratuita por parte del FCIA ETF de la marca comercial del proveedor del
+índice.
+b) Su metodología de cálculo se sustente en reglas predeterminadas y criterios objetivos
+de selección de activos.
+c) La frecuencia de rebalanceo del índice debe permitir que los inversores puedan
+replicarlo.
+d) No puede estar sujeto a ajustes retroactivos ni su metodología de cálculo contener
+elementos que impliquen reconocer o incorporar situaciones pasadas.
+                                                           IF-2026-32791442-APN-GAL#CNV
+
+
+                                                           Página 1 de 8
+e) Debe representar un objetivo de inversión claro y único, sin condicionantes. Se
+entiende por condicionantes cualquier cláusula o regla que implique que, en determinadas
+circunstancias, el desempeño del índice no refleje el retorno de la cartera teórica de
+activos.
+f) Si el proveedor del índice fuera parte relacionada de los órganos del FCI, deberá prever
+y divulgar los mecanismos de mitigación de riesgos de conflictos de interés.
+g) El desempeño del índice debe ser público, contar con amplia divulgación y de fácil
+acceso para el público inversor.
+h) Excepto que el FCI se encuentre destinado exclusivamente a inversores calificados,
+dejándose constancia de dicho extremo en el reglamento de gestión y en el Prospecto, no
+podrán utilizarse índices que representen múltiplos (apalancados) de otros índices, el
+inverso de dichos índices o múltiplos de su inverso.
+La Sociedad Gerente deberá divulgar adecuadamente las métricas que permitan comparar
+las trayectorias del FCI y del índice de referencia, a fin de detectar errores de seguimiento
+(tracking error).
+DENOMINACIÓN DEL FONDO.
+ARTÍCULO 20.- La denominación del FCI deberá incluir la expresión “FCIA ETF” y la
+identificación del índice de referencia.
+Para el caso en el que el FCIA ETF busque replicar un índice sujeto al régimen de
+propiedad intelectual, la Sociedad Gerente será responsable de obtener de la entidad que
+lo publica cualquier autorización para utilizarlo comercialmente en la denominación del
+FCI que pudiera corresponder.
+Cualquier diferendo, entre participantes del mercado de capitales, respecto del uso y/o
+destino de la mencionada información, así como su distribución y/o redistribución,
+quedarán reservados al ámbito privado.
+PARTICIPANTES.
+ARTÍCULO 21.- Además de la Sociedad Gerente y la Sociedad Depositaria, pero sin
+revestir el carácter de órganos de los FCI ETF, serán participantes necesarios de estos
+FCI, los siguientes:
+1. PARTICIPANTE AUTORIZADO:
+Son los Agentes definidos en el artículo 2° de la Sección II del Capítulo II del Título I de
+las NORMAS que hayan celebrado un convenio a tal efecto con la Sociedad Gerente del
+FCI. La suscripción y rescate de las cuotapartes de los FCIA ETF sólo podrá ser realizada
+por los Participantes Autorizados.
+                                                             IF-2026-32791442-APN-GAL#CNV
+
+
+                                                             Página 2 de 8
+Podrán intervenir uno o más Participantes Autorizados en cada FCI, siempre que hubiesen
+celebrado el correspondiente convenio con la Sociedad Gerente.
+No podrán desempeñarse como Participantes Autorizados aquellos Agentes de
+Liquidación y Compensación que estuvieren registrados al mismo tiempo como
+Sociedades Gerentes.
+No resultará aplicable a la actuación de los Participantes Autorizados la restricción
+prevista en el último párrafo del artículo 4° de la Ley de Fondos Comunes de Inversión,
+siempre que las operaciones se realicen en condiciones de mercado, se encuentren sujetas
+a políticas de gestión de conflictos de interés, cuenten con aprobación interna
+independiente y dicha circunstancia sea debidamente informada al inversor.
+Los convenios con los Participantes Autorizados deberán quedar a disposición de la
+Comisión y deberán ser presentados a requerimiento de ésta.
+2. HACEDOR DE MERCADO (MARKET MAKER):
+Son los Agentes regulados en la Sección XI, Capítulo V, Título VI de las NORMAS, con
+los alcances allí previstos, que hayan celebrado un convenio al efecto con la Sociedad
+Gerente. Su función será proveer de liquidez a las cuotapartes que se negocien en el o los
+Mercados autorizados en las que coticen y siempre que aquellos se encuentren
+previamente autorizados por éstos últimos para cumplir dicho rol.
+El o los Participantes Autorizados definidos en el inciso 1. precedente podrán
+desempeñarse, asimismo, como Hacedores de Mercado.
+OBJETO. EXCLUSIONES.
+ARTÍCULO 22.- Los FCIA ETF deberán replicar, mediante la gestión pasiva, el
+comportamiento de un determinado índice bursátil o financiero o de una canasta de
+activos, los que podrán representar activos de renta fija o variable. La replicación o
+seguimiento del índice deberá realizarse mediante la adquisición de activos que cuenten
+con autorización de oferta pública en la República Argentina y/o la concertación de
+operaciones realizadas en Mercados autorizados por la CNV, y podrá efectuarse en forma
+física (completa o por muestreo), sintética o mixta.
+No podrán constituirse FCI bajo el presente régimen que repliquen múltiplos de otros
+índices (apalancados), el inverso de dichos índices o múltiplos de su inverso. Dicha
+prohibición no resultará de aplicación cuando el FCI se encuentre destinado
+exclusivamente a Inversores Calificados, dejándose constancia de dicho extremo en el
+reglamento de gestión y en el Prospecto.
+
+
+                                                           IF-2026-32791442-APN-GAL#CNV
+
+
+                                                           Página 3 de 8
+Sin perjuicio de lo establecido en el párrafo anterior, la CNV podrá determinar, en ocasión
+de la autorización de cada FCIA ETF y en función de las particularidades que cada uno
+de ellos presente, que estos sean destinados únicamente a Inversores Calificados.
+No resultará de aplicación lo dispuesto en los artículos 7º, 8º primer párrafo, 9º, 10, 11 y
+13 de la Sección II, Capítulo II del presente Título, en la medida que la realización de
+tales operaciones sea necesaria para asegurar una adecuada replicación o seguimiento del
+índice de referencia.
+La Sociedad Gerente deberá, en función de su experiencia y pericia técnica, verificar que
+los valores negociables que compongan la cartera de activos del FCIA ETF cuenten con
+la liquidez suficiente para permitir el correcto funcionamiento del mecanismo de
+suscripción y rescate de cuotapartes por parte de los Participantes Autorizados.
+COLOCACIÓN PRIMARIA DE LAS CUOTAPARTES.
+ARTÍCULO 23.- La Sociedad Gerente determinará las condiciones de integración en
+dinero y/o en especie que deberán cumplir los Participantes Autorizados a fin de suscribir
+las cuotapartes en la colocación primaria.
+Las operaciones de suscripción y rescate deberán efectuarse en dinero o en especie,
+mediante la entrega de valores negociables u otros activos admitidos como integrantes
+del patrimonio del FCI, de acuerdo con lo requerido por la Sociedad Gerente.
+A los efectos de ajustar la cantidad de cuotapartes en circulación a la demanda del
+mercado y a la convergencia entre el precio de negociación de las cuotapartes y el valor
+del patrimonio neto del FCI, los Participantes Autorizados deberán asumir el compromiso
+de suscribir o rescatar cuotapartes, de conformidad a lo establecido en el reglamento de
+gestión y en los convenios particulares que la Sociedad Gerente hubiese celebrado con
+cada uno de ellos.
+REGLAMENTO DE GESTIÓN.
+ARTÍCULO 24.- El FCI ETF deberá utilizar el reglamento de gestión tipo establecido en
+el Anexo II del Capítulo III del Título V de las Normas, en tanto no se contraponga con
+las disposiciones específicas de la presente Sección.
+Sin perjuicio de lo indicado, el reglamento de gestión deberá adaptar particularmente el
+contenido de los Capítulos 2, 3, 4, 5, 7 y 11 e incorporar la información requerida en el
+artículo siguiente.
+ARTÍCULO 25.- Adicionalmente a lo indicado en el artículo anterior, el reglamento de
+gestión deberá incluir lo siguiente:
+a) identificación del índice de referencia objeto de replicación o seguimiento;
+                                                             IF-2026-32791442-APN-GAL#CNV
+
+
+                                                             Página 4 de 8
+b) identificación del o los Participantes Autorizados y Hacedores de Mercado; y
+c) cláusulas que expliciten que el ingreso y egreso de los inversores al FCI se dará
+exclusivamente por las operaciones de compra y venta en los mercados donde se negocien
+las cuotapartes.
+PROSPECTO DE EMISIÓN.
+ARTÍCULO 26.- La Sociedad Gerente deberá presentar, junto con la solicitud de
+autorización de oferta pública, un Prospecto de emisión preliminar para su aprobación
+por la Comisión, con el siguiente contenido mínimo:
+1. Portada:
+a) denominación del ETF;
+b) identificación de la Sociedad Gerente y Sociedad Depositaria;
+c) identificación del o los Participantes Autorizados y Hacedores de Mercado;
+d) leyenda de inserción obligatoria: “Oferta Pública autorizada por Resolución Nº… de
+fecha… de la Comisión Nacional de Valores. Esta autorización sólo significa que se ha
+cumplido con los requisitos establecidos en materia de información. La Comisión
+Nacional de Valores no ha emitido juicio sobre los datos contenidos en el Prospecto. La
+veracidad de la información suministrada en el presente Prospecto es responsabilidad de
+los miembros de los órganos de administración y fiscalización de la Sociedad Gerente y
+de la Sociedad Depositaria, respectivamente, y demás responsables contemplados en los
+artículos 119 y 120 de la Ley de Mercado de Capitales. Los auditores, en lo que les atañe,
+serán responsables en cuanto a sus respectivos informes sobre los estados contables que
+se acompañan. Los órganos de administración manifiestan, con carácter de declaración
+jurada, que el presente prospecto contiene a la fecha de su publicación información veraz
+y suficiente sobre todo Hecho Relevante y de toda aquella que deba ser de conocimiento
+del público inversor con relación a la presente emisión, conforme las normas vigentes”.
+e) Deberá informarse expresamente que, pese a que las cuotapartes cuenten con
+negociación en los Mercados autorizados, el FCIA ETF no constituye un Fondo Común
+de Inversión Cerrado, por lo que carece de plazo de duración y monto máximo de emisión.
+2. Advertencias. Entre otras cuestiones, dicha Sección deberá indicar en forma destacada
+que únicamente un Participante Autorizado podrá solicitar el canje de las cuotapartes por
+los activos subyacentes y que el ingreso y egreso de los inversores al FCI se dará
+exclusivamente por las operaciones de compra y venta en los mercados donde se negocien
+las cuotapartes.
+
+
+                                                           IF-2026-32791442-APN-GAL#CNV
+
+
+                                                           Página 5 de 8
+3. Consideraciones de riesgo de la inversión. Como mínimo, deberá informarse
+expresamente en el Prospecto de Emisión:
+a) aquellos riesgos de carácter relevante relacionados a los activos subyacentes del FCIA
+ETF (tales como su liquidez; diferencias entre el valor neto del patrimonio del FCIA ETF
+y el valor de negociación de los activos subyacentes por cuestiones de arbitraje;
+diferencias cambiarias, etc.);
+b) riesgo de mercado;
+c) riesgo de réplica y tracking;
+d) riesgo de liquidez;
+e) riesgo cambiario;
+f) riesgo regulatorio;
+g) riesgo de cancelación;
+h) riesgo de contraparte, para el caso de utilizarse estrategias de replicación sintética o
+mixta; e
+i) todo otro riesgo aplicable al instrumento o a los activos subyacentes.
+4. Resumen de los términos y condiciones del FCI:
+a) denominación del FCI;
+b) moneda del FCI;
+c) identificación de los Participantes previstos en el artículo 21 de la presente Sección;
+d) identificación del índice de referencia objeto de replicación o seguimiento;
+e) relaciones económicas y jurídicas entre los órganos del FCIA ETF y los Participantes.
+En su caso, descripción de las actuales o potenciales situaciones de conflicto de interés y
+de los mecanismos preventivos y/o de mitigación establecidos al efecto.
+f) descripción de clases de cuotapartes:
+       1) derechos económicos que otorgan;
+       2) denominación mínima y unidad mínima de negociación;
+       3) ámbito de negociación de las cuotapartes;
+g) normativa aplicable para la suscripción e integración de las cuotapartes con fondos
+provenientes del exterior;
+h) normativa aplicable en materia de prevención del lavado de activos y el financiamiento
+del terrorismo;
+i) de corresponder, calificación de riesgo indicando denominación social del Agente de
+Calificación de Riesgo, fecha del informe de calificación y nota de calificación asignada.
+
+
+                                                             IF-2026-32791442-APN-GAL#CNV
+
+
+                                                             Página 6 de 8
+5. Descripción de la Sociedad Gerente, de la Sociedad Depositaria y de los Participantes
+previstos en el artículo 21 de la presente Sección:
+a) denominación social, CUIT, domicilio, teléfono y dirección de correo electrónico;
+b) datos de la respectiva inscripción en el Registro Público. En caso de tratarse de
+entidades financieras, detalle de las respectivas autorizaciones;
+c) respecto de los estados contables y la nómina de los integrantes de los órganos de
+administración y fiscalización, deberá incluirse una leyenda que indique que la
+información se encuentra disponible en el sitio web de la CNV.
+6. Información relevante relativa a las Emisoras de los valores negociables en cartera y
+Mercados autorizados en los que estos se encuentran listados. A tal fin, deberá incluirse
+una leyenda que indique que la información se encuentra disponible en el sitio web de la
+CNV y en los Mercados autorizados correspondientes.
+7. Explicación detallada del índice de referencia y de su metodología de cálculo, así como
+también una indicación precisa acerca de dónde puede ser consultada su composición y
+variación.
+8. Estrategia de replicación o seguimiento del índice de referencia.
+9. Descripción del procedimiento de colocación primaria de las cuotapartes y de
+formación de precios en la negociación secundaria.
+10. Tratamiento impositivo aplicable.
+11. Régimen de honorarios, comisiones y gastos.
+12. Manifestación de que los potenciales inversores deben analizar por sí mismos la
+información contenida en el Prospecto.
+13. Deberá describirse el tratamiento previsto y los riesgos asociados en caso de
+suspensión, interrupción o restricción de la negociación de uno o más valores negociables
+que conformen el patrimonio del FCIA ETF. En tal sentido, también deberá advertirse
+respecto a las diferentes medidas que, en tales supuestos, los Mercados autorizados donde
+se negocien las cuotapartes y/o los activos subyacentes que integran el patrimonio del
+FCIA ETF podrán adoptar, tales como la suspensión de la negociación de la cuotaparte,
+la sustitución del valor negociable afectado o cualquier otro mecanismo que deberá
+quedar expresamente explicitado en el Prospecto, a fin de preservar el adecuado
+funcionamiento del instrumento y la protección de los inversores.
+14. Política relativa a las utilidades o dividendos.
+15. Cualquier otra información que le sea requerida por esta CNV, de acuerdo con la
+naturaleza y características del objeto de inversión.
+                                                            IF-2026-32791442-APN-GAL#CNV
+
+
+                                                            Página 7 de 8
+TRANSPARENCIA. PROTECCIÓN AL INVERSOR.
+ARTÍCULO 27.- Los Agentes intervinientes en la colocación de estos FCI deberán
+brindar información clara y precisa al público inversor, identificando expresamente la
+naturaleza del producto, sus riesgos, su carácter no garantizado y las diferencias respecto
+de otros FCI”.
+
+
+
+
+                                                            IF-2026-32791442-APN-GAL#CNV
+
+
+                                                            Página 8 de 8
+                                       ANEXO II
+FORMULARIO PARA LA PRESENTACIÓN DE OPINIONES Y PROPUESTAS EN
+EL PROCEDIMIENTO DE ELABORACIÓN PARTICIPATIVA DE NORMAS.
+NÚMERO DE PRESENTACIÓN:
+• CONTENIDO DE LA NORMA A DICTARSE
+• DATOS DEL PRESENTANTE
+1. NOMBRE Y APELLIDO:
+2. DNI / CUIT o CUIL:
+3. FECHA DE NACIMIENTO:
+4. LUGAR DE NACIMIENTO:
+5. NACIONALIDAD:
+6. DOMICILIO:
+7. TELÉFONO PARTICULAR / CELULAR:
+8. TELÉFONO LABORAL:
+9. DIRECCIÓN DE CORREO ELECTRÓNICO:
+10. CARÁCTER EN QUE SE PRESENTA (marcar con una cruz lo que corresponde).
+( ) Particular interesado (Persona humana)
+( ) Representante de Persona Jurídica (¹)
+(¹) En caso de actuar como representante de PERSONA JURÍDICA, indique los
+siguientes datos de su representada:
+DENOMINACIÓN / RAZÓN SOCIAL:
+CUIT:
+DOMICILIO:
+INSTRUMENTO QUE ACREDITA LA PERSONERÍA INVOCADA:
+• CONTENIDO DE LA OPINIÓN Y/O PROPUESTA.
+En caso de adjuntarla/s por instrumento separado, marcar la opción correspondiente(²)
+.............................………………………………………………………………..……
+(²) () Se adjunta informe por separado.
+• DETALLE DE LA DOCUMENTACIÓN ACOMPAÑADA.
+............................………………………………………………………………………
+_________________                            ___________________________
+        FIRMA                                             ACLARACIÓN
+
+
+
+                                                          IF-2026-32791442-APN-GAL#CNV
+
+
+                                                          Página 1 de 8
+

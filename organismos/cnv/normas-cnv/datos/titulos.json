@@ -1,0 +1,92 @@
+{
+ "I": {
+  "nombre": "DISPOSICIONES PRELIMINARES",
+  "nota": ""
+ },
+ "II": {
+  "nombre": "EMISORAS",
+  "nota": ""
+ },
+ "III": {
+  "nombre": "RETIRO DE LA OFERTA PÚBLICA. CANCELACIONES.OFERTA PÚBLICA DE ADQUISICIÓN. APORTES IRREVOCABLES",
+  "nota": ""
+ },
+ "IV": {
+  "nombre": "RÉGIMEN INFORMATIVO PERIÓDICO",
+  "nota": ""
+ },
+ "V": {
+  "nombre": "PRODUCTOS DE INVERSIÓN COLECTIVA (PIC)",
+  "nota": ""
+ },
+ "VI": {
+  "nombre": "MERCADOS Y CÁMARAS COMPENSADORAS",
+  "nota": ""
+ },
+ "VII": {
+  "nombre": "AGENTE DE NEGOCIACIÓN. AGENTE DE LIQUIDACIÓN Y COMPENSACIÓN. AGENTE ASESOR GLOBAL DE INVERSIÓN. AGENTE PRODUCTOR. AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. DISPOSICIONES COMUNES",
+  "nota": ""
+ },
+ "VIII": {
+  "nombre": "AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. AGENTE DE CUSTODIA, REGISTRO Y PAGO",
+  "nota": ""
+ },
+ "IX": {
+  "nombre": "AGENTES DE CALIFICACIÓN DE RIESGOS (ACR)",
+  "nota": ""
+ },
+ "X": {
+  "nombre": "DEL REGISTRO DE MERCADOS, CÁMARAS COMPENSADORAS Y AGENTES BAJO COMPETENCIA DE LA GERENCIA DE AGENTES Y MERCADOS",
+  "nota": ""
+ },
+ "XI": {
+  "nombre": "PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIACIÓN DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA",
+  "nota": ""
+ },
+ "XII": {
+  "nombre": "TRANSPARENCIA EN EL ÁMBITO DE LA OFERTA PÚBLICA",
+  "nota": ""
+ },
+ "XIII": {
+  "nombre": "PROCEDIMIENTO DE INVESTIGACIONES. PROCEDIMIENTO SUMARIAL. PUBLICIDAD",
+  "nota": ""
+ },
+ "XIV": {
+  "nombre": "PLATAFORMA DE FINANCIAMIENTO COLECTIVO. REGISTRO DE PROVEEDORES DE SERVICIOS DE ACTIVOS VIRTUALES",
+  "nota": "[Denominación sustituida por art. 2° de la RG 1118/2026, BO 06/03/2026]",
+  "desde": "07/03/2026"
+ },
+ "XV": {
+  "nombre": "AUTOPISTA DE LA INFORMACIÓN FINANCIERA (AIF)",
+  "nota": ""
+ },
+ "XVI": {
+  "nombre": "DISPOSICIONES GENERALES",
+  "nota": ""
+ },
+ "XVII": {
+  "nombre": "TASAS DE FISCALIZACIÓN Y CONTROL- ARANCELES DE AUTORIZACIÓN",
+  "nota": ""
+ },
+ "XVIII": {
+  "nombre": "DISPOSICIONES TRANSITORIAS",
+  "nota": ""
+ },
+ "XIX": {
+  "nombre": "ENTIDADES REPRESENTATIVAS REGIONALES",
+  "nota": "[Título derogado por art. 2° de la RG 1109/2026, BO 20/02/2026]",
+  "derogado": true
+ },
+ "XX": {
+  "nombre": "OFERTAS PRIVADAS DE VALORES NEGOCIABLES",
+  "nota": ""
+ },
+ "XXI": {
+  "nombre": "REGLAMENTACIÓN DE OTRAS LEYES Y DECRETOS",
+  "nota": ""
+ },
+ "XXII": {
+  "nombre": "TOKENIZACIÓN",
+  "nota": ""
+ }
+}

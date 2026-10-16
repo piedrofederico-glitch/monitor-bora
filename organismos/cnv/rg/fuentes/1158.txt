@@ -1,0 +1,150 @@
+                               República Argentina - Poder Ejecutivo Nacional
+                                        Año de la Grandeza Argentina
+
+                                              Resolución General
+
+Número: RESGC-2026-1158-APN-DIR#CNV
+
+                                                                                  CIUDAD DE BUENOS AIRES
+                                                                                   Miércoles 29 de Julio de 2026
+
+Referencia: EX-2026-71636614- -APN-GPLD#CNV “PROYECTO DE RESOLUCIÓN GENERAL S/
+REFORMA NORMATIVA GPLD”
+
+
+
+VISTO el Expediente Nº EX-2026-71636614- -APN-GPLD#CNV, caratulado “PROYECTO DE RESOLUCIÓN
+GENERAL S/ REFORMA NORMATIVA GPLD”, lo dictaminado por la Gerencia de Prevención del Lavado de
+Dinero, la Subgerencia de Normativa y la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que, mediante el Decreto Nº 434/2016 se aprobó el Plan de Modernización del Estado, en el marco del cual se
+implementó una plataforma horizontal informática de generación de documentos y expedientes electrónicos,
+registros y otros contenedores utilizados por toda la Administración Pública Nacional, a los fines de facilitar la
+gestión documental, el acceso y la perdurabilidad de la información, la reducción de los plazos en las
+tramitaciones y el seguimiento público de cada expediente.
+
+Que el Decreto N° 561/2016 aprobó la implementación del GDE, como sistema integrado de caratulación,
+numeración, seguimiento y registración de movimientos de todas las actuaciones y expedientes del Sector Público
+Nacional, actuando como plataforma para la implementación de gestión de expedientes electrónicos.
+
+Que, por su parte, el Decreto N° 1063/2016 aprobó la implementación de la plataforma TAD, integrada por el
+módulo TAD del Sistema GDE, como medio de interacción del ciudadano con la administración, a través de la
+recepción y remisión por medios electrónicos de presentaciones, solicitudes, escritos, notificaciones y
+comunicaciones, entre otros.
+
+Que, el referido Decreto, estableció que serán válidas las notificaciones electrónicas realizadas a través de la
+plataforma de TAD mediante el servicio de notificación electrónica fehaciente al domicilio especial electrónico
+constituido, garantizando la validez jurídica, confidencialidad, seguridad e integridad de la información
+notificada.
+
+Que, mediante la Resolución de la Secretaría de Modernización Administrativa N° 90/2017 del entonces
+Ministerio de Modernización, se aprobó el “Reglamento para el uso del GDE y de la plataforma de TAD”, el cual
+contenía todas las reglas del funcionamiento TAD-GDE dirigidas a los administrados y a la Administración.
+
+Que, posteriormente, por Resolución de la Secretaría de Modernización Administrativa N° 43/2019, derogó la
+mencionada Resolución y aprobó el “Reglamento para el uso del GDE y de la Plataforma de TAD”, como
+también los “Términos y Condiciones de Uso de la Plataforma de Trámites a Distancia (TAD)”.
+
+Que la implementación del módulo TAD del sistema de GDE se presenta como un medio de interacción de los
+administrados con la Administración Pública Nacional, permitiendo la recepción y remisión de presentaciones,
+solicitudes, escritos, notificaciones y comunicaciones, así como la realización de trámites ante los organismos que
+integran el Sector Público Nacional.
+
+Que, por su parte, el Decreto N° 894/2017 aprobó el texto ordenado del RLPA, estableciendo que las autoridades
+administrativas actuarán de acuerdo con los principios de sencillez y eficacia, procurando la simplificación de los
+trámites, y facilitando el acceso de los ciudadanos a la administración a través de procedimientos directos y
+simples por medios electrónicos.
+
+Que, el referido Decreto, en su artículo 15, inciso e), establece que “todo documento electrónico firmado
+digitalmente en el Sistema Electrónico de Gestión Documental tendrá carácter de original, y los reproducidos en
+soporte electrónico a partir de originales de primera generación en cualquier otro soporte, digitalizados de
+acuerdo al procedimiento que establezca la normativa aplicable serán considerados originales y tendrán idéntica
+eficacia y valor probatorio que sus equivalentes en soporte papel”.
+
+Que, en concordancia con ello, el Decreto N° 733/2018 establece que la totalidad de los documentos,
+comunicaciones, expedientes, actuaciones, legajos, notificaciones, actos administrativos y procedimientos en
+general, deberán instrumentarse en el sistema de GDE, permitiendo su acceso y tramitación digital completa,
+remota, simple, automática e instantánea, excepto cuando no fuere técnicamente posible.
+
+Que el artículo 7° de la Ley de Simplificación y Desburocratización de la Administración Pública Nacional N°
+27.446 establece que “los documentos oficiales electrónicos firmados digitalmente, expedientes electrónicos (…)
+tienen para el sector público nacional idéntica eficacia y valor probatorio que sus equivalentes en soporte papel
+o cualquier otro soporte que se utilice a la fecha de entrada en vigencia de la presente medida (…)”.
+
+Que, a través de la RG N° 805, la CNV incorporó una serie de trámites a ser iniciados y diligenciados a través de
+la plataforma de TAD del sistema GDE.
+
+Que, en esta oportunidad, resulta necesario incorporar la Sección VI del Título XI de las NORMAS (N.T. 2013 y
+mod.) a los fines de establecer los trámites relativos a requerimientos de información y/o documentación que, en
+el marco de una investigación o supervisión, emita la CNV, en el ámbito de la PLA/FT/FP.
+
+Que, por último, cabe precisar que diversos términos utilizados en esta Resolución, tanto en los considerandos
+como en el articulado, se encuentran definidos en el Título I de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente se dicta en ejercicio de las atribuciones conferidas por el artículo 19, incisos p) y u) de la Ley de
+Mercado de Capitales.
+Por ello,
+
+                                              LA COMISIÓN NACIONAL DE VALORES
+
+                                                        RESUELVE:
+
+ARTÍCULO 1°.- Incorporar como Sección VI del Título XI de las NORMAS (N.T. 2013 y mod.), el siguiente
+texto:
+
+“SECCIÓN VI
+
+ARTÍCULO 18.- Los requerimientos de información y/o documentación que, en el marco de una investigación o
+supervisión, emita la CNV en ejercicio de las facultades conferidas por el artículo 19 de la Ley de Mercado de
+Capitales, se rigen por lo dispuesto en la RLPA.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, dichos requerimientos podrán ser cursados por correo
+electrónico a los Oficiales de Cumplimiento de los Sujetos Obligados del ámbito del mercado de capitales y/o a
+los restantes sujetos registrados ante la CNV a los domicilios electrónicos declarados en la AIF.
+
+NOTIFICACIONES Y PRESENTACIONES A REALIZARSE EN LA GERENCIA DE PREVENCIÓN DEL
+LAVADO DE DINERO.
+
+ARTICULO 19.- Los Oficiales de Cumplimiento de los Sujetos Obligados ante la UIF del mercado de capitales y
+los restantes sujetos registrados ante la CNV deberán constituir un domicilio especial electrónico, en caso de que
+así fuera requerido, en el cual serán válidas las comunicaciones y notificaciones efectuadas a través de la
+plataforma TAD.
+
+La cuenta de usuario de la plataforma TAD será considerada el domicilio especial electrónico constituido para dar
+respuesta a los requerimientos que se realicen por la Gerencia de Prevención del Lavado de Dinero.”
+
+ARTÍCULO 2º.- La presente RG entrará en vigencia a partir del 10 de agosto de 2026.
+
+ARTÍCULO 3°.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio                    Digitally signed by HERBON Laura Ines
+Date: 2026.07.29 09:35:25 ART                                  Date: 2026.07.29 09:37:34 ART
+Location: Ciudad Autónoma de Buenos Aires                      Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                                        Laura Ines Herbon
+Vocal                                                          Vocal
+Directorio                                                     Directorio
+Comisión Nacional de Valores                                   Comisión Nacional de Valores
+Digitally signed by Sonia Fabiana Salvatierra   Digitally signed by SILVA Roberto Emilio
+Date: 2026.07.29 09:47:13 ART                   Date: 2026.07.29 10:14:03 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                       Roberto Emilio Silva
+Vicepresidente                                  Presidente
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+                                                                                            Digitally signed by GESTION DOCUMENTAL
+                                                                                            ELECTRONICA - GDE
+                                                                                            Date: 2026.07.29 10:14:12 -03:00
+

@@ -1,0 +1,1195 @@
+                           República Argentina - Poder Ejecutivo Nacional
+                     AÑO DE LA RECONSTRUCCIÓN DE LA NACIÓN ARGENTINA
+
+                                             Resolución General
+
+Número: RESGC-2025-1080-APN-DIR#CNV
+
+                                                                                CIUDAD DE BUENOS AIRES
+                                                                                Miércoles 20 de Agosto de 2025
+
+Referencia: EX-2025-29115075- -APN-GAYM#CNV "PROYECTO DE RG S/ MODIFICACIÓN
+NORMATIVA DE ACTIVOS ELEGIBLES (ANEXO I DEL CAPÍTULO I DEL TÍTULO VI DE LAS
+NORMAS N.T. 2013 y mod.)”
+
+
+
+VISTO el EX-2025-29115075- -APN-GAYM#CNV, caratulado “PROYECTO DE RG S/ MODIFICACIÓN
+NORMATIVA DE ACTIVOS ELEGIBLES (ANEXO I DEL CAPÍTULO I DEL TÍTULO VI DE LAS
+NORMAS N.T. 2013 y mod.)”, lo dictaminado por la Subgerencia de Supervisión de Agentes, la Subgerencia de
+Supervisión de Mercados, la Gerencia de Agentes y Mercados, la Gerencia de Fondos Comunes de Inversión, la
+Gerencia de Fideicomisos Financieros y la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales N° 26.831 (B.O. 28-12-12 y sus modificatorias) tiene por objeto el
+desarrollo del mercado de capitales y la regulación de los sujetos y valores negociables comprendidos dentro de
+dicho mercado, siendo la Comisión Nacional de Valores (CNV) su autoridad de aplicación y contralor.
+
+Que el artículo 19 de la citada Ley, en su inciso d), establece como atribución de la CNV, llevar el registro,
+otorgar, suspender y revocar la autorización para funcionar de los mercados, las cámaras compensadoras, los
+agentes registrados y las demás personas humanas y/o jurídicas que, por sus actividades vinculadas al mercado de
+capitales, y a criterio de la CNV queden comprendidas bajo su competencia.
+
+Que, asimismo, los incisos g) y o) del artículo citado faculta a la CNV a dictar las reglamentaciones que deben
+cumplir las personas humanas y/o jurídicas y las entidades autorizadas en los términos del referido inciso d),
+desde su inscripción hasta la baja del registro respectivo; como así también, a fijar los requerimientos
+patrimoniales que deberán acreditar las entidades bajo fiscalización.
+
+Que, oportunamente, mediante Resoluciones Generales N° 792 (B.O. 30-4-19), 795 (B.O. 30-5-19), 821 (B.O.
+10-12-19), 919 (B.O. 10-1-22) y 924 (B.O. 14-3-22), se establecieron los montos exigidos en concepto de
+patrimonio neto mínimo a ser acreditados por ciertos Agentes bajo supervisión y fiscalización de esta CNV.
+Que, mediante la Resolución General N° 817 (B.O. 27-11-19), se introdujeron modificaciones con respecto al
+patrimonio neto mínimo exigible, entre otros, a los Mercados y Cámaras Compensadoras, así como también con
+relación al listado de los activos elegibles establecidos Anexo I del Capítulo I del Título VI de las NORMAS
+(N.T. 2013 y mod.), reglamentándose – entre otros- la constitución del Fondo de Garantía III, aplicable a las
+Cámaras Compensadoras y Mercados con funciones de Cámara Compensadora, a los fines de hacer frente a
+incumplimientos de los Agentes en las operaciones garantizadas.
+
+Que, recientemente, a través de la Resolución General N° 1046 (B.O. 07-1-25), se actualizó el patrimonio neto
+mínimo exigido a aquellos sujetos que se registren y actúen como Agente Depositario Central de Valores
+Negociables (ADCVN) y como Agente de Custodia Registro y Pago (ACRYP) y, al mismo tiempo, se estableció
+que los Mercados, Cámaras Compensadoras, ADCVN y ACRYP, podrán realizar otras actividades afín y/o
+complementarias, incluidas aquellas desarrolladas en ámbitos ajenos al mercado de capitales conforme las
+funciones, recomendaciones y principios internacionales previstos para las Infraestructuras del Mercado
+Financiero (IMF) por la ORGANIZACIÓN INTERNACIONAL DE COMISIONES DE VALORES (IOSCO, por
+sus siglas en idioma inglés) y del COMITÉ DE PAGOS E INFRAESTRUCTURAS DEL MERCADO (CPMI,
+por sus siglas en idioma inglés), en la medida que resulten compatibles con las funciones asignadas a tales
+categorías y sean previamente informadas a esta CNV, debiendo incrementar el patrimonio neto mínimo exigible
+a aquellas en un monto equivalente al VEINTICINCO POR CIENTO (25%), por cada actividad afín y/o
+complementaria efectivamente desarrollada.
+
+Que la presente modificación normativa se fundamenta en la necesidad de actualizar los activos elegibles
+susceptibles de conformar el Fondo de Garantía III y las contrapartidas líquidas, conforme los requerimientos de
+los regímenes informativos que resultan de aplicación a ciertas entidades alcanzadas por los requisitos de
+constitución de garantías y conservación de liquidez, bajo supervisión y fiscalización de la CNV.
+
+Que, conforme lo expuesto, se incorporan al aludido listado de activos elegibles nuevos valores negociables con
+la finalidad de ampliar la gama de instrumentos financieros que podrán ser utilizados por dichas entidades en
+ocasión de la administración de sus carteras de inversión y, en consecuencia, para el cumplimiento y acreditación
+de los requisitos normativos antes mencionados.
+
+Que, en el mismo sentido, se han establecido modificaciones a los porcentajes aceptables en el cómputo respecto
+de ciertos activos con el objetivo de garantizar las condiciones mínimas de reserva de valor y liquidez
+establecidos.
+
+Que, en concordancia con lo señalado, corresponde dejar sin efecto lo dispuesto en el punto IV del Criterio
+Interpretativo (CRI) N° 48, en el punto V del CRI N° 59 y en el punto VIII del CRI N° 60, incorporándose, en lo
+pertinente, los activos vinculados con lo dispuesto en el Anexo I del Capítulo I del Título VI de las NORMAS
+(N.T. 2013 y mod.).
+
+Que, asimismo, en línea con la modificación de los requisitos patrimoniales dispuesta por la referida Resolución
+General N° 1046 y con miras a fortalecer los mecanismos de protección, así como también robustecer las
+infraestructuras del mercado y mejorar la gestión de riesgos de los Mercados –con y sin funciones de Cámara
+Compensadora- y de las Cámaras Compensadoras, en esta instancia, se advierte conveniente: (i) actualizar el
+patrimonio neto mínimo exigido a dichos sujetos; y (ii) dejar establecido expresamente que el aludido incremento
+VEINTICINCO POR CIENTO (25%) por cada una de las referidas actividades afines y/o complementarias que
+desarrollen los Mercados –con y sin funciones de Cámara Compensadora-, las Cámaras Compensadoras; los
+ADCVN y los ACRYP, no será exigible respecto a aquellas actividades afines y/o complementarias que realicen
+dichos sujetos en su calidad de Infraestructura del Mercado Financiero (IMF) habilitada por el Banco Central de
+la República Argentina (BCRA), así como tampoco con relación a toda otra actividad afín y/o complementaria
+que, de igual forma, se encuentre bajo supervisión y/o vigilancia de dicha autoridad.
+
+Que, en este orden, en el marco del artículo 10 del Decreto N° 1017/24 (B.O. 13-11-24) y lo reglamentado por
+esta CNV mediante Resolución General N° 1043 (B.O. 30-12-24), se considera conveniente readecuar lo
+dispuesto en el artículo 2° de la Sección I “Anotación de Boletos. Artículo 10 Decreto N° 1017/24” del Capítulo I
+del Título XXI de las NORMAS (N.T. 2013 y mod.), con la finalidad de dejar establecido que, el mencionado
+incremento del VEINTICINCO POR CIENTO (25%) del patrimonio neto mínimo, no resultará exigible con
+relación a la actividad afín y/o complementaria consistente en prestación de servicios de anotación de boletos de
+compraventa prevista en el artículo 1° de la referida Sección I, desarrollada por cualquiera de los sujetos antes
+mencionados.
+
+Que, por otro lado, en línea con la multiplicidad y transversalidad en el ejercicio de las actividades desarrolladas
+por las diferentes entidades fiscalizadas por esta CNV; se incorporan ciertas disposiciones tendientes a reforzar
+los requisitos patrimoniales y de liquidez aplicables a aquellos Agentes que se encuentren inscriptos en más de
+una categoría cuando la normativa así lo permita.
+
+Que, en virtud de las modificaciones señaladas, se incorporan los conceptos patrimonio neto mínimo total y
+contrapartida líquida mínima total a los fines de identificar los requisitos adicionales y/o incrementales que
+resultan aplicables a las entidades citadas previamente.
+
+Que, asimismo, a los fines de homogeneizar los procesos de supervisión respecto de las diferentes categorías de
+Agentes bajo supervisión de esta CNV, se incorporan ciertas disposiciones normativas orientadas a reglamentar el
+proceso de recomposición patrimonial aplicables a los Agentes inscriptos en la categoría de Asesor Global de
+Inversión.
+
+Que, por último, con la finalidad de lograr una adecuada implementación de la reforma normativa, se considera
+necesario establecer un cronograma de adecuación como disposición de carácter transitorio.
+
+Que la presente se dicta en ejercicio de las facultades conferidas por los artículos 19, incisos a), d), g), s), o) y u),
+29, 32, 35, 47, de la Ley N° 26.831 y 10 del Decreto N° 1017/24.
+
+
+
+Por ello,
+
+                                    LA COMISIÓN NACIONAL DE VALORES
+
+                                                     RESUELVE:
+
+ARTÍCULO 1°.- Sustituir el artículo 2° de la Sección I del Capítulo I del Título V de las NORMAS (N.T. 2013 y
+mod.), por el siguiente texto:
+
+“DOCUMENTACIÓN A PRESENTAR. REQUISITO PATRIMONIAL.
+
+ARTÍCULO 2°.- La Sociedad Gerente deberá presentar la documentación requerida en el Anexo I y poseer un
+Patrimonio Neto Mínimo equivalente a UNIDADES DE VALOR ADQUISITIVO CIENTO CINCUENTA MIL
+(UVA 150.000), debiendo incrementar el mismo en un monto equivalente a UNIDADES DE VALOR
+ADQUISITIVO VEINTE MIL (UVA 20.000) por cada Fondo Común de Inversión adicional que administre.
+Como Contrapartida Líquida, un mínimo del CINCUENTA POR CIENTO (50%) del importe del Patrimonio
+Neto Mínimo deberá estar invertido en su totalidad en activos elegibles indicados en el Anexo I del Capítulo I del
+Título VI de las presentes Normas, resultándole aplicables las pautas allí dispuestas.
+
+La Sociedad Gerente podrá desempeñar funciones adicionales a la administración de Fondos Comunes de
+Inversión que tengan por objeto la administración de inversiones, incluyendo servicios de: i) asesoramiento
+respecto de inversiones en el mercado de capitales; ii) gestión de órdenes de operaciones; y/o iii) administración
+de carteras de inversión, contando para ello con mandato expreso, a nombre y en interés de sus clientes, así como
+la colocación y distribución de cuotapartes de los fondos comunes de inversión bajo su administración y/o bajo la
+administración de otras sociedades gerentes, en los términos de lo dispuesto en la Sección IV del presente
+Capítulo. La Sociedad Gerente podrá asimismo inscribirse como Agente de Liquidación y Compensación y/o
+como Agente de Colocación y Distribución Integral de Fondos Comunes de Inversión.
+
+Aquellas Sociedades Gerentes que se encuentren inscriptas en otras categorías de Agentes compatibles, conforme
+las disposiciones normativas vigentes, deberán computar en concepto de Patrimonio Neto Mínimo requerido, la
+suma resultante del importe del Patrimonio Neto Mínimo exigido para la categoría de mayor monto, y el 50% de
+cada uno de los Patrimonios Netos Mínimos exigidos para las categorías restantes.
+
+Dicho monto deberá ser cumplido de manera permanente y acreditado en los Estados Contables anuales y de
+períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al cumplimiento del
+Régimen Informativo Permanente que resulte aplicable en cada caso”.
+
+ARTÍCULO 2°.- Sustituir el artículo 1° de la Sección I del Capítulo II del Título V de las NORMAS (N.T. 2013
+y mod.), por el siguiente texto:
+
+“DESIGNACIÓN DE AGENTES DE COLOCACIÓN Y DISTRIBUCIÓN.
+
+ARTÍCULO 1°.- Sin perjuicio de la colocación directa que pueda realizarse por medio del Agente de
+Administración de Productos de Inversión Colectiva de Fondos Comunes de Inversión y/o Agente de Custodia de
+Productos de Inversión Colectiva de Fondos Comunes de Inversión, los órganos activos de un Fondo Común de
+Inversión podrán celebrar –a su costo- convenios particulares con Agentes de Colocación y Distribución de
+Fondos Comunes de Inversión, sin que ello signifique desplazamiento de la responsabilidad que pudiera
+corresponderles a los Agentes de Administración de Productos de Inversión Colectiva de Fondos Comunes de
+Inversión y Agentes de Custodia de Productos de Inversión Colectiva de Fondos Comunes de Inversión.
+
+Los Agentes de Colocación y Distribución de Fondos Comunes de Inversión, previo al inicio de su actividad,
+deberán estar registrados en la CNV, debiendo para ello cumplir con todos los requisitos que a estos efectos
+establezca el Organismo.
+
+Podrán actuar como Agentes de Colocación y Distribución de Fondos Comunes de Inversión en los términos del
+artículo 2º de la Ley Nº 26.831, cualquier persona jurídica, incluyendo las entidades financieras autorizadas a
+actuar como tales en los términos de la Ley Nº 21.526.
+
+A los efectos de la inscripción en el registro respectivo, los Agentes de Colocación y Distribución de Fondos
+Comunes de Inversión deberán acompañar la siguiente información y documentación:
+
+a) Denominación social.
+b) Sede social inscripta.
+
+c) Número de teléfono, fax y dirección de correo electrónico.
+
+d) Copia del texto ordenado vigente del estatuto o del contrato social con constancia de su inscripción en el
+Registro Público u otra autoridad competente. Deberá estar prevista en el objeto social su actuación como Agente
+de Colocación y Distribución. Cuando se trate de una entidad financiera, deberá presentar constancia de su
+habilitación como tal por el BCRA.
+
+e) Acta de Directorio que resuelve la solicitud de inscripción en el Registro.
+
+f) Acreditación del Patrimonio Neto Mínimo no inferior a DIECISEIS MIL TRESCIENTAS CINCUENTA
+(16.350) UNIDADES DE VALOR ADQUISITIVO (UVA) mediante la presentación de los estados contables con
+una antigüedad que no exceda los CINCO (5) meses desde el inicio del trámite de inscripción en la CNV,
+acompañados del acta del órgano de administración que los apruebe, del informe del órgano de fiscalización y del
+dictamen del auditor con la firma legalizada por el consejo profesional correspondiente.
+
+Aquellos Agentes de Colocación y Distribución de Fondos Comunes de Inversión que se encuentren inscriptos en
+otras categorías de Agentes compatibles, conforme las disposiciones normativas vigentes, deberán computar en
+concepto de Patrimonio Neto Mínimo requerido, la suma resultante del importe del Patrimonio Neto Mínimo
+exigido para la categoría de mayor monto, y el 50% de cada uno de los Patrimonios Netos Mínimos exigidos para
+las categorías restantes.
+
+Dicho monto deberá ser cumplido de manera permanente y acreditado en los Estados Contables anuales y de
+períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al cumplimiento del
+régimen informativo que resulte aplicable en cada caso.
+
+g) Informe Especial de Contador Público Independiente con firma legalizada por el consejo profesional respectivo
+que acredite que la sociedad cuenta con una organización administrativa propia y adecuada para prestar el
+servicio ofrecido.
+
+h) Nómina de los miembros de los órganos de administración, fiscalización y gerentes de primera línea.
+
+i) Certificación expedida por el Registro Nacional de Reincidencia vinculada con la existencia o inexistencia de
+antecedentes penales respecto de los miembros de los órganos de administración y fiscalización.
+
+j) Copia certificada por ante escribano público del registro de accionistas a la fecha de la presentación.
+
+k) Declaración jurada individual, en caso de tratarse de una entidad financiera, de cada miembro del Directorio y
+de la Comisión Fiscalizadora, sobre la existencia de sanciones impuestas o sumarios iniciados por el BCRA.
+
+Los sujetos registrados bajo las categorías de Agentes de Liquidación y Compensación Propio o Integral o
+Integral - Agroindustrial y/o Agentes de Negociación, que soliciten la inscripción en el registro de Agentes de
+Colocación y Distribución de Fondos Comunes de Inversión deberán presentar exclusivamente la documentación
+requerida en los incisos e) y f) precedentes.
+
+A solicitud del Agente de Colocación y Distribución de Fondos Comunes de Inversión, la CNV procederá a
+inscribirlo en otras categorías de agentes compatibles con su actividad, previo cumplimiento de las disposiciones
+aplicables dispuestas por este Organismo en cada caso”.
+ARTÍCULO 3°.- Sustituir el artículo 23 de la Sección VI del Capítulo II del Título V de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“AGENTES DE COLOCACIÓN Y DISTRIBUCIÓN INTEGRAL DE FONDOS COMUNES DE INVERSIÓN.
+
+ARTÍCULO 23.- Los Agentes de Colocación y Distribución Integral de Fondos Comunes de Inversión, previo al
+inicio de su actividad, deberán estar registrados en la CNV, debiendo para ello cumplir con todos los requisitos
+que a estos efectos establezca el Organismo. Podrán actuar como Agentes de Colocación y Distribución Integral
+de Fondos Comunes de Inversión en los términos del artículo 2º de la Ley Nº 26.831, las Sociedades Gerentes de
+Fondos Comunes de Inversión, las entidades financieras autorizadas a actuar como tales en los términos de la Ley
+Nº 21.526 y los Agentes de Liquidación y Compensación Propio o Integral o Integral - Agroindustrial.
+
+Sin perjuicio de la colocación de cuotapartes que pueden realizar la Sociedad Gerente y/o la Sociedad Depositaria
+y/o los Agentes de Colocación y Distribución de Fondos Comunes de Inversión; las Sociedades Gerentes y
+Sociedades Depositarias podrán celebrar –a su costo- convenios particulares con Agentes de Colocación y
+Distribución Integral de Fondos Comunes de Inversión, sin que ello signifique desplazamiento de la
+responsabilidad que pudiera corresponderles a la Sociedad Gerente y Sociedad Depositaria, en virtud de lo
+dispuesto por el artículo 4º de la Ley Nº 24.083.
+
+No resultará necesaria la celebración de los convenios indicados precedentemente en los casos en que el Agente
+de Colocación y Distribución Integral se encuentre inscripto adicionalmente bajo la categoría de Agente de
+Liquidación y Compensación Propio o Integral o Integral - Agroindustrial y cuente con membresía en el Mercado
+que haya suscripto un acuerdo marco de colocación integral de cuotapartes de Fondos Comunes de Inversión con
+la Sociedad Gerente y la Sociedad Depositaria, o cuando el Agente de Colocación y Distribución Integral adhiera
+a dicho acuerdo marco.
+
+Los acuerdos marco de colocación integral de cuotapartes de Fondos Comunes de Inversión deberán encontrarse
+a disposición del Organismo y podrán prever que la actuación de un Agente de Colocación y Distribución Integral
+requiera la aceptación expresa de la Sociedad Gerente y la Sociedad Depositaria y permitir que la Sociedad
+Gerente y la Sociedad Depositaria limiten los Fondos Comunes de Inversión y clases de cuotapartes alcanzados
+por el acuerdo marco y/o la clase o tipo de inversores respecto de los cuales el Agente de Colocación y
+Distribución Integral podrá realizar los esfuerzos de comercialización.
+
+A los efectos de la inscripción en el registro respectivo, los Agentes de Colocación y Distribución Integral de
+Fondos Comunes de Inversión deberán acompañar la siguiente información y documentación:
+
+a) Denominación social.
+
+b) Sede social inscripta.
+
+c) Número de teléfono y dirección de correo electrónico.
+
+d) Copia del texto ordenado vigente del estatuto o del contrato social con constancia de su inscripción en el
+Registro Público que corresponda. Deberá estar prevista en el objeto social su actuación como Agente de
+Colocación y Distribución.
+
+Cuando se trate de una entidad financiera, deberá presentar constancia de su habilitación como tal por el BCRA.
+e) Acta de Directorio que resuelve la solicitud de inscripción en el Registro.
+
+f) En el caso de un Agente que revista el carácter de Sociedad Gerente de Fondos Comunes de Inversión y/o
+Agentes de Liquidación y Compensación Propio o Integral o Integral - Agroindustrial acreditación del Patrimonio
+Neto Mínimo no inferior a CIENTO SESENTA Y TRES MIL QUINIENTAS (163.500) UNIDADES DE
+VALOR ADQUISITIVO (UVA).
+
+Como Contrapartida Líquida, un mínimo del CINCUENTA POR CIENTO (50%) del importe del Patrimonio
+Neto Mínimo deberá observar las exigencias previstas en el Anexo I del Capítulo I del Título VI de estas Normas.
+
+A tales efectos se deberán presentar estados contables con una antigüedad que no exceda los CINCO (5) meses
+desde el inicio del trámite de inscripción en la CNV, acompañados del acta del órgano de administración que los
+apruebe, del informe del órgano de fiscalización y del dictamen del auditor con la firma legalizada por el consejo
+profesional correspondiente.
+
+Aquellos Agentes de Colocación y Distribución Integral de Fondos Comunes de Inversión que se encuentren
+inscriptos en otras categorías de Agentes compatibles, conforme las disposiciones normativas vigentes, deberán
+computar en concepto de Patrimonio Neto Mínimo requerido, la suma resultante del importe del Patrimonio Neto
+Mínimo exigido para la categoría de mayor monto, y el 50% de cada uno de los Patrimonios Netos Mínimos
+exigidos para las categorías restantes.
+
+Dicho monto deberá ser cumplido de manera permanente y acreditado en los Estados Contables anuales y de
+períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al cumplimiento del
+régimen informativo que resulte aplicable en cada caso.
+
+g) Nómina de los miembros de los órganos de administración y fiscalización y gerentes de primera línea.
+
+h) Declaración jurada de las personas mencionadas en el inciso anterior manifestando que no se encuentran
+comprendidas en las situaciones previstas en el artículo 9º de la Ley N° 24.083.
+
+i) Certificación expedida por el Registro Nacional de Reincidencia vinculada con la existencia o inexistencia de
+antecedentes penales respecto de los miembros de los órganos de administración y fiscalización.
+
+j) Informe Especial de Contador Público Independiente con firma legalizada por el consejo Profesional respectivo
+que acredite que la sociedad cuenta con una organización administrativa propia y adecuada para prestar el
+servicio ofrecido.
+
+k) Declaración jurada de prevención de lavado de activos y financiamiento del terrorismo firmada por cada uno
+de los miembros de los órganos de administración y fiscalización, informando que no cuentan con condena por
+delitos de lavado de activos y/o de financiamiento del terrorismo, ni figuran en listas de terroristas u
+organizaciones terroristas emitidas por el CONSEJO DE SEGURIDAD DE LAS NACIONES UNIDAS.
+
+l) Copia certificada por ante escribano público del registro de accionistas o documentación equivalente a la fecha
+de la presentación.
+
+m) Declaración jurada individual, en caso de tratarse de una entidad financiera, de cada miembro del Directorio y
+de la Comisión Fiscalizadora, sobre la existencia de sanciones impuestas o sumarios iniciados por el BCRA.
+
+En el desempeño de sus funciones, les serán exigibles a los Agentes de Colocación y Distribución Integral de
+Fondos Comunes de Inversión, en lo pertinente, las disposiciones legales y normativas aplicables a las Sociedades
+Gerentes y Sociedades Depositarias y a Agentes de Colocación y Distribución de Fondos Comunes de Inversión.
+
+Los sujetos registrados bajo las categorías de Agentes de Liquidación y Compensación Propio o Integral o
+Integral - Agroindustrial y/o Sociedad Gerente de Fondos Comunes de Inversión, que soliciten la inscripción en el
+registro de Agentes de Colocación y Distribución Integral de Fondos Comunes de Inversión deberán presentar
+exclusivamente la documentación requerida en los incisos e) y f) precedentes.
+
+A solicitud del Agente de Colocación y Distribución Integral de Fondos Comunes de Inversión, la CNV
+procederá a inscribir a la persona jurídica en otras categorías de agentes compatibles con su actividad, previo
+cumplimiento de las disposiciones aplicables dispuestas por este Organismo en cada caso”.
+
+ARTÍCULO 4°.- Sustituir el artículo 7° de la Sección IV del Capítulo IV del Título V de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“REQUISITOS PARA LA SOLICITUD DE INSCRIPCIÓN EN CARÁCTER DE AGENTES DE
+ADMINISTRACIÓN DE PRODUCTOS DE INVERSIÓN COLECTIVA. REGISTRO DE FIDUCIARIOS.
+
+ARTÍCULO 7º.- A los efectos de lo dispuesto en el artículo 1673 del Código Civil y Comercial de la Nación, los
+fiduciarios financieros deberán solicitar la inscripción en el “Registro de Fiduciarios Financieros”, acompañando
+la información y documentación que se detalla a continuación:
+
+a) Denominación social.
+
+b) Sede social inscripta. En caso de contar con sucursales o agencias deberá indicar además los lugares donde
+ellas se encuentran ubicadas.
+
+c) Números de teléfono y dirección de correo electrónico.
+
+d) Lugar donde se encuentran los libros de comercio o registros contables.
+
+e) Copia del texto ordenado vigente del estatuto o del contrato social con constancia de su inscripción en el
+Registro Público u otra autoridad competente. Debe preverse en su objeto social la actuación como fiduciario en
+la República Argentina.
+
+f) Nómina de los miembros del órgano de administración, de fiscalización y de los gerentes de primera línea, los
+que deberán acreditar versación en temas empresarios, financieros o contables.
+
+Deberá acompañarse copia autenticada de los instrumentos que acrediten tales designaciones y la aceptación de
+los cargos correspondientes.
+
+g) Copia certificada por escribano público del registro de accionistas a la fecha de presentación.
+
+h) Deberán informarse con carácter de declaración jurada los datos y antecedentes personales de los miembros de
+los órganos de administración, de fiscalización y gerentes de primera línea, de acuerdo con las especificaciones
+del Anexo II del presente Capítulo. Dicha declaración jurada deberá incluir una manifestación expresa referida a
+las inhabilidades e incompatibilidades del artículo 10 de la Ley de Entidades Financieras N° 21.526. Asimismo,
+deberá acompañarse certificación expedida por el Registro Nacional de Reincidencia vinculada con la existencia
+o inexistencia de antecedentes penales. Dicha información deberá ser actualizada en oportunidad de eventuales
+modificaciones, dentro de los DIEZ (10) días hábiles de producidas las mismas.
+
+i) Copia certificada por escribano público de la resolución social que resuelve la solicitud de inscripción en el
+registro de fiduciarios financieros.
+
+j) Acreditación del Patrimonio Neto Mínimo aplicable: se requiere un Patrimonio Neto Mínimo no inferior a un
+monto equivalente a UNIDADES DE VALOR ADQUISITIVO NOVECIENTAS CINCUENTA MIL (UVA
+950.000.-). Como Contrapartida Líquida, un mínimo del CINCUENTA POR CIENTO (50%) del importe del
+Patrimonio Neto Mínimo, deberá observar las exigencias previstas en el Anexo I del Capítulo I del Título VI de
+estas Normas. Los estados contables correspondientes, deberán contener nota en la que se exprese el monto del
+Patrimonio Neto Mínimo en UVA consignándose su valor a la fecha de cierre del estado contable. Se deberán
+presentar estados contables con una antigüedad que no exceda los CINCO (5) meses desde el inicio del trámite de
+inscripción en la CNV, que se encuentren examinados por contador público independiente conforme las normas
+de auditoría exigidas para ejercicios anuales, con firma legalizada por el respectivo Consejo Profesional.
+Asimismo, se deberá acompañar copias certificadas del acta del órgano de administración y fiscalización que los
+apruebe y en su caso la documentación inherente a la fianza bancaria constituida.
+
+Aquellos Fiduciarios Financieros que se encuentren inscriptos en otras categorías de Agentes compatibles,
+conforme las disposiciones normativas vigentes, deberán computar en concepto de Patrimonio Neto Mínimo
+requerido, la suma resultante del importe del Patrimonio Neto Mínimo exigido para la categoría de mayor monto,
+y el 50% de cada uno de los Patrimonios Netos Mínimos exigidos para las categorías restantes.
+
+Dicho monto deberá ser cumplido de manera permanente y acreditado en los Estados Contables anuales y de
+períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al cumplimiento del
+régimen informativo que resulte aplicable en cada caso.
+
+k) Informe Especial de Contador Público independiente con firma legalizada por el consejo profesional respectivo
+que acredite que la sociedad cuenta con una organización administrativa propia y adecuada para prestar el
+servicio como fiduciario.
+
+l) Acreditación de la inscripción en los organismos fiscales y de previsión que correspondan y declaración jurada
+de inexistencia de obligaciones fiscales y/o previsionales pendientes de cumplimiento.
+
+m) Número de CUIT (Código Único de Identificación Tributaria).
+
+n) Declaración jurada conforme Anexo II del Título XV- Autopista de la Información Financiera suscripto por el
+representante legal de la sociedad, con firma certificada por escribano público o firma digital de acuerdo a lo
+previsto en la Ley N° 25.506.
+
+o) Declaración jurada de Prevención del Lavado de Activos y Financiamiento del Terrorismo: deberá ser
+completada y firmada por cada uno de los miembros de los órganos de administración y de fiscalización,
+informando que no cuentan con condenas por delitos de lavado de dinero y/o de financiamiento del terrorismo, ni
+figuran en listas de terroristas u organizaciones terroristas emitidas por el CONSEJO DE SEGURIDAD DE LAS
+NACIONES UNIDAS.
+
+p) Datos completos de los Auditores externos, constancia de su registro en el registro de auditores externos que
+lleva la CNV y copia certificada por escribano público del acta correspondiente a la reunión del órgano de
+administración o asamblea en la que fue designado el auditor externo.
+q) Código de Protección al Inversor.
+
+La información requerida por la CNV deberá mantenerse actualizada durante todo el tiempo que dure la
+inscripción.
+
+Sin perjuicio de la documentación expuesta anteriormente, la CNV podrá requerir toda otra información
+complementaria que resulte necesaria a los fines del cumplimiento de su actividad, conforme a las normas y
+reglamentaciones vigentes. A los fines de su asiento en el Registro de Fiduciarios Financieros, las entidades
+financieras del inciso a) del artículo 6° del Capítulo IV del Título V de estas Normas, deberán presentar a la CNV
+la información y documentación detallada precedentemente, quedando sujetas al régimen informativo dispuesto
+en el presente Capítulo.
+
+Inscripción en otros registros compatibles. A solicitud de las entidades, la CNV procederá a inscribirlas en otras
+categorías de agentes compatibles con su actividad, previo cumplimiento de las disposiciones aplicables
+dispuestas por este Organismo en cada caso”.
+
+ARTÍCULO 5°.- Sustituir el artículo 12 de la Sección III del Capítulo I del Título VI de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“MONTO PATRIMONIO NETO MÍNIMO.
+
+ARTÍCULO 12.- Los Mercados deberán contar con un patrimonio neto no inferior a un monto equivalente a
+UNIDADES DE VALOR ADQUISITIVO (UVA) DOS MILLONES SETECIENTOS MIL (UVA 2.700.000).
+Cuando asimismo dichos Mercados desempeñen las funciones asignadas a las Cámaras Compensadoras de
+acuerdo con lo previsto en los artículos 32 y 35 de la Ley Nº 26.831, el monto del patrimonio neto mínimo no
+deberá ser inferior a UVA VEINTE MILLONES (UVA 20.000.000). En ambos supuestos, el patrimonio neto
+mínimo exigible deberá ser incrementado en un monto equivalente al VEINTICINCO POR CIENTO (25%) por
+cada actividad afín y/o complementaria desarrollada conforme lo previsto en el artículo 9° BIS del presente
+Capítulo.
+
+Aquellos Mercados -con o sin funciones de Cámaras Compensadoras- que se encuentren inscriptos en la categoría
+de ACRYP, conforme las disposiciones del presente Capítulo, deberán computar en concepto de patrimonio neto
+mínimo requerido, la suma resultante del importe del patrimonio neto mínimo exigido para la categoría de mayor
+monto, y el 50% del patrimonio neto mínimo exigido para la restante categoría, debiéndose calcular el incremento
+del VEINTICINCO POR CIENTO (25%) mencionado precedentemente sobre el patrimonio neto mínimo exigido
+a la/s respectiva/s categoría/s vinculada/s a la actividad en cuestión.
+
+No resultará exigible el incremento previsto por cada actividad afín y/o complementaria contemplada en el
+artículo 9° BIS del presente Capítulo respecto de: (i) aquellas actividades que desarrollen los Mercados en su
+calidad de Infraestructura del Mercado Financiero (IMF) habilitada por el Banco Central de la República
+Argentina (BCRA), conforme el Texto Ordenado “Principios de las Infraestructuras de Mercado Financiero” y
+sus modificatorias del BCRA; y (ii) toda otra actividad afín y/o complementaria que, de igual forma, se encuentre
+bajo supervisión y/o vigilancia de dicha autoridad.
+
+El monto del patrimonio neto mínimo deberá ser cumplido de manera permanente y deberá surgir de los estados
+contables anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al
+cumplimiento del régimen informativo que resulte aplicable en cada caso.
+Los estados contables trimestrales y anuales deberán ser acompañados con el acta del órgano de administración
+que los apruebe, el informe del órgano de fiscalización y el informe o dictamen del auditor con la firma legalizada
+por el consejo profesional correspondiente. Tanto el órgano de fiscalización en su informe, como el auditor en su
+informe o dictamen, deberán además expedirse específicamente respecto de la adecuación del patrimonio neto
+mínimo y de los Fondos de Garantía II y III, conforme a las exigencias establecidas en el presente Título.
+
+Los estados contables anuales deberán ser acompañados con la Memoria del órgano de administración sobre la
+gestión del ejercicio y el acta de asamblea que los apruebe”.
+
+ARTÍCULO 6°. - Sustituir el Anexo I del Capítulo I del Título VI de las NORMAS (N.T. 2013 y mod.), por el
+siguiente texto:
+
+
+                                                “ANEXO I
+
+
+   REQUISITOS A OBSERVAR PARA LA CONSTITUCIÓN DEL FONDO DE GARANTÍA III Y/O
+                           CONTRAPARTIDA LÍQUIDA.
+
+
+
+
+1. SUJETOS ALCANZADOS. El presente ANEXO es aplicable a los Mercados, las Cámaras
+Compensadoras, los Agentes de Negociación, los Agentes de Liquidación y Compensación, los Agentes
+de Corretaje de Valores Negociables, al Agente Depositario Central de Valores Negociables, al Agente de
+Custodia, Registro y Pago, los Agentes de Administración de Productos de Inversión Colectiva
+(Fiduciarios Financieros y Agentes de Administración de Productos de Inversión Colectiva de Fondos
+Comunes de Inversión), y a los Agentes de Colocación y Distribución Integral de Fondos Comunes de
+Inversión.
+
+
+
+
+2. LISTA DE ACTIVOS ELEGIBLES. La contrapartida líquida mínima exigida y el Fondo de Garantía
+III, deberán estar constituidos por los siguientes activos:
+
+
+
+
+Activos disponibles en pesos y en otras monedas:
+
+
+Saldos de titularidad de los sujetos alcanzados que correspondan a fondos propios, depositados en cuentas
+a la vista abiertas en bancos locales y en bancos del exterior; respecto de estos últimos, siempre que no se
+encuentren incluidos en el listado de jurisdicciones no cooperantes a los fines de la transparencia fiscal en
+los términos del artículo 24 del Anexo integrante del Decreto N° 862/2019, y que no sean considerados de
+alto riesgo por el Grupo de Acción Financiera Internacional (GAFI).
+
+
+En Plazos Fijos precancelables en período de precancelación constituidos en bancos locales.
+
+
+En cuentas abiertas en el Banco Central de la República Argentina (BCRA).
+
+
+
+
+Activos en instrumentos locales:
+
+
+Acciones que conforman el índice S&P BYMA.
+
+
+Letras del Tesoro con negociación secundaria.
+
+
+Títulos Públicos Nacionales con negociación secundaria.
+
+
+Títulos Públicos Provinciales con negociación secundaria hasta un máximo del 20% del valor de la
+contrapartida líquida.
+
+
+Títulos Emitidos por el BCRA con negociación secundaria.
+
+
+Títulos de Deuda Privados Locales con negociación secundaria hasta un máximo del 20% del valor de la
+contrapartida líquida.
+
+
+Cuotapartes de Fondos Comunes de Inversión con liquidación de rescates dentro de las 72 horas.
+
+
+Acreencias de titularidad de los AN y ALyC, registradas en las cuentas comitentes abiertas en el ADCVN
+declaradas como propias, que se encuentren disponibles y no correspondan a terceros clientes.
+
+
+Las sumas de dinero invertidas en cauciones colocadoras garantizadas por el Mercado, por un plazo que
+no exceda de TREINTA (30) días. La valuación de las cauciones colocadoras se realizará por el criterio de
+capital más intereses devengados.
+Hasta un máximo del 30% del valor de la contrapartida líquida, las sumas de dinero colocadas en
+operaciones de negociación de cheques de pago diferido avalados por SGRs o garantizados por Entidades
+Financieras u otras modalidades de entidades de garantía previstas en la Ley Nº 25.300. La valuación de la
+inversión se realizará por el criterio del monto nominal del cheque negociado descontado por la tasa
+proporcional.
+
+
+Hasta un máximo del 30% del valor de la contrapartida líquida, las sumas de dinero colocadas en
+operaciones de negociación de pagarés emitidos en moneda local avalados por SGRs o garantizados por
+Entidades Financieras u otras modalidades de entidades de garantía previstas en la Ley Nº 25.300. La
+valuación de la inversión se realizará por el criterio del monto nominal del pagaré negociado descontado
+por la tasa proporcional.
+
+
+Las sumas de dinero y/o los valores negociables depositados en Mercados o Cámaras Compensadoras, a
+favor de los ALyC y los AN, en concepto de garantías, márgenes o reposiciones exigidos por tales
+Mercados o Cámaras Compensadoras, siempre que tales activos importen un exceso respecto de las
+respectivas exigencias, se encuentren disponibles para su retiro y sean de titularidad de los Agentes.
+
+
+
+
+Activos en instrumentos con subyacentes extranjeros:
+
+
+Certificados de Depósito de Acciones en Argentina (CEDEARs) hasta un máximo del 20% del valor de la
+contrapartida líquida.
+
+
+
+
+3. FIANZA BANCARIA SÓLO EN CASO DE CONTRAPARTIDA LÍQUIDA: Los sujetos alcanzados
+podrán reemplazar hasta el CINCUENTA POR CIENTO (50%) de la contrapartida líquida mínima
+exigida, contratando una Fianza Bancaria por el importe del valor reemplazado. En este caso, deberán
+presentar previamente ante la Comisión el texto de la Fianza Bancaria para su aprobación, con cláusula de
+principal pagador por tiempo determinado de tipo permanente, de manera que ampare a terceros por todas
+las obligaciones que se deriven para el sujeto alcanzado por el ejercicio de la actividad específica, que
+deberá efectivizarse a quien la Comisión indique. La entidad que otorgue la Fianza Bancaria deberá ser
+alguna de las autorizadas por el Banco Central de la República Argentina. Los sujetos deberán presentar la
+renovación de la Fianza Bancaria con QUINCE (15) días corridos de anticipación al vencimiento de su
+vigencia. En caso de tratarse de una nueva Fianza Bancaria, deberán presentar el texto con QUINCE (15)
+días corridos de anticipación, a los efectos de su aprobación por parte de la Comisión antes de su
+constitución definitiva.
+4. INDIVIDUALIZACIÓN DE ACTIVOS. Los valores negociables y sus acreencias, que constituyan
+total o parcialmente la contrapartida líquida del importe del Patrimonio Neto Mínimo y/o los activos que
+conforman el Fondo de Garantía III, deberán encontrarse en custodia en una entidad autorizada por la
+Comisión a tales efectos, en cuentas bajo titularidad de los sujetos alcanzados con el aditamento
+“Contrapartida Líquida” o “Fondo de Garantía III”.
+
+
+
+
+5. NOTA A LOS ESTADOS CONTABLES. En los estados contables de períodos intermedios y anuales,
+los sujetos alcanzados deberán informar por nota el detalle de la composición del valor de la contrapartida
+líquida y en caso de corresponder el detalle de la composición de los Fondos de Garantía II y III,
+individualizando los conceptos e importes integrantes, incluyendo datos de la Fianza Bancaria en caso de
+existir.
+
+
+
+
+6. RÉGIMEN INFORMATIVO. Los sujetos alcanzados -excepto los Agentes de Administración de
+Productos de Inversión Colectiva (Fiduciarios Financieros, Agentes de Administración de Productos de
+Inversión Colectiva de Fondos Comunes de Inversión), Agentes de Colocación y Distribución Integral de
+Fondos Comunes de Inversión, los Mercados y las Cámaras Compensadoras- deberán remitir
+semanalmente a la Comisión, dentro de los TRES (3) días hábiles siguientes de finalizada la semana, por
+medio de la AUTOPISTA DE LA INFORMACIÓN FINANCIERA (AIF), detalle diario de los activos
+que conforman la contrapartida líquida, con su respectiva valuación a valor de realización y/o de mercado
+según corresponda, respecto de cada día de la semana anterior, indicando entidad, número y denominación
+completa de la cuenta donde se encuentran en custodia y depositados, completando los campos expuestos
+en el Formulario habilitado a estos efectos por este Organismo.
+
+
+
+
+7. PLAZO PARA RECOMPOSICIÓN EN CONTRAPARTIDA LÍQUIDA. Cuando el valor de la
+contrapartida líquida sea menor al porcentaje de contrapartida líquida mínima exigido para cada categoría,
+los sujetos alcanzados deberán inmediatamente informar dicha circunstancia a la Comisión acompañando
+el detalle de las medidas que adoptarán para la recomposición en un plazo que no podrá superar los TRES
+(3) días hábiles. Vencido este plazo, deberán acreditar la adecuación.
+8. CÓMPUTO ACTIVOS FONDO DE GARANTÍA III Y/O CONTRAPARTIDA LÍQUIDA -
+APLICABLE A MERCADOS Y/O CÁMARAS COMPENSADORAS INSCRIPTAS COMO ACRYP.
+Cuando un Mercado –con funciones de Cámara Compensadora- y/o una Cámara Compensadora se
+encuentre simultáneamente inscripto en la categoría de ACRYP, deberá computar la sumatoria de las
+exigencias mínimas de liquidez establecidas por cada uno de los conceptos mencionados y requeridos a
+cada una de las mencionadas categorías y, en consecuencia, dar cumplimiento a la totalidad de las
+disposiciones de liquidez mínima aplicables de manera integral y acumulativa.
+
+
+
+
+9. CÓMPUTO DEL MONTO DE CONTRAPARTIDA LÍQUIDA MÍNIMA TOTAL -APLICABLE A
+AGENTES QUE SE ENCUENTREN INSCRIPTOS EN MÁS DE UN REGISTRO COMPATIBLE.
+Cuando un Agente se encuentre simultáneamente inscripto en más de una categoría de inscripción
+compatibles entre sí, deberá acreditar en concepto de Contrapartida Líquida Mínima Total, el monto
+resultante de la sumatoria de las exigencias mínimas de liquidez establecidas por cada una de las
+categorías en las cuales se encuentre inscripto”.
+
+
+ARTÍCULO 7°. - Sustituir el artículo 7° de la Sección III del Capítulo II del Título VI de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“MONTO PATRIMONIO NETO MÍNIMO.
+
+ARTÍCULO 7°.- Las Cámaras Compensadoras deberán contar con un patrimonio neto no inferior a un monto
+equivalente a UNIDADES DE VALOR ADQUISITIVO (UVA) DIECISIETE MILLONES TRESCIENTOS MIL
+(UVA 17.300.000). Dicho patrimonio neto mínimo deberá ser incrementado en un monto equivalente al
+VEINTICINCO POR CIENTO (25%) por cada actividad afín y/o complementaria desarrollada conforme el
+artículo 1° del presente Capítulo.
+
+Aquellas Cámaras Compensadoras que se encuentren inscriptas en la categoría de ACRYP, conforme las
+disposiciones del presente Capítulo, deberán computar en concepto de patrimonio neto mínimo requerido, la suma
+resultante del importe del patrimonio neto mínimo exigido para la categoría de mayor monto, y el 50% del
+patrimonio neto mínimo exigido para la restante categoría, debiéndose calcular el incremento del VEINTICINCO
+POR CIENTO (25%) mencionado precedentemente sobre el patrimonio neto mínimo exigido a la/s respectiva/s
+categoría/s vinculada/s a la actividad en cuestión.
+
+No resultará exigible el incremento previsto por cada actividad afín y/o complementaria contemplada en el
+artículo 1° del presente Capítulo respecto de: (i) aquellas actividades que desarrollen las Cámaras Compensadoras
+en su calidad de Infraestructura del Mercado Financiero (IMF) habilitada por el Banco Central de la República
+Argentina (BCRA), conforme el Texto Ordenado “Principios de las Infraestructuras de Mercado Financiero” y
+sus modificatorias del BCRA; y (ii) toda otra actividad afín y/o complementaria que, de igual forma, se encuentre
+bajo supervisión y/o vigilancia de dicha autoridad.
+
+El monto del patrimonio neto mínimo deberá ser cumplido de manera permanente y deberá surgir de los estados
+contables anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al
+cumplimiento del régimen informativo que resulte aplicable en cada caso.
+
+Los estados contables trimestrales y anuales deberán ser acompañados con el acta del órgano de administración
+que los apruebe, el informe del órgano de fiscalización y el informe o dictamen del auditor con la firma legalizada
+por el consejo profesional correspondiente. Tanto el órgano de fiscalización en su informe, como el auditor en su
+informe o dictamen, deberán además expedirse específicamente respecto de la adecuación del patrimonio neto
+mínimo y de los Fondos de Garantía II y III, conforme a las exigencias establecidas en el presente Título.
+
+Los estados contables anuales deberán ser acompañados con la Memoria del órgano de administración sobre la
+gestión del ejercicio y el acta de asamblea que los apruebe”.
+
+ARTÍCULO 8°.- Incorporar como artículo 19 BIS del Capítulo IV del Título VII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“RECOMPOSICIÓN PATRIMONIO NETO MÍNIMO.
+
+ARTÍCULO 19 BIS.- En caso de incumplimiento al monto requerido en concepto de Patrimonio Neto Mínimo
+establecido en el presente Capítulo; ya sea que dicha circunstancia sea detectada en oportunidad de la
+presentación de los estados contables anuales o en cualquier otro momento, el Agente deberá informar como
+hecho relevante dicha eventualidad a la Comisión; acompañando el detalle de las medidas que adoptará para la
+recomposición en un plazo que no podrá superar los DIEZ (10) días hábiles. Vencido el plazo indicado sin
+acreditar la adecuación, el AAGI deberá abstenerse de ejercer toda actividad como tal”.
+
+ARTÍCULO 9°.- Sustituir el artículo 3° del Capítulo VII del Título VII de las NORMAS (N.T. 2013 y mod.), por
+el siguiente texto:
+
+“INSCRIPCIÓN EN OTROS REGISTROS COMPATIBLES – REQUISITOS ADICIONALES.
+
+ARTÍCULO 3°.- A solicitud del Agente, la Comisión procederá a inscribir a la persona jurídica en otras
+categorías de agentes compatibles con su actividad, previo cumplimiento de las disposiciones aplicables
+dispuestas por este Organismo en cada caso. Con respecto a las exigencias patrimoniales y de liquidez, los
+Agentes deberán cumplir con el patrimonio neto mínimo total reglamentado en el artículo 31 del presente
+capítulo; así como también acreditar el cumplimiento permanente de la contrapartida líquida mínima total
+establecida, conforme las disposiciones en el punto 9 del Anexo I del Capítulo I del Título VI de las presentes
+Normas”.
+
+ARTÍCULO 10.- Incorporar como artículo 31 del Capítulo VII del Título VII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“DISPOSICIONES COMUNES AN Y ALYC - REQUISITOS ADICIONALES PARA EL CÓMPUTO DEL
+PATRIMONIO NETO MÍNIMO Y LA CONTRAPARTIDA LÍQUIDA MÍNIMA, APLICABLES A AGENTES
+CON MÚLTIPLES INSCRIPCIONES.
+
+ARTÍCULO 31.- Aquellos AN y ALyC que se encuentren inscriptos en otras categorías compatibles, conforme
+las disposiciones normativas vigentes, deberán computar en concepto de patrimonio neto mínimo total, el
+patrimonio neto mínimo exigido para la categoría de inscripción de mayor monto, y adicionar el CINCUENTA
+POR CIENTO (50%) de cada uno de los patrimonios netos mínimos exigidos para las categorías restantes.
+Asimismo, en relación al cómputo de la contrapartida mínima total deberá estarse a lo dispuesto en el punto 9 del
+Anexo I del Capítulo I del Título VI de las presentes Normas.
+
+Los montos establecidos en concepto de patrimonio neto mínimo total y contrapartida líquida mínima total
+deberán ser observados de manera permanente y acreditados en los estados contables anuales y de períodos
+intermedios, conforme el régimen informativo aplicable en cada caso”.
+
+ARTÍCULO 11.- Sustituir el artículo 10 de la Sección IV del Capítulo I del Título VIII de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“MONTO PATRIMONIO NETO MÍNIMO.
+
+ARTÍCULO 10.- Los ADCVN deberán contar con un patrimonio neto mínimo no inferior a un monto equivalente
+a UNIDADES DE VALOR ADQUISITIVO (UVA) VEINTICINCO MILLONES QUINIENTOS MIL (UVA
+25.500.000). Dicho patrimonio neto mínimo deberá ser incrementado en un monto equivalente al VEINTICINCO
+POR CIENTO (25%) por cada actividad afín y/o complementaria desarrollada conforme lo previsto en el artículo
+1° del presente Capítulo.
+
+De conformidad con lo dispuesto en el presente Capítulo y virtud que los ADCVN podrán asimismo actuar en
+calidad de ACRYP y, a tales fines, se encuentran automáticamente inscriptos en dicha categoría, los mismos
+deberán considerar y acreditar el patrimonio neto mínimo previsto en el presente artículo, debiéndose calcular el
+incremento del VEINTICINCO POR CIENTO (25%) mencionado precedentemente sobre dicho patrimonio neto
+mínimo.
+
+No resultará exigible el incremento previsto por cada actividad afín y/o complementaria contemplada en el
+artículo 1° del presente Capítulo respecto de: (i) aquellas actividades que desarrollen los ADCVN en su calidad
+de Infraestructura del Mercado Financiero (IMF) habilitada por el Banco Central de la República Argentina
+(BCRA), conforme el Texto Ordenado “Principios de las Infraestructuras de Mercado Financiero” y sus
+modificatorias del BCRA; y (ii) toda otra actividad afín y/o complementaria que, de igual forma, se encuentre
+bajo supervisión y/o vigilancia de dicha autoridad.
+
+El monto del patrimonio neto mínimo deberá ser cumplido de manera permanente y deberá surgir de los estados
+contables anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al
+cumplimiento del régimen informativo que resulte aplicable en cada caso.
+
+Los estados contables trimestrales y anuales deberán ser acompañados con el acta del órgano de administración
+que los apruebe, el informe del órgano de fiscalización y el informe o dictamen del auditor con la firma legalizada
+por el consejo profesional correspondiente. Tanto el órgano de fiscalización en su informe, como el auditor en su
+informe o dictamen, deberán además expedirse específicamente respecto de la adecuación del patrimonio neto
+mínimo y de su contrapartida líquida conforme a las exigencias establecidas en el presente Capítulo.
+
+Los estados contables anuales deberán ser acompañados con la Memoria del órgano de administración sobre la
+gestión del ejercicio y el acta de asamblea que los apruebe”.
+
+ARTÍCULO 12.- Sustituir el artículo 12 de la Sección IV del Capítulo I del Título VIII de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“CONTRAPARTIDA-LÍQUIDA.
+ARTÍCULO 12.- Como contrapartida líquida, un mínimo del VEINTE POR CIENTO (20%) del importe del
+patrimonio neto mínimo deberá observar las exigencias y condiciones dispuestas en el Anexo I del Capítulo I
+Mercados del Título VI.
+
+De conformidad con lo dispuesto en el presente Capítulo y en virtud que los ADCVN podrán asimismo actuar en
+calidad de ACRYP y, a tales fines, se encuentran automáticamente inscriptos en dicha categoría, los mismos
+deberán acreditar la contrapartida líquida mínima prevista en el presente artículo considerando el monto del
+patrimonio neto mínimo dispuesto en el presente Capítulo”.
+
+ARTÍCULO 13.- Sustituir el artículo 10 de la Sección II del Capítulo II del Título VIII de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“INSCRIPCIÓN EN OTROS REGISTROS COMPATIBLES.
+
+ARTÍCULO 10.- Salvo que el ACRYP se encuentren simultáneamente inscripto en la categoría de ADCVN, a
+solicitud del mismo la Comisión procederá a inscribir a la sociedad en otras categorías de agentes compatibles
+con su actividad o bien como Mercado o Cámara Compensadora, previo cumplimiento de las disposiciones
+aplicables dispuestas por este Organismo en cada caso.
+
+En aquellos supuestos en que los ACRYP, se encuentren inscriptos en cualquier otra de las aludidas categorías,
+estos deberán:
+
+a) Asegurar una segregación funcional y administrativa que permita el funcionamiento como unidades operativas
+o de negocio autónomas e independientes de las categorías en las que se encuentren inscriptos ante esta Comisión,
+y que posibilite la registración y apertura de los ingresos y egresos propios de cada una de esas unidades
+operativas o de negocios; y
+
+b) poseer una estructura organizativa, operativa y de control acorde al tipo, complejidad y volumen de negocios
+que desarrolle.
+
+Los manuales de procedimientos relativos al cumplimiento de los requisitos de organización interna a ser
+implementados sobre el particular deberán estar a disposición de la Comisión”.
+
+ARTÍCULO 14.- Sustituir el artículo 13 de la Sección IV del Capítulo II del Título VIII de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“MONTO PATRIMONIO NETO MÍNIMO.
+
+ARTÍCULO 13.- Los ACRYP deberán contar con un patrimonio neto no inferior a un monto equivalente a
+UNIDADES DE VALOR ADQUISITIVO (UVA) DIEZ MILLONES (UVA 10.000.000). Dicho patrimonio neto
+mínimo deberá ser incrementado en un monto equivalente al VEINTICINCO POR CIENTO (25%) por cada
+actividad afín y/o complementaria desarrollada conforme lo previsto en el artículo 2° del presente Capítulo.
+
+Aquellos ACRYP que se encuentren inscriptas en otros registros compatibles conforme el artículo 10° del
+presente Capítulo, deberán computar en concepto de patrimonio neto mínimo requerido, la suma resultante del
+importe del patrimonio neto mínimo exigido para la categoría de mayor monto, y el 50% de cada uno de los
+patrimonios netos mínimos exigidos para las categorías restantes, debiéndose calcular el incremento del
+VEINTICINCO POR CIENTO (25%) mencionado precedentemente sobre el patrimonio neto mínimo exigido a
+la/s respectiva/s categoría/s vinculada/s a la actividad en cuestión.
+
+No resultará exigible el incremento previsto por cada actividad afín y/o complementaria contemplada en el
+artículo 2° del presente Capítulo respecto de: (i) aquellas actividades que desarrollen los ACRYP en su calidad de
+Infraestructura del Mercado Financiero (IMF) habilitada por el Banco Central de la República Argentina
+(BCRA), conforme el Texto Ordenado “Principios de las Infraestructuras de Mercado Financiero” y sus
+modificatorias del BCRA; y (ii) toda otra actividad afín y/o complementaria que, de igual forma, se encuentre
+bajo supervisión y/o vigilancia de dicha autoridad.
+
+El monto del patrimonio neto mínimo deberá ser cumplido de manera permanente y deberá surgir de los estados
+contables anuales y de períodos intermedios, según corresponda, de conformidad con las disposiciones relativas al
+cumplimiento del régimen informativo que resulte aplicable en cada caso.
+
+Los estados contables trimestrales y anuales deberán ser acompañados con el acta del órgano de administración
+que los apruebe, el informe del órgano de fiscalización y el informe o dictamen del auditor con la firma legalizada
+por el consejo profesional correspondiente. Tanto el órgano de fiscalización en su informe, como el auditor en su
+informe o dictamen, deberán además expedirse específicamente respecto de la adecuación del patrimonio neto
+mínimo y de su contrapartida líquida conforme a las exigencias establecidas en el presente Capítulo.
+
+Los estados contables anuales deberán ser acompañados con la Memoria del órgano de administración sobre la
+gestión del ejercicio y el acta de asamblea que los apruebe”.
+
+ARTÍCULO 15.- Sustituir el artículo 15 de la Sección IV del Capítulo II del Título VIII de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“CONTRAPARTIDA LIQUIDA
+
+ARTÍCULO 15.- Como contrapartida líquida, un mínimo del VEINTE POR CIENTO (20%) del importe del
+patrimonio neto mínimo deberá observar las exigencias y condiciones dispuestas en el Anexo I del Capítulo I
+Mercados del Título VI”.
+
+ARTÍCULO 16.- Sustituir los apartados 39) y 40) del inciso G) del artículo 11 de la Sección IV del Capítulo I del
+Título XV de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+
+“INFORMACIÓN QUE DEBE REMITIRSE POR MEDIO DE LA AUTOPISTA DE LA INFORMACIÓN
+FINANCIERA.
+
+ARTÍCULO 11.- (…)
+
+G) MERCADOS: (…)
+
+39) MER_039 – Código de conducta.
+
+40) MER_ 042 – Fondo de Garantía III- Detalle de Activos Elegibles”.
+
+ARTÍCULO 17.- Sustituir el inciso H) del artículo 11 de la Sección IV del Capítulo I del Título XV de las
+NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+
+“INFORMACIÓN QUE DEBE REMITIRSE POR MEDIO DE LA AUTOPISTA DE LA INFORMACIÓN
+FINANCIERA.
+
+ARTÍCULO 11.- (…)
+
+H) CÁMARAS COMPENSADORAS:
+
+1) MUG_028 – Estatuto social vigente.
+
+2) MUG_002 – Datos básicos del administrado. Declaración de domicilios y sucursales.
+
+3) MUG_005 – Organigrama.
+
+4) MUG_008 – Composición del capital y tenencias
+
+5) MUG_021 – Actas de asamblea.
+
+6) MUG_022 – Actas de directorio
+
+7) MUG_023 – Actas de órgano de fiscalización.
+
+8) MUG_013 – Nóminas de directores
+
+9) MUG_016 – Nómina de los miembros de los órganos de fiscalización.
+
+10) MUG_010 – Bajas y licencias de miembros de los órganos de administración y fiscalización.
+
+11) MUG_015 – Nómina de gerentes
+
+12) RYC_001 – Auditores externos.
+
+13) MER_014 –Sistema informático liquidación y compensación de operaciones.
+
+14) MER_016 – Derechos y aranceles.
+
+15) MER_017 – Estudio tarifario.
+
+16) MER_039 – Código de conducta.
+
+17) ACR_017 – Manuales de procedimiento.
+
+18) AGM_001 – Descripción de mecanismos de control interno.
+
+19) MER_019 – Manuales de procedimiento transparencia.
+
+20) MER_003 – Reglamentos vigentes.
+
+21) MER_004 – Normativas vigentes.
+
+22) ACR_017 – Informe organización administrativa adecuada.
+
+23) MER_002 – Membresías cámaras compensadoras.
+24) MUG_018 - Régimen informativo de tenencias.
+
+25) MER_023 - Acciones promocionales.
+
+26) MER_ 042 – Fondo de Garantía III- Detalle de Activos Elegibles.
+
+27) MER_021 - Plan de auditorías anual agentes miembros. Manuales. Cronograma.
+
+28) MER_005 - Informe de auditoría de agentes.
+
+29) ECF_008 – Estados contables PyMES CNV. Presentación trimestral.
+
+30) ECF_008 – Estados contables PyMES CNV. Presentación anual.
+
+31) AGE_012 - Informe de auditoría externa anual de sistemas.
+
+32) MER_026 - Informe de auditoría externa anual de riesgo.
+
+33) AGM_002 - Procedimiento para la conservación de la documentación.
+
+34) MUG_003 - Declaración jurada de AIF.
+
+35) MER_001 - Ficha de registro con los datos solicitados en el formulario disponible en la AIF.
+
+36) MUG_001 - Hechos relevantes.
+
+37) MUG_004 - Domicilio Electrónico.
+
+38) MER_025 – Detalle de Cuentas utilizadas para la administración de los Fondos de Garantía I, II y III.
+
+39) 5008 – IROD01- Informe del Registro de Operaciones de Derivados.
+
+40) 5009 – IROP01 - Informe del Registro de Operaciones de Pases.
+
+41) MER_040 – Nómina de las actividades afines y complementarias de conformidad con lo exigido por el
+artículo 1° del Capítulo II del Título VI “MERCADOS Y CÁMARAS COMPENSADORAS”.
+
+ARTÍCULO 18.- Sustituir el apartado 33) del inciso I) del artículo 11 de la Sección IV del Capítulo I del Título
+XV de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+
+“INFORMACIÓN QUE DEBE REMITIRSE POR MEDIO DE LA AUTOPISTA DE LA INFORMACIÓN
+FINANCIERA.
+
+ARTÍCULO 11.- (…)
+
+I) AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES (ADCVN): (…)
+
+33) AGE_029 – Contrapartida Líquida_ Activos elegibles vigentes”.
+
+ARTÍCULO 19.- Sustituir el apartado 31) del inciso J) del artículo 11 de la Sección IV del Capítulo I del Título
+XV de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+“INFORMACIÓN QUE DEBE REMITIRSE POR MEDIO DE LA AUTOPISTA DE LA INFORMACIÓN
+FINANCIERA.
+
+ARTÍCULO 11.- (…)
+
+J) AGENTE DE CUSTODIA, REGISTRO Y PAGO (ACRYP): (…)
+
+31) AGE_ 029 – Contrapartida Líquida _ Activos elegibles vigentes”.
+
+ARTÍCULO 20.- Incorporar como apartado 41) del inciso J) del artículo 11 de la Sección IV del Capítulo I del
+Título XV de las NORMAS (N.T. 2013 y mod.), el siguiente texto:
+
+“INFORMACIÓN QUE DEBE REMITIRSE POR MEDIO DE LA AUTOPISTA DE LA INFORMACIÓN
+FINANCIERA.
+
+ARTÍCULO 11.- (…)
+
+J) AGENTE DE CUSTODIA, REGISTRO Y PAGO (ACRYP): (…)
+
+41) MER_038 – Informe diario transferencias”.
+
+ARTÍCULO 21.- Sustituir el apartado 27) del inciso K) del artículo 11 de la Sección IV del Capítulo I del Título
+XV de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+
+“INFORMACIÓN QUE DEBE REMITIRSE POR MEDIO DE LA AUTOPISTA DE LA INFORMACIÓN
+FINANCIERA.
+
+ARTÍCULO 11.- (…)
+
+K) AGENTES DE NEGOCIACIÓN (AN): (…)
+
+27) AGE_029 – Contrapartida Líquida_ Activos elegibles vigentes”.
+
+ARTÍCULO 22.- Sustituir el apartado 27) del inciso L) del artículo 11 de la Sección IV del Capítulo I del Título
+XV de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+
+“INFORMACIÓN QUE DEBE REMITIRSE POR MEDIO DE LA AUTOPISTA DE LA INFORMACIÓN
+FINANCIERA.
+
+ARTÍCULO 11.- (…)
+
+L) AGENTES DE LIQUIDACIÓN Y COMPENSACION (ALyC): (…)
+
+27) AGE_029 – Contrapartida Líquida_ Activos elegibles vigentes”.
+
+ARTÍCULO 23.- Sustituir el apartado 27) del inciso O) del artículo 11 de la Sección IV del Capítulo I del Título
+XV de las NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+
+“INFORMACIÓN QUE DEBE REMITIRSE POR MEDIO DE LA AUTOPISTA DE LA INFORMACIÓN
+FINANCIERA.
+ARTÍCULO 11.- (…)
+
+O) AGENTES DE CORRETAJE DE VALORES NEGOCIABLES (ACVN): (…)
+
+27) AGE_029 – Contrapartida Líquida_ Activos elegibles vigentes”.
+
+ARTÍCULO 24.- Sustituir los artículos 2° y 3° del Capítulo IV del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), por el siguiente texto:
+
+“CRONOGRAMA ADECUACIÓN PATRIMONIO NETO MÍNIMO MERCADOS.
+
+ARTÍCULO 2°.- En lo que respecta a los requisitos patrimoniales establecidos en las presentes Normas, los
+Mercados que se encuentren registrados a la fecha de entrada en vigencia de la Resolución General N° 1080
+deberán contar, al 31 de diciembre de 2025, con el CIEN (100%) del patrimonio neto mínimo requerido.
+
+CRONOGRAMA ADECUACIÓN PATRIMONIO NETO MÍNIMO CÁMARAS COMPENSADORAS.
+
+ARTÍCULO 3°.- En lo que respecta a los requisitos patrimoniales establecidos en las presentes Normas, las
+Cámaras Compensadoras que se encuentren registradas a la fecha de entrada en vigencia de la Resolución
+General N° 1080 deberán contar, al 31 de diciembre de 2025, con el CIEN POR CIENTO (100%) del monto total
+exigido”.
+
+ARTÍCULO 25.- Incorporar como artículo 13 del Capítulo IV del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“CRONOGRAMA DE              ADECUACIÓN         ACTIVOS       ELEGIBLES        MERCADOS        Y    CÁMARAS
+COMPENSADORAS.
+
+ARTÍCULO 13.- En lo que respecta a los activos elegibles susceptibles de conformar el Fondo de Garantía III,
+exigible conforme las presentes Normas a los Mercados con funciones de Cámara Compensadora y a las Cámaras
+Compensadoras, aquellos sujetos inscriptos en las mencionadas categorías a la fecha de entrada en vigencia de la
+Resolución General N° 1080, deberán proceder a su adecuación mediante el formulario habilitado al efecto en la
+AIF, a partir del 30 de septiembre de 2025”.
+
+ARTÍCULO 26.- Sustituir la denominación del Capítulo V del Título XVIII, por el siguiente texto:
+
+“TÍTULO XVIII.
+
+DISPOSICIONES TRANSITORIAS.
+
+(…)
+
+CAPÍTULO V. AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN,
+AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES
+NEGOCIABLES”.
+
+ARTÍCULO 27.- Incorporar como artículo 20 del Capítulo V del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“CRONOGRAMA DE ADECUACIÓN ACTIVOS ELEGIBLES ALyC, AN y ACVN.
+ARTÍCULO 20.- En lo que respecta a los activos elegibles susceptibles de conformar la contrapartida líquida,
+exigible conforme las presentes Normas a los ALyC, AN y ACVN, aquellos Agentes inscriptos en las
+mencionadas categorías a la fecha de entrada en vigencia de la Resolución General N° 1080, deberán proceder a
+su adecuación el formulario habilitado al efecto en la AIF, a partir del 30 de septiembre de 2025.
+
+Para la conformación de la contrapartida líquida, en forma excepcional y hasta el 31 de diciembre de 2025, dichos
+Agentes podrán continuar computando como activos elegibles a las “Acciones de los Mercados autorizados por
+CNV”, previstas con anterioridad a la entrada en vigencia Resolución General N° 1080”.
+
+ARTÍCULO 28.- Incorporar como artículo 10 del Capítulo VI del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“CRONOGRAMA DE ADECUACIÓN ACTIVOS ELEGIBLES ADCVN.
+
+ARTÍCULO 10°.- En lo que respecta a los activos elegibles susceptibles de conformar la contrapartida líquida,
+exigible conforme las presentes Normas a los ADCVN, aquellos Agentes inscriptos en la mencionada categoría a
+la fecha de entrada en vigencia de la Resolución General N° 1080, deberán proceder a su adecuación mediante el
+formulario habilitado al efecto en la AIF, a partir del 30 de septiembre de 2025.
+
+Para la conformación de la contrapartida líquida, en forma excepcional y hasta el 31 de diciembre de 2025, los
+ADCVN podrán continuar computando como activos elegibles a las “Acciones de los Mercados autorizados por
+CNV”, previstas con anterioridad a la entrada en vigencia Resolución General N° 1080”.
+
+ARTÍCULO 29.- Incorporar como artículo 5° del Capítulo XI del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“CRONOGRAMA DE ADECUACIÓN ACTIVOS ELEGIBLES ACRYP.
+
+ARTÍCULO 5°.- En lo que respecta a los activos elegibles susceptibles de conformar la contrapartida líquida,
+exigible conforme las presentes Normas a los ACRYP, aquellos Agentes inscriptos en la mencionada categoría a
+la fecha de entrada en vigencia de la Resolución General N° 1080, deberán proceder a su adecuación mediante el
+formulario habilitado al efecto en la AIF, a partir del 30 de septiembre de 2025.
+
+Para la conformación de la contrapartida líquida, en forma excepcional y hasta el 31 de diciembre de 2025, los
+ACRYP podrán continuar computando como activos elegibles a las “Acciones de los Mercados autorizados por
+CNV”, previstas con anterioridad a la entrada en vigencia Resolución General N° 1080”.
+
+ARTÍCULO 30.- Sustituir el artículo 2° de la Sección I del Capítulo I del Título XXI de las NORMAS (N.T.
+2013 y mod.), por el siguiente texto:
+
+“ARTÍCULO 2°.- Las entidades autorizadas a prestar el servicio de anotación referido en el artículo precedente,
+deberán:
+
+i) informar a esta Comisión la prestación del servicio de anotación antes de comenzar a desarrollar la misma;
+
+ii) formular las correspondientes aclaraciones al público en general y en toda comunicación que realicen a tales
+fines, en el sentido que esta Comisión no reviste el carácter de autoridad de aplicación, no tiene competencia ni
+ejerce ninguna supervisión y/o control alguno respecto a cualquiera de las señaladas actividades de anotación; y
+iii) en el caso de los Mercados, las Cámaras Compensadoras y cada una de las categorías de Agentes indicadas en
+el artículo que antecede, deberán:
+
+a) informar la prestación del servicio de anotación como actividad afín y/o complementaria conjuntamente con la
+solicitud de inscripción en el registro correspondiente o bien, luego de obtenida dicha inscripción, antes de
+comenzar a desarrollar la misma;
+
+b) mantener actualizada la nómina de actividades afines y/o complementarias desarrolladas, a través del
+formulario habilitado a esos efectos;
+
+c) adoptar las medidas y/o recaudos necesarios para garantizar que las actividades afines y/o complementarias a
+ser desarrolladas no alteren ni menoscaben el normal y habitual ejercicio de la matrícula otorgada por parte de
+esta Comisión, así como tampoco afecten el cumplimiento de las obligaciones y responsabilidades asumidas;
+
+d) no hacer uso ni publicidad de la matrícula otorgada por esta Comisión en ocasión u oportunidad del desarrollo
+de cualquiera de las actividades afines y/o complementarias; y
+
+e) informar en forma inmediata a esta Comisión cualquier hecho y/o circunstancia que afecte y/o modifique o
+pudiere afectar el alcance, ejercicio y/o el desarrollo de cualquiera de las actividades afines y/o complementarias
+desarrolladas.
+
+No resultará exigible el incremento del patrimonio neto mínimo, previsto en las respectivas disposiciones de las
+presentes Normas para los Mercados, Cámaras Compensadoras y cada una de las categorías de Agentes indicadas
+en el artículo que antecede, con relación a la prestación de servicios de anotación de boletos de compraventa, y
+todo otro contrato sobre unidades construidas o proyectadas bajo el régimen de propiedad horizontal o cualquier
+otro régimen de subdivisión del suelo, que prometan la entrega del derecho real de dominio o superficie sobre un
+inmueble futuro, sobre el cual no se pueda ejercer la posesión, en razón de la inexistencia de situación
+constructiva suficiente”.
+
+ARTÍCULO 31.- La presente Resolución General entrará en vigencia a partir del día siguiente al de su
+publicación en el Boletín Oficial de la República Argentina.
+
+ARTÍCULO 32.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el Sitio Web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS
+(N.T.2013 y mod.) y archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio                 Digitally signed by HERBON Laura Ines
+Date: 2025.08.20 11:00:42 ART                               Date: 2025.08.20 11:04:22 ART
+Location: Ciudad Autónoma de Buenos Aires                   Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                                     Laura Ines Herbon
+Vocal                                                       Vocal
+Directorio                                                  Directorio
+Comisión Nacional de Valores                                Comisión Nacional de Valores
+Digitally signed by SALVATIERRA Sonia Fabiana   Digitally signed by SILVA Roberto Emilio
+Date: 2025.08.20 11:09:39 ART                   Date: 2025.08.20 11:12:13 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                       Roberto Emilio Silva
+Vicepresidente                                  Presidente
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+                                                                                            Digitally signed by GESTION DOCUMENTAL
+                                                                                            ELECTRONICA - GDE
+                                                                                            Date: 2025.08.20 11:12:25 -03:00
+

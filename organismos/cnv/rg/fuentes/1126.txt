@@ -1,0 +1,254 @@
+                               República Argentina - Poder Ejecutivo Nacional
+                                        Año de la Grandeza Argentina
+
+                                               Resolución General
+
+Número: RESGC-2026-1126-APN-DIR#CNV
+
+                                                                                   CIUDAD DE BUENOS AIRES
+                                                                                     Miércoles 8 de Abril de 2026
+
+Referencia: EX-2026-34189030- -APN-GFCI#CNV “MODIFICACIÓN NORMATIVA DE FCI DE
+MERCADO DE DINERO CLÁSICOS”
+
+
+
+VISTO el Expediente N° EX-2026-34189030- -APN-GFCI#CNV, caratulado “MODIFICACIÓN NORMATIVA
+DE FCI DE MERCADO DE DINERO CLÁSICOS”, lo dictaminado por la Subgerencia de Fondos Comunes de
+Inversión Abiertos, la Gerencia de Fondos Comunes de Inversión y la Subgerencia de Normativa; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales tiene por objeto el desarrollo del mercado de capitales y la regulación de los
+sujetos y valores negociables comprendidos en su ámbito, siendo la CNV su autoridad de aplicación y contralor.
+
+Que entre los objetivos y principios fundamentales que deberán guiar su interpretación, sus disposiciones
+complementarias y reglamentarias, entre otros, se encuentra la promoción de la participación en el mercado de
+capitales, favoreciendo especialmente los mecanismos que fomenten el ahorro nacional y su canalización hacia el
+desarrollo productivo, el fortalecimiento de los mecanismos de protección y prevención de abusos contra los
+inversores y la promoción del acceso al mercado de capitales de las PyMEs.
+
+Que la Ley de Financiamiento Productivo, en su Título IV, introdujo modificaciones a la Ley de Fondos
+Comunes de Inversión, actualizando el régimen legal aplicable a los FCI, en el entendimiento de que estos
+constituyen un vehículo de captación de ahorro e inversión fundamental para el desarrollo de las economías,
+permitiendo robustecer la demanda de valores negociables en los mercados de capitales, aumentando así su
+profundidad y liquidez.
+
+Que, el artículo 19, inciso h), de la Ley de Mercado de Capitales, establece como función de la CNV la de dictar
+las reglamentaciones que se deberán cumplir para la autorización de los valores negociables, instrumentos y
+operaciones del mercado de capitales, contando con facultades para establecer las disposiciones que fueren
+necesarias para complementar las que surgen de las diferentes leyes y decretos aplicables, así como resolver casos
+no previstos e interpretar las normas allí incluidas dentro del contexto económico imperante, para el desarrollo del
+mercado de capitales.
+Que, mediante el dictado de la Resolución General Nº 757 se introdujeron modificaciones en el funcionamiento y
+categorización de los FCI denominados “Fondos Comunes de Dinero”, conocidos internacionalmente como
+Money Market.
+
+Que posteriormente, mediante el dictado de la Resolución General Nº 1038 se incorporó una distinción entre
+Fondos Comunes de Dinero Clásicos y Dinámicos, estableciéndose pautas diferenciadas en cuanto a la inversión
+en activos valuados a devengamiento, plazos fijos precancelables en período de precancelación y títulos
+representativos de deuda cuyo vencimiento final no exceda UN (1) año a partir de la fecha de adquisición.
+
+Que, a través del dictado de la Resolución General Nº 1092 se dispuso un límite de inversión en cauciones por
+hasta un VEINTE POR CIENTO (20%) del patrimonio de los Fondos Comunes de Dinero.
+
+Que, más recientemente, mediante el dictado de la Resolución General Nº 1096, se incrementó hasta el
+CINCUENTA POR CIENTO (50%) del patrimonio de los Fondos Comunes de Dinero Clásicos el límite máximo
+de inversión individual en cada una de las modalidades de plazos fijos (precancelables y no precancelables) sin
+que la inversión conjunta en ambos tipos de instrumentos supere el SETENTA POR CIENTO (70%).
+
+Que, el BCRA solicitó a la CNV, se arbitren los medios necesarios para aumentar el límite máximo previsto para
+la inversión por parte de los Fondos Comunes de Dinero Clásicos en plazos fijos no precancelables hasta un
+SESENTA POR CIENTO (60%) de su patrimonio, en la medida que la vida promedio de los activos valuados a
+devengamiento no supere los TREINTA (30) días corridos, posibilitándose bajo ese supuesto que el margen de
+liquidez aplicable sea constituido por un monto equivalente a no menos del SESENTA Y CINCO POR CIENTO
+(65%) del porcentaje total que el FCI conserve en cartera en dichos activos.
+
+Que, el artículo 7º in fine de la Ley de Fondos Comunes de Inversión dispone que “…La Comisión Nacional de
+Valores establecerá en su reglamentación pautas de diversificación y valuación de los activos, liquidez y
+dispersión mínima que deberán cumplir los fondos comunes de inversión abiertos”.
+
+Que, en tal contexto, corresponde adherir a los lineamientos solicitados por el BCRA en su rol de organismo
+rector del mercado financiero, en el entendimiento de que la medida permitirá a las Sociedades Gerentes que
+administren este tipo de FCI mejorar la eficiencia en la asignación de activos y optimizar el rendimiento para los
+inversores, sin desatender los principios de prudencia y adecuada gestión del riesgo y la liquidez de estos
+vehículos de inversión.
+
+Que, siguiendo principios de prudencia, se establece que la Sociedad Gerente deberá observar, como pauta
+especial en el manejo de la liquidez, que los vencimientos de los activos valuados a devengamiento se encuentren
+debidamente escalonados de acuerdo con la política adoptada por el FCI.
+
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 19, incisos g), h) y u), de la Ley de
+Mercado de Capitales y los artículos 7° y 32 de la Ley de Fondos Comunes de Inversión.
+
+
+
+Por ello,
+
+                                   LA COMISIÓN NACIONAL DE VALORES
+
+                                                    RESUELVE:
+ARTÍCULO 1°.- Sustituir el inciso b) del artículo 15 de la Sección II del Capítulo II del Título V de las
+NORMAS (N.T. 2013 y mod.), por el siguiente texto:
+
+“CONSTITUCIÓN DE MÁRGENES DE LIQUIDEZ Y DISPONIBILIDADES.
+
+ARTÍCULO 15.- Los fondos comunes de inversión:
+
+(…)
+
+b) Que se constituyan como Fondos Comunes de Dinero: deberán encuadrarse bajo las disposiciones establecidas
+en los incisos b.1) o b.2) del presente artículo, así como cumplir con las siguientes pautas generales:
+
+Con excepción de lo indicado en el segundo párrafo del inciso b.1.1) del presente artículo, deberá conservarse en
+todo momento, en calidad de margen de liquidez, un monto equivalente a no menos del OCHENTA POR
+CIENTO (80%) del porcentaje total que el FCI conserve en cartera, en activos valuados a devengamiento, en
+cuentas abiertas en el BCRA, y/o en cuentas a la vista en entidades financieras autorizadas por dicha entidad, bajo
+la titularidad de la Sociedad Depositaria con indicación del carácter que reviste como órgano del FCI, con
+identificación del FCI al cual corresponden, con el aditamento “margen de liquidez”, separadas del resto de las
+cuentas que la Depositaria tenga abiertas en interés propio o de terceros como depositante.
+
+El margen de liquidez deberá mantenerse en todo momento y ser reconstituido, en caso de su utilización total o
+parcial, para atender rescates en el menor plazo razonablemente posible. Hasta tanto no se haya reconstituido el
+margen de liquidez mínimo, no podrán efectuarse nuevas inversiones para las carteras.
+
+Podrán ser consideradas dentro del margen de liquidez las operaciones a plazo cuyo vencimiento o inicio del
+período de precancelación operen a partir del día hábil inmediato siguiente, por hasta un DIEZ POR CIENTO
+(10%) del patrimonio neto del FCI, siempre que se encuentren en condiciones de ser canceladas en dicha fecha y
+que la disponibilidad de los FCI sea inmediata.
+
+Los activos valuados a devengamiento que integren las carteras deberán tener un vencimiento final fijado para
+una fecha que no exceda de los NOVENTA Y CINCO (95) días corridos a partir de la fecha de adquisición.
+
+Sin perjuicio del supuesto previsto en el segundo párrafo del inciso b.1.1) del presente artículo, la vida promedio
+ponderada de la cartera compuesta por activos valuados a devengamiento no podrá exceder de TREINTA Y
+CINCO (35) días corridos. Esta circunstancia deberá ser anoticiada al público mediante la exhibición de la
+respectiva información en los locales de atención al público y/o en todos los canales a través de los cuales se
+comercialicen las cuotapartes, junto con el extracto semanal de composición de las carteras. Los vencimientos de
+los activos valuados a devengamiento deberán encontrarse escalonados de acuerdo con la política de liquidez del
+FCI.
+
+Para el cálculo de la vida promedio ponderada de la cartera integrada por activos valuados a devengamiento, los
+plazos fijos precancelables computarán de la siguiente forma:
+
+(i) Mientras no alcancen el período de precancelación, la cantidad de días corridos que resulten de la diferencia
+entre la fecha de precancelación y la fecha de cálculo respectivo; y (ii) en período de cancelación, se excluirán del
+cálculo.
+
+La participación de los cuotapartistas al momento de efectuar la suscripción no podrá superar el VEINTE POR
+CIENTO (20%) del patrimonio neto del FCI. En el caso de nuevos fondos comunes de inversión, este límite se
+aplicará a partir de los NOVENTA (90) días corridos desde su lanzamiento.
+
+En el caso de la participación de ACyDI de FCI deberá considerarse el número de inversores que haya suscripto
+cuotapartes del respectivo FCI a través de dichos Agentes.
+
+El límite antedicho resultará aplicable tanto a la suscripción inicial como a suscripciones sucesivas que pudieren
+producirse.
+
+A todo evento, se entiende por plazos fijos precancelables a los instrumentos indicados en el Texto Ordenado
+BCRA “Depósitos e Inversiones a Plazo”, Sección 2.3. “Con Opción de Cancelación Anticipada”.
+
+Los Fondos Comunes de Dinero podrán invertir hasta el VEINTE POR CIENTO (20%) del patrimonio neto del
+fondo en cauciones.
+
+El reglamento de gestión deberá contener un acápite especial detallando las consideraciones de riesgo para la
+inversión en este tipo fondos debiendo diferenciarlas en tanto se trate de FCI constituidos según las previsiones
+del inciso b.1) o b.2) que se detallan a continuación.
+
+b.1) Particularmente, los FCI que se ofrezcan al público inversor, cualquiera sea el canal de comercialización
+utilizado, como “Fondo Común de Dinero Clásico”, deberán cumplir con las pautas generales señaladas en el
+apartado b) precedente, y, asimismo, se encontrarán sujetos a las siguientes disposiciones:
+
+b.1.1) Sus carteras podrán estar compuestas por un porcentaje máximo del CINCUENTA POR CIENTO (50%)
+por plazos fijos no precancelables, los que serán activos valuados a devengamiento.
+
+En aquellos FCI en los que la vida promedio ponderada de la cartera compuesta por activos valuados a
+devengamiento no exceda los TREINTA (30) días corridos, el límite máximo dispuesto en el párrafo precedente
+podrá llegar hasta el SESENTA POR CIENTO (60%). En estos casos, el margen de liquidez a que hace referencia
+el segundo párrafo del inciso b) del presente artículo, deberá constituirse por un monto equivalente a no menos
+del SESENTA Y CINCO POR CIENTO (65%) del porcentaje total que el FCI conserve en cartera en activos
+valuados a devengamiento.
+
+b.1.2) Se podrá invertir hasta un SESENTA POR CIENTO (60%) en plazos fijos precancelables en período de
+precancelación, los que serán valuados a precio de realización y/o de mercado y por ende no estarán sujetos a la
+constitución de margen de liquidez.
+
+b.1.3) La suma de plazos fijos no precancelables y plazos fijos precancelables en período de precancelación no
+podrá exceder el SETENTA POR CIENTO (70%) del patrimonio neto del fondo.
+
+b.1.4) La inversión en activos valuados a devengamiento distintos a los plazos fijos señalados en el inciso b.1.1)
+del presente artículo no podrá superar el TREINTA Y CINCO POR CIENTO (35%).
+
+b.1.5) La suma de los activos valuados a devengamiento señalados en los incisos b.1.1) y b.1.4) precedentes no
+podrá superar el CINCUENTA POR CIENTO (50%) del patrimonio neto del fondo. Dicho porcentaje podrá ser
+incrementado hasta el SESENTA POR CIENTO (60%) cuando se cumpla el requisito indicado en el segundo
+párrafo del citado inciso b.1.1).
+
+b.1.6) Los intereses devengados provenientes de cuentas a la vista computarán para el límite del TREINTA Y
+CINCO POR CIENTO (35%) antes señalado como activos valuados a devengamiento.
+
+Cuando los intereses devengados provenientes de cuentas a la vista sean capitalizados, serán computados como
+activos valuados a precio de realización y/o de mercado, y por ende no sujetos a la constitución de margen de
+liquidez.
+
+b.1.7) Adicionalmente a las inversiones previstas en los incisos precedentes, se encontrará admitida,
+exclusivamente, la adquisición de títulos representativos de deuda, cuyo vencimiento final no exceda de UN (1)
+año a partir de la fecha de adquisición por hasta el VEINTE POR CIENTO (20%) del patrimonio neto del fondo.
+
+b.2) Aquellos fondos que se ofrezcan al público inversor, cualquiera sea el canal de comercialización utilizado,
+como “Fondo Común de Dinero Dinámico”, se regirán según las pautas generales señaladas en el apartado b)
+precedente, y, asimismo, se encontrarán sujetos a las siguientes disposiciones:
+
+b.2.1) Sus carteras podrán estar compuestas por un porcentaje máximo del TREINTA POR CIENTO (30%) por
+activos valuados a devengamiento.
+
+b.2.2) Se podrá invertir hasta un VEINTE POR CIENTO (20%) en plazos fijos precancelables en período de
+precancelación, los que serán valuados a precio de realización y/o de mercado. La suma de activos valuados a
+devengamiento y de plazos fijos precancelables en período de precancelación no podrá exceder el CINCUENTA
+POR CIENTO (50%) del patrimonio neto del fondo.
+
+b.2.3) Los plazos fijos precancelables, cuando no se encuentren en período de precancelación, y los intereses
+devengados provenientes de cuentas a la vista computarán para el límite del TREINTA POR CIENTO (30%)
+como activos valuados a devengamiento. Cuando los plazos fijos precancelables estén en período de
+precancelación y los intereses devengados provenientes de cuentas a la vista sean capitalizados, serán computados
+como activos valuados a precio de realización y/o de mercado, y por ende no sujetos a la constitución de margen
+de liquidez.
+
+b.2.4) Adicionalmente a las inversiones previstas en el inciso b.2.2) precedente, se encontrará admitida,
+exclusivamente, la adquisición de títulos representativos de deuda, cuyo vencimiento final no exceda de UN (1)
+año a partir de la fecha de adquisición”.
+
+ARTÍCULO 2°.- La presente Resolución General entrará en vigencia a partir del día siguiente de su publicación
+en el B.O.
+
+ARTÍCULO 3°.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al Texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+Digitally signed by CALDERON Manuel Ignacio     Digitally signed by HERBON Laura Ines
+Date: 2026.04.08 10:58:55 ART                   Date: 2026.04.08 11:02:50 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                         Laura Ines Herbon
+Vocal                                           Vocal
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana   Digitally signed by SILVA Roberto Emilio
+Date: 2026.04.08 11:06:28 ART                   Date: 2026.04.08 11:07:50 ART
+Location: Ciudad Autónoma de Buenos Aires       Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                       Roberto Emilio Silva
+Vicepresidente                                  Presidente
+Directorio                                      Directorio
+Comisión Nacional de Valores                    Comisión Nacional de Valores
+
+
+
+
+                                                                                            Digitally signed by GESTION DOCUMENTAL
+                                                                                            ELECTRONICA - GDE
+                                                                                            Date: 2026.04.08 11:08:00 -03:00
+

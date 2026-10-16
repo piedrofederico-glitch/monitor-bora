@@ -1,0 +1,224 @@
+                            República Argentina - Poder Ejecutivo Nacional
+                      AÑO DE LA RECONSTRUCCIÓN DE LA NACIÓN ARGENTINA
+
+                                               Resolución General
+
+Número: RESGC-2025-1094-APN-DIR#CNV
+
+                                                                                  CIUDAD DE BUENOS AIRES
+                                                                               Miércoles 10 de Diciembre de 2025
+
+Referencia: EX-2025-120703621- -APN-GAYM#CNV “PROYECTO DE RG S/MODIFICACIÓN
+NORMATIVA TÍTULO VII – RÉGIMEN INFORMATIVO SOBRE PASIVOS FINANCIEROS PARA LOS
+ALYC”
+
+
+
+VISTO el Expediente N° EX-2025-120703621- -APN-GAYM#CNV, caratulado “PROYECTO DE RG
+S/MODIFICACIÓN NORMATIVA TÍTULO VII – RÉGIMEN INFORMATIVO SOBRE PASIVOS
+FINANCIEROS PARA LOS ALYC”, lo dictaminado por la Subgerencia de Supervisión de Agentes, la Gerencia
+de Agentes y Mercados, la Subgerencia de Normativa y la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales N° 26.831 (B.O. 28-12-12) tiene por objeto el desarrollo del mercado de
+capitales y la regulación de los sujetos y valores negociables comprendidos dentro de dicho mercado, siendo la
+Comisión Nacional de Valores (CNV) su autoridad de aplicación y contralor.
+
+Que, conforme lo dispuesto en el artículo 1° de la mencionada ley, forman parte de los objetivos y principios
+fundamentales de la CNV –entre otros-, fortalecer los mecanismos de protección y prevención de abusos contra
+los inversores; en el marco de la función tuitiva del derecho del consumidor.
+
+Que el artículo 19 de la citada ley, en sus incisos d), g) y j), establece como funciones de la CNV, entre otras, la
+de llevar el registro, otorgar, suspender y revocar la autorización para funcionar de los Agentes registrados y
+demás personas humanas y/o jurídicas que, por sus actividades vinculadas al mercado de capitales y a criterio de
+la CNV, queden comprendidas bajo su competencia, dictando las reglamentaciones que deberán cumplir desde su
+inscripción hasta la baja del registro respectivo, así como promover la defensa de los intereses de los inversores.
+
+Que los Mercados remiten a la CNV, en el marco del Régimen Informativo vigente aplicable a los mismos, los
+datos completos de cada una de las operaciones que se registran en sus sistemas informáticos de negociación; las
+que incluyen a las operaciones simultáneas, de pase y caución, de cheques de pago diferido y pagarés.
+
+Que, en consecuencia, la reforma normativa propiciada tiene por objeto incorporar nuevas disposiciones
+tendientes a establecer un régimen informativo aplicable a los Agentes de Liquidación y Compensación (ALyC),
+vinculado a los acuerdos de préstamo o alquiler de valores negociables y/o cualquier otro tipo de acuerdo de
+endeudamiento financiero asumidos por estos.
+
+Que, en este sentido, resulta necesario contar con información completa, precisa y actualizada respecto de: (i) los
+préstamos o alquiler de valores negociables, tanto en carácter de prestamista como de prestatario celebrados por
+el ALyC; como así también, por aquellas personas que se encuentren alcanzadas por el concepto de cartera propia
+ampliada dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de las NORMAS (N.T. 2013 y
+mod.); y (ii) los pasivos financieros asumidos por los ALyC; a fin de fortalecer los mecanismos de control y
+supervisión sobre su situación patrimonial y grado de exposición al riesgo.
+
+Que, en línea con los objetivos de preservación de la integridad del sistema financiero, deviene necesario contar
+con herramientas que permitan identificar, monitorear y mitigar potenciales fuentes de riesgo sistémico derivadas
+de los niveles de exposición financiera de los Agentes.
+
+Que atento el régimen informativo establecido mediante la presente reglamentación, así como las disposiciones
+de la Resolución General N° 731 (B.O. 3-5-18), cuya entrada en vigencia derogó de manera tácita el régimen
+informativo especial establecido por la Resolución General N° 624 (B.O. 28-1-14) para los Agentes alcanzados
+por las disposiciones del Título VII de las NORMAS (N.T. 2013 y mod.) y los Mercados autorizados por la CNV;
+se considera oportuno dejar sin efecto el régimen informativo especial establecido por la Resolución General
+mencionada.
+
+Que, conforme lo expuesto, no resultará exigible la remisión a la CNV de la información contemplada en el
+Anexo I de la Resolución General citada en último término.
+
+Que, finalmente, se incorpora un cronograma de presentación de la información requerida por la presente
+Resolución General, correspondiente al período agosto – noviembre de 2025.
+
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 19, incisos d), g) y j), y el artículo
+47 de la Ley N° 26.831.
+
+
+
+Por ello,
+
+                                    LA COMISIÓN NACIONAL DE VALORES
+
+                                                     RESUELVE:
+
+ARTÍCULO 1°.- Incorporar como inciso viii) del artículo 25 del Capítulo II del Título VII de las NORMAS (N.T.
+2013 y mod.), el siguiente texto:
+
+“RÉGIMEN INFORMATIVO.
+
+ARTÍCULO 25.- El ALyC deberá dar cumplimiento al siguiente régimen informativo: (…)
+
+viii) Con periodicidad mensual, dentro del tercer (3er) día hábil de finalizado cada mes, la información requerida
+en el artículo 35 del Capítulo II del presente Título.”
+ARTÍCULO 2°.- Incorporar como artículo 35 del Capítulo II del Título VII de las NORMAS (N.T. 2013 y mod.),
+el siguiente texto:
+
+“RÉGIMEN INFORMATIVO DE PASIVOS FINANCIEROS.
+
+ARTÍCULO 35.- Los ALyC -excepto: (i) los inscriptos bajo la subcategoría de Participante Directo, conforme las
+disposiciones del inciso c) del artículo 5° del Capítulo II del presente Título; y (ii) los que revistan la calidad de
+entidades financieras en el marco de la Ley de Entidades Financieras-, deberán remitir, mediante el formulario
+habilitado al efecto en la AIF de la CNV, la siguiente información:
+
+1. Pasivos financieros asumidos por el Agente, segregados conforme lo requerido en el formulario “Pasivos
+Financieros-Sección Pasivos Financieros”.
+
+La obligación alcanzará a la totalidad de los pasivos financieros allí incluidos asumidos por los Agentes
+obligados, cualquiera sea su origen o modalidad. No deberá ser contemplada en la mencionada Sección la
+información contenida en el inciso 2. del presente artículo.
+
+La información deberá ser remitida con frecuencia mensual, dentro del tercer (3er) día hábil de finalizado cada
+mes.
+
+2. Los acuerdos de préstamo o alquiler de valores negociables que celebren, en carácter de prestamistas y/o
+prestatarios e independientemente de que hayan sido documentados (en formato físico o electrónico) o no
+documentados, segregados conforme lo requerido en el formulario “Pasivos Financieros – Sección Acuerdos de
+Préstamos o Alquiler de valores negociables”.
+
+La obligación de informar, en los términos y con el alcance previsto en el presente inciso, también resulta
+aplicable respecto de todo acuerdo o alquiler de valores negociables en el que intervengan los clientes-personas
+jurídicas y/o humanas- que por su vinculación con el Agente se encuentren comprendidas en el concepto de
+cartera propia ampliada, dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de estas
+Normas, siendo responsabilidad del ALyC -en calidad de depositante de la/s subcuenta/s comitente/s
+involucrada/s- la remisión de la misma dentro del plazo establecido.
+
+La referida información deberá contar con el siguiente detalle:
+
+a) Número de cuenta en el ADCVN y CUIL/CUIT/CDI/CIE del prestatario y del prestamista;
+
+b) si el comitente (titular de la subcuenta y/o alguno de sus cotitulares) se encuentra alcanzado por el concepto de
+cartera propia ampliada dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas;
+
+c) fecha de suscripción y de vencimiento, y si tiene renovación automática;
+
+d) descripción y código de la especie en el ADCVN, valor nominal inicial; y
+
+e) moneda de referencia, intereses, rendimientos, beneficios a favor del prestamista, en términos porcentuales;
+conforme se haya convenido entre las partes.
+
+La información deberá ser remitida a la CNV con frecuencia mensual y dentro del tercer (3er) día hábil de
+finalizado cada mes.
+A tales fines deberá informar la totalidad de los acuerdos de préstamo o alquiler de valores negociables
+celebrados en el período a informar, sin perjuicio de que su vencimiento haya operado dentro de ese mismo
+período y, adicionalmente, los celebrados con anterioridad y aún vigentes en dicho período.
+
+En todos los casos, los Agentes deberán conservar en los respectivos legajos la documentación respaldatoria que
+acredite el pertinente consentimiento por parte de los clientes a la/s transferencia/s emisora/s de sus valores
+negociables hacia la cuenta custodia de titularidad del prestatario, debiendo encontrarse a disposición de la CNV
+y de los Mercados y/o Cámaras Compensadoras en todo momento.
+
+La información remitida a la CNV por los mencionados Agentes revestirá el carácter de declaración jurada.”
+
+ARTÍCULO 3°.- Incorporar como apartado 43 del inciso L) del artículo 11 de la Sección IV del Capítulo I del
+Título XV de las NORMAS (N.T. 2013 y mod.), el siguiente texto:
+
+“INFORMACIÓN QUE DEBE REMITIRSE POR MEDIO DE LA AUTOPISTA DE LA INFORMACIÓN
+FINANCIERA.
+
+ARTÍCULO 11.- Los sujetos comprendidos en el artículo anterior deberán completar los formularios
+correspondientes y remitir por medio de la AIF, con el alcance indicado en el artículo 1º del presente Capítulo, la
+siguiente información:
+
+(…)
+
+L) AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN (ALyC):
+
+(…)
+
+43) AGE_ 030– Pasivos Financieros.”
+
+ARTÍCULO 4°.- Incorporar como artículo 21 del Capítulo V del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“CRONOGRAMA DE CUMPLIMIENTO.
+
+ARTÍCULO 21.- Los ALyC, en el marco de las disposiciones del artículo 35 del Capítulo II del Título VII de
+estas Normas, desde la fecha de entrada en vigencia de la Resolución General N° 1094, deberán remitir a través
+de la AIF:
+
+1.- hasta el 15 de enero de 2026: la información requerida en el formulario “Pasivos Financieros”, para los cierres
+mensuales correspondientes al 31 de agosto, 30 de septiembre, 31 de octubre y 30 de noviembre de 2025,
+debiendo informar la totalidad de los acuerdos de préstamo o alquiler de valores negociables celebrados con
+anterioridad al 31 de julio de 2025 y con vencimiento posterior a dicha fecha.
+
+2.- hasta el 30 de enero de 2026: la información requerida en el formulario “Pasivos Financieros” para el cierre
+mensual correspondiente al 31 de diciembre de 2025.”
+
+ARTÍCULO 5°.- Derogar la Resolución General N° 624.
+
+ARTÍCULO 6°.- La presente Resolución General entrará en vigencia a partir del día siguiente de su publicación
+en el Boletín Oficial de la República Argentina.
+
+ARTÍCULO 7°.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio             Digitally signed by HERBON Laura Ines
+Date: 2025.12.10 09:46:13 ART                           Date: 2025.12.10 09:52:53 ART
+Location: Ciudad Autónoma de Buenos Aires               Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                                 Laura Ines Herbon
+Vocal                                                   Vocal
+Directorio                                              Directorio
+Comisión Nacional de Valores                            Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana           Digitally signed by SILVA Roberto Emilio
+Date: 2025.12.10 10:44:13 ART                           Date: 2025.12.10 10:57:24 ART
+Location: Ciudad Autónoma de Buenos Aires               Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                               Roberto Emilio Silva
+Vicepresidente                                          Presidente
+Directorio                                              Directorio
+Comisión Nacional de Valores                            Comisión Nacional de Valores
+
+
+
+
+                                                                                                    Digitally signed by GESTION DOCUMENTAL
+                                                                                                    ELECTRONICA - GDE
+                                                                                                    Date: 2025.12.10 10:57:35 -03:00
+

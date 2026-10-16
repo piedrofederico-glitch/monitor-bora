@@ -1,0 +1,518 @@
+                               República Argentina - Poder Ejecutivo Nacional
+                                        Año de la Grandeza Argentina
+
+                                              Resolución General
+
+Número: RESGC-2026-1144-APN-DIR#CNV
+
+                                                                                  CIUDAD DE BUENOS AIRES
+                                                                                    Viernes 29 de Mayo de 2026
+
+Referencia: EX-2026-40693460- -APN-GAYM#CNV “MODIFICACIÓN NORMATIVA TÍTULO VII –
+RÉGIMEN INFORMATIVO SOBRE INDICADORES FINANCIEROS PARA LOS ALYC”
+
+
+
+VISTO el Expediente N° EX-2026-40693460- -APN-GAYM#CNV, caratulado “MODIFICACIÓN
+NORMATIVA TÍTULO VII – RÉGIMEN INFORMATIVO SOBRE INDICADORES FINANCIEROS PARA
+LOS ALYC”, lo dictaminado por la Subgerencia de Supervisión de Agentes, la Gerencia de Agentes y Mercados,
+la Subgerencia de Normativa y la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales tiene por objeto el desarrollo del mercado de capitales y la regulación de los
+sujetos y valores negociables comprendidos dentro de dicho mercado, siendo la CNV su autoridad de aplicación y
+contralor.
+
+Que el artículo 19 de la citada Ley, en sus incisos g) y o) faculta a la CNV a dictar las reglamentaciones que
+deberán cumplir las personas humanas y/o jurídicas y las entidades autorizadas en los términos del referido inciso
+d), desde su inscripción hasta la baja del registro respectivo; como así también, a fijar los requerimientos
+patrimoniales que deberán acreditar las entidades bajo fiscalización.
+
+Que mediante el dictado de la RG N° 1094, modificada por la RG N° 1122, y el dictado de la RG N° 1113
+modificada por la RG N° 1120, se incorporaron nuevas disposiciones tendientes a establecer regímenes
+informativos aplicables a los ALyC: (i) referido a los acuerdos de préstamo o alquiler de valores negociables y/o
+cualquier otro tipo de acuerdo de endeudamiento financiero asumidos por éstos; y (ii) a través de los Mercados,
+sobre las posiciones y el interés abierto total de futuros y opciones de los ALyC.
+
+Que el objetivo de las citadas normativas es contar con herramientas que permitan identificar, monitorear y
+mitigar potenciales escenarios de riesgo sistémico derivados de los niveles de apalancamiento y exposición
+financiera de los ALyC y, a su vez, fortalecer los mecanismos de supervisión y monitoreo de riesgos.
+
+Que mediante la RG N° 1130 se incorporó la obligatoriedad para los ALyC de remitir información vinculada a
+determinados indicadores financieros y se establecieron ciertos límites en materia de liquidez y de nivel de
+apalancamiento, tomando en consideración el excedente entre el patrimonio neto total del Agente y el patrimonio
+neto mínimo total requerido por la normativa vigente, teniendo en consideración para ello las diferentes
+categorías en las que se encuentren inscriptos.
+
+Que, asimismo, se incorporó un régimen informativo específico, por el cual los ALyC deben remitir
+mensualmente a la CNV un detalle de sus tenencias diarias de moneda extranjera -correspondientes a su cartera
+propia-, a los efectos de contar con información oportuna y sistematizada para el monitoreo del mercado.
+
+Que, en esta instancia, se estima conveniente complementar lo dispuesto en la RG N° 1130, a fin de precisar y
+especificar el alcance de determinada información a ser remitida a la CNV.
+
+Que, por otro lado, cabe precisar que diversos términos utilizados en esta RG, tanto en los considerandos como en
+el articulado, se encuentran definidos en el Título I de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 19, incisos a), d), g), o), y) y z), de
+la Ley de Mercado de Capitales.
+
+
+
+Por ello,
+
+                                    LA COMISIÓN NACIONAL DE VALORES
+
+                                                     RESUELVE:
+
+ARTÍCULO 1°.- Incorporar en el artículo 2° de la Sección II del Capítulo II del Título I de las NORMAS (N.T.
+2013 y mod.), el siguiente texto:
+
+“TÉRMINOS DEFINIDOS.
+
+ARTÍCULO 2°.- A los fines de las presentes Normas y de las notas, informes, dictámenes, resoluciones y demás
+documentos que emita la CNV, los siguientes términos o siglas, cuando se consignen con mayúscula, tendrán los
+significados que se indican a continuación, los cuales serán aplicables en todo el texto de las anteriores, salvo que
+del contexto surja un sentido distinto, siendo igualmente válidos tanto en singular como en plural:
+
+(…)
+
+“Posición en Moneda Extranjera Bruta” tiene el significado atribuido en el artículo 36 del Capítulo II del Título
+VII de estas Normas.
+
+“Posición en Moneda Extranjera Neta” tiene el significado atribuido en el artículo 36 del Capítulo II del Título
+VII de estas Normas.
+
+(…)”.
+
+ARTÍCULO 2°.- Sustituir los artículos 36 a 39 del Capítulo II del Título VII de las NORMAS (N.T. 2013 y
+mod.), por el siguiente texto:
+
+“RÉGIMEN INFORMATIVO DE TENENCIAS DE MONEDA EXTRANJERA.
+ARTÍCULO 36.- Los ALyC, excepto: (i) los inscriptos bajo la subcategoría de Participante Directo, conforme las
+disposiciones del inciso c) del artículo 5° del presente Capítulo; y (ii) los que revistan la calidad de entidades
+financieras en el marco de la Ley de Entidades Financieras, deberán remitir mensualmente -dentro de los DIEZ
+(10) días hábiles de finalizado cada mes-, mediante el formulario habilitado al efecto en la AIF, sus tenencias
+diarias de moneda extranjera correspondientes a su cartera propia.
+
+La información deberá:
+
+1. Expresarse en valores diarios, indicando el saldo al cierre de cada jornada.
+
+2. Incluir la totalidad de las posiciones en moneda extranjera, ya sea en depósitos en el país o en el exterior,
+efectivo no bancarizado o instrumentos denominados y pagaderos en moneda extranjera o cuyos activos
+subyacentes se encuentren denominados y pagaderos en moneda extranjera, los que deberán ser tomados
+conforme su cotización en dólares estadounidenses o, de no tenerla, la conversión de su cotización en otras
+monedas, utilizando los criterios establecidos en el artículo 39 del presente Capítulo.
+
+3. Ser expuesta utilizando el criterio de “concertación”.
+
+4. La información deberá ser remitida en campos separados conforme los siguientes lineamientos:
+
+a) “Posición en Moneda Extranjera Bruta”: la misma comprende:
+
+1) Los saldos de fondos propios en moneda extranjera bancarizados;
+
+2) los saldos de fondos en moneda extranjera no bancarizados;
+
+3) los valores negociables y/o instrumentos denominados y pagaderos en moneda extranjera; y
+
+4) los instrumentos cuyo subyacente sea denominado y pagadero en moneda extranjera, ya sea que los mismos se
+encuentren radicados en jurisdicción local y/o exterior.
+
+Respecto de los fondos propios, valores negociables e instrumentos referidos, en tanto se encuentren acreditados
+en cuentas de titularidad del ALyC o depositados en Mercados o Cámaras de Compensación, en garantía de
+operaciones de cartera propia del ALyC.
+
+b) “Posición en Moneda Extranjera Neta”: se deberá descontar de la Posición en Moneda Extranjera Bruta, los
+saldos correspondientes a los instrumentos enumerados en 2), 3) y 4) de la definición de Posición en Moneda
+Extranjera Bruta recibidos en concepto de préstamo, alquiler de valores o similar; siempre que estén afectados al
+circuito comercial de la cartera propia del ALyC y, se encuentren registrados en el pasivo del ALyC.
+
+La obligación de informar, en los términos y con el alcance previsto en el presente artículo, no resulta aplicable
+respecto de las personas que por su vinculación con el ALyC se encuentren comprendidas en el concepto de
+cartera propia ampliada, dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de estas
+Normas.
+
+INDICADORES FINANCIEROS - AGENTES ALCANZADOS.
+
+ARTÍCULO 37.- Los ALyC, excepto aquellos que: 1. revistan la calidad de entidades financieras en el marco de
+la Ley de Entidades Financieras, o 2. se encuentren inscriptos en la subcategoría de Participante Directo; deberán
+remitir mensualmente -dentro de los OCHO (8) días hábiles de finalizado cada mes calendario - la información
+relativa a los indicadores financieros, y conforme lo establecido en los artículos siguientes.
+
+INDICADORES FINANCIEROS.
+
+ARTÍCULO 38.- Los Agentes deberán remitir, mediante el formulario habilitado a tal efecto en la AIF, la
+información relativa a los siguientes indicadores financieros que a continuación se detallan:
+
+1. ÍNDICES DE LIQUIDEZ. LÍMITE PRUDENCIAL DE LIQUIDEZ.
+
+a) Índice de liquidez I: es el resultado del cociente entre el activo corriente y el pasivo corriente.
+
+Dicho índice, calculado individualmente para cada moneda y de forma consolidada, deberá ser en todo momento
+igual o mayor a UNO (1).
+
+Los Agentes deberán, remitir mensualmente a la Comisión, por medio de la AIF, dentro del plazo indicado en el
+artículo 37 precedente, el detalle diario de la referida información.
+
+b) Índice de liquidez II: es el resultado del cociente entre las sumas de las partidas correspondientes a
+disponibilidades e inversiones corrientes disponibles, sobre los saldos acreedores exigibles de comitentes.
+
+c) Índice de liquidez III: es el resultado del cociente entre las sumas de las partidas correspondientes a
+disponibilidades e inversiones corrientes disponibles, sobre (x) la suma de los saldos acreedores exigibles de
+comitentes, más (y) el pasivo por acuerdos de préstamo o alquiler de valores negociables, ya sea de 1) titularidad
+de terceros clientes del ALyC, o 2) cuentas comprendidas en el concepto de cartera propia, conforme lo
+establecido en el artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas.
+
+A los fines del cálculo de los Índices de Liquidez II y III, solo podrán considerarse:
+
+I. Los activos entregados por los Agentes a los Mercados con funciones de Cámaras Compensadoras o Cámara
+Compensadoras en concepto de garantías, en la medida que sean de libre disponibilidad o no se encuentren
+afectadas a la operatoria de aquellos.
+
+II. Como disponibilidades o inversiones corrientes disponibles, los saldos disponibles a favor del ALyC
+mantenidos en Mercados con funciones de Cámara Compensadora y/o Cámaras Compensadoras, siempre y
+cuando éstos últimos utilicen sistemas de gestión de márgenes y garantías que permitan que las diferencias y
+resultados diarios impacten en forma directa en la cuenta corriente de los clientes.
+
+La información mensual relativa a los Índices de Liquidez II y III, a remitirse mediante la AIF dentro del plazo
+establecido en el artículo 37 del presente Capítulo, deberá confeccionarse sobre los datos correspondientes al
+último día hábil de cada mes.
+
+2. ÍNDICES DE APALANCAMIENTO. LÍMITE PRUDENCIAL DE APALANCAMIENTO.
+
+a) Índice de apalancamiento general: resultará del cociente entre 1) el Pasivo Financiero Total, de conformidad
+con las disposiciones del artículo 35 del presente Capítulo (lo que incluye los acuerdos de préstamo o alquiler de
+valores negociables), más los saldos acreedores de comitentes, y 2) el Patrimonio Neto Total del Agente.
+
+La información mensual relativa al presente índice deberá ser remitida mensualmente a la Comisión por medio de
+la AIF, dentro del plazo indicado en el artículo 37 precedente, la que deberá ser confeccionada sobre los datos
+correspondientes al último día hábil de cada mes.
+
+b) Índice de apalancamiento computable: resultará del cociente entre: 1) el Pasivo Financiero Total, de
+conformidad con las disposiciones del artículo 35 del presente Capítulo (lo que incluye los acuerdos de préstamo
+o alquiler de valores negociables), -pero sin incluir los saldos acreedores de comitentes-, y 2) el Patrimonio Neto
+Total del Agente, una vez descontado del mismo el patrimonio neto mínimo regulatorio requerido por la
+normativa vigente, conforme las subcategorías de inscripción.
+
+Dicho índice calculado individualmente para cada moneda y de forma consolidada, deberá mantener en todo
+momento un valor igual o inferior a CINCO (5).
+
+Los Agentes deberán, remitir mensualmente a la Comisión, por medio de la AIF, dentro del plazo indicado en el
+artículo 37 del presente Capítulo, el detalle diario de la referida información.
+
+3. CUMPLIMIENTO DE LOS ÍNDICES.
+
+Los límites prudenciales establecidos en el presente artículo deberán cumplirse en todo momento.
+
+En todos los casos, cuando el Agente exceda los límites prudenciales indicados, deberá informarlo el día hábil
+inmediato posterior de producido el exceso de dichos límites por medio del acceso correspondiente habilitado en
+la AIF con carácter privado, detallando el motivo del incumplimiento, así como las medidas ya adoptadas o por
+adoptarse para revertir dicha situación, no admitiéndose que sean reiterados, sistemáticos e injustificados.
+
+El Agente deberá abstenerse de registrar nuevas operaciones para la cartera propia, cuando producido un exceso,
+este no fuese regularizado dentro de los DOS (2) días hábiles posteriores. Habiendo transcurrido el plazo
+mencionado en el párrafo anterior más otros DOS (2) días hábiles posteriores, de mantenerse el incumplimiento,
+deberá dar estricto cumplimiento a lo dispuesto en el artículo 12 del Capítulo VII del presente Título. Todo ello
+sin perjuicio de las medidas y sanciones que la CNV pueda disponer.
+
+Dicha información deberá ser remitida y mantenerse actualizada en la AIF.
+
+En todos los casos, los Agentes deberán conservar la documentación contable respaldatoria, papeles de trabajo y
+demás información relativa a los indicadores financieros de liquidez y apalancamiento, la cual deberá encontrarse
+a disposición de la CNV, de los Mercados y/o Cámaras Compensadoras en todo momento.
+
+No obstante, lo dispuesto precedentemente, en caso de verificarse un exceso respecto del límite establecido
+exclusivamente para el índice de apalancamiento, el ALyC podrá continuar operando únicamente (y solo deberá
+informarlo a la CNV en el informe mensual correspondiente sin propuesta de subsanación) exclusivamente en la
+medida en que el exceso verificado reúna en forma conjunta la totalidad de las siguientes condiciones:
+
+a) Sea de carácter transitorio y tenga origen en la atención de operaciones de clientes, actuando la cartera propia
+del ALyC como contraparte de las mismas;
+
+b) sea subsanado dentro de un plazo máximo de DOS (2) días hábiles;
+
+c) responda a la necesidad de atender la liquidación de operaciones con clientes en un plazo inferior al de su
+ejecución en el mercado, por cuenta y orden de la cartera del Agente;
+d) no exceda de CUATRO (4) instancias mensuales; y
+
+e) no implique en ningún caso superar un índice de apalancamiento computable, calculado individualmente para
+cada moneda y de forma consolidada, de un valor de SIETE (7).
+
+PARTIDAS A CONSIDERAR PARA EL CÁLCULO DE LOS ÍNDICES.
+
+ARTÍCULO 39.- Para el cálculo de los índices establecidos en el artículo precedente, se deberá considerar:
+
+1. Saldos acreedores de comitentes: para el cómputo de la presente partida deberán considerarse los saldos
+acreedores utilizando criterio de “concertación” para todos los indicadores requeridos; excepto respecto de los
+Índices de Liquidez II y III que deberán confeccionarse utilizando el criterio de “liquidación”, es decir utilizando
+los saldos exigibles de comitentes. No podrán considerarse los saldos deudores para descontar del monto
+computable ni netearse saldos entre comitentes.
+
+2. Disponibilidades: para el cómputo de este rubro, solo se considerarán los montos bancarizados, ya sea en
+moneda nacional o extranjera. No se computarán los montos en efectivo ni los montos resguardados en cajas de
+seguridad, aun cuando las mismas se encuentren registradas a nombre del Agente.
+
+3. Inversiones corrientes disponibles: para el cómputo de este rubro no se considerarán los cheques de pago
+diferido ni los pagarés no garantizados. En cambio, se computarán las demás posiciones que se encuentren
+depositadas en un ADCVN o en un ACRyP, así como las cuotapartes de los FCI, los depósitos a plazo fijo y otras
+colocaciones de naturaleza similar. Asimismo, se podrán considerar los activos entregados por los Agentes a los
+Mercados y/o Cámaras Compensadoras en concepto de garantías, siempre que sean de libre disponibilidad o no se
+encuentren afectadas a la operatoria de aquellos.
+
+4. Neteo de posiciones: Se admitirá que se utilicen las Cauciones Tomadoras Netas para el cálculo de los índices
+antes referidos.
+
+5. Todos los índices (no sólo los que están sujetos a límites) deberán considerar por separado las variables en
+pesos, y las variables en moneda extranjera (la que deberá expresarse en dólares estadounidenses), así como un
+índice consolidado expresado en pesos convirtiendo la moneda extranjera, en su caso, conforme lo previsto en la
+Comunicación “A” 3500 del BCRA o, si se trata de una moneda extranjera distinta al dólar estadounidense, al
+tipo de cambio vendedor divisa del BNA, en ambos casos, al último día hábil del mes de la presentación de los
+indicadores referidos.
+
+Los activos denominados y pagaderos en moneda extranjera, o cuyos activos subyacentes se encuentren
+denominados y pagaderos en moneda extranjera, deberán tomarse en cuenta para los índices en moneda
+extranjera, aunque los mismos se negocien en pesos.
+
+6. Exclusivamente para el cálculo de Índice de apalancamiento computable, el patrimonio neto a considerarse en
+el denominador será el total que surja de la contabilidad del ALyC, sin apertura por moneda. En consecuencia,
+para calcular el índice en dólares estadounidenses, deberá convertirse el monto total del patrimonio neto a dólares,
+conforme el inciso 5 precedente.
+
+7. En el caso de los ALyC I AGRO, no se deberán considerar las disponibilidades que corresponden a la actividad
+agroindustrial”.
+ARTÍCULO 3°.- Sustituir el artículo 41 del Capítulo II del Título VII de las NORMAS (N.T. 2013 y mod.), por
+el siguiente texto:
+
+“LINEAMIENTOS CONTABLES.
+
+ARTÍCULO 41.- Los Agentes deberán establecer en su plan de cuentas contable los siguientes lineamientos:
+
+1. Saldos de comitentes: establecer una cuenta en el activo, por tipo de moneda, denominada “Comitentes (saldo a
+favor)” para registrar la sumatoria de los saldos a favor del Agente, y una cuenta en el pasivo, por tipo de moneda,
+denominada “Comitentes” para registrar la sumatoria de los saldos individuales que los inversores tienen a su
+favor en el Agente, cuya sumatoria total deberá coincidir con el saldo contable de la cuenta comitente.
+
+Los referidos saldos no pueden netearse por moneda, aún en el caso de un mismo comitente.
+
+2. Saldos disponibles en Mercados/Cámaras Compensadoras: establecer una cuenta del activo denominada
+“Saldos en Mercados/Cámaras Compensadoras”, con subcuentas -por tipo de moneda- que permitan diferenciar
+cada Mercado/Cámara Compensadora en el que el Agente tiene membresía para operar. La mencionada apertura
+deberá adicionalmente contemplar una cuenta propia de titularidad del ALyC y una cuenta de terceros clientes.
+
+3. Activos propios en garantía en Mercados/Cámaras Compensadoras: establecer una cuenta del activo
+denominada “Garantías en Mercados/Cámaras Compensadoras”, con subcuentas diferenciando cada
+Mercado/Cámara Compensadora en el cual el Agente tiene membresía para operar. El Agente también podrá
+incluir subcuentas adicionales que le faciliten los controles internos y las conciliaciones con los
+Mercados/Cámaras Compensadoras.
+
+La valuación de los mencionados activos deberá encontrarse actualizada y conforme las NCPA vigentes.
+
+4. Financiación en el mercado de capitales: establecer una cuenta del pasivo denominada “Créditos a pagar en el
+MdCapitales (tomador)” y una cuenta del activo denominada “Créditos a cobrar en el MdCapitales (colocador)”.
+Ambas cuentas deberán tener subcuentas que permitan diferenciar: tipo de operatoria (ej.: cauciones, pases, etc.),
+Mercado interviniente y moneda de liquidación.
+
+Las referidas cuentas y subcuentas no pueden netearse entre sí ni con otras cuentas, debiendo estar así expuestas
+durante la gestión contable diaria.
+
+5. Registro y exposición de otros tipos de financiación: establecer cuentas y subcuentas que reflejen por separado
+las deudas y créditos del Agente correspondientes a sociedades vinculadas, y a los directores o accionistas del
+propio ALyC o de dichas sociedades.
+
+Las referidas cuentas y subcuentas no pueden netearse entre sí ni con otras cuentas, debiendo estar así expuestas
+durante la gestión contable diaria. Asimismo, a los fines establecidos en el presente inciso, los Agentes deberán
+considerar que existe vinculación entre sociedades cuando una posee al menos el DIEZ POR CIENTO (10%) del
+capital o los derechos de voto de otra Sociedad, o ambas forman parte del mismo grupo económico.
+
+6. Registro y exposición de acuerdos de préstamo o alquiler de valores negociables, dentro o fuera del ámbito de
+los Mercados: establecer cuentas separadas para registrar los créditos y los pasivos generados en el marco de
+dichos acuerdos de préstamo o alquiler de valores negociables con terceros clientes, incluyendo personas jurídicas
+y/o humanas que por su vinculación con el Agente se encuentren comprendidas en el concepto de cartera propia
+ampliada dispuesto en el artículo 6° de la Sección III del Capítulo V del Título VI de estas Normas.
+
+Las referidas cuentas no pueden netearse, debiendo encontrarse así expuestas durante la gestión contable diaria.
+
+7. En el caso de operatorias con intermediarios del exterior, las mismas deberán encontrarse totalmente integradas
+a la contabilidad del ALyC, debiendo ser informadas por los Agentes en oportunidad de la presentación del
+Formulario de Indicadores Financieros y Límites Prudenciales de Liquidez y Apalancamiento a ser remitido por
+medio de la AIF con carácter de DDJJ.
+
+Asimismo, la custodia transitoria en el exterior de valores negociables de titularidad de clientes se considerará de
+libre disponibilidad, atento no encontrarse afectada a la actividad del ALyC.
+
+8. Los saldos acreedores exigibles o no de comitentes deben reflejarse en las cuentas contables del pasivo del
+Agente.
+
+9. A los fines del cálculo de los Índices de Apalancamiento General y Apalancamiento Computable, se podrá
+determinar el Patrimonio Neto Total por diferencia entre activos y pasivos en base al cierre contable mensual
+correspondiente al mes anterior que surja de la contabilidad interna del Agente o calcularlo diariamente, para dar
+cumplimiento al inciso ix) del artículo 25 del presente Capítulo.
+
+Por otra parte, el seguimiento de los límites prudenciales con fecha anterior al último día del mes en curso se
+realizará tomando como base el Patrimonio Neto Total y el Patrimonio Neto Mínimo calculado para el cierre del
+mes inmediato anterior.
+
+En su caso, podrá efectuarse el pertinente recálculo de los patrimonios así obtenidos, dentro del mes que se está
+informando, si se verificaran compromisos de socios o terceros relativos a aportes de capital o aportes
+irrevocables, a los fines de reflejar los datos patrimoniales tras dicho incremento. Los Agentes deberán conservar
+la documentación societaria y contable respaldatoria, la que deberá encontrarse a disposición de la Comisión para
+cuando así lo requiera”.
+
+ARTÍCULO 4°.- Sustituir los artículos 23 a 26 del Capítulo V del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), por el siguiente texto:
+
+“CRONOGRAMA DE ADECUACIÓN. REMISIÓN DE INFORMACIÓN SOBRE TENENCIA EN MONEDA
+EXTRANJERA.
+
+ARTÍCULO 23.- Los ALyC, en el marco de las disposiciones del artículo 36 del Capítulo II del Título VII de
+estas Normas, deberán remitir a través de la AIF en forma mensual detalle de las tenencias diarias de moneda
+extranjera correspondientes a su cartera propia, conforme el siguiente esquema:
+
+1. La información relativa a las tenencias correspondiente al mes de mayo de 2026 conforme lo establecido en el
+artículo 36 incorporado a estas Normas mediante la RG N° 1130.
+
+2. La información relativa a las tenencias correspondiente al mes de junio 2026 y siguientes, conforme lo
+establecido en el artículo 36 del Capítulo II del Título VII de estas Normas, en línea con las adecuaciones
+incorporadas mediante la RG N° 1144.
+
+CRONOGRAMA DE ADECUACIÓN DEL LÍMITE MÍNIMO DE LIQUIDEZ. RG N° 1144.
+ARTÍCULO 24.- Los ALyC indicados en el artículo 37 del Capítulo II del Título VII de estas Normas, deberán
+observar en todo momento el límite mínimo de liquidez establecido en el subinciso a) del inciso 1. del artículo 38
+del mencionado Capítulo y Título.
+
+A efectos de facilitar la adecuada adaptación de los sujetos alcanzados, el límite mínimo de liquidez será
+implementado de manera progresiva para los sujetos alcanzados que no cumplan los ratios mínimos admitidos,
+conforme el cronograma de adecuación aquí previsto.
+
+Los sujetos alcanzados deberán adoptar todas las medidas necesarias para adecuar gradualmente su liquidez en
+cada etapa del proceso de implementación.
+
+Durante dicho período, los sujetos alcanzados -que al momento de la entrada en vigencia de la RG N° 1144 se
+encuentren por debajo del límite de liquidez establecido-, deberán adecuarse al ratio mínimo admitido en cada
+etapa del cronograma.
+
+En ninguna etapa del proceso de implementación, los sujetos obligados pueden disminuir su nivel de liquidez,
+excepto que estuvieran por sobre el límite establecido en el subinciso a) del inciso 1. del artículo 38 del Capítulo
+II del Título VII de estas Normas y hasta dicho límite.
+
+Cronograma de adecuación del límite mínimo de liquidez computable:
+
+
+Período de aplicación                    Ratio mínimo admitido
+
+
+Mayo                                     0,85
+
+
+Junio                                    0,90
+
+
+Julio                                    0,95
+
+
+El Agente deberá abstenerse de registrar nuevas operaciones para la cartera propia, cuando producido un exceso,
+este no fuese regularizado dentro de los DOS (2) días hábiles posteriores.
+
+Habiendo transcurrido el plazo mencionado en el párrafo anterior más otros DOS (2) días hábiles posteriores, de
+mantenerse el incumplimiento, deberá dar estricto cumplimiento a lo dispuesto en el artículo 12 del Capítulo VII
+del Título VII de estas Normas. Todo ello sin perjuicio de las medidas y sanciones que la CNV pueda disponer.
+
+CRONOGRAMA DE ADECUACIÓN DEL LÍMITE MÁXIMO DE APALANCAMIENTO COMPUTABLE.
+RG N° 1144.
+
+ARTÍCULO 25.- Los ALyC indicados en el artículo 37 del Capítulo II del Título VII de estas Normas, deberán
+observar en todo momento el límite máximo de apalancamiento computable establecido en el subinciso b) del
+inciso 2. del artículo 38 del mencionado Capítulo y Título.
+
+A efectos de facilitar la adecuada adaptación de los sujetos alcanzados, el límite máximo de apalancamiento será
+implementado de manera progresiva para los sujetos alcanzados que no cumplan las ratios mínimas admitidas,
+conforme el cronograma de adecuación aquí previsto.
+
+Los sujetos alcanzados deberán adoptar todas las medidas necesarias para adecuar gradualmente su
+apalancamiento en cada etapa del proceso de implementación.
+
+Durante dicho período, los sujetos alcanzados -que al momento de la entrada en vigencia de la RG N° 1144 se
+encuentren excedidos del límite de apalancamiento establecido-, deberán adecuarse a los límites máximos
+aplicables en cada etapa del cronograma.
+
+En ninguna etapa del proceso de implementación, los sujetos obligados pueden incrementar su nivel de
+apalancamiento, excepto que estuvieran por debajo del límite establecido en el subinciso b) del inciso 2. del
+artículo 38 del Capítulo II del Título VII de estas Normas hasta dicho límite.
+
+Cronograma de adecuación del límite máximo de apalancamiento computable:
+
+
+Período de aplicación                  Ratio máximo admitido
+
+
+Mayo                                   8 veces
+
+
+Junio                                  7 veces
+
+
+Julio                                  6 veces
+
+
+El Agente deberá abstenerse de registrar nuevas operaciones para la cartera propia, cuando producido un exceso,
+este no fuese regularizado dentro de los DOS (2) días hábiles posteriores.
+
+Habiendo transcurrido el plazo mencionado en el párrafo anterior más otros DOS (2) días hábiles posteriores, de
+mantenerse el incumplimiento, deberá dar estricto cumplimiento a lo dispuesto en el artículo 12 del Capítulo VII
+del Título VII de estas Normas. Todo ello sin perjuicio de las medidas y sanciones que la CNV pueda disponer.
+
+REMISIÓN DE INFORMACIÓN DE INDICADORES FINANCIEROS. RG N° 1130 Y RG N° 1144.
+
+ARTÍCULO 26.- Los ALyC, alcanzados por las disposiciones del artículo 37 del Capítulo II del Título VII de
+estas Normas, deberán remitir a través de la AIF en forma mensual, la información vinculada a los Indicadores
+Financieros conforme el siguiente esquema:
+
+1. Indicadores Financieros correspondientes al mes de mayo de 2026 conforme lo dispuesto en el artículo 38
+incorporado a estas Normas mediante la RG N° 1130: Informe mensual con detalle mensual para todos los
+indicadores.
+
+2. Indicadores Financieros correspondientes al mes de junio de 2026 y siguientes con el detalle y frecuencia
+establecidos en el artículo 38 del Capítulo II del Título VII de estas Normas, incorporado mediante la RG N°
+1144: Informe mensual con detalle diario para los indicadores con límites prudenciales e informe mensual con
+detalle mensual para el resto de los indicadores”.
+
+ARTÍCULO 5°.- La presente Resolución General entrará en vigencia el día de su publicación en el B.O.
+
+ARTÍCULO 6°.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio              Digitally signed by HERBON Laura Ines
+Date: 2026.05.29 12:35:18 ART                            Date: 2026.05.29 12:49:52 ART
+Location: Ciudad Autónoma de Buenos Aires                Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                                  Laura Ines Herbon
+Vocal                                                    Vocal
+Directorio                                               Directorio
+Comisión Nacional de Valores                             Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana            Digitally signed by SILVA Roberto Emilio
+Date: 2026.05.29 12:51:57 ART                            Date: 2026.05.29 13:13:07 ART
+Location: Ciudad Autónoma de Buenos Aires                Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                                Roberto Emilio Silva
+Vicepresidente                                           Presidente
+Directorio                                               Directorio
+Comisión Nacional de Valores                             Comisión Nacional de Valores
+
+
+
+
+                                                                                                     Digitally signed by GESTION DOCUMENTAL
+                                                                                                     ELECTRONICA - GDE
+                                                                                                     Date: 2026.05.29 13:13:30 -03:00
+

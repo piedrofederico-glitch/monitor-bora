@@ -1,0 +1,775 @@
+                                República Argentina - Poder Ejecutivo Nacional
+                                         Año de la Grandeza Argentina
+
+                                                Resolución General
+
+Número: RESGC-2026-1171-APN-DIR#CNV
+
+                                                                                     CIUDAD DE BUENOS AIRES
+                                                                                     Miércoles 7 de Octubre de 2026
+
+Referencia: EX-2026-94546773-APN-GGCPI#CNV “MODIFICACIÓN DEL CAPÍTULO I, SECCIÓN II DEL
+TÍTULO XII DE LAS NORMAS – HECHOS RELEVANTES”
+
+
+
+VISTO el Expediente N° EX-2026-94546773-APN-GGCPI#CNV caratulado “MODIFICACIÓN DEL
+CAPÍTULO I, SECCIÓN II DEL TÍTULO XII DE LAS NORMAS – HECHOS RELEVANTES”, lo
+dictaminado por la Subgerencia de Gobierno Corporativo, la Gerencia de Gobierno Corporativo y Protección al
+Inversor, la Subgerencia de Control Contable, la Gerencia de Registro y Control, la Gerencia de Emisoras, la
+Subgerencia de Normativa y la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO
+
+Que la Ley de Mercado de Capitales tiene por objeto, entre otros, el desarrollo del mercado de capitales y la
+regulación de los sujetos y valores negociables comprendidos en su ámbito, siendo la CNV su autoridad de
+aplicación y control.
+
+Que, asimismo, entre los objetivos y principios fundamentales que inspiran dicho ordenamiento, se encuentra el
+de fortalecer los mecanismos de protección y prevención de abusos contra los inversores, en el marco de la
+función tuitiva del derecho del consumidor, y el de propender a la integridad y transparencia de los mercados.
+
+Que el artículo 19, inciso a) de la citada ley, otorga a la CNV la facultad de supervisar, regular, inspeccionar,
+fiscalizar y sancionar a todas las personas humanas y/o jurídicas que, por cualquier causa, motivo o circunstancia,
+desarrollen actividades relacionadas con la oferta pública de valores negociables, otros instrumentos, operaciones
+y actividades contempladas en la mencionada ley y en otras normas aplicables, que por su actuación queden bajo
+competencia de la CNV.
+
+Que, el referido artículo 19, en sus incisos c), g) y h), faculta a la CNV para llevar el registro de todos los sujetos
+autorizados para ofertar y negociar públicamente valores negociables, y establecer las normas a las que deban
+ajustarse los mismos y quienes actúen por cuenta de ellos; dictar las reglamentaciones que deberán cumplir las
+personas humanas y jurídicas y las entidades autorizadas, en los términos del inciso d), desde su inscripción y
+hasta la baja del registro respectivo; y dictar las reglamentaciones que se deberán cumplir para la autorización de
+los valores negociables, instrumentos y operaciones del mercado de capitales, y hasta su baja del registro,
+contando con facultades para establecer las disposiciones que fueren necesarias para complementar las que surgen
+de las diferentes leyes y decretos aplicables a estos, así como resolver casos no previstos e interpretar las normas
+allí incluidas dentro del contexto económico imperante, para el desarrollo del mercado de capitales.
+
+Que, por otra parte, se encuentra vigente el Decreto N° 891/2017 por el cual se aprobaron las buenas prácticas en
+materia de simplificación aplicables para el funcionamiento del Sector Público Nacional, el dictado de normativa
+y sus regulaciones, que señala que es indispensable elaborar una estrategia sistémica e integral que establezca
+como premisa básica la mejora regulatoria como una labor continua del sector público y abierta a la participación
+de la sociedad, que incluya la reducción de los trámites excesivos, la simplificación de procesos y la elaboración
+de normas de manera tal que nos lleve a un Estado eficiente, predecible, y capaz de responder a las necesidades
+ciudadanas.
+
+Que, en esta oportunidad, resulta necesario adecuar el régimen de información de HR, con el objeto de fortalecer
+la transparencia y calidad de la información disponible para el público inversor, favoreciendo una adecuada
+formación de precios y contribuyendo a la confianza en el mercado de capitales.
+
+Que, en ese marco, el artículo 99 de la Ley de Mercado de Capitales establece que los administradores de
+entidades que realizan oferta pública de valores negociables, los integrantes de sus órganos de fiscalización, y los
+agentes autorizados para actuar en dicho ámbito, deben informar a la CNV de manera directa, veraz y oportuna
+sobre cualquier HR que pueda afectar la colocación o negociación de sus valores; y, además, las personas que
+celebren pactos de accionistas para ejercer control en sociedades admitidas a la oferta pública, así como los
+directores, administradores y accionistas controlantes, están obligados a informar sobre dichos acuerdos y sus
+efectos.
+
+Que, a su vez, el artículo 101 del mencionado ordenamiento dispone que será la CNV quien establecerá las
+condiciones en que, a pedido de parte, por resolución fundada y por un período determinado, se podrá suspender
+la obligación de informar al público sobre ciertos hechos y antecedentes incluidos en los incisos a), b) y h) del
+artículo 99 del mismo cuerpo legal que no sean de conocimiento público y cuya divulgación pudiera afectar el
+interés social.
+
+Que, por su parte, las NORMAS (N.T. 2013 y mod.) en la Sección II del Título XII, reglamentan el deber de
+informar de las personas antes mencionadas.
+
+Que, en el plano internacional, la Organización para la Cooperación y el Desarrollo Económicos (OCDE), junto
+con la IOSCO, enfatizan la importancia de la divulgación completa, oportuna y precisa de información relevante,
+para asegurar un trato equitativo entre los inversores y apoyar la toma de decisiones de inversión.
+
+Que, en esta misma línea, los Principios de Gobierno Corporativo de la OCDE y el G20, recientemente
+actualizados, destacan que la comunicación oportuna sobre la situación financiera y la gestión de una empresa es
+fundamental para mantener la transparencia e integridad del mercado, asegurando que todos los inversores
+reciban simultáneamente la información necesaria para evaluar el valor de una empresa y tomar decisiones
+informadas.
+
+Que, en función de lo descripto, se realizó una revisión integral del régimen informativo ocasional, y se llevó a
+cabo un relevamiento de los ordenamientos jurídicos del Reino de España, de la Unión Europea, de Estados
+Unidos, del Reino Unido y otras jurisdicciones y otros documentos de interés, en miras a ajustar los aspectos
+normativos a las nuevas tendencias y estándares internacionales en la materia y de brindar mayor precisión y
+claridad en la conceptualización de los supuestos a ser informados por las personas obligadas.
+
+Que, en consecuencia, se ha considerado necesario precisar el marco temporal dentro del cual deben ser
+informados los hechos o situaciones que desencadenan la obligación de divulgación, destacando además que la
+responsabilidad de evaluar e informar recae en los miembros del órgano de administración y fiscalización de las
+entidades.
+
+Que, por otra parte, resulta conveniente establecer criterios más objetivos para determinar cuándo un hecho o
+situación reviste carácter relevante, procurando brindar mayor certeza a los sujetos obligados a informar y
+favorecer una aplicación uniforme del régimen, sin perjuicio de la evaluación de las circunstancias particulares de
+cada caso.
+
+Que, asimismo, corresponde modernizar, ordenar y sistematizar el régimen aplicable en materia de HR,
+precisando el alcance y las modalidades de cumplimiento de las obligaciones previstas, a fin de adecuarlo a las
+necesidades actuales del mercado de capitales y fortalecer la calidad, oportunidad y utilidad de la información
+disponible para el público inversor.
+
+Que, a los fines de precisar el alcance del deber de información inmediata previsto en la Ley de Mercado de
+Capitales y en las NORMAS (N.T. 2013 y mod.), se han tenido en consideración los criterios desarrollados por la
+CNV en el marco de las actuaciones sumariales sustanciadas en materia de transparencia y divulgación de HR.
+
+Que, a fin de precisar el alcance y la oportunidad del deber de información inmediata previsto en el artículo 99 de
+la Ley de Mercado de Capitales, se han considerado los criterios desarrollados por la CNV en los antecedentes,
+entre otros: “EDIAR S.A. s/ Seguimiento Venta Paquete Accionario” —Resolución CNV N° 16.099, de fecha 1°
+de abril de 2009—; “Muñoz de Toro, Fernando s/ Denuncia por posible omisión del deber de información
+ocasional por Alpargatas S.A.” —Resolución CNV N° 14.696, de fecha 5 de diciembre de 2003—; y “DYCASA
+S.A. s/ Seguimiento Hecho Relevante (Venta de Acciones Clase ‘B’ de Autopistas del Sol S.A.)” y actuaciones
+acumuladas —Expedientes Nros. 239/2017, 348/2017 y 2239/2017; Resolución RRFCO-2020-144-APN-
+DIR#CNV—.
+
+Que los criterios derivados de dichos antecedentes permiten distinguir las tratativas preliminares y los actos
+meramente preparatorios de las decisiones concretas adoptadas por los órganos competentes y de los acuerdos
+vinculantes; precisar el tratamiento aplicable cuando la Emisora no interviene en la operación y toma
+conocimiento de ella con posterioridad; y reafirmar el deber de aclarar, confirmar o desmentir la información
+difundida públicamente que resulte falsa, inexacta, incompleta o susceptible de generar incertidumbre en el
+mercado.
+
+Que su incorporación expresa a las NORMAS (N.T. 2013 y mod.) procura brindar mayor certeza y previsibilidad
+a los sujetos obligados, favorecer una aplicación uniforme del régimen de HR y asegurar que el público inversor
+disponga, en forma oportuna, de información veraz, suficiente y completa para la adopción de sus decisiones.
+
+Que, además, el avance de la tecnología y la accesibilidad a la información en tiempo real mediante diferentes
+fuentes exigen reglamentar el tratamiento que corresponde aplicar ante la existencia de versiones, trascendidos o
+información emanada de terceros ajenos a las entidades, a través de cualquier medio de difusión de información
+colectivos, en pos de garantizar la información fidedigna disponible para el inversor.
+
+Que, en este sentido, la doctrina, junto con la jurisprudencia y el derecho comparado, resaltan la importancia de
+evitar la propagación de información confusa, engañosa o incompleta en el mercado y, por ende, brindar
+aclaraciones precisas y veraces ante versiones y/o trascendidos de prensa, especialmente cuando dichas
+informaciones puedan afectar el precio o el volumen de los valores en circulación, resulta relevante para
+garantizar la protección de los inversores.
+
+Que, en virtud de lo establecido en el artículo 101 de la Ley de Mercado de Capitales, se establecen los
+lineamientos y condiciones para que proceda la suspensión de la obligación de informar al público, sus
+formalidades y el plazo para su solicitud y resolución por parte de la CNV.
+
+Que, atendiendo a las circunstancias descriptas, y como continuidad de la política adoptada por la CNV en
+materia reglamentaria, corresponde la aplicación del procedimiento de “Elaboración Participativa de Normas”
+aprobado por el Decreto N° 1172/2003, el cual es una herramienta fundamental para fomentar el diálogo del
+Organismo con los distintos participantes del mercado de capitales en la producción de normas y transparencia.
+
+Que, conforme lo determina el referido Decreto, la “Elaboración Participativa de Normas” es un procedimiento
+que, a través de consultas no vinculantes, involucra a sectores interesados y a la ciudadanía en general en la
+elaboración de normas cuando las características del caso, respecto de su viabilidad y oportunidad, así lo
+impongan.
+
+Que, finalmente, cabe precisar que diversos términos utilizados en esta RG, tanto en los considerandos como en el
+articulado, se encuentran definidos en el Título I de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente reglamentación se dicta en ejercicio de las facultades previstas en los artículos 19, incisos a), c),
+g) y h), 99 y 101 de la Ley de Mercado de Capitales y por el Decreto N° 1172/2003.
+
+
+
+Por ello,
+
+                                  LA COMISIÓN NACIONAL DE VALORES
+
+                                                   RESUELVE:
+
+ARTÍCULO 1°.- Establecer la aplicación del procedimiento de “Elaboración Participativa de Normas” aprobado
+por el Decreto N° 1172/2003, invitando a la ciudadanía a expresar sus opiniones o propuestas respecto de la
+adopción de una reglamentación sobre “Modificación del Capítulo I Sección II del Título XII de las NORMAS”,
+tomando en consideración el texto contenido en el Anexo I (IF-2026-97608264-APN-GAL#CNV) que forma
+parte integrante de la presente Resolución.
+
+ARTÍCULO 2°.- Designar a las Dras. María Pía D’AMELIO y Natalí Alexia BATICA para dirigir el
+procedimiento de “Elaboración Participativa de Normas” conforme al Decreto N° 1172/2003.
+
+ARTÍCULO 3°.- Autorizar a ingresar las opiniones o propuestas y a tomar vista del Expediente N° EX-2026-
+94546773-APN-GGCPI#CNV a través del sitio web https://www.argentina.gob.ar/cnv.
+
+ARTÍCULO 4°.- Aprobar el Formulario que se adjunta como Anexo II (IF-2026-97608768-APN-GAL#CNV),
+que forma parte integrante de la presente RG, como modelo para ingresar las opiniones o propuestas a través del
+sitio web https://www.argentina.gob.ar/cnv.
+
+ARTÍCULO 5°.- Fijar un plazo de QUINCE (15) días hábiles para realizar presentaciones de opiniones o
+propuestas, las que deberán efectuarse a través del sitio web https://www.argentina.gob.ar/cnv.
+
+ARTÍCULO 6°. - Publíquese la presente RG por el término de DOS (2) días en el B.O., cuya entrada en vigencia
+será a partir del día siguiente al de su última publicación.
+
+ARTÍCULO 7°.- Regístrese, publíquese, comuníquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, y archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio                 Digitally signed by HERBON Laura Ines
+Date: 2026.10.07 10:47:50 ART                               Date: 2026.10.07 10:49:13 ART
+Location: Ciudad Autónoma de Buenos Aires                   Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                                     Laura Ines Herbon
+Vocal                                                       Vocal
+Directorio                                                  Directorio
+Comisión Nacional de Valores                                Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana               Digitally signed by SILVA Roberto Emilio
+Date: 2026.10.07 10:53:05 ART                               Date: 2026.10.07 10:55:59 ART
+Location: Ciudad Autónoma de Buenos Aires                   Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                                   Roberto Emilio Silva
+Vicepresidente                                              Presidente
+Directorio                                                  Directorio
+Comisión Nacional de Valores                                Comisión Nacional de Valores
+
+
+
+
+                                                                                                        Digitally signed by GESTION DOCUMENTAL
+                                                                                                        ELECTRONICA - GDE
+                                                                                                        Date: 2026.10.07 10:56:02 -03:00
+                                            ANEXO I
+ARTÍCULO 1°.- Incorporar en el artículo 2° de la Sección II del Capítulo II del Título I de
+las NORMAS (N.T. 2013 y mod.), el siguiente término definido:
+“(…)
+“OCDE” (OECD, por sus siglas en inglés) significa Organización para la Cooperación y el
+Desarrollo Económicos.
+(…)”
+ARTÍCULO 2°.- Sustituir el artículo 4° de la Sección I del Capítulo II del Título II de las
+NORMAS (N.T. 2013 y mods.), por el siguiente texto:
+“INFORMACIÓN RELATIVA A ASAMBLEAS. PLAZOS.
+ARTÍCULO 4º.- Con relación a las asambleas, las Entidades deberán remitir a través de la
+AIF la siguiente documentación:
+1. En forma inmediata a la celebración de la reunión del órgano de administración: deberá
+ingresar como HR, una nota informando la decisión de convocar a la asamblea y la modalidad
+de celebración elegida.
+2. Dentro de los DOS (2) días hábiles de celebrada: ingresar en el apartado Actas de
+Directorio, la parte pertinente del acta correspondiente a la reunión del órgano de
+administración que convoque a la asamblea.
+3. En forma simultánea a su primera publicación: ingresar en el apartado Convocatoria, el
+texto de la convocatoria publicado conforme a las normas legales y estatutarias pertinentes,
+salvo el caso de asamblea unánime.
+4. Dentro de los DOS (2) días hábiles de realizada la última publicación legal: ingresar en el
+apartado Convocatoria, la totalidad de las constancias de las publicaciones efectuadas
+conforme a las normas legales y estatutarias pertinentes, salvo el caso de asamblea unánime.
+5. El día hábil siguiente al de la celebración de la asamblea: ingresar en el apartado Acta de
+Asamblea, una síntesis         de lo      resuelto    en cada punto     del    orden del    día.
+Si la asamblea dispone pasar a cuarto intermedio, las Entidades deberán comunicarlo de
+manera inmediata, como HR, a través de la AIF, con indicación de la fecha en que se volverá
+a constituir.
+Si la asamblea no se reúne por falta de quórum o por cualquier otra causa deberán
+comunicarlo     de    manera      inmediata,         como   HR   a    través      de   la   AIF.
+Si la asamblea modifica alguno de los documentos sometidos a su consideración deberá
+remitirlo junto con el acta respectiva.
+6. Dentro de los QUINCE (15) días hábiles deberá ingresar en el apartado Nómina de
+Autoridades, la nómina de integrantes de los órganos de administración y fiscalización, así
+como el auditor externo, designados en la asamblea. En caso de designación o renuncia
+posterior, deberá ingresarse una nómina actualizada dentro de los QUINCE (15) días hábiles
+contados desde la fecha de la designación o de la presentación de la renuncia, según
+corresponda.
+7. Dentro de los CINCO (5) días hábiles de celebrada la asamblea, deberán ser ingresados:
+a) en el apartado Acta de Asamblea: el acta de la asamblea con identificación de sus
+firmantes, y
+                                                                 IF-2026-97608264-APN-GAL#CNV
+
+
+                                                                 Página 1 de 11
+b) en el apartado Registro de Asistencia: el depósito de acciones y registro de asistencia a
+asambleas o su transcripción.
+8. En el caso de las Emisoras autorizadas a hacer oferta pública de sus acciones, dentro de
+los DIEZ (10) días hábiles de celebrada la asamblea que considere la remuneración de los
+miembros de los órganos de administración y fiscalización: deberán completar el apartado
+Remuneraciones Individuales –de acceso restringido– e ingresar las remuneraciones
+individuales de los directores, administradores, gerentes, síndicos y consejeros de vigilancia,
+conforme lo dispuesto por el artículo 75 del Anexo II del Decreto N° 471/2018 y los límites
+establecidos en el artículo 261 de la Ley General de Sociedades”.
+ARTÍCULO 3°.- Sustituir la Sección II del Capítulo I del Título XII de las NORMAS (N.T.
+2013 y mods.), por el siguiente texto:
+“SECCIÓN II
+HECHOS RELEVANTES. SUSPENSIÓN AL DEBER DE INFORMAR.
+CONCEPTUALIZACIÓN. SUJETOS ALCANZADOS. PLAZO.
+ARTÍCULO 2º.- Los sujetos alcanzados por la obligación de informar prevista en el artículo
+99 de la Ley de Mercado de Capitales deberán informar a la CNV, en forma inmediata,
+directa, veraz, suficiente y oportuna, a través de la AIF, todo hecho o situación que, por su
+importancia, sea apto para afectar en forma sustancial la colocación de valores negociables,
+el curso de su negociación, el desenvolvimiento de la actividad propia de cada sujeto
+alcanzado.
+Cuando los sujetos alcanzados informen hechos o situaciones de acuerdo con lo estipulado
+en el párrafo precedente, y estos cuenten con una decisión de un órgano colegiado, deberán
+ingresar la parte pertinente del acta en el acceso de actas del órgano correspondiente.
+La Comisión podrá requerir aclaraciones, ampliaciones o documentación complementaria
+respecto del hecho informado.
+ENUMERACIÓN DE SUPUESTOS.
+ARTÍCULO 3º.- La siguiente enumeración es ejemplificativa de la obligación impuesta en
+el artículo precedente y no releva a las personas mencionadas de la obligación de informar
+todo otro hecho o situación no enunciado aquí:
+I.- Aspectos gerenciales o administrativos, tales como:
+1. Decisiones del órgano de administración de proponer modificaciones al objeto social y
+resoluciones asamblearias que las aprueben.
+2. Alteraciones de importancia en las actividades de la Entidad, incluyendo el inicio de
+nuevas actividades y el cese, la suspensión o la reanudación de actividades existentes, así
+como las decisiones de llevarlas a cabo.
+3. Transformación, fusión, escisión o disolución. Configuración de cualquier causal de
+disolución, con indicación, cuando corresponda, de las medidas propuestas o adoptadas para
+su remoción.
+4. Renuncias presentadas, remociones, fallecimientos y demás circunstancias que determinen
+el cese o el impedimento temporal o definitivo para ejercer el cargo de los administradores y
+miembros del órgano de fiscalización, con expresión de sus causas, y su reemplazo. Las
+renuncias deberán informarse desde su recepción, sin esperar su aceptación, indicando los
+                                                                IF-2026-97608264-APN-GAL#CNV
+
+
+                                                                Página 2 de 11
+motivos expresados por el renunciante o la ausencia de ellos. En los casos de remoción,
+deberán informarse los fundamentos de la decisión, si los hubiere.
+5. Inicio de tratativas para formalizar un APE con la conformidad total o parcial de sus
+acreedores, solicitud de APE, rechazo, desistimiento, homologación, cumplimiento y nulidad
+del acuerdo; solicitud de concurso por agrupamiento; pedido de quiebra por la Entidad o por
+terceros; declaración de quiebra o rechazo del pedido explicitando las causas o conversión
+en concurso; modo de conclusión: pago, avenimiento, clausura, pedidos de extensión de
+quiebra y responsabilidades derivadas; así como reestructuraciones o refinanciaciones de
+deuda o solicitudes de consentimiento vinculadas con esos procesos.
+6. Hechos de cualquier naturaleza, acontecimientos fortuitos e incidentes operativos,
+tecnológicos o de seguridad informática que obstaculicen o puedan obstaculizar
+significativamente el desenvolvimiento de sus actividades, incluyendo aquellos que generen
+o puedan generar afectaciones significativas al ambiente, especificándose sus consecuencias.
+La comunicación deberá indicar las consecuencias conocidas y, cuando sea posible, las
+previsibles, así como las medidas adoptadas o previstas para atender sus efectos.
+7. Autorización, suspensión mayor a TREINTA (30) minutos, retiro o cancelación de la
+negociación o listado, en el país o en el extranjero, de los valores negociables de la Emisora.
+8. Celebración y extinción de contratos de licencia o franquicia, de agrupación de
+colaboración y UTs, con reseña de las principales perspectivas razonablemente esperadas
+que sean significativas para la Emisora.
+9. En el caso de Emisoras cuyas acciones se encuentran admitidas al régimen de oferta
+pública, contratos de cualquier naturaleza que establezcan limitaciones a la distribución de
+utilidades y dividendos o a las facultades de los órganos sociales, debiendo mantenerse copia
+de dichos contratos a disposición de la CNV.
+10. Acuerdos de sindicación de acciones.
+11. Contratos que reúnan características de significatividad económica o habitualidad
+celebrados, directa o indirectamente, con los integrantes de sus órganos de administración,
+fiscalización y con los gerentes generales o especiales designados de acuerdo con el artículo
+270 de la Ley General de Sociedades, o con personas controladas, vinculadas o partes
+relacionadas con aquellos. La significatividad se configurará cuando el monto individual o
+acumulado con la misma parte relacionada durante el ejercicio económico supere el CINCO
+POR CIENTO (5%) del patrimonio neto o de los ingresos ordinarios del último EECC o
+EEFF anual o intermedio aprobado, o cuando por su naturaleza puedan afectar de manera
+sustancial la situación patrimonial, económica, financiera o la independencia en la toma de
+decisiones del sujeto obligado. A los fines del presente punto, se entenderá por habitualidad
+a la celebración de contratos de forma sucesiva, periódica o reiterada. La información deberá
+incluir los términos y condiciones esenciales de la operación, pudiendo la CNV requerir la
+remisión del instrumento respectivo.
+Lo dispuesto en el presente inciso no será aplicable a las operaciones alcanzadas por los
+artículos 72 y 73 de la Ley de Mercado de Capitales, las que se regirán por dichas
+disposiciones y su reglamentación.
+
+
+                                                                IF-2026-97608264-APN-GAL#CNV
+
+
+                                                                Página 3 de 11
+12. Cambios en las tenencias que configuren el o los grupos de control, en los términos del
+artículo 33, inciso 1° de la Ley General de Sociedades, siempre que impliquen una
+modificación efectiva en el gobierno de la Emisora, así como cualquier cambio en los
+términos previstos por los artículos 86 y 87 o 91 y 92 de la Ley de Mercado de Capitales y
+disposiciones concordantes previstas en el Capítulo II del Título III de estas Normas.
+Cuando el órgano de administración de la Emisora o cualquiera de sus integrantes no
+participe de la operación, la Emisora solo deberá informarla desde que tome conocimiento
+fehaciente de la decisión o acuerdo correspondiente, con el alcance de la información que le
+hubiera sido comunicada o que hubiera podido obtener mediante averiguaciones razonables.
+La mera existencia de tratativas preliminares o acuerdos preparatorios que no importen
+compromisos vinculantes de adquisición o transferencia no constituirá, por sí sola, un HR a
+los efectos del presente inciso.
+13. Para el caso de las Emisoras que sean PyME CNV, la falta de renovación del Certificado
+MiPymes o la baja de la inscripción en el Registro de Empresas MiPyME (sea de manera
+voluntaria o por disposición de la autoridad de aplicación), conforme lo dispuesto en estas
+Normas.
+14. Resolución de retiro del régimen de oferta pública de una sociedad extranjera, respecto
+de la cual se haya determinado la innecesariedad de formular una OPA obligatoria con
+motivo del retiro, conforme lo previsto en el Capítulo I del Título III de estas Normas.
+15. Aceptación del accionista controlante de la sociedad afectada por una OPA voluntaria
+que formule un tercero, conforme lo previsto en el Capítulo II del Título III de estas Normas.
+16. Decisión del oferente de formular una OPA voluntaria, siempre que se haya asegurado
+que se puede hacer frente íntegramente a cualquier contraprestación en efectivo, conforme lo
+previsto en el Capítulo II del Título III de estas Normas.
+17. En caso de sustitución de los órganos de un FCI, fecha en que se realizará la transferencia
+y traspaso de todos los activos y documentación involucrada en la sustitución, conforme lo
+previsto en el Capítulo I del Título V de estas Normas.
+18. Decisión de rescindir el convenio de colocación y distribución de FCI, conforme lo
+previsto en el Capítulo II del Título V de estas Normas.
+II.- Aspectos financieros, tales como:
+1. Enajenación de activos cuyo valor contable, individualmente o mediante un conjunto de
+operaciones vinculadas, represente más del QUINCE POR CIENTO (15%) del valor
+contable de dicho rubro, según el último EECC o EEFF aprobado (anual o intermedio)
+presentado ante la CNV.
+2. Decisión sobre inversiones extraordinarias y celebración de operaciones financieras o
+comerciales de magnitud. A los fines del presente inciso, se considerará que revisten
+magnitud cuando el monto total comprometido, individualmente o en conjunto con otras
+operaciones vinculadas, supere el QUINCE POR CIENTO (15%) del patrimonio neto
+computadas en relación con el último cierre de los EECC o EEFF, sean éstos anuales o
+intermedios, indicando las causas que las originan y los efectos esperados sobre la situación
+económica, financiera y patrimonial de la Emisora.
+
+
+                                                                IF-2026-97608264-APN-GAL#CNV
+
+
+                                                                Página 4 de 11
+3. Pérdidas superiores al QUINCE POR CIENTO (15%) del patrimonio neto, computadas en
+relación con el último cierre de los EECC o EEFF, sean éstos anuales o intermedios,
+indicando las causas que las originan y los efectos esperados sobre la situación económica,
+financiera y patrimonial de la Emisora.
+La comunicación deberá efectuarse desde que se cuente con información suficiente para
+determinar que se ha superado dicho umbral, sin esperar la aprobación de los EECC o EEFF
+siguientes.
+4. Atraso, incumplimiento total o parcial, suspensión o diferimiento de las obligaciones
+asumidas en los valores negociables con suficiente identificación de las consecuencias que
+puedan derivar de tal incumplimiento. La existencia de plazos de gracia o subsanación deberá
+informarse y no diferirá la comunicación del atraso o incumplimiento.
+5. Gravamen de los bienes con hipotecas o prendas cuando ellas superen en conjunto el
+QUINCE POR CIENTO (15%) del patrimonio neto, computadas en relación con el último
+cierre de los EECC o EEFF, sean éstos anuales o intermedios.
+6. Totalidad de avales y fianzas otorgados, con indicación de las causas determinantes,
+personas afianzadas y monto de la obligación, cuando superen en conjunto el QUINCE POR
+CIENTO (15%) del patrimonio neto, así como los otorgados por operaciones no vinculadas
+directamente a su actividad cuando superen el TRES POR CIENTO (3%) de su patrimonio
+neto. En ambos casos, el patrimonio neto se determinará según el último cierre de los EECC
+o EEFF, sean éstos anuales o intermedios.
+7. Decisión concreta, adoptada por el órgano competente de adquirir o enajenar acciones u
+obligaciones convertibles de otras sociedades, o celebración de un acuerdo vinculante para
+realizar la operación, lo que ocurra primero, sin perjuicio de lo dispuesto en los artículos 31
+y 32 de la Ley General de Sociedades y 8º del presente Capítulo, cuando los montos de las
+operaciones o, si no estuvieran determinados, sus montos razonablemente estimados, siempre
+que:
+(i) Superen en su conjunto el VEINTE POR CIENTO (20%) del patrimonio neto del Emisor;
+o
+(ii) implique la adquisición, modificación o pérdida del control o influencia significativa
+sobre otra sociedad participada; o
+(iii) resulte razonablemente susceptible de afectar en forma sustancial la situación
+económica, financiera o estratégica del Emisor.
+La obligación de informar no quedará supeditada al cumplimiento de condiciones
+suspensivas, autorizaciones regulatorias, aprobaciones de terceros o etapas posteriores de
+ejecución. No quedarán comprendidas, por sí solas, las tratativas preliminares, los análisis
+internos, los estudios de factibilidad, las valuaciones, las negociaciones exploratorias o los
+actos meramente preparatorios.
+8. Hechos de cualquier naturaleza que afecten o puedan afectar en forma sustancial la
+situación económica, financiera o patrimonial de las sociedades controladas y controlantes
+en el sentido del artículo 33 de la Ley General de Sociedades siempre que el hecho tenga un
+impacto directo y verificable en su capacidad para cumplir con sus obligaciones o en el valor
+de sus valores negociables, incluyendo la enajenación y gravamen de partes importantes de
+                                                                IF-2026-97608264-APN-GAL#CNV
+
+
+                                                                Página 5 de 11
+su activo y afectaciones de importancia al ambiente. Se entenderá por enajenación y
+gravamen de partes importantes a aquellas que superen el VEINTE POR CIENTO (20%) del
+patrimonio neto, computado en relación con el último cierre de los EECC o EEFF, sean éstos
+anuales o intermedios. Las afectaciones al ambiente deberán informarse únicamente cuando
+impliquen una contingencia económica estimada superior al CINCO POR CIENTO (5%) del
+patrimonio neto, computado en relación con el último cierre de los EECC o EEFF, sean éstos
+anuales o intermedios.
+9. Obtención de calificaciones contemporáneas dispares respecto de idéntico valor
+negociable, cuando difieran de letra o en más de un grado.
+10. Rescisión, unilateral o consensuada, del convenio con un ACR o un ACR-UP, explicando
+los motivos en que se funda. Por su parte, los ACR y ACR-UP deben informar toda rescisión
+de los convenios o modificación de las cláusulas originalmente pactadas e informadas,
+explicando los motivos en que se funda, conforme lo previsto en el Título IX de estas Normas.
+11. Decisiones adoptadas que establezcan o modifiquen planes, sistemas o modalidades de
+recompensas y reconocimientos que estructuran la remuneración total de los integrantes del
+órgano de administración, fiscalización, comités especiales y empleados, con presentación
+de copia de tales documentos.
+12. Aportes irrevocables a cuenta de futuras suscripciones de acciones, aceptados por reunión
+del directorio, con independencia de lo previsto en el Capítulo III del Título III de estas
+Normas.
+13. Despidos de trabajadores, sin considerar a trabajadores eventuales o temporales, con
+causa o sin ella, que representen un DIEZ POR CIENTO (10%) del número total que prestan
+servicios en la Entidad o en cualquiera de sus plantas industriales, dentro de un período de
+SEIS (6) meses, debiendo en tal supuesto enviarse a la CNV la incidencia de los despidos en
+el patrimonio de la Entidad, evaluando la contingencia de formulación de juicios laborales.
+La información deberá ingresarse a través del acceso Hechos Relevantes de la AIF.
+14. Las propuestas, de corresponder, en materia de distribución de dividendos en efectivo y
+en especie y las capitalizaciones de ganancias y de ajustes del capital y de otros conceptos de
+los EECC o EEFF aprobados, ya sea por el período anual o intermedio.
+En caso de EECC o EEFF anuales, si no se formulara propuesta de distribución de
+dividendos, deberá informarse tal circunstancia y los criterios generales que fundamentan
+dicha decisión.
+15. Hechos que afecten de manera adversa y con carácter significativo la situación
+económica, comercial, legal o financiera de la Emisora, que puedan afectar el pago de
+intereses o amortizaciones de valores negociables emitidos.
+16. Aspectos relacionados con CEDEAR o CEVA, tales como: a) Cualquier hecho o
+circunstancia que pudiera afectar la negociación del subyacente. b) Eventos corporativos
+adoptados por decisión del Emisor del subyacente, tales como distribución de dividendos,
+split, cambio de mercado de negociación, reorganizaciones societarias, cambio del símbolo
+o código de negociación (ticker), etc. c) Suspensión de la negociación de los activos
+subyacentes en los mercados de origen. d) Todo HR que importe una modificación sustancial
+a los riesgos expuestos en los respectivos Prospectos, Suplementos de Prospectos o
+                                                                IF-2026-97608264-APN-GAL#CNV
+
+
+                                                                Página 6 de 11
+Documento de Oferta Definitivo, o que puedan afectar la negociación o conversión de los
+CEDEAR o CEVA emitidos.
+17. Recompra de ON, ya sea para su cancelación o para mantener en cartera de la Emisora,
+en este último caso, si representan más del CINCO (5%) del total de la clase o serie emitida
+o si con tal porcentaje se alteran las mayorías necesarias para supuestos de consentimiento o
+decisiones asamblearias, indicando, además, precio de adquisición, y si se ha respetado la
+igualdad de trato. De corresponder, comunicar su posterior reventa.
+Los umbrales cuantitativos previstos en estos subincisos del presente inciso II no excluyen
+la obligación de informar los actos, operaciones, hechos o situaciones que, aun sin
+alcanzarlos, reúnan las condiciones de relevancia establecidas en el artículo anterior.
+III.- Aspectos relacionadas a la adquisición de acciones propias:
+1. Decisión de adquirir, en los términos del artículo 220, inciso 2º de la Ley General de
+Sociedades, sus propias acciones, con explicación del daño grave que se pretende evitar y los
+motivos que fundamentan las adquisiciones como el medio idóneo para evitarlo. Deberá
+informarse el plazo en el que las adquisiciones se llevarán a cabo, rango de precio al que la
+sociedad esté dispuesta a efectuarlas o mecanismo de determinación del mismo, cantidad
+máxima de acciones a adquirir y fecha, cantidad, precio por acción, monto total de cada
+adquisición efectuada, porcentaje que las acciones representan sobre el capital social y
+efectos.
+Asimismo, deberá informarse, respecto de cada adquisición ejecutada en cumplimiento de
+esa decisión, su fecha, cantidad de acciones, precio por acción y monto total.
+2. Control indirecto de acciones propias que integren el patrimonio de una unidad de negocio
+adquirida o sociedad incorporada, de conformidad con el inciso 3º del artículo 220 de la Ley
+General de Sociedades, siempre que dicha tenencia alcance o supere el UNO POR CIENTO
+(1%) del capital social de la Emisora.
+3. Decisión de enajenar las acciones adquiridas en los términos de los incisos 2° y 3º del
+artículo 220 de la Ley General de Sociedades.
+4. Decisión de adquirir, en los términos y condiciones del artículo 64 y siguientes de la Ley
+de Mercado de Capitales, las acciones que hubiera emitido y la expresión de los motivos de
+dicha decisión. Una vez adquiridas deberá informarse la fecha, cantidad, precio y monto total
+adquirido en cada una de las jornadas donde se hayan efectuado las adquisiciones, con
+indicación de los mercados en donde se realizaron.
+A los efectos del cómputo del porcentaje previsto en el artículo 66 de la Ley de Mercado de
+Capitales, se considerarán todas las adquisiciones efectuadas tanto en los mercados locales
+como del exterior.
+5. Decisión de enajenar las acciones propias adquiridas en los términos del artículo 64 de la
+Ley de Mercado de Capitales, de conformidad con lo dispuesto en los artículos 65 o 67 de
+dicha ley, según corresponda. Deberá indicarse la fecha, cantidad, precio por acción y monto
+total al término de cada una de las jornadas en las que se hayan efectuado las enajenaciones,
+con identificación de los mercados en los que se hayan realizado.
+IV.- Aspectos sancionatorios y judiciales, tales como:
+
+
+                                                                IF-2026-97608264-APN-GAL#CNV
+
+
+                                                                Página 7 de 11
+1. Litigios, causas judiciales, reclamos arbitrales o reclamos extrajudiciales de cualquier
+naturaleza, que se promuevan o entablen, de importancia económica significativa o de
+trascendencia para el desenvolvimiento de sus actividades; causas judiciales de relevancia
+que contra ella promuevan sus accionistas; y las resoluciones relevantes en el curso de todos
+esos procesos aun cuando no se encuentran firmes. Se entenderá que existe importancia
+económica significativa cuando el monto reclamado o estimado, supere el DIEZ por ciento
+(10%) del patrimonio neto de la Entidad, considerándose este en forma individual o
+juntamente con otros procesos vinculados por su objeto o causa.
+2. Sanciones de importancia económica significativa o de trascendencia para el
+desenvolvimiento de sus actividades impuestas por autoridades de control, aun cuando no se
+encuentren firmes.
+3. Sentencias judiciales condenatorias, contra la Entidad o sus administradores, aun cuando
+no se encuentren firmes, en causas judiciales significativas.
+FORMA Y CONTENIDO DEL HECHO RELEVANTE
+ARTÍCULO 4°.- La comunicación de un HR deberá contener como mínimo:
+1. Título: “COMUNICADO DE HECHO RELEVANTE”.
+2. Un resumen con la descripción breve del contenido principal al que se refiere el
+comunicado.
+3. La denominación o razón social de la Entidad informante.
+4. Fecha de envío del comunicado.
+5. La fecha de ocurrencia del hecho o situación que motiva la comunicación.
+6. La descripción del hecho o situación que genera el HR, redactada en forma veraz, clara,
+suficiente y completa, expuesta de forma neutral, sin sesgos o juicios de valor que prejuzguen
+o distorsionen su alcance, considerando: sus antecedentes y características, cuando sean
+conocidos por la Entidad o la persona obligada a informar; la cuantificación del efecto del
+HR, cuando sea posible, indicando, en su caso, el importe correspondiente o proyectarlo
+razonablemente, utilizando parámetros que, según su criterio y conocimiento de la situación
+específica, sean adecuados para la comprensión del hecho por parte de los inversores; y si el
+hecho o situación requiere de algún trámite de autorización, ratificación o protocolización
+posterior. Asimismo, cuando corresponda, se informarán las medidas adoptadas o previstas
+en relación con el hecho comunicado.
+7. La firma del representante legal de la Entidad o del responsable de relaciones con el
+mercado.
+VERSIONES, TRASCENDIDOS O INFORMACIÓN DIVULGADA POR TERCEROS.
+ARTÍCULO 5°.- Ante la existencia de versiones o trascendidos con circulación en el
+mercado o de información en cualquier medio de comunicación colectiva difundida por
+terceros, la Entidad o persona alcanzada por la obligación de informar deberá brindar las
+aclaraciones o información que estime necesaria con el propósito de precisar la veracidad de
+la misma.
+En caso de que la información, el trascendido o la versión difundida pudiera encuadrar en los
+supuestos detallados en los artículos 2° y 3° de la presente Sección y resultare falsa, inexacta
+o incompleta, se deberá aclarar o desmentir la mediante la publicación de un HR.
+                                                                IF-2026-97608264-APN-GAL#CNV
+
+
+                                                                Página 8 de 11
+Si resultare que la versión, trascendido o la información difundida por un tercero constituye
+información verdadera, la persona alcanzada por la obligación de informar estará obligada a
+comunicarla en forma inmediata, con los alcances de un HR, junto con las aclaraciones que
+estime necesarias. Esta misma regla aplicará para los casos en que se haya otorgado la
+suspensión al deber de informar un HR, conforme a lo previsto en esta Sección y,
+posteriormente, fuera difundida información relacionada con ese hecho en los medios de
+comunicación mencionados.
+La Comisión podrá requerir aclaraciones, ampliaciones o documentación complementaria.
+SUSPENSIÓN DEL DEBER DE INFORMAR.
+ARTÍCULO 6°.- El Directorio de la CNV podrá suspender, a solicitud de parte, por un
+período de tiempo determinado y mediante resolución fundada, el deber de informar al
+público los hechos y antecedentes incluidos en los incisos a), b) y h) del artículo 99 de la Ley
+de Mercado de Capitales, en los términos del artículo 101 de dicha ley, cuando, luego del
+análisis de esa solicitud, la considere atendible, con base en los fundamentos expuestos por
+la peticionante.
+A esos efectos, en la solicitud de suspensión se deberá acreditar de manera suficiente y
+documentada la afectación al interés social que su divulgación podría producir. La solicitud
+deberá encontrarse aprobada por resolución fundada del órgano de administración de la
+Entidad solicitante, acreditando las circunstancias que justificarían la suspensión y debiendo
+adoptar las medidas necesarias para preservar la confidencialidad de la información hasta su
+divulgación.
+CARACTERÍSTICAS DE LA INFORMACIÓN.
+ARTÍCULO 7°.- La información que podrá ser objeto de la suspensión prevista en el artículo
+anterior deberá estar relacionada con:
+1. Asuntos pendientes de aprobación, que se mantienen habitualmente bajo confidencialidad,
+cuya difusión prematura podría frustrarlos o generar expectativas que perjudicarían a los
+inversores si no se concretaran; o
+2. Negociaciones en curso, acuerdos parciales o susceptibles de revisión, en operaciones
+complejas que insumen tiempo y pueden variar o quedar sin efecto rigiendo al respecto el
+deber de guardar reserva de la información y el impedimento de usarla en beneficio propio o
+de terceros, hasta tanto se difunda.
+En ningún caso, el solo hecho de que el conocimiento de las negociaciones o la situación en
+curso pueda impactar en el precio de los valores negociables de la Emisora será motivo
+suficiente para argumentar un perjuicio al interés social, salvo que existan indicios razonables
+de que la difusión prematura, parcial o distorsionada de la información, durante las fases de
+estudio o negociación, pueda afectar significativamente y generar una evolución inusual en
+los volúmenes o precios de dichos valores.
+REQUISITOS DE LA SOLICITUD.
+ARTÍCULO 8°.- La solicitud de suspensión al deber de informar será presentada ante la
+CNV, en sobre cerrado o a través de la plataforma TAD, acompañada de una nota en la que
+se indique que el sobre contiene una solicitud de suspensión al deber de informar HR.
+A los fines de su estudio y resolución, la solicitud, además, deberá:
+                                                                IF-2026-97608264-APN-GAL#CNV
+
+
+                                                                Página 9 de 11
+1. Ser suscripta por el representante legal de la Entidad solicitante, quien legalmente lo
+reemplace o por el responsable de relaciones con el mercado.
+2. Indicar el objeto de la solicitud.
+3. Aclarar si se trata de información reservada respecto de la Entidad, sus negocios, sus
+valores de oferta pública, o de la oferta de ellos.
+4. Contener una clara y detallada descripción de la información objeto de la solicitud.
+5. Indicar el plazo por el que se solicita la suspensión o estimar el que se considera necesario.
+6. Exponer y fundamentar de manera completa las razones que fundamentan el perjuicio
+significativo al interés social para el caso de su divulgación.
+7. Contener la lista de las personas que están en conocimiento de dicha información y tienen
+un deber de confidencialidad, como así también las medidas adoptadas por la Entidad para
+garantizar que la información catalogada como reservada sea conocida exclusivamente por
+las personas incluidas en dicha lista.
+8. Para el caso de que se adjunten documentos a la presentación, deberán individualizarse.
+No se dará curso a una solicitud de suspensión al deber de informar cuando la información
+sea conocida por un número indeterminado de personas o si aquellas que estén en
+conocimiento de la misma no puedan ser identificadas.
+La solicitud, la documentación acompañada y la información producida durante su
+tramitación tendrán carácter reservado y serán de acceso restringido a los funcionarios que
+deban intervenir en su análisis y resolución, mientras subsistan las razones que justifiquen
+dicho tratamiento.
+RESOLUCIÓN DE LA SOLICITUD.
+ARTÍCULO 9°.- Dentro de los CINCO (5) días hábiles de efectuada la presentación de la
+solicitud, de no requerir información o documentación adicional, el Directorio de la CNV
+resolverá el pedido, pudiendo solicitar dictamen técnico previo del titular del área del
+organismo correspondiente. En caso de ser aceptada la solicitud, el Directorio se expedirá
+sobre el alcance y los límites temporales de la decisión.
+Cuando se requiera información o documentación adicional, el plazo para resolver se
+suspenderá desde la notificación del requerimiento hasta su cumplimiento.
+La CNV podrá otorgar un plazo menor al solicitado o prorrogar, también mediante resolución
+fundada y por pedido motivado, el plazo oportunamente concedido.
+El rechazo de la solicitud, una vez notificado, obligará a la publicación inmediata del HR en
+cuestión.
+La interposición de recursos administrativos o acciones judiciales no suspenderá la
+obligación de publicar el HR, salvo que la autoridad competente disponga expresamente lo
+contrario.
+CESE DE LA DISPENSA O SUSPENSION.
+ARTÍCULO 10.- Tan pronto como hayan cesado las razones que motivaron el otorgamiento
+de la dispensa o suspensión o vencido el plazo otorgado por la Comisión, y de no mediar
+prórroga, se deberá publicar la información en forma inmediata y con carácter de HR,
+cumpliendo con los plazos y formalidades previstas en esta Sección.”
+
+
+                                                                  IF-2026-97608264-APN-GAL#CNV
+
+
+                                                                  Página 10 de 11
+ARTÍCULO 4°.- Renumerar el artículo 4° de la Sección III del Capítulo I del Título XII de
+las NORMAS (N.T. 2013 y mod.) como artículo 11 la Sección III del Capítulo I del Título
+XII de las NORMAS (N.T. 2013 y mods.), y sustituir el mismo por el siguiente texto:
+“RÉGIMEN INFORMATIVO.
+ARTÍCULO 11.- En el caso de Emisoras, en oportunidad de cada elección de directores o
+miembros de los órganos de fiscalización, los accionistas que propongan candidatos titulares
+o suplentes a consideración de la asamblea deberán informar a la misma, antes de la votación,
+la condición de independientes o no independientes de los candidatos a directores y la
+condición de independientes de los candidatos a integrar el órgano de fiscalización, según lo
+aquí establecido y lo dispuesto en el Título II de estas Normas. Tratándose de Emisoras que
+realizan oferta pública de valores negociables de deuda exclusivamente, la obligación
+respecto de los candidatos a directores sólo resultará aplicable cuando sean propuestos como
+independientes. Dichos accionistas también informarán si los candidatos propuestos, ejercen,
+han ejercido o van a ser propuestos ellos, o los estudios, sociedades o asociaciones
+profesionales que integren como tales, o a través de otros de sus miembros, como auditores
+externos de la Emisora o tienen relaciones profesionales o pertenecen a un estudio, Sociedad
+o asociación profesional que mantiene relaciones profesionales:
+1. Con la Emisora; o
+2. su grupo de control o sociedades vinculadas; o
+3. en la medida en que dichas relaciones impliquen la percepción de honorarios o la obtención
+de beneficios económicos significativos.
+Los integrantes del órgano de administración y del órgano de fiscalización de las Emisoras
+de acciones, deberán informar a la CNV, la condición de independientes o no independientes
+de sus miembros dentro del plazo de QUINCE (15) días hábiles desde su elección o asunción
+del cargo titular, según se trate. Tratándose de Emisoras exclusivamente de valores
+negociables de deuda, la obligación de presentar dicha información solo recaerá para los
+miembros del órgano de fiscalización y los directores que revistan la calidad de
+independientes.
+Asimismo, dicha información deberá incluirse en todo Prospecto, Suplemento de Prospecto
+o Documento de Oferta Definitivo, que sea emitido por la Emisora.
+Los órganos de fiscalización de la Emisora deberán incluir en su informe anual su opinión
+expresa sobre la calidad de las políticas de contabilización y auditoría de la Emisora y sobre
+el grado de objetividad e independencia del auditor externo en el ejercicio de su labor.”
+ARTÍCULO 5°. – Renumerar el artículo 5° de la Sección IV del Capítulo I del Título XII de
+las NORMAS (N.T. 2013 y mod.), como artículo 12 de la Sección IV del Capítulo I del Título
+XII de las NORMAS (N.T. 2013 y mod.).
+ARTÍCULO 6°. – Renumerar los artículos 6° y 7° de la Sección V del Capítulo I del Título
+XII de las NORMAS (N.T. 2013 y mod.), como artículos 13 y 14 de la Sección V del Capítulo
+I del Título XII de las NORMAS (N.T. 2013 y mod.).
+ARTÍCULO 7°. – Renumerar los artículos 8° a 16 de la Sección VI del Capítulo I del Título
+XII de las NORMAS (N.T. 2013 y mod.), como artículos 15 a 23 de la Sección VI del
+Capítulo I del Título XII de las NORMAS (N.T. 2013 y mod.).
+                                                               IF-2026-97608264-APN-GAL#CNV
+
+
+                                                               Página 11 de 11
+                                       ANEXO II
+FORMULARIO PARA LA PRESENTACIÓN DE OPINIONES Y PROPUESTAS EN
+EL PROCEDIMIENTO DE ELABORACIÓN PARTICIPATIVA DE NORMAS.
+NÚMERO DE PRESENTACIÓN:
+• CONTENIDO DE LA NORMA A DICTARSE
+• DATOS DEL PRESENTANTE
+1. NOMBRE Y APELLIDO:
+2. DNI / CUIT o CUIL:
+3. FECHA DE NACIMIENTO:
+4. LUGAR DE NACIMIENTO:
+5. NACIONALIDAD:
+6. DOMICILIO:
+7. TELÉFONO PARTICULAR / CELULAR:
+8. TELÉFONO LABORAL:
+9. DIRECCIÓN DE CORREO ELECTRÓNICO:
+10. CARÁCTER EN QUE SE PRESENTA (marcar con una cruz lo que corresponde).
+( ) Particular interesado (Persona humana)
+( ) Representante de Persona Jurídica (¹)
+(¹) En caso de actuar como representante de PERSONA JURÍDICA, indique los
+siguientes datos de su representada:
+DENOMINACIÓN / RAZÓN SOCIAL:
+CUIT:
+DOMICILIO:
+INSTRUMENTO QUE ACREDITA LA PERSONERÍA INVOCADA:
+• CONTENIDO DE LA OPINIÓN Y/O PROPUESTA.
+En caso de adjuntarla/s por instrumento separado, marcar la opción correspondiente(²)
+.............................………………………………………………………………..……
+(²) () Se adjunta informe por separado.
+• DETALLE DE LA DOCUMENTACIÓN ACOMPAÑADA.
+............................………………………………………………………………………
+_________________                            ___________________________
+        FIRMA                                             ACLARACIÓN
+
+
+
+                                                          IF-2026-97608768-APN-GAL#CNV
+
+
+                                                          Página 1 de 1
+

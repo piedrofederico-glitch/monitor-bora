@@ -1,0 +1,513 @@
+                               República Argentina - Poder Ejecutivo Nacional
+                                        Año de la Grandeza Argentina
+
+                                               Resolución General
+
+Número: RESGC-2026-1147-APN-DIR#CNV
+
+                                                                                   CIUDAD DE BUENOS AIRES
+                                                                                    Miércoles 10 de Junio de 2026
+
+Referencia: EX-2026-42268405- -APN-GFCI#CNV “PROYECTO DE RESOLUCIÓN GENERAL S/
+PROCEDIMIENTO DE AUTORIZACIÓN AUTOMÁTICA DE OFERTA PÚBLICA DE FCI ABIERTOS”
+
+
+
+VISTO el Expediente N° EX-2026-42268405- -APN-GFCI#CNV, caratulado “PROYECTO DE RESOLUCIÓN
+GENERAL S/ PROCEDIMIENTO DE AUTORIZACIÓN AUTOMÁTICA DE OFERTA PÚBLICA DE FCI
+ABIERTOS”, lo dictaminado por la Subgerencia de Fondos Comunes de Inversión Abiertos, la Gerencia de
+Fondos Comunes de Inversión, la Subgerencia de Normativa, la Gerencia de Asuntos Legales; y
+
+
+
+CONSIDERANDO:
+
+Que la Ley de Mercado de Capitales tiene por objeto, entre otros, el desarrollo del mercado de capitales y la
+regulación de los sujetos y valores negociables comprendidos en su ámbito, siendo la CNV su autoridad de
+aplicación y control.
+
+Que el artículo 19, inciso h) del mencionado cuerpo legal otorga a la CNV atribuciones para dictar las
+reglamentaciones que se deberán cumplir para la autorización de los valores negociables, instrumentos y
+operaciones del mercado de capitales, hasta su baja del registro, contando con facultades para establecer las
+disposiciones que fueren necesarias para complementar las que surgen de las diferentes leyes y decretos
+aplicables a éstos, así como resolver casos no previstos e interpretar las normas allí incluidas dentro del contexto
+económico imperante, para el desarrollo del mercado de capitales.
+
+Que mediante el dictado de la Ley de Financiamiento Productivo se propició la modernización y adaptación de la
+normativa a las necesidades actuales del mercado, modificándose, entre otras, la Ley de Fondos Comunes de
+Inversión, actualizando el régimen legal aplicable a los FCI, en el entendimiento de que estos constituyen un
+vehículo de captación de ahorro e inversión fundamental para el desarrollo de las economías, permitiendo
+robustecer la demanda de valores negociables en los mercados de capitales, aumentando así su profundidad y
+liquidez.
+
+Que, dentro de los objetivos estratégicos de la CNV se destacan como relevantes el de difundir el acceso al
+mercado de capitales en todo el ámbito de la República Argentina; establecer regulaciones y acciones para la
+protección de los inversores; fomentar el desarrollo económico a través de la profundización del mercado de
+capitales; asegurar que el mercado se desenvuelva en forma sana, segura, transparente y competitiva,
+garantizando la eficiente asignación del ahorro hacia la inversión; adoptar medidas para que las operaciones se
+desarrollen en un marco de integridad, responsabilidad y ética; y establecer herramientas necesarias para que los
+inversores cuenten con información plena, completa y necesaria para la toma de decisiones de inversión.
+
+Que, en lo que respecta a los FCIA el artículo 11 de la Ley de Fondos Comunes de Inversión dispone, en lo
+pertinente, que “…El reglamento de gestión, y en su caso, el prospecto de oferta pública, así como las
+modificaciones que pudieran introducírseles, entrarán en vigor cumplido el procedimiento establecido a tal efecto
+por la Comisión Nacional de Valores, procediéndose a su publicación en los términos que establezca la
+reglamentación de la Comisión Nacional de Valores”.
+
+Que existen antecedentes normativos en el mercado de capitales que admiten la diferenciación de regímenes de
+oferta pública, incluyendo la posibilidad de la CNV de eximir su contralor previo y otorgar autorización
+automática de oferta pública en determinados supuestos.
+
+Que, en ese sentido, mediante las RG N° 1047, N° 1051, N° 1055, N° 1072 y N° 1082, se implementaron
+efectivamente los regímenes de autorización automática de oferta pública aplicable a valores negociables de
+deuda, fideicomisos financieros, fondos comunes de inversión cerrados de créditos, acciones y fondos comunes
+de inversión abiertos, respectivamente.
+
+Que, particularmente, el régimen general aplicable a los FCIA establecido mediante el dictado de la RG N° 1082
+introdujo como primer paso hacia la autorización de oferta pública automática de estos instrumentos, un régimen
+aplicable para la constitución de nuevos FCIA cuya denominación, objetivos y política de inversión o, en su caso,
+régimen especial conserven identidad con otros FCI ya autorizados por la CNV, y hayan sido constituidos por la
+misma Sociedad Gerente.
+
+Que, asimismo, en el marco de la citada RG se dispuso que cuando se realicen modificaciones al reglamento de
+gestión de un FCIA, y estas no impliquen un cambio en los objetivos y política de inversión o en el régimen
+especial detentado, en la denominación del FCIA, o la sustitución de ambos o alguno de sus órganos, los textos de
+las adendas correspondientes, junto con el texto ordenado, sean remitidos directamente a través del acceso
+pertinente en la AIF.
+
+Que, continuando con las medidas adoptadas, mediante las RG N° 1145, N° 1146 y N° 1148, se receptan los
+regímenes de autorización automática de oferta pública (en su modalidad ampliada u otra) aplicable a las
+Emisoras, a los FF y a los FCIC, respectivamente.
+
+Que, en sintonía con dichas medidas, el presente régimen será aplicable para la constitución de la totalidad los
+nuevos FCIA, con excepción de los FCIA ETF y de los constituidos en los términos de la Sección XI del Capítulo
+II del Título V de las NORMAS (N.T. 2013 y mod.) que prevean en su reglamento de gestión la inversión en
+activos emitidos y negociados en el exterior en un porcentaje mayor al VEINTICINCO POR CIENTO (25%) del
+patrimonio neto del FCIA.
+
+Que, en ese sentido, se prevé que para la constitución de un FCIA la Sociedad Gerente deberá, sin requerir la
+autorización previa o posterior de la CNV -sin perjuicio de su facultad de fiscalización-, proceder a dar de alta al
+nuevo instrumento a través de la AIF.
+
+Que, asimismo, con excepción de los FCIA ETF, cuando se realicen modificaciones al reglamento de gestión de
+un FCIA, el texto de la adenda junto con el texto ordenado deberán ser remitidos directamente a través del acceso
+pertinente en la AIF.
+
+Que, en efecto, la oferta pública automática se define como un proceso que permite a un emisor de valores
+negociables ofrecer públicamente sus títulos sin requerir la revisión o aprobación previa o posterior de la
+documentación para obtener la autorización de oferta pública, sin perjuicio de la facultad de fiscalización de la
+CNV.
+
+Que, no obstante, se mantienen las facultades de la CNV de realizar revisiones, auditorías y de imponer sanciones
+en caso de que se detecte algún incumplimiento, con el fin de preservar la integridad del mercado y mantener la
+confianza del público inversor.
+
+Que el presente régimen resultará de aplicación siempre y cuando el emisor cumpla con los criterios normativos
+establecidos.
+
+Que, en atención a las modificaciones antedichas, se sustituyen la Sección II del Capítulo I y las Secciones I y VI,
+y se deroga la Sección VII, del Capítulo II del Título V de las NORMAS (N.T. 2013 y mod.) adaptándose el texto
+normativo al presente régimen de autorización automática.
+
+Que, continuando con la simplificación y agilización de procedimientos, resulta conveniente suprimir el trámite
+de autorización del procedimiento para distribución de utilidades de FCIA, modificándose en consecuencia, el
+artículo 38 de la Sección III del Capítulo II del Título V de las NORMAS (N.T. 2013 y mod.) y el inciso 5 del
+artículo 7º de la Sección II del Capítulo I del Título XVI de las NORMAS (N.T. 2013 y mod.).
+
+Que se prevé la incorporación de una nueva Sección en el Capítulo III del Título XVIII de las NORMAS (N.T.
+2013 y mod.), donde se establecen pautas aplicables los trámites existentes al momento de entrada en vigor de la
+presente RG que resulten alcanzados por el procedimiento de autorización automática de marras.
+
+Que, adicionalmente, en el régimen de FCIA ETF (cfr. RG N° 1143) se incorporan los artículos 27 BIS, 27 TER y
+27 QUATER en la Sección VII del Capítulo VII del Título V de las NORMAS (N.T. 2013 y mod.), relativos a la
+autorización de constitución y modificación de dichos instrumentos, que se encuentran exceptuados -en una
+primera instancia- de la aplicación del procedimiento de autorización automática.
+
+Que la implementación de la presente normativa, conforme a las características reseñadas, no implica bajo ningún
+concepto la renuncia de la CNV a su facultad y obligación de contralor, así como de protección del ahorro público
+y del público inversor; por lo que el Organismo conservará facultades amplias respecto al cumplimiento de los
+requisitos dispuestos para la normativa citada.
+
+Que, en tal sentido, la Ley de Mercado de Capitales, así como las reglamentaciones dictadas por la CNV y
+normas concordantes, resultarán siempre de aplicación en caso de violación de estas.
+
+Que, asimismo, a los fines de garantizar la adecuada protección de los inversores, se impone la obligación de
+cumplimiento del régimen de transparencia previsto en el artículo 117 del citado cuerpo legal y en las NORMAS
+(N.T. 2013 y mod.), a fin de evitar prácticas engañosas y/o que induzcan al error al inversor a la hora de suscribir
+los valores negociables respectivos, así como la aplicación, según corresponda, del régimen relativo al secreto
+bursátil.
+
+Que, por otro lado, cabe precisar que diversos términos utilizados en esta RG, tanto en los considerandos como en
+el articulado, se encuentran definidos en el Título I de las NORMAS (N.T. 2013 y mod.).
+
+Que la presente registra como precedente la RG N° 1134, mediante la cual se sometió a consulta pública el
+anteproyecto de RG, en los términos del Decreto N° 1172/2003 que establece el procedimiento de “Elaboración
+Participativa de Normas”.
+
+Que, en el marco de dicho procedimiento, se recibieron y procesaron diversas opiniones y recomendaciones no
+vinculantes presentadas por distintos participantes del mercado de capitales y el público en general.
+
+Que la presente se dicta en ejercicio de las atribuciones conferidas por los artículos 19, incisos g), h), r) y u), y 81
+de la Ley de Mercado de Capitales, y los artículos 1º, 11 y 32 de la Ley de Fondos Comunes de Inversión.
+
+
+
+Por ello,
+
+                                   LA COMISIÓN NACIONAL DE VALORES
+
+                                                    RESUELVE:
+
+ARTÍCULO 1º.- Sustituir el inciso 1 del artículo 6° de la Sección II del Capítulo I del Título V de las NORMAS
+(N.T. 2013 y mod.), por el siguiente texto:
+
+“FUNCIONES DE LA SOCIEDAD GERENTE.
+
+ARTÍCULO 6°.- Compete a la Sociedad Gerente el ejercicio de las siguientes funciones:
+
+1. Administración: administrar discrecionalmente, pero bajo las pautas establecidas en el presente Título y en el
+reglamento de gestión, el patrimonio neto del FCI, realizando todas las operaciones permitidas por la legislación
+aplicable y el reglamento, ejecutando la política de inversión del FCI. Sin perjuicio de la responsabilidad
+indelegable de la Sociedad Gerente, ésta podrá contratar a su costo a uno o más asesores de inversión cuando las
+características del objeto o la política de inversión del FCI así lo justifiquen sin que su opinión sea vinculante, ni
+implique el desplazamiento de su responsabilidad, remitiendo el formulario respectivo a través de la AIF.
+
+(…)”.
+
+ARTÍCULO 2º.- Sustituir la Sección I del Capítulo II del Título V de las NORMAS (N.T. 2013 y mod.), por el
+siguiente texto:
+
+“SECCIÓN I
+
+AUTORIZACIÓN AUTOMÁTICA DE OFERTA PÚBLICA DE FONDOS COMUNES DE INVERSIÓN
+ABIERTOS.
+
+ALTA NUEVO FCIA. NÚMERO DE REGISTRO.
+
+ARTÍCULO 1°.- Con excepción de los FCIA ETF y de los constituidos en los términos de la Sección XI del
+Capítulo II del Título V de estas Normas que prevean en su reglamento de gestión la inversión en activos
+emitidos y negociados en el exterior en un porcentaje mayor al VEINTICINCO POR CIENTO (25%) del
+patrimonio neto del FCIA, para la constitución de cualquier FCIA la Sociedad Gerente deberá, sin requerir la
+autorización previa o posterior de la CNV (sin perjuicio de las facultades de fiscalización de la CNV), proceder a
+dar de alta al nuevo instrumento a través de la AIF.
+
+En dicha oportunidad, el sistema le asignará el correspondiente número de registro.
+
+La admisión al Régimen de Autorización Automática de Oferta Pública no exime a los órganos del FCI de
+cumplir en todo momento con el régimen de transparencia del artículo 117 y concordantes de la Ley de Mercado
+de Capitales y de estas Normas.
+
+DENOMINACIÓN DE LOS FONDOS COMUNES DE INVERSIÓN.
+
+ARTÍCULO 2°.- En la denominación de los FCI no podrán utilizarse términos que identifiquen genéricamente a
+los activos integrantes del patrimonio neto del FCI respectivo, sin incluir referencias identificatorias suficientes
+que aseguren una adecuada individualización de cada uno de los FCI. Las entidades financieras deberán cumplir
+con lo dispuesto en el artículo 31 de la Sección VII del Capítulo I del Título V de estas Normas.
+
+FONDOS COMUNES DE INVERSIÓN ESPECIALIZADOS.
+
+ARTÍCULO 3°.- Cuando se trate de FCI especializados o cuando su denominación incluya una referencia a cierta
+categoría de activos, el SETENTA Y CINCO POR CIENTO (75%) del patrimonio neto del FCI deberá invertirse
+(como mínimo) en activos que compongan el objeto especial de inversión o en aquellos a los que hiciera
+referencia la denominación del FCI.
+
+REGLAMENTO DE GESTIÓN.
+
+ARTÍCULO 4°.- Las normas contractuales que regirán las relaciones entre los órganos del FCI y los
+cuotapartistas -con el alcance y en los términos previstos por el artículo 11 de la Ley de Fondos Comunes de
+Inversión- se encontrarán plasmadas en el reglamento de gestión, el cual deberá adoptar el orden expositivo
+descripto en el Anexo II del presente Título.
+
+Adicionalmente, deberá incorporar en forma legible y destacada una leyenda indicando que: “el resultado de la
+inversión en fondos comunes de inversión no está garantizado ni por la Sociedad Gerente ni por la Sociedad
+Depositaria. Los importes o valores entregados por los cuotapartistas para suscribir cuotapartes del FCI no son
+depósitos u otras obligaciones de la Sociedad Depositaria, ni de sus sociedades controlantes o controladas. El
+resultado de la inversión en el FCI puede fluctuar en razón a la evolución del valor de los activos autorizados,
+pudiendo los cuotapartistas no lograr sus objetivos de rentabilidad”.
+
+ARTÍCULO 4º BIS.- El reglamento de gestión contará con autorización automática una vez que haya sido
+publicado a través de la AIF sin necesidad de revisión ni aprobación previa o posterior por parte de la CNV, sin
+perjuicio de sus facultades de fiscalización.
+
+Asimismo, deberá especificarse en la portada o en el encabezado del reglamento de gestión una leyenda con el
+siguiente texto: “El presente documento se emite bajo el procedimiento de autorización automática de oferta
+pública, sin intervención previa de la Comisión Nacional de Valores, sin perjuicio de encontrarse sujeto a todas
+las facultades y deberes de fiscalización, supervisión y control de dicho organismo, conforme lo previsto en la
+Ley de Mercado de Capitales N° 26.831 y la Ley de Fondos Comunes de Inversión N° 24.083.”.
+
+PUBLICIDAD.
+ARTÍCULO 5°.- Una vez obtenido el número de registro correspondiente, en los términos del artículo 1º y antes
+de comenzar a operar, la Sociedad Gerente deberá:
+
+1. Tener a disposición del Organismo, de los cuotapartistas y de terceros en las sedes de la Sociedad Gerente y/o
+Sociedad Depositaria, testimonio de la reducción a escritura pública o instrumento privado suscripto conforme al
+artículo 11 de la Ley de Fondos Comunes de Inversión, del texto del reglamento de gestión y de la adenda, en su
+caso.
+
+2. Proceder a la publicación del texto del reglamento de gestión a través del acceso “Reglamento de Gestión” de
+la AIF y en su sitio web.
+
+3. Remitir a través del acceso respectivo, las actas de directorio correspondientes a la Sociedad Gerente y la
+Sociedad Depositaria aprobatorias del FCIA.
+
+Las actas respectivas podrán incluir la delegación de sus facultades en uno o más de los integrantes del órgano de
+administración, o en uno o más gerentes designados en los términos del artículo 270 de la Ley General de
+Sociedades. En caso de no constar un plazo de vigencia, se entenderá que las facultades deben ejercerse dentro de
+los DOS (2) años de celebrada la reunión del órgano de administración.
+
+La delegación no podrá eximir al órgano de administración de su responsabilidad por el ejercicio de las facultades
+delegadas.
+
+4. Informar a través del acceso “Hecho Relevante FCIA” de la AIF la fecha de inicio de la actividad del FCIA.
+
+POLÍTICA DE INVERSIÓN ESPECÍFICA.
+
+ARTÍCULO 6°.- Las Sociedades Gerentes podrán adoptar una política de inversión específica para los fondos
+comunes de inversión bajo su administración, la cual deberá encuadrarse dentro de lo previsto en el texto del
+reglamento de gestión oportunamente publicado en la AIF, acotando y/o restringiendo lo allí establecido.
+
+Dicha política de inversión específica de ningún modo podrá desnaturalizar la política de inversión fijada para el
+FCIA y deberá adecuarse a la normativa vigente y aplicable en la materia.
+
+Las Sociedades Gerentes deberán publicar en sus páginas web, y remitir a través del acceso correspondiente de la
+AIF, el acta de directorio en la que se resuelva la adopción de una política de inversión específica para un
+determinado FCIA, e informar tal decisión por medio de Hecho Relevante, debiendo en tal aviso detallarse la
+resolución social antes referida”.
+
+ARTÍCULO 3º.- Sustituir el artículo 38 de la Sección III del Capítulo II del Título V de las NORMAS (N.T. 2013
+y mod.), por el siguiente texto:
+
+“DISTRIBUCIÓN DE UTILIDADES.
+
+ARTÍCULO 38.- En los casos que la Sociedad Gerente así lo determine y siempre que se encuentre contemplado
+en el reglamento de gestión, los beneficios derivados de la gestión del patrimonio del FCIA (utilidades, renta,
+etc.) podrán ser distribuidos entre los cuotapartistas de acuerdo con el procedimiento dispuesto por la Sociedad
+Gerente”.
+
+ARTÍCULO 4º.- Sustituir la Sección VI del Capítulo II del Título V de las NORMAS (N.T. 2013 y mod.), por el
+siguiente texto:
+
+“SECCIÓN VI
+
+MODIFICACIÓN DE REGLAMENTOS DE GESTIÓN.
+
+PAUTAS.
+
+ARTÍCULO 75.- La reforma del reglamento estará sujeta al presente procedimiento y deberá ser publicada a
+través del acceso Reglamento de Gestión de la AIF. El reglamento podrá modificarse en todas sus partes mediante
+el acuerdo de la Sociedad Gerente y la Sociedad Depositaria, sin que sea requerido el consentimiento de los
+cuotapartistas, ni la aprobación previa o posterior de la CNV.
+
+Cuando la reforma tenga por objeto la sustitución de la Sociedad Gerente o la Sociedad Depositaria, o modificar
+los objetivos y políticas de inversión, o la moneda del FCI, o aumentar el tope de honorarios y gastos o las
+comisiones previstas, o incluir la cláusula de rescate automático prevista en el presente Capítulo, se aplicarán las
+siguientes reglas:
+
+1. No se cobrará a los cuotapartistas durante un plazo de CINCO (5) días hábiles desde la publicación del texto de
+la reforma, la comisión de rescate que pudiere corresponder.
+
+2. Las modificaciones no serán aplicadas hasta transcurridos CINCO (5) días hábiles desde la publicación del
+texto de la adenda, a través del acceso Reglamento de Gestión de la AIF.
+
+Simultáneamente, la Sociedad Gerente deberá publicar el aviso pertinente por el acceso “Hecho Relevante FCIA”
+de la AIF y, en su caso, el Agente que intervenga en la colocación de las cuotapartes, deberá proceder a su
+remisión al domicilio postal o se dejará a disposición en el domicilio electrónico del cuotapartista.
+
+Adicionalmente, dicho aviso deberá estar publicado en el sitio web de la Sociedad Gerente.
+
+La reforma de otros aspectos del reglamento estará sujeta a las formalidades establecidas en el artículo 11 de la
+Ley de Fondos Comunes de Inversión, siendo oponible a terceros a los DOS (2) días hábiles de la publicación del
+texto de la adenda, a través del acceso Reglamento de Gestión de la AIF, y del aviso correspondiente por el
+acceso “Hecho Relevante FCIA.”.
+
+PROCEDIMIENTO DE ADENDA AUTOMÁTICA.
+
+ARTÍCULO 75 BIS.- En el caso de modificación del reglamento de gestión, con excepción de los FCIA ETF, el
+texto de la adenda, junto con el texto ordenado, las actas de directorio o de delegados de la Sociedad Gerente y la
+Sociedad Depositaria aprobando la modificación y el Hecho Relevante FCIA indicado en el artículo precedente,
+deberán ser remitidos directamente a través de los accesos pertinentes en la AIF sin que resulte exigible la
+sustanciación de un trámite ante la CNV.
+
+El Hecho Relevante FCIA precitado deberá informar el detalle de las reformas introducidas en el texto
+reglamentario a los fines de su difusión.
+
+En el texto de la adenda deberá especificarse -en la portada o en el encabezado- la leyenda indicada en el artículo
+4° BIS de la Sección I del Capítulo II del presente Título.
+El texto ordenado (que incluye la reforma), deberá contar con manifestación expresa al pie del documento, en
+carácter de DDJJ, de que la incorporación de los cambios se ha efectuado sobre el texto vigente. Asimismo,
+deberá tener a disposición de la CNV, de los cuotapartistas y de terceros en las sedes de las sociedades
+involucradas, testimonio de la reducción a escritura pública del texto de la adenda o instrumento privado del
+mismo suscripto conforme al artículo 11 de la Ley de Fondos Comunes de Inversión.
+
+En todo momento, la Sociedad Gerente deberá publicar en su sitio web el texto vigente de los Reglamentos de
+Gestión (texto ordenado en el caso de existir adendas) correspondientes a los FCIA bajo administración.
+
+En los casos que -en ejercicio de sus facultades de fiscalización- la CNV detectase incongruencias sustanciales en
+el texto publicado, a su requerimiento la Sociedad deberá proceder a la publicación del texto rectificado,
+prescindiéndose, en dichos casos, de la exigencia de presentación de actas de directorio complementarias.
+
+SUSTITUCIÓN DE LOS ÓRGANOS DEL FCI.
+
+ARTÍCULO 76.- La Sociedad Gerente y/o la Sociedad Depositaria podrán renunciar a su función sustituyendo su
+mandato en otra sociedad habilitada para actuar en su carácter. Cuando la decisión de la renuncia sea unilateral, la
+Sociedad renunciante deberá presentar preaviso a la Sociedad Gerente y/o la Sociedad Depositaria, según
+corresponda, con no menos de NOVENTA (90) días corridos a la fecha de efectivización de la renuncia, la que no
+entrará en vigor hasta tanto el nuevo Agente esté autorizado para actuar en tal carácter por la CNV.
+
+A fin de proceder a la sustitución de alguno de los órganos del FCI (Sociedad Gerente y/o Sociedad Depositaria,
+según sea el caso), los interesados deberán iniciar el trámite respectivo vía TAD informando acerca de la
+publicación de las actas de directorio correspondientes a cada uno de los sujetos involucrados, de donde surja la
+renuncia, la designación y la aceptación de la Sociedad Gerente y/o Sociedad Depositaria, a través del acceso en
+la AIF.
+
+Una vez aprobada la sustitución de los órganos del FCI por parte de la CNV, dentro de los NOVENTA (90) días
+hábiles de notificada la resolución aprobatoria, deberá informar a través del acceso “Hecho Relevante FCIA” de
+la AIF la fecha en que se realizará la efectiva sustitución, la que deberá operar junto con la publicación del texto
+de la adenda y del texto ordenado a través del acceso “Reglamento de Gestión” de la AIF.
+
+En caso de sustitución de la Sociedad Gerente, la publicación del “Hecho Relevante FCIA” deberá ser cumplido
+por la Sociedad sustituida, mientras que la publicación del texto de la adenda y del texto ordenado estará a cargo
+de la Sociedad sustituta”.
+
+ARTÍCULO 5º.- Derogar la Sección VII del Capítulo II del Título V de las NORMAS (N.T. 2013 y mod.).
+
+ARTÍCULO 6°.- Incorporar como artículos 27 BIS, 27 TER y 27 QUATER en la Sección VII del Capítulo VII
+del Título V de las NORMAS (N.T. 2013 y mod.), el siguiente texto:
+
+“PROCEDIMIENTO DE AUTORIZACIÓN. DOCUMENTACIÓN INICIAL.
+
+ARTÍCULO 27 BIS.- La Sociedad Gerente deberá presentar a través de la plataforma TAD la solicitud de
+autorización de oferta pública, junto con la siguiente documentación:
+
+1. Nota informando la difusión de las actas de directorio de la Sociedad Gerente y de la Sociedad Depositaria
+aprobatorias de la constitución del FCIA ETF (resultando de aplicación lo dispuesto en el segundo y tercer
+párrafo del inciso 3. del artículo 5° de la Sección I del Capítulo II del presente Título, en su caso), las cuales
+deberán encontrarse publicadas en la AIF;
+
+2. reglamento de gestión; y
+
+3. prospecto de emisión.
+
+DOCUMENTACIÓN DEFINITIVA.
+
+ARTÍCULO 27 TER.- Una vez autorizado el FCIA ETF y antes de comenzar a operar, la Sociedad Gerente
+deberá:
+
+1. Tener a disposición de la CNV, de los cuotapartistas y de terceros en las sedes de la Sociedad Gerente y/o
+Sociedad Depositaria, testimonio de la reducción a escritura pública o instrumento privado suscripto conforme al
+artículo 11 de la Ley de Fondos Comunes de Inversión, del texto del reglamento de gestión y de la adenda, en su
+caso.
+
+2. Proceder a la publicación de los textos aprobados del reglamento de gestión y del prospecto de emisión a través
+de los accesos respectivos de la AIF.
+
+La Sociedad Gerente deberá informar a través del acceso Hecho Relevante FCIA de la AIF la fecha de inicio de
+suscripciones por parte del Participante Autorizado.
+
+MODIFICACIÓN DE REGLAMENTO DE GESTIÓN O PROSPECTO DE EMISIÓN.
+
+ARTÍCULO 27 QUATER. - La reforma del reglamento de gestión o del prospecto deberá contar con autorización
+previa de la CNV. En dicho supuesto, la Sociedad Gerente deberá presentar a través de la plataforma TAD la
+solicitud de reforma junto con:
+
+1. Detalle de las modificaciones introducidas.
+
+2. Texto de la adenda relativa a la parte pertinente del reglamento de gestión o prospecto que resulte modificada,
+debiendo incluir aquellas cláusulas que requieran una actualización a las disposiciones legales y reglamentarias
+vigentes.
+
+3. Nota informando la difusión de las actas de directorio de la Sociedad Gerente y de la Sociedad Depositaria
+aprobatorias de la modificación del FCIA ETF (resultando de aplicación lo dispuesto en el segundo y tercer
+párrafo del inciso 3 del artículo 5° de la Sección I del Capítulo II del presente Título, en su caso), las cuales
+deberán encontrarse publicadas en la AIF.
+
+Una vez autorizado el texto de la adenda, la Sociedad Gerente deberá proceder a su difusión a través del acceso
+respectivo de la AIF junto con un texto ordenado del reglamento de gestión o Prospecto (que incluye la reforma
+aprobada), con manifestación expresa al pie del documento, en carácter de DDJJ, de que la incorporación de los
+cambios autorizados se ha efectuado sobre el texto vigente. Deberá dar cumplimiento a los recaudos del artículo
+27 TER, inciso 1 precedente”.
+
+ARTÍCULO 7º.- Sustituir el apartado 5 del artículo 7º de la Sección II del Capítulo I del Título XVI de las
+NORMAS (N.T. 2013 y mod.) por el siguiente texto:
+“TAD DEL SISTEMA DE GDE.
+
+ARTÍCULO 7°.- Los siguientes trámites que se presenten a la CNV deberán iniciarse y diligenciarse a través de
+la plataforma TAD del sistema de GDE, establecida por el Decreto N° 1063/2016, observando las reglas y
+procedimientos establecidos por la Resolución N° 43/2019 de la entonces Secretaría de Modernización
+Administrativa:
+
+(…)
+
+5. FONDOS COMUNES DE INVERSIÓN:
+
+a) Distribución de utilidades de fondos comunes de inversión abiertos.
+
+b) Fondos Comunes de Inversión – Autorización:
+
+1) Cancelación del fondo común de inversión.
+
+2) Constitución de fondo común de inversión abierto.
+
+3) Constitución de fondo común de inversión cerrado.
+
+4) Inicio de liquidación de fondo común de inversión.
+
+5) Medios ópticos.
+
+6) Modificación de reglamento de gestión de fondo común de inversión abierto.
+
+7) Modificación de reglamento de gestión y/o Prospecto de fondo común de inversión cerrado.
+
+8) Pago de rescates en especies.
+
+9) Fusión de fondos comunes de inversión abiertos.
+
+(…)”.
+
+ARTÍCULO 8°.- Incorporar como Sección XI del Capítulo III del Título XVIII de las NORMAS (N.T. 2013 y
+mod.), el siguiente texto:
+
+“SECCIÓN XI
+
+RESOLUCIÓN GENERAL No 1147.
+
+ARTÍCULO 25.- Con excepción de los FCIA ETF, los trámites de autorización de nuevos FCIA, de modificación
+de reglamentos de gestión de FCIA y de procedimientos para la distribución de utilidades iniciados en forma
+previa a la entrada en vigencia de la RG No 1147 quedarán sin efecto sin necesidad de efectuar solicitud de
+desistimiento alguna, procediéndose, sin más trámite, al archivo de las actuaciones, debiendo estarse a los
+procedimientos automáticos dispuestos para cada caso”.
+
+ARTÍCULO 9°.- La presente RG entrará en vigencia a partir del día siguiente de su publicación en el B.O.
+ARTÍCULO 10.- Regístrese, comuníquese, publíquese, dese a la Dirección Nacional del Registro Oficial,
+incorpórese en el sitio web del Organismo www.argentina.gob.ar/cnv, agréguese al texto de las NORMAS (N.T.
+2013 y mod.) y archívese.
+
+
+
+
+Digitally signed by CALDERON Manuel Ignacio             Digitally signed by HERBON Laura Ines
+Date: 2026.06.10 13:01:49 ART                           Date: 2026.06.10 13:09:24 ART
+Location: Ciudad Autónoma de Buenos Aires               Location: Ciudad Autónoma de Buenos Aires
+MANUEL IGNACIO CALDERON                                 Laura Ines Herbon
+Vocal                                                   Vocal
+Directorio                                              Directorio
+Comisión Nacional de Valores                            Comisión Nacional de Valores
+
+
+
+
+Digitally signed by SALVATIERRA Sonia Fabiana           Digitally signed by Roberto Emilio Silva
+Date: 2026.06.10 13:13:56 ART                           Date: 2026.06.10 13:21:55 ART
+Location: Ciudad Autónoma de Buenos Aires               Location: Ciudad Autónoma de Buenos Aires
+Sonia Fabiana Salvatierra                               Roberto Emilio Silva
+Vicepresidente                                          Presidente
+Directorio                                              Directorio
+Comisión Nacional de Valores                            Comisión Nacional de Valores
+
+
+
+
+                                                                                                    Digitally signed by GESTION DOCUMENTAL
+                                                                                                    ELECTRONICA - GDE
+                                                                                                    Date: 2026.06.10 13:22:57 -03:00
+
