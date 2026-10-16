@@ -47,6 +47,8 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), Términos suprimidos: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto” | modifica parcialmente | RG 1159/2026 | 1° | 06/08/2026 |
 | art. 2° (Secc. II), Definiciones sustituidas: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes” | modifica parcialmente | RG 1159/2026 | 2° | 06/08/2026 |
 | art. 2° (Secc. II), Término incorporado: “UTs” | modifica parcialmente | RG 1162/2026 | 1° | 20/08/2026 |
+| art. 2° (Secc. II), Término incorporado: “RNR” | modifica parcialmente | RG 1164/2026 | 1° | 04/09/2026 |
+| art. 3° (Secc. III), Término incorporado: “Calificación Pública” | modifica parcialmente | RG 1164/2026 | 2° | 04/09/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -103,6 +105,7 @@ Archivo: `vigente/titulo-II/capitulo-V.md`
 | art. 28 (Secc. IV) | sustituye | RG 1149/2026 | 3° | 11/06/2026 |
 | art. 29 (Secc. IV) | sustituye | RG 1149/2026 | 3° | 11/06/2026 |
 | art. 41 (Secc. VI) | sustituye | RG 1149/2026 | 4° | 11/06/2026 |
+| art. 74 (Secc. IX), inc. 3. | modifica parcialmente | RG 1164/2026 | 3° | 04/09/2026 |
 
 ## Título II, Capítulo VI
 Archivo: `vigente/titulo-II/capitulo-VI.md`
@@ -419,6 +422,27 @@ Archivo: `vigente/titulo-VIII/capitulo-I.md`
 | art. 37 (Secc. XII) | sustituye | RG 1102/2025 | 6° | 31/12/2025 |
 | siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”: art. 37 (Secc. XII) | modifica parcialmente | RG 1131/2026 | 7° | 29/04/2026 |
 
+## Título IX, Capítulo I
+Archivo: `vigente/titulo-IX/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1164/2026 | 4° | 04/09/2026 |
+
+## Título IX, Capítulo II
+Archivo: `vigente/titulo-IX/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1164/2026 | 4° | 04/09/2026 |
+
+## Título IX, Capítulo III
+Archivo: `vigente/titulo-IX/capitulo-III.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1164/2026 | 4° | 04/09/2026 |
+
 ## Título XI
 Archivo: `vigente/titulo-XI/titulo-XI.md`
 
@@ -534,6 +558,7 @@ Archivo: `vigente/titulo-XVI/capitulo-II.md`
 | Anexo II | sustituye | RG 1148/2026 | 3° | 11/06/2026 |
 | Anexo I | sustituye | RG 1149/2026 | 11 | 11/06/2026 |
 | Anexo V | sustituye | RG 1155/2026 | 1° | 13/07/2026 |
+| Anexo V | sustituye | RG 1164/2026 | 5° | 04/09/2026 |
 
 ## Título XVII, Capítulo I
 Archivo: `vigente/titulo-XVII/capitulo-I.md`
@@ -604,6 +629,13 @@ Archivo: `vigente/titulo-XVIII/capitulo-V.md`
 | art. 2° BIS | incorpora | RG 1152/2026 | 3° | 18/06/2026 |
 | art. 28 | incorpora | RG 1152/2026 | 4° | 18/06/2026 |
 | art. 29 | incorpora | RG 1154/2026 | 3° | 13/07/2026 |
+
+## Título XVIII, Capítulo VII
+Archivo: `vigente/titulo-XVIII/capitulo-VII.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| art. 1° (Secc. I) | deroga | RG 1164/2026 | 6° | 04/09/2026 |
 
 ## Título XVIII, Capítulo X
 Archivo: `vigente/titulo-XVIII/capitulo-X.md`

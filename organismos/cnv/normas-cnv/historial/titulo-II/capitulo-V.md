@@ -2509,3 +2509,11 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > 1. Requerir información adicional o documentación específica ante circunstancias excepcionales que lo justifiquen; o
 >
 > 2. Dar de baja la condición de EF por incumplimiento de los requisitos para su permanencia. La actualización del Prospecto será optativa, y podrá ser realizada mediante la presentación de un nuevo documento ante la CNV, para su autorización.
+
+## Artículo 74 (Sección IX) — fragmento
+- Vigente desde: 19/12/2025 o antes (fecha de la última modificación registrada en el artículo)
+- Vigente hasta: 03/09/2026
+- Sustituido/suprimido parcialmente por: RG 1164/2026, art. 3°
+- Texto:
+
+> 3. La calificación de riesgo de la Entidad de Garantía deberá encontrarse actualizada incluyendo los últimos EECC anuales o intermedios emitidos por la Entidad de Garantía y no podrá tener una antigüedad superior a los NOVENTA (90) días corridos previos, contados a partir de la fecha de publicación del Prospecto del Emisor.

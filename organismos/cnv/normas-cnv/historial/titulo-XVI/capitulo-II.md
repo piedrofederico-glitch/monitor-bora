@@ -314,3 +314,41 @@ Redacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1
 > 1.- Registración de la modificación de las metodologías de los ACR.
 >
 > 2.- Registración de los miembros del Consejo de Calificación de los ACR.
+
+## Anexo V
+- Vigente desde: 14/07/2026
+- Vigente hasta: 03/09/2026
+- Sustituido por: RG 1164/2026, art. 5°
+- Texto:
+
+> ### ANEXO V
+>
+> FACULTADES DELEGADAS EN LA GERENCIA DE AGENTES Y MERCADOS.
+>
+> 1. Aplicación de advertencias a los sujetos sometidos a su fiscalización, por nota dirigida a los órganos de administración y de fiscalización y, por única vez, respecto de cada infracción en cuestión, por incumplimientos de tipo formal, o falta de cumplimiento inmediato de intimación para la adecuación de cuestiones que le fueron observadas.
+>
+> 2. Aplicación de advertencias a los sujetos sometidos a su fiscalización, por nota dirigida a los órganos de administración y de fiscalización, por falta de cumplimiento de intimación para la adecuación de incumplimientos al correspondiente Régimen Informativo Permanente y, consecuente, incumplimiento al deber de abstención de funcionamiento, requiriendo que, en forma inmediata y hasta tanto la CNV constate la subsanación de tales incumplimientos, conforme su categoría de inscripción, se abstenga de continuar funcionando como tal en los términos de lo dispuesto en las presentes Normas, sin perjuicio de la eventual aplicación de las sanciones previstas en el artículo 132 de la Ley de Mercado de Capitales.
+>
+> Asimismo, según corresponda conforme la respectiva categoría de inscripción del Agente, informar a los Mercados las advertencias aplicadas en los términos del párrafo precedente, solicitando que adopten las medidas precautorias y/o preventivas de índole operativa contempladas en sus respectivos reglamentos, debiendo comunicar a la CNV en forma inmediata la adopción de las mismas.
+>
+> 3. Declaración de caducidad de la inscripción registral de los AP, en los términos dispuestos en la Sección VII del Título X de estas Normas.
+>
+> Facultades delegadas en la Gerencia de Agentes y Mercados y en la Subgerencia de Registro:
+>
+> 1. Autorización para funcionar e inscripción en el Registro de Agentes como AP.
+>
+> 2. Cancelación de inscripción de los AP en el registro que lleva la CNV.
+>
+> 3. Ordenar la toma de nota del cambio de denominación de los Agentes registrados ante la CNV.
+>
+> 4. Autorización para funcionar e inscripción en el Registro de Agentes como ACD y ACDI.
+>
+> 5. Cancelación de inscripción de los ACD y ACDI en el registro que lleva la CNV.
+>
+> Facultades delegadas en la Gerencia de Agentes y Mercados y en la Subgerencia de Supervisión de Agentes:
+>
+> 1. Registración de la modificación de las metodologías de los ACR.
+>
+> 2. Registración de los miembros del consejo de calificación de los ACR
+>
+> [Anexo sustituido por art. 1° de la RG 1155/2026, BO 13/07/2026]

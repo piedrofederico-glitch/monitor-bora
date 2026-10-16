@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1162/2026 (BO 20/08/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1164/2026 (BO 04/09/2026) |
 
 ## Título II — EMISORAS
 
@@ -18,7 +18,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-II/capitulo-II.md`](titulo-II/capitulo-II.md) | Título II — Capítulo II: ASAMBLEAS Y REUNIONES DE OTROS ÓRGANOS SOCIALES. MODIFICACIONES ESTATUTARIAS O DE CONDICIONES DE EMISIÓN. ASAMBLEAS A DISTANCIA. | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-III.md`](titulo-II/capitulo-III.md) | Título II — Capítulo III: ÓRGANOS DE ADMINISTRACIÓN Y FISCALIZACIÓN. AUDITORÍA EXTERNA. | RG 1127/2026 (BO 09/04/2026) |
 | [`titulo-II/capitulo-IV.md`](titulo-II/capitulo-IV.md) | Título II — Capítulo IV: FISCALIZACIÓN SOCIETARIA | RG 1127/2026 (BO 09/04/2026) |
-| [`titulo-II/capitulo-V.md`](titulo-II/capitulo-V.md) | Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA | RG 1149/2026 (BO 11/06/2026) |
+| [`titulo-II/capitulo-V.md`](titulo-II/capitulo-V.md) | Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA | RG 1164/2026 (BO 04/09/2026) |
 | [`titulo-II/capitulo-VI.md`](titulo-II/capitulo-VI.md) | Título II — Capítulo VI: PEQUEÑAS Y MEDIANAS EMPRESAS | RG 1149/2026 (BO 11/06/2026) |
 | [`titulo-II/capitulo-VII.md`](titulo-II/capitulo-VII.md) | Título II — Capítulo VII: ENTIDADES DE GARANTÍA | RG 1095/2025 (BO 18/12/2025) |
 | [`titulo-II/capitulo-VIII.md`](titulo-II/capitulo-VIII.md) | Título II — Capítulo VIII: EMISORAS EXTRANJERAS. CERTIFICADOS DE DEPÓSITO Y DE VALORES (CEDEARS Y CEVA). CERTIFICADOS DE DEPÓSITO EN CUSTODIA. | RG 1149/2026 (BO 11/06/2026) |
@@ -90,8 +90,9 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-IX/capitulo-I.md`](titulo-IX/capitulo-I.md) | Título IX — Capítulo I: AGENTES DE CALIFICACIÓN DE RIESGOS SOCIEDADES ANÓNIMAS Y OTRAS ORGANIZACIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-IX/capitulo-II.md`](titulo-IX/capitulo-II.md) | Título IX — Capítulo II: AGENTES DE CALIFICACIÓN DE RIESGOS UNIVERSIDADES PÚBLICAS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-IX/capitulo-I.md`](titulo-IX/capitulo-I.md) | Título IX — Capítulo I: DISPOSICIONES COMUNES A LOS ACR SOCIEDADES ANÓNIMAS Y UNIVERSIDADES PÚBLICAS | RG 1164/2026 (BO 04/09/2026) |
+| [`titulo-IX/capitulo-II.md`](titulo-IX/capitulo-II.md) | Título IX — Capítulo II: DISPOSICIONES ESPECÍFICAS APLICABLES A LOS ACR SOCIEDADES ANÓNIMAS. | RG 1164/2026 (BO 04/09/2026) |
+| [`titulo-IX/capitulo-III.md`](titulo-IX/capitulo-III.md) | Título IX — Capítulo III: DISPOSICIONES ESPECÍFICAS APLICABLES A LOS ACR-UP. | RG 1164/2026 (BO 04/09/2026) |
 
 ## Título X — DEL REGISTRO DE MERCADOS, CÁMARAS COMPENSADORAS Y AGENTES BAJO COMPETENCIA DE LA GERENCIA DE AGENTES Y MERCADOS
 
@@ -145,7 +146,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-XVI/capitulo-I.md`](titulo-XVI/capitulo-I.md) | Título XVI — Capítulo I: NOTIFICACIONES. OTRAS DISPOSICIONES. | RG 1147/2026 (BO 11/06/2026) |
-| [`titulo-XVI/capitulo-II.md`](titulo-XVI/capitulo-II.md) | Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS. | RG 1155/2026 (BO 13/07/2026) |
+| [`titulo-XVI/capitulo-II.md`](titulo-XVI/capitulo-II.md) | Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS. | RG 1164/2026 (BO 04/09/2026) |
 
 ## Título XVII — TASAS DE FISCALIZACIÓN Y CONTROL- ARANCELES DE AUTORIZACIÓN
 
@@ -163,7 +164,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | [`titulo-XVIII/capitulo-IV.md`](titulo-XVIII/capitulo-IV.md) | Título XVIII — Capítulo IV: MERCADOS Y CÁMARAS COMPENSADORAS | RG 1120/2026 (BO 13/03/2026) |
 | [`titulo-XVIII/capitulo-V.md`](titulo-XVIII/capitulo-V.md) | Título XVIII — Capítulo V: AGENTES DE LIQUIDACIÓN Y COMPENSACIÓN, AGENTES DE NEGOCIACIÓN, AGENTES ASESORES GLOBALES DE INVERSIÓN Y AGENTE DE CORRETAJE DE VALORES NEGOCIABLES. | RG 1154/2026 (BO 13/07/2026) |
 | [`titulo-XVIII/capitulo-VI.md`](titulo-XVIII/capitulo-VI.md) | Título XVIII — Capítulo VI: AGENTE DEPOSITARIO CENTRAL DE VALORES NEGOCIABLES. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XVIII/capitulo-VII.md`](titulo-XVIII/capitulo-VII.md) | Título XVIII — Capítulo VII: AGENTES DE CALIFICACIÓN DE RIESGOS (ACR). | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XVIII/capitulo-VII.md`](titulo-XVIII/capitulo-VII.md) | Título XVIII — Capítulo VII: AGENTES DE CALIFICACIÓN DE RIESGOS (ACR). | RG 1164/2026 (BO 04/09/2026) |
 | [`titulo-XVIII/capitulo-VIII.md`](titulo-XVIII/capitulo-VIII.md) | Título XVIII — Capítulo VIII: BOLSAS DE COMERCIO CON Y SIN MERCADO DE VALORES ADHERIDO. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-IX.md`](titulo-XVIII/capitulo-IX.md) | Título XVIII — Capítulo IX: DE LAS DENUNCIAS PENALES Y QUERELLAS. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
 | [`titulo-XVIII/capitulo-X.md`](titulo-XVIII/capitulo-X.md) | Título XVIII — Capítulo X: PREVENCIÓN DEL LAVADO DE ACTIVOS Y FINANCIAMIENTO DEL TERRORISMO Y DE LA PROLIFERACIÓN DE ARMAS DE DESTRUCCIÓN MASIVA | RG 1139/2026 (BO 14/05/2026) |

@@ -1,5 +1,5 @@
 # Título II — Capítulo V: OFERTA PÚBLICA PRIMARIA
-Última modificación: RG 1149/2026 (BO 11/06/2026)
+Última modificación: RG 1164/2026 (BO 04/09/2026)
 Fuente: RG 1095/2025, art. 2°.
 
 [Expresiones reemplazadas en este archivo (siglas “ACyD” → “ACD” y “ACyDI” → “ACDI”; 5 ocurrencias) por art. 7° de la RG 1131/2026, BO 29/04/2026]
@@ -777,7 +777,9 @@ ARTÍCULO 74.- Cualquier Emisor que califique como (i) PyME CNV Garantizadas o (
 
 2. Se admite la co-garantía, en cuyo caso deberá indicarse en el Prospecto y en el certificado global el porcentaje de la deuda que garantiza cada Entidad de Garantía. En caso de silencio se presumirá que cada una responde en partes iguales.
 
-3. La calificación de riesgo de la Entidad de Garantía deberá encontrarse actualizada incluyendo los últimos EECC anuales o intermedios emitidos por la Entidad de Garantía y no podrá tener una antigüedad superior a los NOVENTA (90) días corridos previos, contados a partir de la fecha de publicación del Prospecto del Emisor.
+3. La calificación de riesgo de la Entidad de Garantía deberá encontrarse actualizada conforme a los procesos de revisión continua y permanente, de acuerdo con los procedimientos y metodologías aplicados por los ACR o ACR-UP intervinientes, y en ningún caso podrá tener una antigüedad superior a un año
+
+[Inciso 3. sustituido por art. 3° de la RG 1164/2026, BO 04/09/2026, vigente desde 04/09/2026]
 
 ARANCEL.
 ARTÍCULO 75.- Las Ofertas Públicas con Autorización Automática por su Bajo Impacto:

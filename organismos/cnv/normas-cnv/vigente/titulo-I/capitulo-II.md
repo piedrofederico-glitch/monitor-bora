@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1162/2026 (BO 20/08/2026)
+Última modificación: RG 1164/2026 (BO 04/09/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -360,6 +360,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “RLPA” significa Reglamento de la Ley de Procedimientos Administrativos (Decreto 1759/72- T.O. 2017).
 
+“RNR” significa Registro Nacional de Reincidencia.
+
 “ROS” significa Reporte de Operación Sospechosa.
 
 “RUCA” significa Registro Único de la Cadena Agroalimentaria.
@@ -462,6 +464,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 [Término incorporado: “UTs” por art. 1° de la RG 1162/2026, BO 20/08/2026]
 
+[Término incorporado: “RNR” por art. 1° de la RG 1164/2026, BO 04/09/2026, vigente desde 04/09/2026]
+
 ### SECCIÓN III — EXPRESIONES
 
 ARTÍCULO 3º.- Las siguientes expresiones, aun cuando no aparecieran en mayúscula, tendrán los siguientes significados a los fines de su interpretación (dichos significados serán igualmente aplicables tanto en la forma singular como plural de los términos definidos):
@@ -469,6 +473,8 @@ ARTÍCULO 3º.- Las siguientes expresiones, aun cuando no aparecieran en mayúsc
 “Agentes inscriptos en el registro a cargo de la CNV” o “Agentes Registrados”: las definiciones y menciones en estas Normas de las distintas categorías de Agentes, se refieren a Agentes definidos en la Ley de Mercado de Capitales, inscriptos en el registro a cargo de la CNV, lo que incluye a los ADCVN, ACVN, ACRyP, entre otros, pero excluye a los Mercados y las Cámaras Compensadoras.
 
 “Aportes irrevocables a cuenta de futuras suscripciones de acciones” significa las sumas de dinero recibidas por una Emisora de parte de accionistas o terceros, con el compromiso irrevocable de ser destinadas a la futura integración de un aumento de capital social mediante la suscripción de nuevas acciones. Su carácter es transitorio y, si bien incrementan temporalmente el patrimonio neto, están sujetos a la aprobación posterior de la Asamblea de Accionistas para su efectiva capitalización dentro del plazo y condiciones establecidos en estas Normas y en la Ley General de Sociedades.
+
+“Calificación Pública” significa toda calificación de riesgos referida a una emisión de valores negociables que cuenten con oferta pública, destinada a divulgarse al público inversor, por cualquier medio de difusión.
 
 “Canje por Reorganización Societaria”, “canje por fusión” y “canje por escisión” significan los mecanismos financieros y legales que se producen en el marco de una reestructuración societaria (fusión, escisión o figura análoga), por los cuales se sustituyen y/o asignan los valores negociables (acciones, Obligaciones Negociables, etc.) de la sociedad que se reestructura (disuelve o escinde) por nuevos valores negociables emitidos por la sociedad continuadora (incorporante o beneficiaria).
 
@@ -495,5 +501,7 @@ ARTÍCULO 3º.- Las siguientes expresiones, aun cuando no aparecieran en mayúsc
 [Expresión “Agentes inscriptos en el registro a cargo de la CNV” sustituida por art. 4° de la RG 1131/2026, BO 29/04/2026]
 
 [Expresiones “Conducta Infractora”, “Conductor de Sumario”, “Presentación a la CNV” y “Tribunales arbitrales” incorporadas por art. 5° de la RG 1131/2026, BO 29/04/2026]
+
+[Término incorporado: “Calificación Pública” por art. 2° de la RG 1164/2026, BO 04/09/2026, vigente desde 04/09/2026]
 
 [Título sustituido por art. 1° de la RG 1097/2025, BO 24/12/2025]

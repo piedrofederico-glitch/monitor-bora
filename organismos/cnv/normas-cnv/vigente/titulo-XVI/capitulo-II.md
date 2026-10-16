@@ -1,5 +1,5 @@
 # Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS.
-Última modificación: RG 1155/2026 (BO 13/07/2026)
+Última modificación: RG 1164/2026 (BO 04/09/2026)
 Fuente: RG 1112/2026, art. 2°.
 
 EMISORAS.
@@ -157,13 +157,7 @@ Facultades delegadas en la Gerencia de Agentes y Mercados y en la Subgerencia de
 
 5. Cancelación de inscripción de los ACD y ACDI en el registro que lleva la CNV.
 
-Facultades delegadas en la Gerencia de Agentes y Mercados y en la Subgerencia de Supervisión de Agentes:
-
-1. Registración de la modificación de las metodologías de los ACR.
-
-2. Registración de los miembros del consejo de calificación de los ACR
-
-[Anexo sustituido por art. 1° de la RG 1155/2026, BO 13/07/2026]
+[Anexo sustituido por art. 5° de la RG 1164/2026, BO 04/09/2026, vigente desde 04/09/2026]
 
 ### ANEXO VI.
 
