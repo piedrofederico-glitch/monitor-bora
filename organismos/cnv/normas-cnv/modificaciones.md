@@ -563,6 +563,7 @@ Archivo: `vigente/titulo-XVI/capitulo-I.md`
 | art. 7° (Secc. II), apartado 5 | modifica parcialmente | RG 1147/2026 | 7° | 11/06/2026 |
 | Secc. III (completa) | incorpora | RG 1165/2026 | 5° | 07/09/2026 |
 | Anexo II | incorpora | RG 1165/2026 | 6° | 07/09/2026 |
+| Anexo II | sustituye | RG 1168/2026 | 1° | 23/09/2026 |
 
 ## Título XVI, Capítulo II
 Archivo: `vigente/titulo-XVI/capitulo-II.md`

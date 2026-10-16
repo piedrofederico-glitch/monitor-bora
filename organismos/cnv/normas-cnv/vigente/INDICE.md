@@ -146,7 +146,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XVI/capitulo-I.md`](titulo-XVI/capitulo-I.md) | Título XVI — Capítulo I: NOTIFICACIONES. OTRAS DISPOSICIONES. | RG 1165/2026 (BO 07/09/2026) |
+| [`titulo-XVI/capitulo-I.md`](titulo-XVI/capitulo-I.md) | Título XVI — Capítulo I: NOTIFICACIONES. OTRAS DISPOSICIONES. | RG 1168/2026 (BO 23/09/2026) |
 | [`titulo-XVI/capitulo-II.md`](titulo-XVI/capitulo-II.md) | Título XVI — Capítulo II: DELEGACIÓN DE FACULTADES EN GERENCIAS Y SUBGERENCIAS. | RG 1164/2026 (BO 04/09/2026) |
 
 ## Título XVII — TASAS DE FISCALIZACIÓN Y CONTROL- ARANCELES DE AUTORIZACIÓN
