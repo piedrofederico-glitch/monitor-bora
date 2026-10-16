@@ -1,5 +1,5 @@
 # Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN.
-Última modificación: RG 1159/2026 (BO 06/08/2026)
+Última modificación: RG 1162/2026 (BO 20/08/2026)
 Fuente: RG 1097/2025, art. 1°.
 
 ### SECCIÓN I — REFERENCIAS NORMATIVAS.
@@ -390,6 +390,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 
 “UIF” significa Unidad de Información Financiera.
 
+“UTs” significa uniones transitorias de empresas.
+
 “UVA” significa Unidad de Valor Adquisitivo.
 
 “UVI” significa Unidad de Vivienda.
@@ -457,6 +459,8 @@ Ley de Régimen Penal Tributario significa Ley N° 27.799”.
 [Términos suprimidos: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto” por art. 1° de la RG 1159/2026, BO 06/08/2026]
 
 [Definiciones sustituidas: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes” por art. 2° de la RG 1159/2026, BO 06/08/2026]
+
+[Término incorporado: “UTs” por art. 1° de la RG 1162/2026, BO 20/08/2026]
 
 ### SECCIÓN III — EXPRESIONES
 

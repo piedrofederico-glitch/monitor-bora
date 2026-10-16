@@ -8,7 +8,7 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
 | [`titulo-I/capitulo-I.md`](titulo-I/capitulo-I.md) | Título I — Capítulo I: COMISIÓN NACIONAL DE VALORES. ÁMBITO DE APLICACIÓN. | RG 1097/2025 (BO 24/12/2025) |
-| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1159/2026 (BO 06/08/2026) |
+| [`titulo-I/capitulo-II.md`](titulo-I/capitulo-II.md) | Título I — Capítulo II: DEFINICIONES GENERALES E INTERPRETACIÓN. | RG 1162/2026 (BO 20/08/2026) |
 
 ## Título II — EMISORAS
 
@@ -109,12 +109,12 @@ Un archivo por capítulo (o por título cuando el título no tiene capítulos). 
 
 | Archivo | Contenido | Última modificación |
 |---|---|---|
-| [`titulo-XII/capitulo-I.md`](titulo-XII/capitulo-I.md) | Título XII — Capítulo I: DISPOSICIONES GENERALES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XII/capitulo-II.md`](titulo-XII/capitulo-II.md) | Título XII — Capítulo II: OBLIGACIONES DE LOS PARTICIPANTES EN EL ÁMBITO DE LA OFERTA PÚBLICA. | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XII/capitulo-III.md`](titulo-XII/capitulo-III.md) | Título XII — Capítulo III: CONDUCTAS CONTRARIAS A LA TRANSPARENCIA EN EL ÁMBITO DE LA OFERTA PÚBLICA | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XII/capitulo-IV.md`](titulo-XII/capitulo-IV.md) | Título XII — Capítulo IV: PROCEDIMIENTO APLICABLE ANTE INCUMPLIMIENTOS | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
-| [`titulo-XII/capitulo-V.md`](titulo-XII/capitulo-V.md) | Título XII — Capítulo V: REGISTRO DE IDÓNEOS | RG 1138/2026 (BO 08/05/2026) |
-| [`titulo-XII/capitulo-VI.md`](titulo-XII/capitulo-VI.md) | Título XII — Capítulo VI: DERECHOS, ARANCELES Y COMISIONES | anterior a la base (PDF CNV actualizado a la RG 1094/2025, BO 11/12/2025) |
+| [`titulo-XII/capitulo-I.md`](titulo-XII/capitulo-I.md) | Título XII — Capítulo I: DISPOSICIONES GENERALES | RG 1162/2026 (BO 20/08/2026) |
+| [`titulo-XII/capitulo-II.md`](titulo-XII/capitulo-II.md) | Título XII — Capítulo II: OBLIGACIONES DE LOS PARTICIPANTES EN EL ÁMBITO DE LA OFERTA PÚBLICA. | RG 1162/2026 (BO 20/08/2026) |
+| [`titulo-XII/capitulo-III.md`](titulo-XII/capitulo-III.md) | Título XII — Capítulo III: CONDUCTAS CONTRARIAS A LA TRANSPARENCIA EN EL ÁMBITO DE LA OFERTA PÚBLICA. | RG 1162/2026 (BO 20/08/2026) |
+| [`titulo-XII/capitulo-IV.md`](titulo-XII/capitulo-IV.md) | Título XII — Capítulo IV: PROCEDIMIENTO APLICABLE ANTE INCUMPLIMIENTOS. | RG 1162/2026 (BO 20/08/2026) |
+| [`titulo-XII/capitulo-V.md`](titulo-XII/capitulo-V.md) | Título XII — Capítulo V: REGISTRO DE IDÓNEOS | RG 1162/2026 (BO 20/08/2026) |
+| [`titulo-XII/capitulo-VI.md`](titulo-XII/capitulo-VI.md) | Título XII — Capítulo VI: DERECHOS, ARANCELES Y COMISIONES | RG 1162/2026 (BO 20/08/2026) |
 
 ## Título XIII — PROCEDIMIENTO DE INVESTIGACIONES. PROCEDIMIENTO SUMARIAL. PUBLICIDAD
 

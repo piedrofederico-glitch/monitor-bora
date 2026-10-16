@@ -46,6 +46,7 @@ Archivo: `vigente/titulo-I/capitulo-II.md`
 | art. 2° (Secc. II), Definición sustituida: “Sujeto Restringido” | modifica parcialmente | RG 1154/2026 | 1° | 13/07/2026 |
 | art. 2° (Secc. II), Términos suprimidos: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Bajo Impacto”, “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto” | modifica parcialmente | RG 1159/2026 | 1° | 06/08/2026 |
 | art. 2° (Secc. II), Definiciones sustituidas: “Oferta Pública de Valores Negociables Fiduciarios con Autorización Automática por su Mediano Impacto Ampliado”, “Régimen de Oferta Pública de Fideicomisos Financieros con Autorización Automática de Emisiones Frecuentes” | modifica parcialmente | RG 1159/2026 | 2° | 06/08/2026 |
+| art. 2° (Secc. II), Término incorporado: “UTs” | modifica parcialmente | RG 1162/2026 | 1° | 20/08/2026 |
 
 ## Título II, Capítulo I
 Archivo: `vigente/titulo-II/capitulo-I.md`
@@ -421,12 +422,48 @@ Archivo: `vigente/titulo-XI/titulo-XI.md`
 | art. 3° (Secc. II), inc. 1 | modifica parcialmente | RG 1141/2026 | 1° | 27/05/2026 |
 | Secc. VI (completa) | incorpora | RG 1158/2026 | 1° | 30/07/2026 |
 
+## Título XII, Capítulo I
+Archivo: `vigente/titulo-XII/capitulo-I.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1162/2026 | 2° | 20/08/2026 |
+
+## Título XII, Capítulo II
+Archivo: `vigente/titulo-XII/capitulo-II.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1162/2026 | 2° | 20/08/2026 |
+
+## Título XII, Capítulo III
+Archivo: `vigente/titulo-XII/capitulo-III.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1162/2026 | 2° | 20/08/2026 |
+
+## Título XII, Capítulo IV
+Archivo: `vigente/titulo-XII/capitulo-IV.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1162/2026 | 2° | 20/08/2026 |
+
 ## Título XII, Capítulo V
 Archivo: `vigente/titulo-XII/capitulo-V.md`
 
 | Ubicación | Operación | RG | Artículo de la RG | BO |
 |---|---|---|---|---|
 | art. 10 (Secc. I), inc. h) | modifica parcialmente | RG 1138/2026 | 1° | 08/05/2026 |
+| capítulo completo | sustituye | RG 1162/2026 | 2° | 20/08/2026 |
+
+## Título XII, Capítulo VI
+Archivo: `vigente/titulo-XII/capitulo-VI.md`
+
+| Ubicación | Operación | RG | Artículo de la RG | BO |
+|---|---|---|---|---|
+| capítulo completo | sustituye | RG 1162/2026 | 2° | 20/08/2026 |
 
 ## Título XIII, Capítulo I
 Archivo: `vigente/titulo-XIII/capitulo-I.md`
