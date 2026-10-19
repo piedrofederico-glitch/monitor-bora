@@ -1,0 +1,66 @@
+{
+  "fecha": "20261019",
+  "total_avisos": 100,
+  "organismos": {
+    "cnv": [],
+    "atep": [],
+    "bcra": [],
+    "aaip": []
+  },
+  "temas_candidatos": [
+    {
+      "id": "349190",
+      "organismo": "CONTRATOS",
+      "titulo": "Decreto 1216/2026",
+      "codigo": "DECTO-2026-1216-APN-PTE - Aprobación.",
+      "firmantes": "MILEI - Diego César Santilli - E/E Juan Bautista Mahiques",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/349190/20261019",
+      "archivo": "temas/textos/20261019_349190_decreto-1216-2026.md",
+      "temas": {
+        "privatizaciones": [
+          {
+            "patron": "privatiz",
+            "fragmento": "e eficiencia y seguridad. que a traves del articulo 7° de la ley de bases y puntos de partida para la libertad de los argentinos n° 27.742 se declaro “sujeta a privatizacion”, en los terminos y con los efectos de los capitulos ii y iii de la ley n° 23.696 y sus modificatorias, entre otras, a la empresa belgrano cargas y logist"
+          },
+          {
+            "patron": "23\\.?696",
+            "fragmento": "216/2026 decto-2026-1216-apn-pte - aprobacion. ciudad de buenos aires, 16/10/2026 visto el expediente n° ex-2026-97602710-apn-dgda#mec, las leyes nros. 17.520, 23.696, 27.132 y 27.742, el decreto n° 67 del 7 de febrero de 2025 y la resolucion del ministerio de economia n° 1350 del 19 de agosto de 2026 y sus respectivas norma"
+          }
+        ]
+      }
+    },
+    {
+      "id": "349233",
+      "organismo": "MINISTERIO DE ECONOMÍA",
+      "titulo": "Resolución 1808/2026",
+      "codigo": "RESOL-2026-1808-APN-MEC",
+      "firmantes": "E/E Juan Bautista Mahiques",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/349233/20261019",
+      "archivo": "temas/textos/20261019_349233_resolucion-1808-2026.md",
+      "temas": {
+        "rigi": [
+          {
+            "patron": "\\brigi\\b",
+            "fragmento": "pn-mec) y sus modificatorias, ambas del ministerio de economia, y considerando: que por la ley 27.742 se creo el regimen de incentivo para grandes inversiones (rigi), para aquellos vehiculos titulares de un “proyecto unico” que cumplan con los requisitos previstos por el titulo vii de la citada ley y sus normas reglamentar"
+          },
+          {
+            "patron": "regimen de incentivo para grandes inversiones",
+            "fragmento": "74 del 20 de octubre de 2024 (resol-2024-1074-apn-mec) y sus modificatorias, ambas del ministerio de economia, y considerando: que por la ley 27.742 se creo el regimen de incentivo para grandes inversiones (rigi), para aquellos vehiculos titulares de un “proyecto unico” que cumplan con los requisitos previstos por el titulo vii de la citada ley y sus normas regla"
+          },
+          {
+            "patron": "grandes inversiones",
+            "fragmento": "24 (resol-2024-1074-apn-mec) y sus modificatorias, ambas del ministerio de economia, y considerando: que por la ley 27.742 se creo el regimen de incentivo para grandes inversiones (rigi), para aquellos vehiculos titulares de un “proyecto unico” que cumplan con los requisitos previstos por el titulo vii de la citada ley y sus normas regla"
+          },
+          {
+            "patron": "vehiculo de proyecto unico",
+            "fragmento": " 2024 y sus modificatorios. articulo 3o.- establecese que durante el primer y segundo ano contados desde la fecha de notificacion de la presente resolucion, el vehiculo de proyecto unico (vpu) ut bdc-li e&p, debera acreditar haber completado un monto de inversion en activos computables igual o superior al veinte por ciento (20 %) del monto de i"
+          },
+          {
+            "patron": "dispositivo:27\\.?742",
+            "fragmento": "li. articulo 2o.- determinase como fecha de adhesion al rigi el 10 de septiembre de 2026, en los terminos del punto (i) del inciso h del articulo 177 de la ley 27.742 y del articulo 3o, inciso d, punto (i) del anexo i al decreto 749 del 22 de agosto de 2024 y sus modificatorios. articulo 3o.- establecese que durante el prime"
+          }
+        ]
+      }
+    }
+  ]
+}
