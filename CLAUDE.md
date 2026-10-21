@@ -16,6 +16,7 @@ Monitoreo diario de la primera sección del Boletín Oficial de la República Ar
 
 | Rol | Instrucciones |
 |---|---|
+| Coordinador (sesión del usuario que supervisa el sistema) | `docs/coordinador.md` |
 | Corrida diaria (tarea programada) | `docs/corrida-diaria.md` |
 | Especialista de organismo (CNV, ATEP, BCRA, AAIP) | `docs/especialista.md` |
 | Analista de Temas | `docs/analista-temas.md` |
