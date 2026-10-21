@@ -1,0 +1,39 @@
+{
+  "fecha": "20261021",
+  "total_avisos": 37,
+  "organismos": {
+    "cnv": [],
+    "atep": [],
+    "bcra": [
+      {
+        "id": "349377",
+        "organismo": "BANCO CENTRAL DE LA REPÚBLICA ARGENTINA",
+        "titulo": "Comunicación \"A\" 8492/2026",
+        "codigo": "",
+        "firmantes": "Mariana A. Díaz, Gerenta de Régimen Informativo - Rodrigo J. Danessa, Subgerente General de Régimen Informativo y Protección al Usuario de Servicios Financieros a/c.",
+        "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/349377/20261021",
+        "archivo": "organismos/bcra/normas/20261021_349377_comunicacion-a-8492-2026.md"
+      }
+    ],
+    "aaip": []
+  },
+  "temas_candidatos": [
+    {
+      "id": "349387",
+      "organismo": "MINISTERIO DE CAPITAL HUMANO - DIRECCIÓN NACIONAL DE RELACIONES Y REGULACIONES DEL TRABAJO",
+      "titulo": "Disposición 708/2026",
+      "codigo": "DI-2026-708-APN-DNRYRT#MCH",
+      "firmantes": "Mara Agata Mentoro",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/349387/20261021",
+      "archivo": "temas/textos/20261021_349387_disposicion-708-2026.md",
+      "temas": {
+        "privatizaciones": [
+          {
+            "patron": "dispositivo:sociedad(es)? del estado",
+            "fragmento": "ente no ex-2025-135176163- -apn-dgdteyss#mch celebrados entre la union ferroviaria, por la parte sindical, y el servicio ferroviario turistico tren a las nubes sociedad del estado, por la parte empleadora, conforme a lo dispuesto en la ley de negociacion colectiva no 14.250 (t.o 2004). articulo 2o.- girese a la coordinacion de gestion do"
+          }
+        ]
+      }
+    }
+  ]
+}
