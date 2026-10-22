@@ -6,7 +6,7 @@ organismo: "INSTITUTO NACIONAL DE ASOCIATIVISMO Y ECONOMÍA SOCIAL"
 titulo: "EL INSTITUTO NACIONAL de ASOCIATIVISMO y ECONOMÍA SOCIAL con domicilio legal en Av. Belgrano 1656 –"
 codigo: ""
 firmantes: "Nicolas Alves, Asistente Administrativo, Despacho."
-url: https://www.boletinoficial.gob.ar/detalleAviso/primera/7818879/20261022
+url: https://www.boletinoficial.gob.ar/seccion/primera/20261022
 temas_prima_facie: ["rigi"]
 ---
 

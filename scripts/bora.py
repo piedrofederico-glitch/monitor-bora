@@ -107,7 +107,7 @@ RUBROS = ["Decretos", "Decisiones Administrativas", "Resoluciones", "Resolucione
 def avisos_desde_pdf(fecha, ruta_pdf=None):
     """Respaldo: el sitio del BORA corta las conexiones desde la nube, pero el PDF del día que publica
     ARSAT responde. Solo contiene la edición del día (se pisa al día siguiente). Cada aviso va entre
-    marcas #I<id>I# y #F<id>F#, con el mismo id que /detalleAviso. No trae los anexos publicados solo en la web."""
+    marcas #I<n>I# y #F<n>F#; ese n NO es el id de /detalleAviso, así que el link apunta a la sección del día. No trae los anexos publicados solo en la web."""
     pdf = open(ruta_pdf, "rb").read() if ruta_pdf else http(PDF_ARSAT)
     with tempfile.NamedTemporaryFile(suffix=".pdf") as f:
         f.write(pdf)
@@ -156,7 +156,7 @@ def avisos_desde_pdf(fecha, ruta_pdf=None):
             titulo = next((l for l in lineas[i:i + 3] if l), "")[:120]
         avisos.append({
             "id": idav, "fecha": fecha, "rubro": rubro, "organismo": " - ".join(org),
-            "titulo": titulo, "codigo": codigo, "url": f"{BASE}/detalleAviso/primera/{idav}/{fecha}",
+            "titulo": titulo, "codigo": codigo, "url": f"{BASE}/seccion/primera/{fecha}",
             "texto": texto, "firmantes": extraer_firmantes(texto), "anexos": [], "fuente": "pdf-arsat",
         })
     return avisos
