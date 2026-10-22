@@ -12,6 +12,8 @@ python3 scripts/bora.py --esperar-minutos 50   # fecha de hoy (hora Argentina)
 
 Si la edición todavía no está publicada, el script reintenta cada 5 minutos hasta 50 minutos. Corrélo en segundo plano (`run_in_background`) para no chocar con el timeout de comandos.
 
+**Sitio del BORA bloqueado:** www.boletinoficial.gob.ar suele cortar las conexiones desde la nube ("Connection reset by peer"). El script lo detecta solo y baja el PDF del día de ARSAT (`s3.arsat.com.ar/cdn-bo-001/pdf-del-dia/primera.pdf`). **No hagas chequeos previos con curl ni bucles propios:** corré el script tal cual. Si `runs/<AAAAMMDD>.json` dice `"fuente": "pdf-arsat"`, los anexos publicados solo en la web no están: aclaralo en el mail con una línea al final. El PDF solo trae la edición del día, así que una edición perdida no se puede recuperar al día siguiente por esta vía.
+
 Leé `runs/<AAAAMMDD>.json`. Si `total_avisos` es 0 después de esperar (feriado o edición demorada), terminá sin mensajes a especialistas y mandá un mail corto: "BORA <DD/MM/AAAA> — edición no publicada a las <hora>".
 
 ## 2. Commitear

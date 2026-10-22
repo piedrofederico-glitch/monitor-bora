@@ -95,7 +95,86 @@ def listar_avisos(fecha):
     return avisos
 
 
+PDF_ARSAT = "https://s3.arsat.com.ar/cdn-bo-001/pdf-del-dia/primera.pdf"
+MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre",
+         "octubre", "noviembre", "diciembre"]
+RUBROS = ["Decretos", "Decisiones Administrativas", "Resoluciones", "Resoluciones Generales",
+          "Resoluciones Conjuntas", "Resoluciones Sintetizadas", "Disposiciones", "Disposiciones Conjuntas",
+          "Disposiciones Sintetizadas", "Comunicaciones", "Avisos Oficiales", "Acordadas", "Leyes",
+          "Decretos Sintetizados", "Concursos Oficiales", "Convenciones Colectivas de Trabajo"]
+
+
+def avisos_desde_pdf(fecha, ruta_pdf=None):
+    """Respaldo: el sitio del BORA corta las conexiones desde la nube, pero el PDF del día que publica
+    ARSAT responde. Solo contiene la edición del día (se pisa al día siguiente). Cada aviso va entre
+    marcas #I<id>I# y #F<id>F#, con el mismo id que /detalleAviso. No trae los anexos publicados solo en la web."""
+    pdf = open(ruta_pdf, "rb").read() if ruta_pdf else http(PDF_ARSAT)
+    with tempfile.NamedTemporaryFile(suffix=".pdf") as f:
+        f.write(pdf)
+        f.flush()
+        txt = subprocess.run(["pdftotext", f.name, "-"], capture_output=True, text=True, check=True).stdout
+    d = dt.date(int(fecha[:4]), int(fecha[4:6]), int(fecha[6:]))
+    if f"{d.day} de {MESES[d.month - 1]} de {d.year}" not in norm(txt[:400]):
+        return []  # el PDF todavía es de la edición anterior
+    # encabezado de página: "BOLETÍN OFICIAL Nº 36.018 - Primera Sección / 7 / Jueves 22 de octubre de 2026"
+    txt = re.sub(r"\n*BOLET[IÍ]N OFICIAL N[ºo°] [\d.]+ - Primera Secci[oó]n\s*\n+\s*\d+\s*\n+\s*\w+ \d+ de \w+ de \d{4}\s*\n",
+                 "\n", txt)
+    ddmm = f"{fecha[6:]}/{fecha[4:6]}/{fecha[:4]}"
+    avisos, rubro, pos = [], None, 0
+    # la marca "e. dd/mm/aaaa N°" a veces queda pegada a la línea anterior (firmante o URL)
+    txt = re.sub(r"[ \t]*(e\.\s*\d{2}/\d{2}/\d{4}\s*N[°º])", r"\n\1", txt)
+    for m in re.finditer(r"#I(\d+)I#(.*?)#F\1F#", txt, re.S):
+        org = []  # el organismo puede quedar antes de la marca #I
+        for linea in txt[pos:m.start()].splitlines():
+            linea = linea.strip()
+            if linea in RUBROS:
+                rubro, org = linea, []
+            elif (re.search(r"[A-ZÁÉÍÓÚÑ]{3}", linea) and not re.search(r"[a-záéíóúñ]", linea)
+                  and not linea.startswith("#") and linea not in ("NUEVOS", "ANTERIORES")):
+                org.append(linea)
+        pos = m.end()
+        idav, cuerpo = m.group(1), m.group(2)
+        marca = re.search(r"e\.\s*(\d{2}/\d{2}/\d{4})\s*N", cuerpo)
+        if marca and marca.group(1) != ddmm:
+            continue  # aviso de una edición anterior que se sigue publicando
+        lineas = [l.strip() for l in cuerpo.strip().splitlines()]
+        i = 0
+        while i < len(lineas):  # organismo: líneas en mayúsculas al comienzo
+            l = lineas[i]
+            if l and (re.search(r"[a-záéíóúñ]", l) or re.match(r"(COMUNICACI|RESOLUCI|DISPOSICI|DECRETO)", l)):
+                break
+            if l:
+                org.append(l)
+            i += 1
+        titulo = codigo = ""
+        if i < len(lineas) and re.match(r"(Resoluci|Disposici|Decreto|Decisi|Comunicaci|Ley|Acordada)", lineas[i]):
+            titulo, i = lineas[i], i + 1
+            if i < len(lineas) and re.match(r"[A-Z]+-\d{4}-\d+-", lineas[i]):
+                codigo, i = lineas[i], i + 1
+        texto = re.sub(r"\n{3,}", "\n\n", "\n".join(lineas[i:])).strip()
+        if not titulo:  # avisos oficiales: el título real va en el texto (p. ej. Comunicación "A")
+            titulo = next((l for l in lineas[i:i + 3] if l), "")[:120]
+        avisos.append({
+            "id": idav, "fecha": fecha, "rubro": rubro, "organismo": " - ".join(org),
+            "titulo": titulo, "codigo": codigo, "url": f"{BASE}/detalleAviso/primera/{idav}/{fecha}",
+            "texto": texto, "firmantes": extraer_firmantes(texto), "anexos": [], "fuente": "pdf-arsat",
+        })
+    return avisos
+
+
+def obtener_avisos(fecha, ruta_pdf=None):
+    """Sitio web primero; si no responde, PDF de ARSAT (solo sirve para la edición de hoy)."""
+    if not ruta_pdf:
+        try:
+            return listar_avisos(fecha), "web"
+        except Exception as e:
+            print(f"{fecha}: sitio del BORA inaccesible ({e}); uso el PDF de ARSAT", file=sys.stderr)
+    return avisos_desde_pdf(fecha, ruta_pdf), "pdf-arsat"
+
+
 def detalle(av):
+    if av.get("fuente") == "pdf-arsat":
+        return av  # el texto ya viene del PDF
     h = http(av["url"] + "?anexos=1").decode("utf-8", "replace")
     i = h.find('id="cuerpoDetalleAviso"')
     j = h.find('id="anexosDiv"', i)
@@ -121,7 +200,12 @@ def detalle(av):
 def extraer_firmantes(texto):
     """Última línea con contenido antes de la marca 'e. dd/mm/aaaa N°'."""
     corte = re.search(r"\n\s*e\.\s*\d{2}/\d{2}/\d{4}\s*N", texto)
-    previas = [l.strip() for l in texto[:corte.start() if corte else len(texto)].splitlines() if l.strip()]
+    previo = texto[:corte.start() if corte else len(texto)]
+    # la NOTA sobre anexos va después del firmante y puede ocupar varias líneas (PDF)
+    nota = re.search(r"\n\s*(NOTA\b|El/[Ll]os [Aa]nexo|La documentaci[oó]n no publicada)", previo[-1500:])
+    if nota:
+        previo = previo[:len(previo) - 1500 + nota.start()] if len(previo) > 1500 else previo[:nota.start()]
+    previas = [l.strip() for l in previo.splitlines() if l.strip()]
     previas = [l for l in previas if not re.match(r"(NOTA\b|ANEXOS?\s*$|El/Los Anexo|La documentaci[oó]n no publicada)", l, re.I)]
     return previas[-1] if previas else ""
 
@@ -212,20 +296,23 @@ def main():
     ap.add_argument("--fecha", default=dt.datetime.now(dt.timezone(dt.timedelta(hours=-3))).strftime("%Y%m%d"))
     ap.add_argument("--esperar-minutos", type=int, default=0,
                     help="si la edición todavía no está publicada, reintenta cada 5 min hasta este plazo")
+    ap.add_argument("--pdf", help="procesar un PDF de la primera sección ya descargado (respaldo ARSAT)")
     args = ap.parse_args()
     fecha = args.fecha
     orgs = json.load(open(os.path.join(RAIZ, "config/organismos.json"), encoding="utf-8"))
     temas = json.load(open(os.path.join(RAIZ, "config/temas.json"), encoding="utf-8"))
 
     limite = time.time() + args.esperar_minutos * 60
-    avisos = listar_avisos(fecha)
+    avisos, fuente = obtener_avisos(fecha, args.pdf)
     while not avisos and time.time() < limite:
         print(f"{fecha}: edición sin publicar todavía, reintento en 5 minutos", file=sys.stderr)
         time.sleep(300)
-        avisos = listar_avisos(fecha)
-    print(f"{fecha}: {len(avisos)} avisos en la primera sección")
-    resumen = {"fecha": fecha, "total_avisos": len(avisos), "organismos": {k: [] for k in orgs},
-               "temas_candidatos": []}
+        avisos, fuente = obtener_avisos(fecha, args.pdf)
+    print(f"{fecha}: {len(avisos)} avisos en la primera sección (fuente: {fuente})")
+    resumen = {"fecha": fecha, "fuente": fuente, "total_avisos": len(avisos),
+               "organismos": {k: [] for k in orgs}, "temas_candidatos": []}
+    if fuente == "pdf-arsat":
+        resumen["nota"] = "Descargado del PDF del día de ARSAT: sin anexos publicados solo en la web."
 
     for av in avisos:
         detalle(av)

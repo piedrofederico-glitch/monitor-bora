@@ -1,0 +1,107 @@
+{
+  "fecha": "20261022",
+  "fuente": "pdf-arsat",
+  "total_avisos": 53,
+  "organismos": {
+    "cnv": [],
+    "atep": [],
+    "bcra": [
+      {
+        "id": "7818638",
+        "organismo": "BANCO CENTRAL DE LA REPÚBLICA ARGENTINA",
+        "titulo": "Comunicación “A” 8474/2026",
+        "codigo": "",
+        "firmantes": "Subgerenta General de Medios de Pago.",
+        "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/7818638/20261022",
+        "archivo": "organismos/bcra/normas/20261022_7818638_comunicacion-a-8474-2026.md"
+      }
+    ],
+    "aaip": []
+  },
+  "temas_candidatos": [
+    {
+      "id": "7817361",
+      "organismo": "MINISTERIO DE ECONOMÍA",
+      "titulo": "Resolución 1818/2026",
+      "codigo": "RESOL-2026-1818-APN-MEC",
+      "firmantes": "Luis Andres Caputo",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/7817361/20261022",
+      "archivo": "temas/textos/20261022_7817361_resolucion-1818-2026.md",
+      "temas": {
+        "privatizaciones": [
+          {
+            "patron": "privatiz",
+            "fragmento": "e de 2026 (resol-2026-1722-apn-mec), todas ellas del ministerio de economia, y considerando: que a traves del articulo 7° de la ley 27.742 se declaro “sujeta a privatizacion”, en los terminos y con los efectos de los capitulos ii y iii de la ley 23.696 y sus modificatorias, entre otras, a la empresa agua y saneamientos argenti"
+          },
+          {
+            "patron": "23\\.?696",
+            "fragmento": " de economia resolucion 1818/2026 resol-2026-1818-apn-mec ciudad de buenos aires, 20/10/2026 visto el expediente ex-2026-45536584- -apn-ueetatep#mec, las leyes 23.696 y sus modificatorias, y 27.742, los decretos 695 del 2 de agosto de 2024 y 494 del 22 de julio de 2025 y las resoluciones 1198 del 18 de agosto de 2025 (resol-"
+          },
+          {
+            "patron": "transformacion de empresas publicas",
+            "fragmento": "nomia, en cuya jurisdiccion se encuentra aysa sa, elevo al poder ejecutivo nacional, previa intervencion de la unidad ejecutora especial temporaria “agencia de transformacion de empresas publicas”, un informe circunstanciado con la propuesta concreta vinculada al procedimiento y modalidad mas adecuada para hacer efectiva la privatizacion. que el mencion"
+          },
+          {
+            "patron": "(venta|enajenacion|transferencia) (de|del) (las )?(acciones|paquete accionario|participacion accionaria)",
+            "fragmento": " y conforme el articulo 10.1 del pliego unico de bases y condiciones (plieg-2026-47901673-apn-sop#mec) fijar el plazo para la suscripcion del contrato de compraventa de acciones. que, asimismo, corresponde brindar al adjudicatario la informacion necesaria para posibilitar la instrumentacion del pago del precio de las acciones, de confo"
+          },
+          {
+            "patron": "dispositivo:licitacion publica nacional e internacional",
+            "fragmento": " la ley 23.696 y sus modificatorias, y de conformidad con lo establecido en el articulo 1° del decreto 494 del 22 de julio de 2025. articulo 2°.- adjudicase la licitacion publica nacional e internacional referida en el articulo 1° de esta medida al oferente primero en orden de merito integrado por las firmas rowing sa, arcos saneamento e participacoes sa, phx a"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7818982",
+      "organismo": "MINISTERIO DE ECONOMÍA",
+      "titulo": "Resolución 1848/2026",
+      "codigo": "RESOL-2026-1848-APN-MEC",
+      "firmantes": "Luis Andres Caputo",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/7818982/20261022",
+      "archivo": "temas/textos/20261022_7818982_resolucion-1848-2026.md",
+      "temas": {
+        "rigi": [
+          {
+            "patron": "\\brigi\\b",
+            "fragmento": "pn-mec) y sus modificatorias, ambas del ministerio de economia, y considerando: que por la ley 27.742 se creo el regimen de incentivo para grandes inversiones (rigi), para aquellos vehiculos titulares de un “proyecto unico” que cumplan con los requisitos previstos en el titulo vii de la citada ley y sus normas reglamentari"
+          },
+          {
+            "patron": "regimen de incentivo para grandes inversiones",
+            "fragmento": "74 del 20 de octubre de 2024 (resol-2024-1074-apn-mec) y sus modificatorias, ambas del ministerio de economia, y considerando: que por la ley 27.742 se creo el regimen de incentivo para grandes inversiones (rigi), para aquellos vehiculos titulares de un “proyecto unico” que cumplan con los requisitos previstos en el titulo vii de la citada ley y sus normas reglam"
+          },
+          {
+            "patron": "grandes inversiones",
+            "fragmento": "24 (resol-2024-1074-apn-mec) y sus modificatorias, ambas del ministerio de economia, y considerando: que por la ley 27.742 se creo el regimen de incentivo para grandes inversiones (rigi), para aquellos vehiculos titulares de un “proyecto unico” que cumplan con los requisitos previstos en el titulo vii de la citada ley y sus normas reglam"
+          },
+          {
+            "patron": "vehiculo de proyecto unico",
+            "fragmento": "del articulo 177 de la ley 27.742. articulo 3°.- establecese que durante el primer y segundo ano contados desde la fecha de notificacion de esta resolucion, el vehiculo de proyecto unico (vpu) tasa sd debera acreditar haber completado un monto de inversion en activos computables igual o superior al cuarenta por ciento (40%) del monto de inversi"
+          },
+          {
+            "patron": "dispositivo:27\\.?742",
+            "fragmento": "oduccion de vehiculos electrificados” el dia 29 de septiembre de 2026 en los terminos dispuestos por el punto (i) del quinto parrafo del articulo 177 de la ley 27.742. articulo 3°.- establecese que durante el primer y segundo ano contados desde la fecha de notificacion de esta resolucion, el vehiculo de proyecto unico (vpu) "
+          }
+        ]
+      }
+    },
+    {
+      "id": "7818879",
+      "organismo": "INSTITUTO NACIONAL DE ASOCIATIVISMO Y ECONOMÍA SOCIAL",
+      "titulo": "EL INSTITUTO NACIONAL de ASOCIATIVISMO y ECONOMÍA SOCIAL con domicilio legal en Av. Belgrano 1656 –",
+      "codigo": "",
+      "firmantes": "Nicolas Alves, Asistente Administrativo, Despacho.",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/7818879/20261022",
+      "archivo": "temas/textos/20261022_7818879_el-instituto-nacional-de-asociativismo-y-economia-social-con.md",
+      "temas": {
+        "rigi": [
+          {
+            "patron": "dispositivo:27\\.?742",
+            "fragmento": ". 2017 modificado por dto. 695/24): treinta (30) dias habiles administrativos, o la accion judicial pertinente (art. 25.o ley n.o 19.549 modificada por ley n.o 27.742) queda usted debidamente notificado. nicolas alves, asistente administrativo, despacho. e. 22/10/2026 n° 78617/26 v. 26/10/2026"
+          }
+        ]
+      }
+    }
+  ],
+  "nota": "Descargado del PDF del día de ARSAT: sin anexos publicados solo en la web."
+}
