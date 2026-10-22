@@ -20,11 +20,12 @@ Sesión "BORA · Construcción Normas CNV" (`session_01P8UW4YhrMt93x9k3my9KTD`, 
 - Las sesiones que abre una tarea no tienen `mcp__claude-code-remote__send_message`, así que el reparto se hace con subagentes (`Agent`).
 - Los conectores (Gmail) tampoco se pueden asignar a una tarea desde una sesión. Los agrega el usuario en claude.ai.
 - El modelo de una sesión existente no se puede cambiar: hay que crear una sesión nueva. El esfuerzo no se puede fijar por herramienta.
+- **El sitio del BORA bloquea la nube** ("Connection reset by peer", 22/10/2026). Ninguna sesión, tarea ni subagente cloud lo evita: salen por la misma red. `bora.py` cae solo al PDF del día de ARSAT (`s3.arsat.com.ar/cdn-bo-001/pdf-del-dia/primera.pdf`), que trae texto, firmantes e IDs de aviso, pero no los anexos publicados solo en la web, y se pisa al día siguiente. Para tener anexos, la alternativa es una sesión en una computadora del usuario (IP argentina).
 - Para revisar una corrida: `get_trigger` → `last_run.session_id` → `list_events` (kinds `result`), y `git pull` para ver commits, `runs/` e `informes/`.
 
 ## Otro sistema del usuario (no es Monitor BORA)
 
-Seguimiento de privatizaciones, repo `piedrofederico-glitch/privatizaciones-ycrt-nasa`, 5 tareas "Privatizaciones · …" (Termoeléctricas, ENARSA, NASA, CNEA, Río Turbio). El 21/10/2026 tenían el mismo problema de fuentes; el usuario las corrigió ese día.
+Seguimiento de privatizaciones, coordinado por la sesión "Nodriza de Privatizaciones" (`session_01FETWx2qdebcoAFXHjEKajd`), repo `piedrofederico-glitch/privatizaciones-ycrt-nasa`, 5 tareas "Privatizaciones · …" (Termoeléctricas, ENARSA, NASA, CNEA, Río Turbio). El 21/10/2026 tenían el mismo problema de fuentes; el usuario las corrigió ese día. El 22/10 se le compartió el respaldo por PDF de ARSAT (commit 737d7cd).
 
 ## Estado y pendientes
 
