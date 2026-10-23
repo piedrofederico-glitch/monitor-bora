@@ -1,5 +1,5 @@
 # Título V — Capítulo III: FONDOS COMUNES DE INVERSIÓN CERRADOS.
-Última modificación: RG 1160/2026 (BO 06/08/2026)
+Última modificación: RG 1163/2026 (BO 20/08/2026)
 Fuente: PDF base, págs. 358–374.
 
 ### SECCIÓN I — RÉGIMEN GENERAL.
@@ -531,15 +531,19 @@ ARTÍCULO 39.- La falta de pago de la tasa de fiscalización y control y los inc
 
 https://www.cnv.gov.ar/DESCARGAS/MARCOREGULATORIO/BLOB/78a61435-e2f9-4d46-875f- e0dfc9c4bdd9
 
-### ANEXO II REGLAMENTO DE GESTIÓN TIPO.
+### ANEXO II
+
+REGLAMENTO DE GESTIÓN TIPO.
 
 FUNCIÓN DEL REGLAMENTO. El REGLAMENTO DE GESTIÓN (en adelante, el “REGLAMENTO”) regula las relaciones contractuales entre la SOCIEDAD GERENTE (en adelante, la “GERENTE”), la SOCIEDAD DEPOSITARIA (en adelante, la “DEPOSITARIA”) y los CUOTAPARTISTAS.
 
-El contenido del REGLAMENTO podrá modificarse en todas sus partes mediante el acuerdo de la SOCIEDAD GERENTE y de la SOCIEDAD DEPOSITARIA, sin que sea requerido el consentimiento de los CUOTAPARTISTAS. Cuando la reforma tenga por objeto la sustitución de la SOCIEDAD GERENTE o la SOCIEDAD DEPOSITARIA o modificar los OBJETIVOS Y POLÍTICA DE INVERSIÓN o la moneda del FCI o aumentar el tope de honorarios y gastos o las comisiones previstas de conformidad a lo dispuesto en el artículo 13, inciso c) de la Ley de Fondos Comunes de inversión o incluir la cláusula de rescate automático prevista en el Capítulo II del Título V de las NORMAS CNV deberán aplicar las siguientes reglas: (i) no se cobrará a los CUOTAPARTISTAS durante un plazo de QUINCE (15) días corridos desde la publicación de la reforma, la comisión de rescate que pudiere corresponder; y (ii) las modificaciones no serán aplicadas hasta transcurridos QUINCE (15) días corridos desde la publicación del texto de la adenda, a través del acceso Reglamento de Gestión de la AIF.
+El contenido del REGLAMENTO podrá modificarse en todas sus partes mediante el acuerdo de la SOCIEDAD GERENTE y de la SOCIEDAD DEPOSITARIA, sin que sea requerido el consentimiento de los CUOTAPARTISTAS. Cuando la reforma tenga por objeto la sustitución de la SOCIEDAD GERENTE o la SOCIEDAD DEPOSITARIA o modificar los OBJETIVOS Y POLÍTICA DE INVERSIÓN o la moneda del FCI o aumentar el tope de honorarios y gastos o las comisiones previstas de conformidad a lo dispuesto en el artículo 13, inciso c) de la Ley de Fondos Comunes de inversión o incluir la cláusula de rescate automático prevista en el Capítulo II del Título V de las NORMAS CNV deberán aplicar las siguientes reglas: (i) no se cobrará a los CUOTAPARTISTAS durante un plazo de CINCO (5) días hábiles desde la publicación del nuevo texto del reglamento de gestión, la comisión de rescate que pudiere corresponder; y (ii) las modificaciones no serán aplicadas hasta transcurridos CINCO (5) días hábiles desde la publicación del nuevo texto del reglamento, a través del acceso Reglamento de Gestión de la AIF.
 
-Simultáneamente, la SOCIEDAD GERENTE deberá publicar el aviso pertinente por el acceso Hechos Relevantes de la AIF y, en su caso, el Agente que intervenga en la colocación de las cuotapartes deberá proceder a su remisión al domicilio postal o se dejará a disposición en el domicilio electrónico del cuotapartista.
+Simultáneamente, la SOCIEDAD GERENTE deberá publicar el aviso pertinente por el acceso Hecho Relevante FCIA de la AIF y, en su caso, el Agente que intervenga en la colocación de las cuotapartes deberá proceder a su remisión al domicilio postal o se dejará a disposición en el domicilio electrónico del cuotapartista.
 
-Adicionalmente, dicho aviso deberá estar publicado en el sitio web de la SOCIEDAD GERENTE. La reforma de otros aspectos del REGLAMENTO estará sujeta a las formalidades establecidas en el artículo 11 de la Ley de Fondos Comunes de Inversión, siendo oponible a terceros a los CINCO (5) días hábiles de la publicación del texto de la adenda, a través del acceso Reglamento de Gestión de la AIF, y del aviso correspondiente por el acceso Hechos Relevantes.
+Adicionalmente, dicho aviso deberá estar publicado en el sitio web de la SOCIEDAD GERENTE.
+
+La reforma de otros aspectos del REGLAMENTO estará sujeta a las formalidades establecidas en el artículo 11 de la Ley de Fondos Comunes de Inversión, siendo oponible a terceros a los DOS (2) días hábiles de la publicación del nuevo texto del reglamento, a través del acceso Reglamento de Gestión de la AIF, y del aviso correspondiente por el acceso Hechos Relevantes.
 
 NUEVAS DISPOSICIONES LEGALES O REGLAMENTARIAS. En el supuesto que se dicten disposiciones legales o reglamentarias de aplicación obligatoria contrarias a ciertas disposiciones del reglamento de gestión vigentes a ese momento, los órganos de los FCI deberán adecuar su texto a las nuevas disposiciones dentro de los TREINTA (30) días corridos desde su entrada en vigencia.
 
@@ -569,13 +573,13 @@ CAPÍTULO 2: “EL FCI”.
 
 2.4. …............
 
-3. MERCADOS EN LOS QUE SE REALIZARÁN INVERSIONES: adicionalmente a los Mercados locales autorizados por la CNV, las inversiones por cuenta del FCI se realizarán, según lo determine la GERENTE, en los siguientes Mercados del exterior: …............................ .
+3. MERCADOS EN LOS QUE SE REALIZARÁN INVERSIONES: adicionalmente a los Mercados locales autorizados por la CNV, las inversiones por cuenta del FCI se realizarán, según lo determine la GERENTE, en los siguientes Mercados del exterior: ….............................
 
 4. MONEDA DEL FCI: es el…..............., o la moneda de curso legal que en el futuro lo reemplace.
 
 CAPÍTULO 3: “LOS CUOTAPARTISTAS”.
 
-1. MECANISMOS ALTERNATIVOS DE SUSCRIPCIÓN: …................ .
+1. MECANISMOS ALTERNATIVOS DE SUSCRIPCIÓN: ….................
 
 2. PLAZO DE PAGO DE LOS RESCATES: el plazo máximo de pago de los rescates es de….... .
 
@@ -611,7 +615,7 @@ CAPÍTULO 7: “HONORARIOS Y GASTOS A CARGO DEL FONDO. COMISIONES DE SUSCRIPCIÓ
 
 8. COMISIÓN DE COMERCIALIZACION: ….........................
 
-9. COMISIÓN DE TRANSFERENCIA: la comisión de transferencia será equivalente a la comisión de rescate que hubiere correspondido aplicar según lo previsto en la Sección 6 precedente.
+9. COMISIÓN DE TRANSFERENCIA: la comisión de transferencia será equivalente a la comisión de rescate que hubiere correspondido aplicar según lo previsto en la Sección 7 precedente.
 
 CAPÍTULO 8: “LIQUIDACIÓN, FUSIÓN Y CANCELACIÓN DE FONDOS COMUNES DE INVERSIÓN”.
 
@@ -624,6 +628,8 @@ CAPÍTULO 9: “PUBLICIDAD Y ESTADOS CONTABLES”.
 CAPÍTULO 10: “SOLUCIÓN DE DIVERGENCIAS”.
 
 CAPÍTULO 11: “CUESTIONES ADICIONALES RELACIONADAS CON CUESTIONES NO CONTEMPLADAS EN LOS CAPÍTULOS ANTERIORES”.
+
+[Anexo sustituido por art. 5° de la RG 1163/2026, BO 20/08/2026, vigente desde 23/10/2026]
 
 ### ANEXO III - MODELO FICHA UNICA FCI ABIERTOS CONFORME ARTICULO 31 BIS DE LA SECCION VII DEL CAPITULO I DEL TITULO V FONDOS COMUNES DE DINERO
 

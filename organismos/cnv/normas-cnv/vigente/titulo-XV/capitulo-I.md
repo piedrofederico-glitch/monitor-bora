@@ -591,7 +591,7 @@ C) AGENTES DE CALIFICACIÓN DE RIESGOS UNIVERSIDADES PÚBLICAS (ACR UP):
 
 D) SOCIEDADES GERENTES DE FONDOS COMUNES DE INVERSIÓN:
 
-1) ECF_011 – Estados Contables – SG – SD – Colocadores FCI – Fiduciarios. En el caso que la sociedad revista el carácter de emisora y/u otro agente registrado se entenderá cumplimentado con la presentación de los formularios correspondientes.
+1) ECF_011 – Estados Contables – SG – SD – Colocadores FCI – Fiduciarios. En el caso que la sociedad revista el carácter de Emisora y/u otro Agente Registrado se entenderá cumplimentado con la presentación de los formularios correspondientes.
 
 2) SGD_019 – Suscripción y rescisión de convenios con intermediarios y/o entidades radicadas en el exterior.
 
@@ -621,7 +621,7 @@ D) SOCIEDADES GERENTES DE FONDOS COMUNES DE INVERSIÓN:
 
 15) MUG_002 –Datos básicos del administrado.
 
-16) MUG_003 – DDJJ jurada AIF.
+16) MUG_003 – DDJJ AIF.
 
 17) MUG_004 – Domicilio electrónico.
 
@@ -657,27 +657,31 @@ D) SOCIEDADES GERENTES DE FONDOS COMUNES DE INVERSIÓN:
 
 33) SGD_016 – Sistema remisión datos – Descripción de software y hardware.
 
-34) FCI_026 - Convocatoria a Asambleas FCI
+34) FCI_026 - Convocatoria a Asambleas FCI.
 
-35) FCI_027 - Acta de Asambleas FCI
+35) FCI_027 - Acta de Asambleas FCI.
 
-36) FCI_028 - Hecho Relevante FCIC
+36) FCI_028 - Hecho Relevante FCIC.
 
-37) FCI_033 - Reglamento de Gestión / Adenda / Texto Ordenado
+37) FCI_033 - Reglamento de Gestión.
 
-38) 917_FCI - DDJJ DR-917 - FCI
+38) 917_FCI - DDJJ DR-917 – FCI.
 
-39) FCI_034 - Procedimiento de Asambleas a Distancia FCIC
+39) FCI_034 - Procedimiento de Asambleas a Distancia FCIC.
 
-40) FCI_038 - Procedimiento de Consulta a Cuotapartistas
+40) FCI_038 - Procedimiento de Consulta a Cuotapartistas.
 
-41) FCI_039 - Informes FCIC
+41) FCI_039 - Informes FCIC.
+
+42) GRC_001 – Sede social inscripta.
+
+43) REG_001 – Certificación Contable - Requisito Patrimonial.
 
 E) SOCIEDADES DEPOSITARIAS DE FONDOS COMUNES DE INVERSIÓN:
 
-1) ECF_11 – Estados contables – SG – SD – Colocadores FCI – Fiduciarios.
+1) ECF_011 – Estados contables – SG – SD – Colocadores FCI – Fiduciarios.
 
-En el caso que la sociedad revista el carácter de emisora y/u otro agente registrado se entenderá cumplimentado con la presentación de los formularios correspondientes.
+En el caso que la sociedad revista el carácter de Emisora y/u otro Agente Registrado se entenderá cumplimentado con la presentación de los formularios correspondientes.
 
 2) AGE_001 – Ficha – Agentes y sociedades PIC.
 
@@ -718,6 +722,10 @@ En el caso que la sociedad revista el carácter de emisora y/u otro agente regis
 20) SGD_006 – Datos de colocación de cuotapartes.
 
 21) SGD_018 – Normas de procedimiento para funciones en operatoria de FCI.
+
+22) GRC_001 – Sede social inscripta.
+
+23) REG_001 – Certificación Contable - Requisito Patrimonial.
 
 F) AGENTES DE ADMINISTRACIÓN DE PRODUCTOS DE INVERSIÓN COLECTIVA- FIDUCIARIOS FINANCIEROS EN LOS TÉRMINOS DEL ARTÍCULO 1690 DEL CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN:
 
@@ -1613,7 +1621,7 @@ P) AGENTES DE COLOCACIÓN Y DISTRIBUCIÓN INTEGRAL DE FONDOS COMUNES DE INVERSI�
 
 1) ECF_011 – Estados contables – SG – SD – Colocadores FCI – Fiduciarios.
 
-En el caso que la sociedad revista el carácter de emisora y/u otro agente registrado se entenderá cumplimentado con la presentación de los formularios correspondientes.
+En el caso que la Sociedad revista el carácter de Emisora y/u otro Agente Registrado se entenderá cumplimentado con la presentación de los formularios correspondientes.
 
 2) AGE_001 – Ficha – Agentes y sociedades PIC.
 
@@ -1653,11 +1661,15 @@ En el caso que la sociedad revista el carácter de emisora y/u otro agente regis
 
 20) SGD_010 – Suscripción y rescisión de convenios de colocación.
 
+21) GRC_001 – Sede social inscripta.
+
+22) REG_001– Certificación Contable - Requisito Patrimonial.
+
 Q) AGENTES DE COLOCACIÓN Y DISTRIBUCIÓN DE FONDOS COMUNES DE INVERSIÓN:
 
 1) ECF_011 – Estados contables – SG – SD – colocadores FCI – fiduciarios.
 
-En el caso que la sociedad revista el carácter de emisora y/u otro agente registrado se entenderá cumplimentado con la presentación de los formularios correspondientes.
+En el caso que la Sociedad revista el carácter de Emisora y/u otro Agente Registrado se entenderá cumplimentado con la presentación de los formularios correspondientes.
 
 2) AGE_001 – Ficha – Agentes y sociedades PIC.
 
@@ -1694,6 +1706,10 @@ En el caso que la sociedad revista el carácter de emisora y/u otro agente regis
 18) SGD_006 – Datos de colocación de cuotapartes.
 
 19) SGD_010 – Suscripción y rescisión de convenios de colocación.
+
+20) GRC_001 – Sede social inscripta.
+
+21) REG_001 – Certificación Contable - Requisito Patrimonial”.
 
 R) ENTIDADES DE GARANTÍA:
 
@@ -1789,6 +1805,8 @@ T) SUJETOS OBLIGADOS PLA/FT/FP.
 [Inciso T) incorporado por art. 4° de la RG 1139/2026, BO 14/05/2026]
 
 [Subinciso 40) del inciso K) incorporado por art. 1° de la RG 1152/2026, BO 18/06/2026, vigente desde 18/06/2026]
+
+[Apartados D), E), P) y Q) sustituidos por art. 7° de la RG 1163/2026, BO 20/08/2026, vigente desde 23/10/2026]
 
 [Subincisos 27 a 30 del inc. A.1), 53 a 55 del inc. G), 41 a 43 del inc. K) y 48 a 50 del inc. L) incorporados por art. 9° de la RG 1169/2026, BO 23/09/2026]
 
