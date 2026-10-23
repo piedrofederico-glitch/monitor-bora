@@ -940,10 +940,11 @@ def reemplazo_global(pares, n, art_rg, descripcion):
             os.makedirs(os.path.dirname(hp), exist_ok=True)
             if not os.path.exists(hp):
                 open(hp, 'w').write(f'# Historial — {c.head[0][2:]}\n\nRedacciones sustituidas o derogadas desde la base (PDF CNV actualizado a la RG 1094/2025). La más reciente va al final.\n')
+            sin_b = [(x.replace('\\b', ''), y) for x, y in pares]  # sin barras en el f-string (Python 3.11)
             open(hp, 'a').write(f"\n## Reemplazo de expresiones ({descripcion})\n- Vigente hasta: {fstr(vigencia_rg(n) - dt.timedelta(days=1))}\n"
                                 f"- Reemplazado por: {rg_id(n)}, art. {ordinal(art_rg)}\n- Ocurrencias reemplazadas en este archivo: {cnt}\n"
                                 f"- Ubicaciones: {', '.join(afect)}\n- Texto anterior: idéntico al vigente salvo las expresiones reemplazadas"
-                                f" ({'; '.join(f'«{a}» → «{b}»' for a, b in [(x.replace('\\b', ''), y) for x, y in pares])}).\n")
+                                f" ({'; '.join(f'«{a}» → «{b}»' for a, b in sin_b)}).\n")
             c.pars.insert(0, nota(f'Expresiones reemplazadas en este archivo ({descripcion}; {cnt} ocurrencias)', n, art_rg))
             c.guardar(n)
             registrar(rel(c), ubic(c, f'{descripcion}: {", ".join(afect)}'), 'modifica parcialmente', n, art_rg)

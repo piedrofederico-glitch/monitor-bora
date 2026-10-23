@@ -26,7 +26,8 @@ def ficha(n, resumen, notas=(), vigencia=None, vigencia_txt=None, filas_extra=()
     mods = [e for e in (json.load(open(N.MODS)) if os.path.exists(N.MODS) else []) if e['n'] == n]
     filas = [f"| {ubic_corta(e)} | {e['op']} | {e['art']} |" for e in mods] + list(filas_extra)
     firm = re.sub(r'\s*NOTA:.*$', '', m.get('firmantes') or '').strip()
-    L = [f"# {N.rg_id(n)} — {m['titulo_cnv'].strip('“”\"')}", '',
+    titulo = m['titulo_cnv'].strip('“”"')
+    L = [f"# {N.rg_id(n)} — {titulo}", '',
          f"- **Número:** Resolución General {n}/{m['anio']}",
          f"- **Código GDE:** {m['gde']}",
          ]
