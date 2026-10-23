@@ -1,0 +1,99 @@
+{
+  "fecha": "20261023",
+  "fuente": "pdf-arsat",
+  "total_avisos": 56,
+  "organismos": {
+    "cnv": [],
+    "atep": [],
+    "bcra": [],
+    "aaip": []
+  },
+  "temas_candidatos": [
+    {
+      "id": "7820499",
+      "organismo": "PODER EJECUTIVO",
+      "titulo": "Decreto 1253/2026",
+      "codigo": "DECTO-2026-1253-APN-PTE - Reglamentación de la Ley N° 27.799. Modificación.",
+      "firmantes": "MILEI - Diego César Santilli - Luis Andres Caputo",
+      "url": "https://www.boletinoficial.gob.ar/seccion/primera/20261023",
+      "archivo": "temas/textos/20261023_7820499_decreto-1253-2026.md",
+      "temas": {
+        "reglamentacion_de_leyes": [
+          {
+            "patron": "dispositivo:reglamentacion (de la ley|del articulo|de los articulos|del capitulo|del titulo)",
+            "fragmento": " articulo 1°.- sustituyese la reglamentacion del capitulo iii del titulo ii de la ley n° 27.799 y su modificatoria, aprobada por el articulo 1° del decreto n° 93 del 8 de febrero de 2026, por la que como anexo (if-202"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7818974",
+      "organismo": "MINISTERIO DE ECONOMÍA - SECRETARÍA DE ENERGÍA",
+      "titulo": "Resolución 297/2026",
+      "codigo": "RESOL-2026-297-APN-SE#MEC",
+      "firmantes": "María Carmen Tettamanti",
+      "url": "https://www.boletinoficial.gob.ar/seccion/primera/20261023",
+      "archivo": "temas/textos/20261023_7818974_resolucion-297-2026.md",
+      "temas": {
+        "privatizaciones": [
+          {
+            "patron": "participacion estatal mayoritaria",
+            "fragmento": "omplementarias. por ello, la secretaria de energia resuelve: articulo 1°. - autorizase el ingreso de la firma compania entrerriana de gas sociedad anonima con participacion estatal mayoritaria (cia. entrerriana de gas s.a.p.e.m.) en calidad de participante comercializador del mercado electrico mayorista (mem), ajustandose al cumplimiento de la normat"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7820124",
+      "organismo": "AGENCIA NACIONAL DE SEGURIDAD VIAL",
+      "titulo": "Disposición 351/2026",
+      "codigo": "DI-2026-351-APN-ANSV#MEC",
+      "firmantes": "Francisco Diaz Vega",
+      "url": "https://www.boletinoficial.gob.ar/seccion/primera/20261023",
+      "archivo": "temas/textos/20261023_7820124_disposicion-351-2026.md",
+      "temas": {
+        "datos_personales": [
+          {
+            "patron": "25\\.?326",
+            "fragmento": " corresponda abonar en concepto de infracciones firmes informadas en dicha boleta. que la presente modificacion cumple con los resguardos previstos en la ley n°25.326. que, en tal sentido, resulta conveniente a los efectos de instrumentar la medida propiciada aprobar el modelo de boleta desdoblado e incorporarla como anexo i"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7818753",
+      "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - DEPARTAMENTO PROCEDIMIENTOS LEGALES ADUANEROS - DIVISION SECRETARIA N° 2",
+      "titulo": "LEY 22.415 -arts. 1013 inciso i) y 1101EDICTO",
+      "codigo": "",
+      "firmantes": "Marisa Carla Dardik, Analista, División Secretaría N° 2.",
+      "url": "https://www.boletinoficial.gob.ar/seccion/primera/20261023",
+      "archivo": "temas/textos/20261023_7818753_ley-22-415-arts-1013-inciso-i-y-1101edicto.md",
+      "temas": {
+        "leyes_generales": [
+          {
+            "patron": "titulo:^ley \\d",
+            "fragmento": "ley 22.415 -arts. 1013 inciso i) y 1101edicto"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7818923",
+      "organismo": "INSTITUTO NACIONAL DE ASOCIATIVISMO Y ECONOMÍA SOCIAL",
+      "titulo": "EL INSTITUTO NACIONAL de ASOCIATIVISMO y ECONOMIA SOCIAL con domicilio legal en Av. Belgrano 1656",
+      "codigo": "",
+      "firmantes": "Nicolas Alves, Asistente Administrativo, Despacho.",
+      "url": "https://www.boletinoficial.gob.ar/seccion/primera/20261023",
+      "archivo": "temas/textos/20261023_7818923_el-instituto-nacional-de-asociativismo-y-economia-social-con.md",
+      "temas": {
+        "rigi": [
+          {
+            "patron": "dispositivo:27\\.?742",
+            "fragmento": ". 2017 modificado por dto. 695/24): treinta (30) dias habiles administrativos, o la accion judicial pertinente (art. 25.o ley n.o 19.549 modificada por ley n.o 27.742) queda usted debidamente notificado. nicolas alves, asistente administrativo, despacho. e. 23/10/2026 n° 78661/26 v. 27/10/2026"
+          }
+        ]
+      }
+    }
+  ],
+  "nota": "Descargado del PDF del día de ARSAT: sin anexos publicados solo en la web."
+}
